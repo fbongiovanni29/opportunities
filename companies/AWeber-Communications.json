@@ -1,36 +1,107 @@
 {
   "company": "AWeber Communications",
+  "type": ["consultancy"],
   "url": "http://www.aweber.jobs/",
   "webSiteUrl": "http://www.aweber.com/",
-  "address": "1100 Manor Drive, Chalfont PA, 18914",
-  "geo": {
-    "latitude": 40.268983,
-    "longitude": -75.222586
-  },
+  "technologies": [
+    "php", "Python", "Perl", "MongoDB", "PostgreSQL"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1100 Manor Drive, Chalfont PA, 18914",
+      "geo": {
+        "latitude": 40.268983,
+        "longitude": -75.222586
+      },
   "positions": [
     {
-      "title": "Front End Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Solutions Specialist",
+      "alternateName": "Business Development",
+      "url": "http://www.aweber.jobs/apply/M3bv04/Customer-Solutions-Specialist-Best-Places-To-Work-Winner",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "QA Automation Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.aweber.jobs/apply/Vhc2o6/UI-Designer-Best-Places-To-Work-Winner",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Operations Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.aweber.jobs/apply/d1Rrf6/Senior-Software-Engineer-Best-Places-To-Work-Winner",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.aweber.jobs/apply/AgXsxX/Software-Engineer-Best-Places-To-Work-Winner",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Operations Team Lead",
+      "alternateName": "DevOps",
+      "url": "http://www.aweber.jobs/apply/h64Ga2/Technical-Operations-Team-Lead-Best-Places-To-Work-Winner",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Team Lead - Platform Services Engineering"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Development Team Lead",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.aweber.jobs/apply/rXOC4c/Web-Development-Team-Lead-Best-Places-To-Work-Winner",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Team Lead - Web Experience"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Co-Op/Intern: Marketing",
+      "alternateName": "Intern",
+      "url": "http://www.aweber.jobs/apply/YyaPDO/CoOpIntern-Marketing",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Technical Project Manager"
-    }
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Co-Op/Intern: Mobile Software Engineer",
+      "alternateName": "Intern",
+      "url": "http://www.aweber.jobs/apply/LTO0K4/CoOpIntern-Mobile-Software-Engineer",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
   ]
 }

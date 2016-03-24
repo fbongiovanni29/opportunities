@@ -1,15 +1,52 @@
 {
   "company": "AppNexus Inc",
+  "type": ["product", "consultancy"],
   "url": "http://www.appnexus.com/en/company/careers/open-roles",
   "webSiteUrl": "http://www.appnexus.com/",
-  "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.09644,
-    "longitude": -75.29872
+  "technologies": ["Python"],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.09644,
+        "longitude": -75.29872
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer, Front End",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=AK569015211&rpid=14477&ref=",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Manager, Publisher Technology Group",
+      "alternateName": "Business Development",
+      "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=CH9434061120&rpid=13746&ref=",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Support Specialist",
+      "alternateName": "Developer, Product Support",
+      "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=appnexus43699&rpid=13293&ref=",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

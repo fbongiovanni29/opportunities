@@ -1,27 +1,76 @@
 {
   "company": "50onRed",
+  "type": ["product"],
   "url": "http://50onred.theresumator.com/?utm_source=github",
   "webSiteUrl": "http://50onred.com/",
-  "address": "2929 Arch St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.956848137931,
-    "longitude": -75.18091562069
+  "technologies": [
+    "Python", "Java", "AWS"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "2929 Arch St, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.956848137931,
+        "longitude": -75.18091562069
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "http://50onred.theresumator.com/apply/UnLNnf/Data-Scientist",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "http://50onred.theresumator.com/apply/Q1paDp/Senior-Data-Analyst",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Media Buyer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://50onred.theresumator.com/apply/cFMeje/Senior-Software-Engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "UX Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Agile Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://50onred.theresumator.com/apply/wTCBIf/Agile-Project-Manager",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Sales Executive"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Product Manager",
+      "alternateName": "Project Manager",
+      "url": "http://50onred.theresumator.com/apply/dHHHrO/Senior-Product-Manager",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

@@ -1,30 +1,85 @@
 {
   "company": "Arc Intermedia",
+  "type": ["agency"],
   "url": "http://www.arcintermedia.com/company/careers/",
   "webSiteUrl": "http://www.arcintermedia.com/",
-  "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
-  "geo": {
-    "latitude": 40.0950185455,
-    "longitude": -75.4155636667
+  "technologies": [".NET", "Umbraco"],
+  "locations": {
+    "kingofprussia": {
+      "@type": "Place",
+      "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
+      "geo": {
+        "latitude": 40.0950185455,
+        "longitude": -75.4155636667
+      }
+    }
   },
   "positions": [
     {
-      "title": "Entry/Mid-Level Inbound Marketing Manager Position"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Entry/Mid-Level Inbound Marketing Manager Position",
+      "alternateName": "Marketing",
+      "url": "http://www.arcintermedia.com/company/careers/entrymid-level-inbound-marketing-manager-position/",
+      "jobLocation": "kingofprussia",
+      "remote": true,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Junior Front-end Web Developer/Web Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Front-end Web Developer/Web Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.arcintermedia.com/company/careers/entry-level-htmlweb-designer/",
+      "jobLocation": "kingofprussia",
+      "remote": true,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Level SEO Position"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Level SEO Position",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://www.arcintermedia.com/company/careers/senior-level-seo-position/",
+      "jobLocation": "kingofprussia",
+      "remote": true,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Entry-Mid Level SEO Position"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Entry-Mid Level SEO Position",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://www.arcintermedia.com/company/careers/entry-mid-level-seo-position/",
+      "jobLocation": "kingofprussia",
+      "remote": true,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Part-time Experienced SEO Professional"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Part-time Experienced SEO Professional",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://www.arcintermedia.com/company/careers/part-time-experienced-seo-professional/",
+      "jobLocation": "kingofprussia",
+      "remote": true,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Umbraco ASP.NET Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Umbraco ASP.NET Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.arcintermedia.com/company/careers/asp-net-developer/",
+      "jobLocation": "kingofprussia",
+      "remote": true,
+      "datePosted": "2016-03-13"
     }
   ]
 }

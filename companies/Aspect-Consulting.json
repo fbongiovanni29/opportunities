@@ -1,18 +1,18 @@
 {
   "company": "Aspect Consulting",
+  "type": ["staffing"],
   "url": "http://www.aspect-consulting.com/careers.aspx",
   "webSiteUrl": "http://www.aspect-consulting.com/",
-  "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
-  "geo": {
-    "latitude": 40.105065,
-    "longitude": -75.412618
-  },
-  "positions": [
-    {
-      "title": "Programmer Analyst/.NET Developer"
-    },
-    {
-      "title": "System Administrator, SME"
+  "technologies": [],
+  "locations": {
+    "kingofprussia": {
+      "@type": "Place",
+      "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
+      "geo": {
+        "latitude": 40.105065,
+        "longitude": -75.412618
+      }
     }
-  ]
+  },
+  "positions": []
 }

@@ -1,42 +1,77 @@
 {
   "company": "160over90",
+  "type": ["agency"],
   "url": "http://www.160over90.com/careers/",
   "webSiteUrl": "http://www.160over90.com/",
-  "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.951741,
-    "longitude": -75.163514
+  "technologies": [
+    "php", "MySQL", "Drupal", "JQuery"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
+      "geo": {
+        "latitude": 39.951741,
+        "longitude": -75.163514
+      },
+      "telephone": "215-732-3200"
+    }
   },
   "positions": [
     {
-      "title": "Group Account Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Drupal Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://160over90.com/career/drupal-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Account Supervisor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Information Architect",
+      "alternateName": "Designer, Information Architect",
+      "url": "http://160over90.com/career/information-architect/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Account Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Motion Graphics Designer",
+      "alternateName": "Designer, Motion Graphics",
+      "url": "http://160over90.com/career/motion-graphics-designer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Motion Graphics Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "http://160over90.com/career/senior-copywriter/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Video Editor"
-    },
-    {
-      "title": "Production Artist"
-    },
-    {
-      "title": "Production Manager"
-    },
-    {
-      "title": "Creative Director"
-    },
-    {
-      "title": "Senior Copywriter"
-    },
-    {
-      "title": "Drupal Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "Designer, Visual",
+      "url": "",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

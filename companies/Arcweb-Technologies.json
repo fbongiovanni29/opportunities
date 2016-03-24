@@ -1,30 +1,65 @@
 {
   "company": "Arcweb Technologies",
+  "type": ["consultancy"],
   "url": "https://arcweb.co/careers/",
   "webSiteUrl": "https://arcweb.co/",
-  "address": "234 Market Street, 5th Floor, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.9499438006,
-    "longitude": -75.1449411502
+  "technologies": [
+    "Android", "Objective-C", "C#", "Java", "C++", "C", "Ruby", "Python", "PHP"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "234 Market Street, 5th Floor, Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.9499438006,
+        "longitude": -75.1449411502
+      }
+    }
   },
   "positions": [
     {
-      "title": "Android Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Android Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "http://arcweb.applytojob.com/apply/gryl5z/Senior-Android-Developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Business Operations Intern"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Business Development Associate",
+      "alternateName": "Business Development",
+      "url": "http://arcweb.applytojob.com/apply/5sqzqF/Senior-Business-Development-Associate",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Java Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Architect",
+      "alternateName": "Developer, Backend",
+      "url": "http://arcweb.applytojob.com/apply/LSNbFt/Software-Architect",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Software Engineer"
-    },
-    {
-      "title": "Software Architect"
-    },
-    {
-      "title": "Software Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://arcweb.applytojob.com/apply/cY9DSu/Senior-Software-Engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
