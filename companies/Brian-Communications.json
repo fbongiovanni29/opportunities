@@ -1,42 +1,107 @@
 {
   "company": "Brian Communications",
+  "type": ["agency"],
   "url": "http://www.briancom.com/careers",
   "webSiteUrl": "http://www.briancom.com/",
-  "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.066641,
-    "longitude": -75.306219
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.066641,
+        "longitude": -75.306219
+      }
+    }
   },
   "positions": [
     {
-      "title": "Digital Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Frontend Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/90622383-frontend-developer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Frontend Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Assistant Account Executive",
+      "alternateName": "Business Development",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/90588007-assistant-account-executive",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Director of Web Development"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Summer 2016 Intern- Strategy and Business Development",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88966014-summer-2016-intern-strategy-and-business-development",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Summer 2016 Intern- Strategy and Business Development"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Summer 2016 Creative Intern",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88965996-summer-2016-creative-intern",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Summer 2016 Creative Intern"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Summer 2016 Intern- Project Management",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88965943-summer-2016-intern-project-management",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Summer 2016 Intern- Project Management"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Summer 2016 Intern- Integrated Marketing",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88965904-summer-2016-intern-integrated-marketing",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Summer 2016 Intern- Integrated Marketing"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Summer 2016 Public Relations Intern",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88965870-summer-2016-public-relations-intern",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Summer 2016 Intern- Analytics"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "Designer, Visual",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88497763-creative-director",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
-    {
-      "title": "Summer 2016 Public Relations Intern"
-    },
-    {
-      "title": "Creative Director"
-    }
   ]
 }

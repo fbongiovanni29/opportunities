@@ -1,15 +1,63 @@
 {
   "company": "Brownstein Group",
+  "type": ["agency"],
   "url": "http://www.brownsteingroup.com/careers/",
   "webSiteUrl": "http://www.brownsteingroup.com/",
-  "address": "215 South Broad Street, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.9485219589,
-    "longitude": -75.1646539375
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "215 South Broad Street, Philadelphia, PA 19107",
+      "geo": {
+        "latitude": 39.9485219589,
+        "longitude": -75.1646539375
+      }
+    }
   },
   "positions": [
     {
-      "title": "Production Artist"
-    }
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Client Services",
+      "alternateName": "Business Development",
+      "url": "http://www.brownsteingroup.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Planner",
+      "alternateName": "Business Development",
+      "url": "http://www.brownsteingroup.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Videographer/Editor",
+      "alternateName": "Videographer",
+      "url": "http://www.brownsteingroup.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Human Resources Manager",
+      "alternateName": "HR",
+      "url": "http://www.brownsteingroup.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
   ]
 }

@@ -1,11 +1,27 @@
 {
   "company": "Biomeme, Inc.",
+  "type": ["Product", "Startup"],
   "url": "http://www.biomeme.com/careers",
   "webSiteUrl": "http://www.biomeme.com/",
+  "technologies": ["C", "C++"],
   "address": "20 N 3rd St., Philadelphia, PA 19106",
   "geo": {
     "latitude": 39.950812,
     "longitude": -75.145607
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR ELECTRICAL ENGINEER",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.biomeme.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ]
 }

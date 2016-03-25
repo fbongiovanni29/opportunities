@@ -1,15 +1,30 @@
 {
   "company": "Brio Solutions",
+  "type": ["consultancy"],
   "url": "http://www.briosolutions.com/About/Careers.aspx",
   "webSiteUrl": "http://www.briosolutions.com/",
-  "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
-  "geo": {
-    "latitude": 40.135976,
-    "longitude": -75.20793
+  "technologies": [".NET"],
+  "locations": {
+    "fortwashington": {
+      "@type": "Place",
+      "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+      "geo": {
+        "latitude": 40.135976,
+        "longitude": -75.20793
+      }
+    }
   },
   "positions": [
     {
-      "title": ".NET Software Developers (All Levels)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": ".NET SOFTWARE DEVELOPERS",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.briosolutions.com/About/Careers.aspx",
+      "jobLocation": "fortwashington",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
