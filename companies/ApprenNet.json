@@ -1,6 +1,8 @@
 {
   "company": "ApprenNet",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://info.apprennet.com/jobs/",
   "webSiteUrl": "http://info.apprennet.com/",
   "technologies": [],

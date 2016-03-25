@@ -1,6 +1,8 @@
 {
   "company": "AgileTrailblazers",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.agiletrailblazers.com/careers/",
   "webSiteUrl": "http://www.agiletrailblazers.com/",
   "technologies": [],

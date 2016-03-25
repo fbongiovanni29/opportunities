@@ -1,7 +1,32 @@
 {
   "company": "RJMetrics",
+  "type": [
+    "product"
+  ],
   "url": "https://rjmetrics.com/jobs/",
   "webSiteUrl": "https://rjmetrics.com/",
+  "technologies": [
+    "angularjs",
+    "apache",
+    "chef",
+    "clojure",
+    "coffeescript",
+    "git",
+    "hadoop",
+    "java",
+    "javascript",
+    "jenkins",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "php",
+    "python",
+    "r",
+    "redis",
+    "ruby",
+    "sql",
+    "virtualbox"
+  ],
   "address": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
   "geo": {
     "latitude": 39.9507376667,
@@ -9,16 +34,16 @@
   },
   "positions": [
     {
-      "title": "Data Analyst"
+      "title": "Data Scientist"
     },
     {
       "title": "Data Warehouse Analyst"
     },
     {
-      "title": "Security Engineer"
+      "title": "Front End Engineer"
     },
     {
-      "title": "Senior Web Applications Engineer"
+      "title": "Software Engineer"
     }
   ]
 }

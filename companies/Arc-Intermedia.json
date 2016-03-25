@@ -1,9 +1,14 @@
 {
   "company": "Arc Intermedia",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.arcintermedia.com/company/careers/",
   "webSiteUrl": "http://www.arcintermedia.com/",
-  "technologies": [".NET", "Umbraco"],
+  "technologies": [
+    ".NET",
+    "Umbraco"
+  ],
   "locations": {
     "kingofprussia": {
       "@type": "Place",

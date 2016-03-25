@@ -1,6 +1,8 @@
 {
   "company": "Aspect Consulting",
-  "type": ["staffing"],
+  "type": [
+    "staffing"
+  ],
   "url": "http://www.aspect-consulting.com/careers.aspx",
   "webSiteUrl": "http://www.aspect-consulting.com/",
   "technologies": [],

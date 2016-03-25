@@ -1,413 +1,1106 @@
 [
   {
     "company": "1 Trick Pony",
+    "type": [
+      "agency"
+    ],
     "url": "http://1trickpony.com/jobs/",
     "webSiteUrl": "http://1trickpony.com/",
-    "address": "251 Bellevue Ave, Hammonton, NJ 08037",
-    "geo": {
-      "latitude": 39.6371142269,
-      "longitude": -74.8023355257
+    "technologies": [
+      "Wordpress",
+      "Drupal",
+      "Expression Engine",
+      "JQuery",
+      "TweenMax",
+      "velocity.js"
+    ],
+    "locations": {
+      "hammonton": {
+        "@type": "Place",
+        "address": "251 Bellevue Ave, Hammonton, NJ 08037",
+        "geo": {
+          "latitude": 39.6371142269,
+          "longitude": -74.8023355257
+        },
+        "telephone": "609-704-2660"
+      }
     },
     "positions": [
       {
-        "title": "FRONT-END DEVELOPER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "FRONT-END DEVELOPER",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://1trickpony.com/jobs/",
+        "jobLocation": "hammonton",
+        "remote": false,
+        "datePosted": "2016-03-12"
       },
       {
-        "title": "SR. COPYWRITER / CONCEPT LEAD"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SR. COPYWRITER / CONCEPT LEAD",
+        "alternateName": "Content Strategy",
+        "url": "http://1trickpony.com/jobs/",
+        "jobLocation": "hammonton",
+        "remote": false,
+        "datePosted": "2016-03-12"
       }
     ]
   },
   {
     "company": "160over90",
+    "type": [
+      "agency"
+    ],
     "url": "http://www.160over90.com/careers/",
     "webSiteUrl": "http://www.160over90.com/",
-    "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
-    "geo": {
-      "latitude": 39.951741,
-      "longitude": -75.163514
+    "technologies": [
+      "php",
+      "MySQL",
+      "Drupal",
+      "JQuery"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
+        "geo": {
+          "latitude": 39.951741,
+          "longitude": -75.163514
+        },
+        "telephone": "215-732-3200"
+      }
     },
     "positions": [
       {
-        "title": "Group Account Director"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Drupal Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://160over90.com/career/drupal-developer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Account Supervisor"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Information Architect",
+        "alternateName": "Designer, Information Architect",
+        "url": "http://160over90.com/career/information-architect/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Account Director"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Motion Graphics Designer",
+        "alternateName": "Designer, Motion Graphics",
+        "url": "http://160over90.com/career/motion-graphics-designer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Motion Graphics Designer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Copywriter",
+        "alternateName": "Content Strategy",
+        "url": "http://160over90.com/career/senior-copywriter/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Video Editor"
-      },
-      {
-        "title": "Production Artist"
-      },
-      {
-        "title": "Production Manager"
-      },
-      {
-        "title": "Creative Director"
-      },
-      {
-        "title": "Senior Copywriter"
-      },
-      {
-        "title": "Drupal Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Creative Director",
+        "alternateName": "Designer, Visual",
+        "url": "",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "50onRed",
+    "type": [
+      "product"
+    ],
     "url": "http://50onred.theresumator.com/?utm_source=github",
     "webSiteUrl": "http://50onred.com/",
-    "address": "2929 Arch St, Philadelphia, PA 19104",
-    "geo": {
-      "latitude": 39.956848137931,
-      "longitude": -75.18091562069
+    "technologies": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "2929 Arch St, Philadelphia, PA 19104",
+        "geo": {
+          "latitude": 39.956848137931,
+          "longitude": -75.18091562069
+        }
+      }
     },
     "positions": [
       {
-        "title": "Data Scientist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "http://50onred.theresumator.com/apply/UnLNnf/Data-Scientist",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "http://50onred.theresumator.com/apply/Q1paDp/Senior-Data-Analyst",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Media Buyer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://50onred.theresumator.com/apply/cFMeje/Senior-Software-Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "UX Designer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Agile Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://50onred.theresumator.com/apply/wTCBIf/Agile-Project-Manager",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Sales Executive"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Product Manager",
+        "alternateName": "Project Manager",
+        "url": "http://50onred.theresumator.com/apply/dHHHrO/Senior-Product-Manager",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "AboutOne",
+    "type": [
+      "agency"
+    ],
     "url": "http://www.aboutone.com/jobs/",
     "webSiteUrl": "http://www.aboutone.com/",
-    "address": "26 Raffaela Drive, Malvern, PA 19355",
-    "geo": {
-      "latitude": 40.039942,
-      "longitude": -75.5103515
+    "technologies": [
+      "Objective-C",
+      "Cocoa Touch Experience",
+      "Core Data",
+      "Core Animation",
+      "Core Graphics",
+      "Core Text",
+      "Selenium",
+      "C#",
+      ".NET",
+      "SQL Server"
+    ],
+    "locations": {
+      "malvern": {
+        "@type": "Place",
+        "address": "26 Raffaela Drive, Malvern, PA 19355",
+        "geo": {
+          "latitude": 40.039942,
+          "longitude": -75.5103515
+        }
+      }
     },
     "positions": [
       {
-        "title": "SENIOR iOS DEVELOPER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior iOS Developer",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.aboutone.com/job-senior-ios-developer/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "QUALITY ASSURANCE ENGINEER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Quality Assurance Engineer",
+        "alternateName": "Developer, QA",
+        "url": "http://www.aboutone.com/job-quality-assurance-engineer/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "SENIOR SOFTWARE ENGINEER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.aboutone.com/job-senior-software-engineer/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "AgileTrailblazers",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.agiletrailblazers.com/careers/",
     "webSiteUrl": "http://www.agiletrailblazers.com/",
-    "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
-    "geo": {
-      "latitude": 40.092432,
-      "longitude": -75.41177
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.092432,
+          "longitude": -75.41177
+        }
+      }
     },
     "positions": []
   },
   {
     "company": "Al Día",
+    "type": [
+      "internal"
+    ],
     "url": "http://aldianews.com/pages/careers/34548",
     "webSiteUrl": "http://aldianews.com/",
-    "address": "1835 Market St, Philadelphia, PA 19103",
-    "geo": {
-      "latitude": 39.9532393469,
-      "longitude": -75.1705572449
-    },
-    "positions": []
-  },
-  {
-    "company": "Allen & Gerritsen",
-    "url": "http://www.a-g.com/careers/",
-    "webSiteUrl": "http://www.a-g.com/",
-    "address": "1619 Walnut St. Philadelphia, PA 19103",
-    "geo": {
-      "latitude": 39.9499277431,
-      "longitude": -75.1677158144
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1835 Market St, Philadelphia, PA 19103",
+        "geo": {
+          "latitude": 39.9532393469,
+          "longitude": -75.1705572449
+        }
+      }
     },
     "positions": [
       {
-        "title": "Digital Project Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Digital Editor",
+        "alternateName": "Content Strategy",
+        "url": "http://aldianews.com/pages/digital-editor/34550",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Project Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Multimedia Account Executive",
+        "alternateName": "Business Development",
+        "url": "http://aldianews.com/pages/multimedia-account-executive/34575",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Social Strategist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Content Producer",
+        "alternateName": "Content Strategy",
+        "url": "http://aldianews.com/pages/content-producer/34937",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Digital Media Supervisor"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Intern",
+        "alternateName": "Intern",
+        "url": "http://aldianews.com/pages/internships/34585",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Digital Media Planner"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Entrepreneurial Journalism Training Program",
+        "alternateName": "Intern",
+        "url": "http://aldianews.com/pages/entrepreneurial-journalism-training-program/41144",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ]
+  },
+  {
+    "company": "Allen & Gerritsen",
+    "type": [
+      "agency"
+    ],
+    "url": "http://www.a-g.com/careers/",
+    "webSiteUrl": "http://www.a-g.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1619 Walnut St. Philadelphia, PA 19103",
+        "geo": {
+          "latitude": 39.9499277431,
+          "longitude": -75.1677158144
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Associate Copywriter",
+        "alternateName": "Content Strategy",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20160318141922_KZDPMU3NZSRGZPZS",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Digital Art Director",
+        "alternateName": "Designer, Visual",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20160318152050_TJIE4IWWVPGD4R2Z",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Analyst",
+        "alternateName": "Data Scientist",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20160309144745_VCWMCBRO2WJXQ3X2",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "PR & Social Strategy Intern",
+        "alternateName": "Intern",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20160229154259_Q9H5DPWN1EOURKPY",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Creative Intern",
+        "alternateName": "Intern",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20160229164100_FBVM4AVZW39AO6YR",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Digital Media Supervisor",
+        "alternateName": "Design, Visual",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20151119215804_8FVZ96OOHMDQKTHP",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Digital Media Planner",
+        "alternateName": "",
+        "url": "http://www.a-g.com/careers/position-details?id=job_20151119215909_7HPQ7WKNW1ZDETAQ",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Alura Business Solutions",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.alura.com/about.php",
     "webSiteUrl": "http://www.alura.com/",
-    "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
-    "geo": {
-      "latitude": 40.129261,
-      "longitude": -75.297043
+    "technologies": [],
+    "locations": {
+      "plymouth": {
+        "@type": "Place",
+        "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+        "geo": {
+          "latitude": 40.129261,
+          "longitude": -75.297043
+        }
+      }
     },
     "positions": [
       {
-        "title": "Network Administrator"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Network Administrator",
+        "alternateName": "IT, Networking",
+        "url": "http://www.alura.com/job/network-administrator.php",
+        "jobLocation": "plymouth",
+        "remote": false,
+        "datePosted": "2015-03-06"
       }
     ]
   },
   {
     "company": "AppNexus Inc",
+    "type": [
+      "product",
+      "consultancy"
+    ],
     "url": "http://www.appnexus.com/en/company/careers/open-roles",
     "webSiteUrl": "http://www.appnexus.com/",
-    "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
-    "geo": {
-      "latitude": 40.09644,
-      "longitude": -75.29872
+    "technologies": [
+      "Python"
+    ],
+    "locations": {
+      "conshohocken": {
+        "@type": "Place",
+        "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
+        "geo": {
+          "latitude": 40.09644,
+          "longitude": -75.29872
+        }
+      }
     },
     "positions": [
       {
-        "title": "Senior Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer, Front End",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=AK569015211&rpid=14477&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Manager, Publisher Technology Group",
+        "alternateName": "Business Development",
+        "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=CH9434061120&rpid=13746&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Support Specialist",
+        "alternateName": "Developer, Product Support",
+        "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=appnexus43699&rpid=13293&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "ApprenNet",
+    "type": [
+      "product"
+    ],
     "url": "http://info.apprennet.com/jobs/",
     "webSiteUrl": "http://info.apprennet.com/",
-    "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
-    "geo": {
-      "latitude": 40.0839338571,
-      "longitude": -75.191686898
+    "technologies": [],
+    "locations": {
+      "wyndmoor": {
+        "@type": "Place",
+        "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
+        "geo": {
+          "latitude": 40.0839338571,
+          "longitude": -75.191686898
+        }
+      }
     },
     "positions": [
       {
-        "title": "Director of Corporate Sales"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Corporate Sales",
+        "alternateName": "Business Development",
+        "url": "http://info.apprennet.com/jobs/#op-80867-director-of-corporate-sales",
+        "jobLocation": "wyndmoor",
+        "remote": true,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Representative, Corporate",
+        "alternateName": "Business Development",
+        "url": "http://info.apprennet.com/jobs/#op-71800-account-representative-corporate",
+        "jobLocation": "wyndmoor",
+        "remote": true,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Representative, Higher Education",
+        "alternateName": "Business Development",
+        "url": "http://info.apprennet.com/jobs/#op-71799-account-representative-higher-education",
+        "jobLocation": "wyndmoor",
+        "remote": true,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Aramark",
+    "type": [
+      "consultancy"
+    ],
     "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-",
     "webSiteUrl": "http://www.aramark.com/",
-    "address": "Philadelphia",
-    "geo": {
-      "latitude": 40.07231,
-      "longitude": -75.203371
+    "technologies": [
+      ".NET",
+      "Java",
+      "PowerShell"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "990 Spring Garden Street",
+        "geo": {
+          "latitude": 40.07231,
+          "longitude": -75.203371
+        }
+      }
     },
     "positions": [
       {
-        "title": "Associate Vice President, Security & Compliance"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Solutions Director, Healthcare Technologies",
+        "alternateName": "Business Development",
+        "url": "https://uscareers-aramark.icims.com/jobs/65919/solutions-director%2c-healthcare-technologies---philadelphia-or-charlotte/job?mobile=false&width=1204&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-22"
       },
       {
-        "title": "Manager, Windows Engineering/Implementations"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IT Senior Technical Consultant - Architecture and Design",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://uscareers-aramark.icims.com/jobs/65379/it-senior-technical-consultant---architecture-and-design---corporate/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-16"
       },
       {
-        "title": "Sr. Technical Consultant/Data Architect"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Associate Technical Analyst",
+        "alternateName": "Developer, QA",
+        "url": "https://uscareers-aramark.icims.com/jobs/64243/associate-technical-analyst/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-03"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Associate Technical Analyst",
+        "alternateName": "Developer, QA",
+        "url": "https://uscareers-aramark.icims.com/jobs/63372/associate-technical-analyst/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-03"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Associate Technical Analyst",
+        "alternateName": "Developer, QA",
+        "url": "https://uscareers-aramark.icims.com/jobs/60919/associate-technical-analyst/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-03"
       }
     ]
   },
   {
     "company": "Arc Intermedia",
+    "type": [
+      "agency"
+    ],
     "url": "http://www.arcintermedia.com/company/careers/",
     "webSiteUrl": "http://www.arcintermedia.com/",
-    "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
-    "geo": {
-      "latitude": 40.0950185455,
-      "longitude": -75.4155636667
+    "technologies": [
+      ".NET",
+      "Umbraco"
+    ],
+    "locations": {
+      "kingofprussia": {
+        "@type": "Place",
+        "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.0950185455,
+          "longitude": -75.4155636667
+        }
+      }
     },
     "positions": [
       {
-        "title": "Entry/Mid-Level Inbound Marketing Manager Position"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Entry/Mid-Level Inbound Marketing Manager Position",
+        "alternateName": "Marketing",
+        "url": "http://www.arcintermedia.com/company/careers/entrymid-level-inbound-marketing-manager-position/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Junior Front-end Web Developer/Web Designer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Junior Front-end Web Developer/Web Designer",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.arcintermedia.com/company/careers/entry-level-htmlweb-designer/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Level SEO Position"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Level SEO Position",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.arcintermedia.com/company/careers/senior-level-seo-position/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Entry-Mid Level SEO Position"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Entry-Mid Level SEO Position",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.arcintermedia.com/company/careers/entry-mid-level-seo-position/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Part-time Experienced SEO Professional"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Part-time Experienced SEO Professional",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.arcintermedia.com/company/careers/part-time-experienced-seo-professional/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Umbraco ASP.NET Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Umbraco ASP.NET Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.arcintermedia.com/company/careers/asp-net-developer/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Archer Group",
+    "type": [
+      "agency"
+    ],
     "url": "http://www.archer-group.com/careers.html",
     "webSiteUrl": "http://www.archer-group.com/",
-    "address": "233 N King St, Wilmington, DE 19801",
-    "geo": {
-      "latitude": 39.739341,
-      "longitude": -75.551174
+    "technologies": [
+      ".NET",
+      "Sitecore"
+    ],
+    "locations": {
+      "wilmington": {
+        "@type": "Place",
+        "address": "233 N King St, Wilmington, DE 19801",
+        "geo": {
+          "latitude": 39.739341,
+          "longitude": -75.551174
+        }
+      }
     },
     "positions": [
       {
-        "title": "Application Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "ACCOUNT EXECUTIVE",
+        "alternateName": "Business Development",
+        "url": "http://www.archer-group.com/careers.html",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Application Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "FRONT END DEVELOPER",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.archer-group.com/careers.html",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Sitecore Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATION DEVELOPER",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.archer-group.com/careers.html",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "UX Openings"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SENIOR APPLICATION DEVELOPER",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.archer-group.com/careers.html",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Mid-Level UX Designer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SENIOR SITECORE DEVELOPER",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.archer-group.com/careers.html",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "MID-LEVEL UX DESIGNER",
+        "alternateName": "Designer, User Experience",
+        "url": "http://www.archer-group.com/careers.html",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Arcisphere Technologies",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://arcisphere.com/careers/",
     "webSiteUrl": "http://arcisphere.com/",
-    "address": "Silver Lake Executive Campus, 41 University Drive, Suite 400, Newtown, PA 18940",
-    "geo": {
-      "latitude": 40.222927,
-      "longitude": -74.905772
+    "technologies": [],
+    "locations": {
+      "newtown": {
+        "@type": "Place",
+        "address": "Silver Lake Executive Campus, 41 University Drive, Suite 400, Newtown, PA 18940",
+        "geo": {
+          "latitude": 40.222927,
+          "longitude": -74.905772
+        }
+      }
     },
     "positions": []
   },
   {
     "company": "Arcweb Technologies",
+    "type": [
+      "consultancy"
+    ],
     "url": "https://arcweb.co/careers/",
     "webSiteUrl": "https://arcweb.co/",
-    "address": "234 Market Street, 5th Floor, Philadelphia, PA 19106",
-    "geo": {
-      "latitude": 39.9499438006,
-      "longitude": -75.1449411502
-    },
-    "positions": [
-      {
-        "title": "Android Developer"
-      },
-      {
-        "title": "Business Operations Intern"
-      },
-      {
-        "title": "Java Engineer"
-      },
-      {
-        "title": "Senior Software Engineer"
-      },
-      {
-        "title": "Software Architect"
-      },
-      {
-        "title": "Software Project Manager"
+    "technologies": [
+      "Android",
+      "Objective-C",
+      "C#",
+      "Java",
+      "C++",
+      "C",
+      "Ruby",
+      "Python",
+      "PHP"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "234 Market Street, 5th Floor, Philadelphia, PA 19106",
+        "geo": {
+          "latitude": 39.9499438006,
+          "longitude": -75.1449411502
+        }
       }
-    ]
-  },
-  {
-    "company": "Arora Engineers, Inc.",
-    "url": "http://www.aroraengineers.com/careers.asp",
-    "webSiteUrl": "http://www.aroraengineers.com/",
-    "address": "1601 Walnut Street, Suite 512, Philadelphia, PA 19102",
-    "geo": {
-      "latitude": 39.950012,
-      "longitude": -75.167689
     },
     "positions": [
       {
-        "title": "Mechanical Engineers"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Android Developer",
+        "alternateName": "Developer, Mobile",
+        "url": "http://arcweb.applytojob.com/apply/gryl5z/Senior-Android-Developer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Electrical Engineers"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Business Development Associate",
+        "alternateName": "Business Development",
+        "url": "http://arcweb.applytojob.com/apply/5sqzqF/Senior-Business-Development-Associate",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Special Systems/Telecommunications Specialists"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Architect",
+        "alternateName": "Developer, Backend",
+        "url": "http://arcweb.applytojob.com/apply/LSNbFt/Software-Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Fire Protection/Life Safety Engineers"
-      },
-      {
-        "title": "Project Managers"
-      },
-      {
-        "title": "Facilities Maintenance Technicians"
-      },
-      {
-        "title": "Construction Managers"
-      },
-      {
-        "title": "CAD Designers/Operators"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://arcweb.applytojob.com/apply/cY9DSu/Senior-Software-Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Aspect Consulting",
+    "type": [
+      "staffing"
+    ],
     "url": "http://www.aspect-consulting.com/careers.aspx",
     "webSiteUrl": "http://www.aspect-consulting.com/",
-    "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
-    "geo": {
-      "latitude": 40.105065,
-      "longitude": -75.412618
-    },
-    "positions": [
-      {
-        "title": "Programmer Analyst/.NET Developer"
-      },
-      {
-        "title": "System Administrator, SME"
+    "technologies": [],
+    "locations": {
+      "kingofprussia": {
+        "@type": "Place",
+        "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.105065,
+          "longitude": -75.412618
+        }
       }
-    ]
+    },
+    "positions": []
   },
   {
     "company": "AWeber Communications",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.aweber.jobs/",
     "webSiteUrl": "http://www.aweber.com/",
-    "address": "1100 Manor Drive, Chalfont PA, 18914",
-    "geo": {
-      "latitude": 40.268983,
-      "longitude": -75.222586
+    "technologies": [
+      "php",
+      "Python",
+      "Perl",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1100 Manor Drive, Chalfont PA, 18914",
+        "geo": {
+          "latitude": 40.268983,
+          "longitude": -75.222586
+        }
+      }
     },
     "positions": [
       {
-        "title": "Front End Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Solutions Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.aweber.jobs/apply/M3bv04/Customer-Solutions-Specialist-Best-Places-To-Work-Winner",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "QA Automation Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "UI Designer",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.aweber.jobs/apply/Vhc2o6/UI-Designer-Best-Places-To-Work-Winner",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Operations Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.aweber.jobs/apply/d1Rrf6/Senior-Software-Engineer-Best-Places-To-Work-Winner",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.aweber.jobs/apply/AgXsxX/Software-Engineer-Best-Places-To-Work-Winner",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Technical Operations Team Lead",
+        "alternateName": "DevOps",
+        "url": "http://www.aweber.jobs/apply/h64Ga2/Technical-Operations-Team-Lead-Best-Places-To-Work-Winner",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Team Lead - Platform Services Engineering"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Development Team Lead",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.aweber.jobs/apply/rXOC4c/Web-Development-Team-Lead-Best-Places-To-Work-Winner",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Team Lead - Web Experience"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Co-Op/Intern: Marketing",
+        "alternateName": "Intern",
+        "url": "http://www.aweber.jobs/apply/YyaPDO/CoOpIntern-Marketing",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Technical Project Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Co-Op/Intern: Mobile Software Engineer",
+        "alternateName": "Intern",
+        "url": "http://www.aweber.jobs/apply/LTO0K4/CoOpIntern-Mobile-Software-Engineer",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
@@ -3353,8 +4046,33 @@
   },
   {
     "company": "RJMetrics",
+    "type": [
+      "product"
+    ],
     "url": "https://rjmetrics.com/jobs/",
     "webSiteUrl": "https://rjmetrics.com/",
+    "technologies": [
+      "angularjs",
+      "apache",
+      "chef",
+      "clojure",
+      "coffeescript",
+      "git",
+      "hadoop",
+      "java",
+      "javascript",
+      "jenkins",
+      "mongodb",
+      "mysql",
+      "node.js",
+      "php",
+      "python",
+      "r",
+      "redis",
+      "ruby",
+      "sql",
+      "virtualbox"
+    ],
     "address": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
     "geo": {
       "latitude": 39.9507376667,
@@ -3362,16 +4080,16 @@
     },
     "positions": [
       {
-        "title": "Data Analyst"
+        "title": "Data Scientist"
       },
       {
         "title": "Data Warehouse Analyst"
       },
       {
-        "title": "Security Engineer"
+        "title": "Front End Engineer"
       },
       {
-        "title": "Senior Web Applications Engineer"
+        "title": "Software Engineer"
       }
     ]
   },

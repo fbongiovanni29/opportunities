@@ -77,6 +77,14 @@ if (fileName && dirName) {
           if (isPointInRegion(countyLimits, company.geo)) {
             insideCounty.push(company);
           }
+        } else if ('locations' in company) {
+          for (var locationName in company.locations) {
+            var location = company.locations[locationName];
+            //console.log(location);
+            if (('geo' in location) && isPointInRegion(countyLimits, location.geo)) {
+              insideCounty.push(company);
+            }
+          }
         }
       }
 

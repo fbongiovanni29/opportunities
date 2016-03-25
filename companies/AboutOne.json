@@ -1,10 +1,21 @@
 {
   "company": "AboutOne",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.aboutone.com/jobs/",
   "webSiteUrl": "http://www.aboutone.com/",
   "technologies": [
-    "Objective-C", "Cocoa Touch Experience", "Core Data", "Core Animation", "Core Graphics", "Core Text", "Selenium", "C#", ".NET", "SQL Server"
+    "Objective-C",
+    "Cocoa Touch Experience",
+    "Core Data",
+    "Core Animation",
+    "Core Graphics",
+    "Core Text",
+    "Selenium",
+    "C#",
+    ".NET",
+    "SQL Server"
   ],
   "locations": {
     "malvern": {
@@ -49,6 +60,6 @@
       "jobLocation": "malvern",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }

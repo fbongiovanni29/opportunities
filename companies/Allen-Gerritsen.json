@@ -1,6 +1,8 @@
 {
   "company": "Allen & Gerritsen",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.a-g.com/careers/",
   "webSiteUrl": "http://www.a-g.com/",
   "technologies": [],
