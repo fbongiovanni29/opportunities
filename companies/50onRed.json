@@ -1,10 +1,14 @@
 {
   "company": "50onRed",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://50onred.theresumator.com/?utm_source=github",
   "webSiteUrl": "http://50onred.com/",
   "technologies": [
-    "Python", "Java", "AWS"
+    "Python",
+    "Java",
+    "AWS"
   ],
   "locations": {
     "philadelphia": {

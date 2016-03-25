@@ -1,6 +1,8 @@
 {
   "company": "Arcisphere Technologies",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://arcisphere.com/careers/",
   "webSiteUrl": "http://arcisphere.com/",
   "technologies": [],

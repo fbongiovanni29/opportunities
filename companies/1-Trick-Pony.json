@@ -1,10 +1,17 @@
 {
   "company": "1 Trick Pony",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://1trickpony.com/jobs/",
   "webSiteUrl": "http://1trickpony.com/",
   "technologies": [
-    "Wordpress", "Drupal", "Expression Engine", "JQuery", "TweenMax", "velocity.js"
+    "Wordpress",
+    "Drupal",
+    "Expression Engine",
+    "JQuery",
+    "TweenMax",
+    "velocity.js"
   ],
   "locations": {
     "hammonton": {

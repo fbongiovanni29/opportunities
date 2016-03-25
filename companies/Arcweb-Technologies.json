@@ -1,10 +1,20 @@
 {
   "company": "Arcweb Technologies",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://arcweb.co/careers/",
   "webSiteUrl": "https://arcweb.co/",
   "technologies": [
-    "Android", "Objective-C", "C#", "Java", "C++", "C", "Ruby", "Python", "PHP"
+    "Android",
+    "Objective-C",
+    "C#",
+    "Java",
+    "C++",
+    "C",
+    "Ruby",
+    "Python",
+    "PHP"
   ],
   "locations": {
     "philadelphia": {

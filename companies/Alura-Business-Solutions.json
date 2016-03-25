@@ -1,6 +1,8 @@
 {
   "company": "Alura Business Solutions",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.alura.com/about.php",
   "webSiteUrl": "http://www.alura.com/",
   "technologies": [],

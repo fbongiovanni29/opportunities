@@ -5,31 +5,49 @@
   ],
   "url": "http://phillydev.org/#careers",
   "webSiteUrl": "http://phillydev.org/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "_comment": "You can use MyGeoPosition.com (http://mygeoposition.com/) to determine the geolocation for the address.",
-    "@context": "http://schema.org",
-    "@type": "GeoCoordinates",
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [
+    "Slack"
+  ],
+  "locations": {
+    "_comment": "Enter your organization's location",
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "_comment": "You can use MyGeoPosition.com (http://mygeoposition.com/) to determine the geolocation for the address.",
+        "@context": "http://schema.org",
+        "@type": "GeoCoordinates",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      },
+      "telephone": ""
+    }
   },
   "positions": [
     {
       "_comment": "See https://schema.org/JobPosting for more attributes that can be used with a position.",
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "_comment-a": "For the next seven attributes, you are strongly encouraged to fill out for the job position.",
+      "employmentType": "full-time",
       "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://phillydev.org/#careers",
+      "jobLocation": "philadelphia",
+      "remote": true,
       "datePosted": "2016-01-01",
+      "_comment-b": "The remaining attributes are consider nice to have and can be included at your convenience.",
       "occupationalCategory": "15-1134.00 Web Developers",
       "responsibilities": "Design, create, and modify Web sites. Analyze user needs to implement Web site content, graphics, performance, and capacity. May integrate Web sites with other computer applications. May convert written, graphic, audio, and video components to compatible Web formats by using software designed to facilitate the creation of Web and multimedia content.",
       "skills": "HTML5, CSS3, JavaScript, Git",
       "baseSalary": {
+        "@context": "http://schema.org",
         "@type": "PriceSpecification",
         "minPrice": 40000,
         "maxPrice": 90000
       },
-      "salaryCurrency": "USD",
-      "employmentType": "Internal"
+      "salaryCurrency": "USD"
     }
   ]
 }

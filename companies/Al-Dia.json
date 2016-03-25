@@ -1,6 +1,8 @@
 {
   "company": "Al Día",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://aldianews.com/pages/careers/34548",
   "webSiteUrl": "http://aldianews.com/",
   "technologies": [],
@@ -11,7 +13,7 @@
       "geo": {
         "latitude": 39.9532393469,
         "longitude": -75.1705572449
-      },
+      }
     }
   },
   "positions": [

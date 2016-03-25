@@ -1,9 +1,14 @@
 {
   "company": "AppNexus Inc",
-  "type": ["product", "consultancy"],
+  "type": [
+    "product",
+    "consultancy"
+  ],
   "url": "http://www.appnexus.com/en/company/careers/open-roles",
   "webSiteUrl": "http://www.appnexus.com/",
-  "technologies": ["Python"],
+  "technologies": [
+    "Python"
+  ],
   "locations": {
     "conshohocken": {
       "@type": "Place",

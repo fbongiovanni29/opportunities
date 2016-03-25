@@ -1,9 +1,15 @@
 {
   "company": "Aramark",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-",
   "webSiteUrl": "http://www.aramark.com/",
-  "technologies": [".NET", "Java", "PowerShell"],
+  "technologies": [
+    ".NET",
+    "Java",
+    "PowerShell"
+  ],
   "locations": {
     "philadelphia": {
       "@type": "Place",
@@ -69,6 +75,6 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-03"
-    },
+    }
   ]
 }

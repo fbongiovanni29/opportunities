@@ -1,107 +1,276 @@
 [
   {
     "company": "AgileTrailblazers",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.agiletrailblazers.com/careers/",
     "webSiteUrl": "http://www.agiletrailblazers.com/",
-    "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
-    "geo": {
-      "latitude": 40.092432,
-      "longitude": -75.41177
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.092432,
+          "longitude": -75.41177
+        }
+      }
     },
     "positions": []
   },
   {
     "company": "Alura Business Solutions",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.alura.com/about.php",
     "webSiteUrl": "http://www.alura.com/",
-    "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
-    "geo": {
-      "latitude": 40.129261,
-      "longitude": -75.297043
+    "technologies": [],
+    "locations": {
+      "plymouth": {
+        "@type": "Place",
+        "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+        "geo": {
+          "latitude": 40.129261,
+          "longitude": -75.297043
+        }
+      }
     },
     "positions": [
       {
-        "title": "Network Administrator"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Network Administrator",
+        "alternateName": "IT, Networking",
+        "url": "http://www.alura.com/job/network-administrator.php",
+        "jobLocation": "plymouth",
+        "remote": false,
+        "datePosted": "2015-03-06"
       }
     ]
   },
   {
     "company": "AppNexus Inc",
+    "type": [
+      "product",
+      "consultancy"
+    ],
     "url": "http://www.appnexus.com/en/company/careers/open-roles",
     "webSiteUrl": "http://www.appnexus.com/",
-    "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
-    "geo": {
-      "latitude": 40.09644,
-      "longitude": -75.29872
+    "technologies": [
+      "Python"
+    ],
+    "locations": {
+      "conshohocken": {
+        "@type": "Place",
+        "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
+        "geo": {
+          "latitude": 40.09644,
+          "longitude": -75.29872
+        }
+      }
     },
     "positions": [
       {
-        "title": "Senior Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer, Front End",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=AK569015211&rpid=14477&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Manager, Publisher Technology Group",
+        "alternateName": "Business Development",
+        "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=CH9434061120&rpid=13746&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Support Specialist",
+        "alternateName": "Developer, Product Support",
+        "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=appnexus43699&rpid=13293&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "ApprenNet",
+    "type": [
+      "product"
+    ],
     "url": "http://info.apprennet.com/jobs/",
     "webSiteUrl": "http://info.apprennet.com/",
-    "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
-    "geo": {
-      "latitude": 40.0839338571,
-      "longitude": -75.191686898
+    "technologies": [],
+    "locations": {
+      "wyndmoor": {
+        "@type": "Place",
+        "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
+        "geo": {
+          "latitude": 40.0839338571,
+          "longitude": -75.191686898
+        }
+      }
     },
     "positions": [
       {
-        "title": "Director of Corporate Sales"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Corporate Sales",
+        "alternateName": "Business Development",
+        "url": "http://info.apprennet.com/jobs/#op-80867-director-of-corporate-sales",
+        "jobLocation": "wyndmoor",
+        "remote": true,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Representative, Corporate",
+        "alternateName": "Business Development",
+        "url": "http://info.apprennet.com/jobs/#op-71800-account-representative-corporate",
+        "jobLocation": "wyndmoor",
+        "remote": true,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Representative, Higher Education",
+        "alternateName": "Business Development",
+        "url": "http://info.apprennet.com/jobs/#op-71799-account-representative-higher-education",
+        "jobLocation": "wyndmoor",
+        "remote": true,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Arc Intermedia",
+    "type": [
+      "agency"
+    ],
     "url": "http://www.arcintermedia.com/company/careers/",
     "webSiteUrl": "http://www.arcintermedia.com/",
-    "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
-    "geo": {
-      "latitude": 40.0950185455,
-      "longitude": -75.4155636667
+    "technologies": [
+      ".NET",
+      "Umbraco"
+    ],
+    "locations": {
+      "kingofprussia": {
+        "@type": "Place",
+        "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.0950185455,
+          "longitude": -75.4155636667
+        }
+      }
     },
     "positions": [
       {
-        "title": "Entry/Mid-Level Inbound Marketing Manager Position"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Entry/Mid-Level Inbound Marketing Manager Position",
+        "alternateName": "Marketing",
+        "url": "http://www.arcintermedia.com/company/careers/entrymid-level-inbound-marketing-manager-position/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Junior Front-end Web Developer/Web Designer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Junior Front-end Web Developer/Web Designer",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.arcintermedia.com/company/careers/entry-level-htmlweb-designer/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior Level SEO Position"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Level SEO Position",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.arcintermedia.com/company/careers/senior-level-seo-position/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Entry-Mid Level SEO Position"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Entry-Mid Level SEO Position",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.arcintermedia.com/company/careers/entry-mid-level-seo-position/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Part-time Experienced SEO Professional"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Part-time Experienced SEO Professional",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.arcintermedia.com/company/careers/part-time-experienced-seo-professional/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Umbraco ASP.NET Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Umbraco ASP.NET Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.arcintermedia.com/company/careers/asp-net-developer/",
+        "jobLocation": "kingofprussia",
+        "remote": true,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Aspect Consulting",
+    "type": [
+      "staffing"
+    ],
     "url": "http://www.aspect-consulting.com/careers.aspx",
     "webSiteUrl": "http://www.aspect-consulting.com/",
-    "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
-    "geo": {
-      "latitude": 40.105065,
-      "longitude": -75.412618
-    },
-    "positions": [
-      {
-        "title": "Programmer Analyst/.NET Developer"
-      },
-      {
-        "title": "System Administrator, SME"
+    "technologies": [],
+    "locations": {
+      "kingofprussia": {
+        "@type": "Place",
+        "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.105065,
+          "longitude": -75.412618
+        }
       }
-    ]
+    },
+    "positions": []
   },
   {
     "company": "Brian Communications",

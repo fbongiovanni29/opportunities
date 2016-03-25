@@ -1,9 +1,14 @@
 {
   "company": "Archer Group",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.archer-group.com/careers.html",
   "webSiteUrl": "http://www.archer-group.com/",
-  "technologies": [".NET", "Sitecore"],
+  "technologies": [
+    ".NET",
+    "Sitecore"
+  ],
   "locations": {
     "wilmington": {
       "@type": "Place",

@@ -1,10 +1,16 @@
 {
   "company": "AWeber Communications",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.aweber.jobs/",
   "webSiteUrl": "http://www.aweber.com/",
   "technologies": [
-    "php", "Python", "Perl", "MongoDB", "PostgreSQL"
+    "php",
+    "Python",
+    "Perl",
+    "MongoDB",
+    "PostgreSQL"
   ],
   "locations": {
     "philadelphia": {
@@ -13,7 +19,9 @@
       "geo": {
         "latitude": 40.268983,
         "longitude": -75.222586
-      },
+      }
+    }
+  },
   "positions": [
     {
       "@context": "http://schema.org",
@@ -102,6 +110,6 @@
       "jobLocation": "chalfont",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }
