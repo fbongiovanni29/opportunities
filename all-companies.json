@@ -2901,19 +2901,89 @@
   },
   {
     "company": "LeadiD",
+    "type": [],
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "webSiteUrl": "http://www.leadid.com/",
-    "address": "201 S Maple St, Ambler, PA, 19002",
-    "geo": {
-      "latitude": 40.1561585849,
-      "longitude": -75.2278333396
+    "technologies": [
+      "Javascript",
+      "PHP",
+      "Python",
+      "Scala",
+      "C",
+      "AngularJS",
+      "CakePHP",
+      "Laravel",
+      "Spray",
+      "Amazon Web Services",
+      "Kafka",
+      "Akka"
+    ],
+    "locations": {
+      "ambler": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "201 S Maple St, Ambler, PA, 19002",
+        "geo": {
+          "latitude": 40.151248,
+          "longitude": -75.223791
+        }
+      }
     },
     "positions": [
       {
-        "title": "Data Scientist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Scientist",
+        "alternateName": "",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
       },
       {
-        "title": "Senior Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Engineering",
+        "alternateName": "",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer in Test",
+        "alternateName": "",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
       }
     ]
   },

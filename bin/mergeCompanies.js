@@ -80,7 +80,6 @@ if (fileName && dirName) {
         } else if ('locations' in company) {
           for (var locationName in company.locations) {
             var location = company.locations[locationName];
-            //console.log(location);
             if (('geo' in location) && isPointInRegion(countyLimits, location.geo)) {
               insideCounty.push(company);
             }
