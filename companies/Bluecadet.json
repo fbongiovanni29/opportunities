@@ -1,18 +1,85 @@
 {
   "company": "Bluecadet",
+  "type": ["agency"],
   "url": "http://www.bluecadet.com/contact/careers/",
   "webSiteUrl": "http://www.bluecadet.com/",
-  "address": "1526 Frankford Ave, Philadelphia, PA 19125",
-  "geo": {
-    "latitude": 39.9735053244,
-    "longitude": -75.1338803439
+  "technologies": ["Drupal"],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1526 Frankford Ave, Philadelphia, PA 19125",
+      "geo": {
+        "latitude": 39.9735053244,
+        "longitude": -75.1338803439
+      }
+    }
   },
   "positions": [
     {
-      "title": "Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Drupal Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.bluecadet.com/careers/drupal-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Interactive Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Communications Manager & Writer",
+      "alternateName": "Content Strategy",
+      "url": "http://www.bluecadet.com/careers/communications-manager-writer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Summer Design Intern",
+      "alternateName": "Intern",
+      "url": "http://www.bluecadet.com/careers/summer-design-intern/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "Designer, Visual",
+      "url": "http://www.bluecadet.com/careers/creative-director/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Designer",
+      "alternateName": "Designer, Visual",
+      "url": "http://www.bluecadet.com/careers/designer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Interactive Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.bluecadet.com/careers/senior-interactive-designer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

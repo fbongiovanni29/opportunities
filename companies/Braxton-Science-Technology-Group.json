@@ -1,21 +1,18 @@
 {
   "company": "Braxton Science & Technology Group",
+  "type": ["consultancy"],
   "url": "http://bstg.hirecentric.com/jobs/",
   "webSiteUrl": "http://bstgllc.com/",
-  "address": "Moorestown, NJ",
-  "geo": {
-    "latitude": 39.968882,
-    "longitude": -74.948886
-  },
-  "positions": [
-    {
-      "title": "Jr. Software Engineer - BMD"
-    },
-    {
-      "title": "Mid Software Engineer - BMD"
-    },
-    {
-      "title": "Sr. Software Engineer - BMD"
+  "technologies": [],
+  "locations": {
+    "moorestown": {
+      "@type": "Place",
+      "address": "Moorestown, NJ",
+      "geo": {
+        "latitude": 39.968882,
+        "longitude": -74.948886
+      }
     }
-  ]
+  },
+  "positions": []
 }

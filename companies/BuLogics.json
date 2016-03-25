@@ -1,21 +1,52 @@
 {
   "company": "BuLogics",
+  "type": ["consultancy"],
   "url": "http://bulogics.com/about-us/jobs/",
   "webSiteUrl": "http://bulogics.com/",
-  "address": "3721 Midvale Ave, Philadelphia, PA 19129",
-  "geo": {
-    "latitude": 40.00971845,
-    "longitude": -75.19331115
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "3721 Midvale Ave, Philadelphia, PA 19129",
+      "geo": {
+        "latitude": 40.00971845,
+        "longitude": -75.19331115
+      }
+    }
   },
   "positions": [
     {
-      "title": "Lead Firmware Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Firmware Engineer",
+      "alternateName": "Developer, Firmware",
+      "url": "http://bulogics.com/about-us/jobs/lead-firmware-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Firmware Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Firmware Developer",
+      "alternateName": "Developer, Firmware",
+      "url": "http://bulogics.com/about-us/jobs/firmware-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Cross-Platform Developer"
-    }
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cross-Platform Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "http://bulogics.com/about-us/jobs/cross-platform-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
   ]
 }
