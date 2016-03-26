@@ -1677,13 +1677,12 @@
     ]
   },
   {
-    "company": "CLVmetrics",
-    "url": "http://jobs.lever.co/clvmetrics",
-    "webSiteUrl": "http://www.clvmetrics.com/",
-    "address": "4040 Locust St, Philadelphia, PA",
+    "company": "Zodiac",
+    "url": "http://jobs.lever.co/zodiacmetrics",
+    "address": "2001 Market St, Philadelphia, PA",
     "geo": {
-      "latitude": "39.953097",
-      "longitude": "-75.204864"
+      "latitude": "39.954163",
+      "longitude": "-75.173731"
     },
     "positions": [
       {
