@@ -89,6 +89,7 @@ if (fileName && dirName) {
 
       if (insideCounty.length > 0) {
         var newFileName = county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
+        newFileName = newFileName.replace(/\s+/g, '-');
         writeCompanyMerge(newFileName, insideCounty);
       }
       console.log(county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + "\t" + insideCounty.length);
