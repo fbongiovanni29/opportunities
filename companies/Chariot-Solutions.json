@@ -1,21 +1,52 @@
 {
   "company": "Chariot Solutions",
+  "title": ["consultancy"],
   "url": "http://chariotsolutions.com/who-we-are/careers/",
   "webSiteUrl": "http://chariotsolutions.com/",
-  "address": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
-  "geo": {
-    "latitude": 40.134146,
-    "longitude": -75.2061795
+  "technologies": ["Scala", "Java"],
+  "locations": {
+    "fortwashington": {
+      "@type": "Place",
+      "address": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
+      "geo": {
+        "latitude": 40.134146,
+        "longitude": -75.2061795
+      }
+    }
   },
   "positions": [
     {
-      "title": "Scala Developers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Scala Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/",
+      "jobLocation": "fortwashington",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Sr. Java/Spring Developers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Java/Spring Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/",
+      "jobLocation": "fortwashington",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Mobile Developers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Mobile Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/",
+      "jobLocation": "fortwashington",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

@@ -1,69 +1,63 @@
 {
   "company": "CoreDial",
+  "type": ["product"],
   "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
   "webSiteUrl": "http://coredial.com/",
-  "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell, PA, 19422",
-  "geo": {
-    "latitude": 40.140902,
-    "longitude": -75.285697
+  "technologies": [],
+  "locations": {
+    "bluebell": {
+      "@type": "Place",
+      "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
+      "geo": {
+        "latitude": 40.140902,
+        "longitude": -75.285697
+      }
+    }
   },
   "positions": [
     {
-      "title": "Lead Generation Assistant (LGA)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "Project Manager",
+      "url": "https://careers-coredial.icims.com/jobs/1048/project-manager/job",
+      "jobLocation": "bluebell",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "VoIP Support Technician Level II"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "VP of Marketing",
+      "alternateName": "Marketing",
+      "url": "https://careers-coredial.icims.com/jobs/1046/vp-of-marketing/job",
+      "jobLocation": "bluebell",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "VoIP Support Technician - Level I"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SQL DBA - MySQL",
+      "alternateName": "Developer, DBA",
+      "url": "https://careers-coredial.icims.com/jobs/1037/sql-dba---mysql/job",
+      "jobLocation": "bluebell",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "UI/UX Designer"
-    },
-    {
-      "title": "SQL DBA - MySQL"
-    },
-    {
-      "title": "Product Owner"
-    },
-    {
-      "title": "Financial Analyst – FP&A Analyst"
-    },
-    {
-      "title": "Customer Support Coordinator"
-    },
-    {
-      "title": "Business Analyst"
-    },
-    {
-      "title": "Applications Support Lead"
-    },
-    {
-      "title": "Applications Support Engineer"
-    },
-    {
-      "title": "Principal Engineer"
-    },
-    {
-      "title": "Business Development Associate"
-    },
-    {
-      "title": "Data Architect"
-    },
-    {
-      "title": "Associate Software Developer"
-    },
-    {
-      "title": "Sr. Software Developer"
-    },
-    {
-      "title": "Principle Software Engineer"
-    },
-    {
-      "title": "Systems Architect"
-    },
-    {
-      "title": "Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Principal Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://careers-coredial.icims.com/jobs/1012/principal-software-engineer/job",
+      "jobLocation": "bluebell",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

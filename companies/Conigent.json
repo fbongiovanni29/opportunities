@@ -1,36 +1,41 @@
 {
   "company": "Conigent",
+  "type": ["consultancy"],
   "url": "http://www.conigent.com/contact/#openings-list",
   "webSiteUrl": "http://www.conigent.com/",
-  "address": "226 Haddonfield Road, Suite 300, Cherry Hill, NJ 08002",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "cherryhill": {
+      "@type": "Place",
+      "address": "226 Haddonfield Road, Suite 300, Cherry Hill, NJ 08002",
+      "geo": {
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": [
     {
-      "title": "Infor M3 Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PROJECT MANAGER",
+      "alternateName": "Project Manager",
+      "url": "http://www.conigent.com/contact/#op-44924-infor-m3-project-manager",
+      "jobLocation": "cherryhill",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Infor M3 Functional Consultant - Procurement Warehousing & Logistics"
-    },
-    {
-      "title": "Infor M3 Functional Consultant - Financial Management Implementation"
-    },
-    {
-      "title": "Infor M3 Technical Consultant - Integration (MEC/ION/EDI)"
-    },
-    {
-      "title": "Infor M3 Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)"
-    },
-    {
-      "title": "Infor M3 Functional Consultant - Equipment Service Management & Rental"
-    },
-    {
-      "title": "Infor M3 Functional Consultant - Customer Sales Management"
-    },
-    {
-      "title": "M3 Functional Consultant - Planning & Manufacturing Operations"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.conigent.com/contact/#op-44147-infor-m3-technical-consultant-development-javamakmashupssmart-office-sdk",
+      "jobLocation": "cherryhill",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

@@ -1,11 +1,41 @@
 {
   "company": "Cerner",
+  "title": ["product", "consultancy"],
   "url": "http://cerner.com/About_Cerner/Careers/",
   "webSiteUrl": "http://cerner.com/",
-  "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
-  "geo": {
-    "latitude": 40.060103,
-    "longitude": -75.522087
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@type": "Place",
+      "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
+      "geo": {
+        "latitude": 40.060103,
+        "longitude": -75.522087
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cybersecurity Consultant",
+      "alternateName": "Developer, Security",
+      "url": "https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?SID=%5e1wg6soENfz3bAh7WRZRAk03Qhge8SDPsu0V61G%2fjxExNNMLVossPMz8y%2f3WkNzQj&jobId=289506&type=search&JobReqLang=1&recordstart=1&JobSiteId=5095&JobSiteInfo=289506_5095&GQId=0",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?SID=%5e1wg6soENfz3bAh7WRZRAk03Qhge8SDPsu0V61G%2fjxExNNMLVossPMz8y%2f3WkNzQj&jobId=289541&type=search&JobReqLang=1&recordstart=1&JobSiteId=5095&JobSiteInfo=289541_5095&GQId=0",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ]
 }

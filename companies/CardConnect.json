@@ -1,39 +1,107 @@
 {
   "company": "CardConnect",
+  "type": ["product"],
   "url": "https://www.cardconnect.com/contact/job-openings/",
   "webSiteUrl": "https://www.cardconnect.com/",
-  "address": "1000 Continental Dr Suite 600, King of Prussia, PA 19406",
-  "geo": {
-    "latitude": 40.081367,
-    "longitude": -75.399611
+  "technologies": ["Java", "Oracle"],
+  "locations": {
+    "kingofprussia": {
+      "@type": "Place",
+      "address": "1000 Continental Dr Suite 600, King of Prussia, PA 19406",
+      "geo": {
+        "latitude": 40.081367,
+        "longitude": -75.399611
+      }
+    }
   },
   "positions": [
     {
-      "title": "Oracle ETL/Database Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Deployment Specialist",
+      "alternateName": "DevOps",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Human Resources Generalist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Analyst",
+      "alternateName": "Developer, QA",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Enterprise Marketing Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Oracle PL/SQL Developer",
+      "alternateName": "Developer, DBA",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Director | Enterprise Accounts"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Marketing Manager",
+      "alternateName": "Marketing",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Product Content Coordinator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer (Java)",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Software Engineer (Java)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "JavaScript Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "JavaScript Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Java Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Java Software Engineer"
-    },
-    {
-      "title": "Customer Service Representative"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Service Representative",
+      "alternateName": "Helpdesk",
+      "url": "https://www.cardconnect.com/contact/job-openings/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

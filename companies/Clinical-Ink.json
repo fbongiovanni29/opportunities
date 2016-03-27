@@ -1,18 +1,41 @@
 {
   "company": "Clinical Ink",
+  "title": ["product"],
   "url": "https://careers.smartrecruiters.com/ClinicalInk",
   "webSiteUrl": "http://www.clinicalink.com/",
-  "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
-  "geo": {
-    "latitude": 40.171473,
-    "longitude": -75.130956
+  "technologies": [],
+  "locations": {
+    "horsham": {
+      "@type": "Place",
+      "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+      "geo": {
+        "latitude": 40.171473,
+        "longitude": -75.130956
+      }
+    }
   },
   "positions": [
     {
-      "title": ".Net Senior Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Director Business Development",
+      "alternateName": "Business Development",
+      "url": "https://www.smartrecruiters.com/ClinicalInk/89160427-sr-director-business-development",
+      "jobLocation": "horsham",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": ".NET/SQL Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Data Management Intern",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/ClinicalInk/89163444-data-management-intern",
+      "jobLocation": "horsham",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
