@@ -1,21 +1,96 @@
 {
   "company": "Cloudamize",
+  "type": ["product", "consultancy"],
   "url": "http://www.cloudamize.com/careers/",
   "webSiteUrl": "http://www.cloudamize.com/",
-  "address": "1735 Market St Suite 2502, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.9530423469,
-    "longitude": -75.1689862653
+  "technologies": ["Java"],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1735 Market St. Suite 2502 Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9530423469,
+        "longitude": -75.1689862653
+      }
+    }
   },
   "positions": [
     {
-      "title": "Solutions Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Marketing",
+      "alternateName": "Marketing",
+      "url": "http://www.cloudamize.com/careers/director-of-marketing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Full Stack Software Engineer – Java"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Technical Support Specialist",
+      "alternateName": "Helpdesk",
+      "url": "http://www.cloudamize.com/careers/junior-technical-support-specialist/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "DevOps Engineer"
-    }
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "Devops",
+      "url": "http://www.cloudamize.com/careers/devops-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sales Development Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.cloudamize.com/careers/sales-development-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Solutions Engineer",
+      "alternateName": "Business Development",
+      "url": "http://www.cloudamize.com/careers/solutions-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.cloudamize.com/careers/full-stack-software-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Intern",
+      "alternateName": "Intern",
+      "url": "http://www.cloudamize.com/careers/intern/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
   ]
 }

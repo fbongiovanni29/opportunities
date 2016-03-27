@@ -1,15 +1,30 @@
 {
+  "type": ["product"],
   "company": "Copycat Tech, Inc",
   "url": "http://careers.stackoverflow.com/jobs?company=Copycat",
   "webSiteUrl": "http://www.wecopycat.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": [
     {
-      "title": "iOS Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Engineer",
+      "alternateName": "Developer, Mobile",
+      "url": "https://stackoverflow.com/jobs/105481/ios-engineer-at-pioneering-edtech-startup-copycat?offset=0&company=Copycat&r=redirect&t=c",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
   "company": "Compliance Implementation Services",
+  "type": ["consultancy"],
   "url": "http://www.cisbydeloitte.com/careers/",
   "webSiteUrl": "http://www.cis-partners.com/",
   "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
@@ -7,45 +8,5 @@
     "latitude": 39.99049,
     "longitude": -75.411689
   },
-  "positions": [
-    {
-      "title": "BI Analytics and Visualization Specialist"
-    },
-    {
-      "title": "Client Account Manager - Life Sciences"
-    },
-    {
-      "title": "Data Software Engineer"
-    },
-    {
-      "title": "Senior Software Engineer"
-    },
-    {
-      "title": "Senior Software Engineer"
-    },
-    {
-      "title": "Quality Assurance Manager"
-    },
-    {
-      "title": "Manager Government Pricing and Contracts"
-    },
-    {
-      "title": "Security & Information Assurance Manager"
-    },
-    {
-      "title": "Business Analyst - Life Sciences"
-    },
-    {
-      "title": "Quality Assurance Engineer"
-    },
-    {
-      "title": "Software Engineer"
-    },
-    {
-      "title": "Software Engineer"
-    },
-    {
-      "title": "Sr. IT System Administrator"
-    }
-  ]
+  "positions": []
 }
