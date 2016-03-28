@@ -1,25 +1,74 @@
 {
   "company": "Deacom, Inc",
-  "type": [],
+  "type": ["product"],
   "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
   "webSiteUrl": "http://deacom.com/",
-  "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
-  "geo": {
-    "latitude": 40.067907,
-    "longitude": -75.427966
+  "technologies": [],
+  "locations": {
+    "wayne": {
+      "@type": "Place",
+      "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
+      "geo": {
+        "latitude": 40.067907,
+        "longitude": -75.427966
+      }
+    }
   },
   "positions": [
     {
-      "title": "Inside Sales Rep"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development Representative",
+      "alternateName": "Business Development",
+      "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior ERP Product Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ERP Product Specialist",
+      "alternateName": "Business Development",
+      "url": "http://www.deacom.com/ViewPage/177/deacom-inc-erp-product-specialist",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "ERP Product Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Specialist",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
