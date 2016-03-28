@@ -492,40 +492,93 @@
   },
   {
     "company": "Azavea",
+    "type": [],
     "url": "http://jobs.azavea.com/",
     "webSiteUrl": "http://www.azavea.com/",
-    "address": "340 N 12th St, Suite 402, Philadelphia, PA",
-    "geo": {
-      "latitude": 39.9587179412,
-      "longitude": -75.1583954412
+    "technologies": [
+      "Amazon Web Services",
+      "AngularJS",
+      "Bootstrap",
+      "C#",
+      "CSS",
+      "Django",
+      "Dojo",
+      "Go",
+      "Google Compute Engine",
+      "HTML",
+      "Javascript",
+      "jQuery",
+      "Linux",
+      "Python",
+      "Rackspace",
+      "React",
+      "Scala"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "340 N 12th St, Suite 402, Philadelphia, PA",
+        "geo": {
+          "latitude": 39.9587179412,
+          "longitude": -75.1583954412
+        }
+      }
     },
     "positions": [
       {
-        "title": "Community Ambassador",
-        "datePosted": "2016-02-16"
-      },
-      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Operations Engineer",
+        "alternateName": "",
+        "url": "http://jobs.azavea.com/opening/operations-engineer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
         "datePosted": "2016-02-16"
       },
       {
-        "title": "Project Manager - Data Analytics",
-        "datePosted": "2016-02-16"
-      },
-      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Software Engineer - Civic Apps Team",
+        "alternateName": "",
+        "url": "http://jobs.azavea.com/opening/software-developer-civic-apps/",
+        "jobLocation": "philadelphia",
+        "remote": false,
         "datePosted": "2016-02-16"
       },
       {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Software Engineer - Geospatial Insights Team",
+        "alternateName": "",
+        "url": "http://jobs.azavea.com/opening/software-engineer-geospatial-insights-team/",
+        "jobLocation": "philadelphia",
+        "remote": false,
         "datePosted": "2016-02-16"
       },
       {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Software Engineer - GeoTrellis Team",
+        "alternateName": "",
+        "url": "http://jobs.azavea.com/opening/software-developer-geotrellis/",
+        "jobLocation": "philadelphia",
+        "remote": false,
         "datePosted": "2016-02-16"
       },
       {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "UI/UX Designer",
+        "alternateName": "",
+        "url": "http://jobs.azavea.com/opening/ui-ux-designer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
         "datePosted": "2016-02-16"
       }
     ]
@@ -784,26 +837,6 @@
       },
       {
         "title": "Software Engineer"
-      }
-    ]
-  },
-  {
-    "company": "Zodiac",
-    "url": "http://jobs.lever.co/zodiacmetrics",
-    "address": "2001 Market St, Philadelphia, PA",
-    "geo": {
-      "latitude": "39.954163",
-      "longitude": "-75.173731"
-    },
-    "positions": [
-      {
-        "title": "Backend Engineer"
-      },
-      {
-        "title": "Frontend Engineer"
-      },
-      {
-        "title": "Full Stack Engineer"
       }
     ]
   },
@@ -1950,28 +1983,97 @@
   },
   {
     "company": "O3 World",
+    "type": [],
     "url": "http://o3world.com/careers/",
     "webSiteUrl": "http://o3world.com/",
-    "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
-    "geo": {
-      "latitude": 39.9712247406,
-      "longitude": -75.1342654346
+    "technologies": [
+      "Linux",
+      "Mac OS X",
+      "AWS",
+      "DigitalOcean",
+      "Heroku",
+      "Selenium",
+      "Jenkins",
+      "HTML / CSS / JS",
+      "DNS",
+      "VoIP",
+      "SonicWall FireWall",
+      "NodeJS",
+      "PHP",
+      "Git",
+      "New Relic",
+      "Pingdom",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Wordpress",
+      "Drupal",
+      "ExpressionEngine",
+      "Magento",
+      "Shopify",
+      "Adobe Photoshop",
+      "Express",
+      "Sails.js",
+      "AngularJS",
+      "MongoDB",
+      "PostreSQL",
+      "Redis",
+      "Gulp",
+      "Grunt"
+    ],
+    "locations": {
+      "philadelphia": {
+        "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
+        "geo": {
+          "latitude": 39.9712247406,
+          "longitude": -75.1342654346
+        }
+      }
     },
     "positions": [
       {
-        "title": "UI / UX DESIGNER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "UI / UX Designer",
+        "alternateName": "",
+        "url": "http://o3world.com/careers/ui-ux-designer-html/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-28"
       },
       {
-        "title": "IOS DEVELOPER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Full Stack Javascript Developer",
+        "alternateName": "",
+        "url": "http://o3world.com/careers/full-stack-javascript-developer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-28"
       },
       {
-        "title": "FULL STACK JAVASCRIPT DEVELOPER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front-End Developer",
+        "alternateName": "",
+        "url": "http://o3world.com/careers/front-end-developer-html/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-28"
       },
       {
-        "title": "FRONT-END DEVELOPER"
-      },
-      {
-        "title": "WEB PROGRAMMER"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IT Operations / Support Administrator",
+        "alternateName": "",
+        "url": "http://o3world.com/careers/itops-admin/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-28"
       }
     ]
   },
@@ -2873,6 +2975,26 @@
     "positions": [
       {
         "title": "Drupal Developers and Themers"
+      }
+    ]
+  },
+  {
+    "company": "Zodiac",
+    "url": "http://jobs.lever.co/zodiacmetrics",
+    "address": "2001 Locust St, Philadelphia, PA",
+    "geo": {
+      "latitude": "39.954163",
+      "longitude": "-75.173731"
+    },
+    "positions": [
+      {
+        "title": "Backend Engineer"
+      },
+      {
+        "title": "Frontend Engineer"
+      },
+      {
+        "title": "Full Stack Engineer"
       }
     ]
   },
