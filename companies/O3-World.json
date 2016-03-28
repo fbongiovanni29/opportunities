@@ -1,27 +1,96 @@
 {
   "company": "O3 World",
+  "type": [],
   "url": "http://o3world.com/careers/",
   "webSiteUrl": "http://o3world.com/",
-  "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
-  "geo": {
-    "latitude": 39.9712247406,
-    "longitude": -75.1342654346
+  "technologies": [
+    "Linux",
+    "Mac OS X",
+    "AWS",
+    "DigitalOcean",
+    "Heroku",
+    "Selenium",
+    "Jenkins",
+    "HTML / CSS / JS",
+    "DNS",
+    "VoIP",
+    "SonicWall FireWall",
+    "NodeJS",
+    "PHP",
+    "Git",
+    "New Relic",
+    "Pingdom",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Wordpress",
+    "Drupal",
+    "ExpressionEngine",
+    "Magento",
+    "Shopify",
+    "Adobe Photoshop",
+    "Express",
+    "Sails.js",
+    "AngularJS",
+    "MongoDB",
+    "PostreSQL",
+    "Redis",
+    "Gulp",
+    "Grunt"
+  ],
+  "locations": {
+    "philadelphia": {
+      "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
+      "geo": {
+        "latitude": 39.9712247406,
+        "longitude": -75.1342654346
+      }
+    }
   },
   "positions": [
     {
-      "title": "UI / UX DESIGNER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI / UX Designer",
+      "alternateName": "",
+      "url": "http://o3world.com/careers/ui-ux-designer-html/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
     },
     {
-      "title": "IOS DEVELOPER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Javascript Developer",
+      "alternateName": "",
+      "url": "http://o3world.com/careers/full-stack-javascript-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
     },
     {
-      "title": "FULL STACK JAVASCRIPT DEVELOPER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-End Developer",
+      "alternateName": "",
+      "url": "http://o3world.com/careers/front-end-developer-html/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
     },
     {
-      "title": "FRONT-END DEVELOPER"
-    },
-    {
-      "title": "WEB PROGRAMMER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IT Operations / Support Administrator",
+      "alternateName": "",
+      "url": "http://o3world.com/careers/itops-admin/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
     }
   ]
 }

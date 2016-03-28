@@ -1,10 +1,10 @@
 {
-    "company": "Zodiac",
-    "url": "http://jobs.lever.co/zodiacmetrics",
-    "address": "2001 Locust St, Philadelphia, PA",
-    "geo": {
-        "latitude": "39.954163",
-        "longitude": "-75.173731"
+  "company": "Zodiac",
+  "url": "http://jobs.lever.co/zodiacmetrics",
+  "address": "2001 Locust St, Philadelphia, PA",
+  "geo": {
+    "latitude": "39.954163",
+    "longitude": "-75.173731"
   },
   "positions": [
     {

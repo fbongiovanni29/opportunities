@@ -5,7 +5,7 @@
   "webSiteUrl": "",
   "technologies": [],
   "locations": {
-    "Philadelphia": {
+    "philadelphia": {
       "@context": "http://schema.org",
       "@type": "Place",
       "address": "Philadelphia, PA",
