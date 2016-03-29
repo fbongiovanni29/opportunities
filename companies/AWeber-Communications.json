@@ -15,7 +15,7 @@
   "locations": {
     "philadelphia": {
       "@type": "Place",
-      "address": "1100 Manor Drive, Chalfont PA, 18914",
+      "address": "1100 Manor Drive, Chalfont, PA, 18914",
       "geo": {
         "latitude": 40.268983,
         "longitude": -75.222586
