@@ -1,6 +1,8 @@
 {
   "company": "CoreDial",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
   "webSiteUrl": "http://coredial.com/",
   "technologies": [],

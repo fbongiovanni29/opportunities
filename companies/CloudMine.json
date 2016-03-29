@@ -1,6 +1,9 @@
 {
   "company": "Cloudmine Inc.",
-  "type": ["consultancy", "product"],
+  "type": [
+    "consultancy",
+    "product"
+  ],
   "url": "https://cloudmineinc.com/about-us/careers/#accordion",
   "webSiteUrl": "https://cloudmine.me/",
   "technologies": [],

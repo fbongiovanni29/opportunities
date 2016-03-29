@@ -1,6 +1,8 @@
 {
   "company": "Compliance Implementation Services",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.cisbydeloitte.com/careers/",
   "webSiteUrl": "http://www.cis-partners.com/",
   "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",

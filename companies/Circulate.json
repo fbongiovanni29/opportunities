@@ -1,6 +1,8 @@
 {
   "company": "Circulate",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.circulate.com/jobs/index.html",
   "webSiteUrl": "http://www.circulate.com/",
   "technologies": [],

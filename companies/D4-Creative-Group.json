@@ -1,9 +1,13 @@
 {
   "company": "D4 Creative Group",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.d4creative.com/careers",
   "webSiteUrl": "http://www.d4creative.com/",
-  "technologies": ["php"],
+  "technologies": [
+    "php"
+  ],
   "locations": {
     "philadelphia": {
       "@type": "Place",

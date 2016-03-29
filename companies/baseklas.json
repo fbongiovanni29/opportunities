@@ -1,6 +1,8 @@
 {
   "company": "baseklas",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://baseklas.com/jobs/",
   "webSiteUrl": "http://baseklas.com/",
   "technologies": [],

@@ -1,9 +1,13 @@
 {
   "company": "Eastern Standard",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://easternstandard.com/pages/careers",
   "webSiteUrl": "http://easternstandard.com/",
-  "technologies": ["Drupal"],
+  "technologies": [
+    "Drupal"
+  ],
   "locations": {
     "jenkintown": {
       "@type": "Place",

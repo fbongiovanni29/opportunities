@@ -1,9 +1,13 @@
 {
   "company": "Brio Solutions",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.briosolutions.com/About/Careers.aspx",
   "webSiteUrl": "http://www.briosolutions.com/",
-  "technologies": [".NET"],
+  "technologies": [
+    ".NET"
+  ],
   "locations": {
     "fortwashington": {
       "@type": "Place",

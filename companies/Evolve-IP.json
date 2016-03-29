@@ -1,6 +1,8 @@
 {
   "company": "Evolve IP",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.evolveip.net/about/careers",
   "webSiteUrl": "http://www.evolveip.net/",
   "technologies": [],

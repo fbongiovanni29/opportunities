@@ -1,6 +1,8 @@
 {
   "company": "eCity Interactive",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://ecityinteractive.com/us/careers/",
   "webSiteUrl": "http://ecityinteractive.com/",
   "technologies": [],

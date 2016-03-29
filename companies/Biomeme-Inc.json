@@ -1,15 +1,19 @@
 {
   "company": "Biomeme, Inc.",
-  "type": ["Product", "Startup"],
+  "type": [
+    "Product",
+    "Startup"
+  ],
   "url": "http://www.biomeme.com/careers",
   "webSiteUrl": "http://www.biomeme.com/",
-  "technologies": ["C", "C++"],
+  "technologies": [
+    "C",
+    "C++"
+  ],
   "address": "20 N 3rd St., Philadelphia, PA 19106",
   "geo": {
     "latitude": 39.950812,
     "longitude": -75.145607
-      }
-    }
   },
   "positions": [
     {

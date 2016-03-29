@@ -1,6 +1,8 @@
 {
   "company": "BresslerGroup",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.bresslergroup.com/about/#jobs",
   "webSiteUrl": "http://www.bresslergroup.com/",
   "technologies": [],

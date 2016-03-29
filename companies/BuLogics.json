@@ -1,6 +1,8 @@
 {
   "company": "BuLogics",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://bulogics.com/about-us/jobs/",
   "webSiteUrl": "http://bulogics.com/",
   "technologies": [],

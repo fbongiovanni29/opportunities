@@ -1,9 +1,14 @@
 {
   "company": "Chariot Solutions",
-  "title": ["consultancy"],
+  "title": [
+    "consultancy"
+  ],
   "url": "http://chariotsolutions.com/who-we-are/careers/",
   "webSiteUrl": "http://chariotsolutions.com/",
-  "technologies": ["Scala", "Java"],
+  "technologies": [
+    "Scala",
+    "Java"
+  ],
   "locations": {
     "fortwashington": {
       "@type": "Place",

@@ -1,6 +1,8 @@
 {
   "company": "Brian Communications",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.briancom.com/careers",
   "webSiteUrl": "http://www.briancom.com/",
   "technologies": [],
@@ -102,6 +104,6 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }
