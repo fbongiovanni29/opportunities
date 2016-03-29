@@ -1,6 +1,8 @@
 {
   "company": "Boomi",
-  "type": ["Product"],
+  "type": [
+    "Product"
+  ],
   "url": "http://www.boomi.com/company/careers",
   "webSiteUrl": "http://www.boomi.com/",
   "technologies": [

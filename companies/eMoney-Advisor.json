@@ -1,6 +1,8 @@
 {
   "company": "eMoney Advisor",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://emoneyadvisor.theresumator.com/apply",
   "webSiteUrl": "http://emoneyadvisor.com/",
   "technologies": [],

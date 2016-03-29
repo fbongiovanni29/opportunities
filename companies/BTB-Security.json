@@ -1,6 +1,8 @@
 {
   "company": "BTB Security",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
   "webSiteUrl": "http://www.btbsecurity.com/",
   "technologies": [],

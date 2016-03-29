@@ -1,6 +1,8 @@
 {
   "company": "Braxton Science & Technology Group",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://bstg.hirecentric.com/jobs/",
   "webSiteUrl": "http://bstgllc.com/",
   "technologies": [],

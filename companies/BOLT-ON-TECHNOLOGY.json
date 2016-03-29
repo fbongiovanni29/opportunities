@@ -1,9 +1,13 @@
 {
   "company": "BOLT ON TECHNOLOGY",
-  "type": "product",
+  "type": [
+    "product"
+  ],
   "url": "http://boltontechnology.com/category/careers/",
   "webSiteUrl": "http://www.boltontechnology.com/",
-  "technologies": [".NET"],
+  "technologies": [
+    ".NET"
+  ],
   "locations": {
     "southampton": {
       "@type": "Place",

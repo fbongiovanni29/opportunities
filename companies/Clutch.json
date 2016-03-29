@@ -1,6 +1,8 @@
 {
   "company": "Clutch",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.clutch.com/careers/",
   "webSiteUrl": "https://www.clutch.com/",
   "technologies": [],
@@ -25,6 +27,6 @@
       "jobLocation": "ambler",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }

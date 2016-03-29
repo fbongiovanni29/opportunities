@@ -1,9 +1,14 @@
 {
   "company": "Cloudamize",
-  "type": ["product", "consultancy"],
+  "type": [
+    "product",
+    "consultancy"
+  ],
   "url": "http://www.cloudamize.com/careers/",
   "webSiteUrl": "http://www.cloudamize.com/",
-  "technologies": ["Java"],
+  "technologies": [
+    "Java"
+  ],
   "locations": {
     "philadelphia": {
       "@type": "Place",
@@ -91,6 +96,6 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }

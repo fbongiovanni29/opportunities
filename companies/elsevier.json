@@ -1,6 +1,8 @@
 {
   "company": "Elsevier",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.elsevier.com/about/careers/tech",
   "webSiteUrl": "https://www.elsevier.com/",
   "technologies": [],

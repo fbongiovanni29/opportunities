@@ -1,9 +1,14 @@
 {
   "company": "Delphic Digital",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.delphicdigital.com/about/careers/open-positions",
   "webSiteUrl": "http://www.delphicdigital.com/",
-  "technologies": [".net", "Sitecore"],
+  "technologies": [
+    ".net",
+    "Sitecore"
+  ],
   "locations": {
     "philadelphia": {
       "@type": "Place",

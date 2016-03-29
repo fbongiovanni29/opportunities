@@ -1,6 +1,8 @@
 {
   "company": "Diagnostic Driving, LLC",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.diagnosticdriving.com/careers/",
   "webSiteUrl": "http://www.diagnosticdriving.com/",
   "technologies": [],

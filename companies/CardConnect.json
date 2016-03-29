@@ -1,9 +1,14 @@
 {
   "company": "CardConnect",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.cardconnect.com/contact/job-openings/",
   "webSiteUrl": "https://www.cardconnect.com/",
-  "technologies": ["Java", "Oracle"],
+  "technologies": [
+    "Java",
+    "Oracle"
+  ],
   "locations": {
     "kingofprussia": {
       "@type": "Place",

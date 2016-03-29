@@ -1,6 +1,8 @@
 {
   "company": "Dronecast",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.dronecast.com/careers/",
   "webSiteUrl": "http://www.dronecast.com/",
   "technologies": [],

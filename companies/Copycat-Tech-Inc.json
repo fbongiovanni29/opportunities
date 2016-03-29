@@ -1,5 +1,7 @@
 {
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "company": "Copycat Tech, Inc",
   "url": "http://careers.stackoverflow.com/jobs?company=Copycat",
   "webSiteUrl": "http://www.wecopycat.com/",

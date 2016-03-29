@@ -1,6 +1,8 @@
 {
   "company": "ChatterBlast Media",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://chatterblast.com/careers/",
   "webSiteUrl": "http://chatterblast.com/",
   "technologies": [],

@@ -1,6 +1,9 @@
 {
   "company": "BioBots",
-  "type": ["Product", "Startup"],
+  "type": [
+    "Product",
+    "Startup"
+  ],
   "url": "https://angel.co/biobots/jobs",
   "webSiteUrl": "https://www.biobots.io/",
   "technologies": [],
