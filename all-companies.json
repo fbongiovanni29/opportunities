@@ -66,10 +66,10 @@
     "locations": {
       "philadelphia": {
         "@type": "Place",
-        "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
+        "address": "510 Walnut St, 19th Floor, Philadelphia, PA 19106",
         "geo": {
-          "latitude": 39.951741,
-          "longitude": -75.163514
+          "latitude": 39.947276,
+          "longitude": -75.149745
         },
         "telephone": "215-732-3200"
       }
@@ -384,7 +384,7 @@
     "locations": {
       "philadelphia": {
         "@type": "Place",
-        "address": "1619 Walnut St. Philadelphia, PA 19103",
+        "address": "1619 Walnut St., Philadelphia, PA 19103",
         "geo": {
           "latitude": 39.9499277431,
           "longitude": -75.1677158144
@@ -1006,7 +1006,7 @@
     "locations": {
       "philadelphia": {
         "@type": "Place",
-        "address": "1100 Manor Drive, Chalfont PA, 18914",
+        "address": "1100 Manor Drive, Chalfont, PA, 18914",
         "geo": {
           "latitude": 40.268983,
           "longitude": -75.222586
@@ -1216,7 +1216,7 @@
     "company": "baseklas",
     "url": "http://baseklas.com/jobs/",
     "webSiteUrl": "http://baseklas.com/",
-    "address": "128 Chestnut Street, Suite 304, Philadelphia PA 19106",
+    "address": "128 Chestnut Street, Suite 304, Philadelphia, PA 19106",
     "geo": {
       "latitude": 39.948286125,
       "longitude": -75.143379125
@@ -1264,10 +1264,10 @@
     "company": "Biomeme, Inc.",
     "url": "http://www.biomeme.com/careers",
     "webSiteUrl": "http://www.biomeme.com/",
-    "address": "2025 Washington Avenue",
+    "address": "20 N 3rd St., Philadelphia, PA 19106",
     "geo": {
-      "latitude": 39.9390814898,
-      "longitude": -75.1767853469
+      "latitude": 39.950812,
+      "longitude": -75.145607
     },
     "positions": []
   },
@@ -1275,7 +1275,7 @@
     "company": "Blackfynn",
     "url": "http://www.blackfynn.com/careers/",
     "webSiteUrl": "http://www.blackfynn.com/",
-    "address": "123 N 3rd St 2nd Floor Philadelphia, PA 19106",
+    "address": "123 N 3rd St 2nd Floor, Philadelphia, PA 19106",
     "geo": {
       "latitude": 39.952821,
       "longitude": -75.145047
@@ -1329,7 +1329,7 @@
     "company": "Boomi",
     "url": "http://www.boomi.com/company/careers",
     "webSiteUrl": "http://www.boomi.com/",
-    "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+    "address": "801 Cassatt Road, Suite 111, Berwyn, PA 19312",
     "geo": {
       "latitude": 40.062366,
       "longitude": -75.456169
@@ -1482,7 +1482,7 @@
     "company": "Brolik",
     "url": "http://brolik.com/careers",
     "webSiteUrl": "http://brolik.com/",
-    "address": "421 N. 7th St., Suite 701, Philadelphia PA 19123",
+    "address": "421 N. 7th St., Suite 701, Philadelphia, PA 19123",
     "geo": {
       "latitude": 39.9591977619,
       "longitude": -75.1502415238
@@ -1630,7 +1630,7 @@
     "company": "Circulate",
     "url": "http://www.circulate.com/jobs/index.html",
     "webSiteUrl": "http://www.circulate.com/",
-    "address": "200 S. Broad Street, Suite 915",
+    "address": "200 S. Broad Street, Suite 915, Philadelphia, PA",
     "geo": {
       "latitude": 39.949345,
       "longitude": -75.164338
@@ -1659,7 +1659,7 @@
     "company": "Cloudamize",
     "url": "http://www.cloudamize.com/careers/",
     "webSiteUrl": "http://www.cloudamize.com/",
-    "address": "1735 Market St Suite 2502",
+    "address": "1735 Market St Suite 2502, Philadelphia, PA",
     "geo": {
       "latitude": 39.9530423469,
       "longitude": -75.1689862653
@@ -1680,7 +1680,7 @@
     "company": "Cloudmine Inc.",
     "url": "https://jobs.lever.co/cloudmine",
     "webSiteUrl": "https://cloudmine.me/",
-    "address": "1315 Walnut Street, Philadelphia PA, 19107",
+    "address": "1315 Walnut Street, Philadelphia, PA, 19107",
     "geo": {
       "latitude": 39.9491672,
       "longitude": -75.1628294
@@ -1835,7 +1835,7 @@
     "company": "CoreDial",
     "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
     "webSiteUrl": "http://coredial.com/",
-    "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
+    "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell, PA, 19422",
     "geo": {
       "latitude": 40.140902,
       "longitude": -75.285697
@@ -1959,7 +1959,7 @@
     "company": "D4 Creative Group",
     "url": "http://www.d4creative.com/careers",
     "webSiteUrl": "http://www.d4creative.com/",
-    "address": "4646 Umbria Street",
+    "address": "4646 Umbria Street, Philadelphia, PA 19127",
     "geo": {
       "latitude": 40.0305332308,
       "longitude": -75.2300390769
@@ -2066,7 +2066,7 @@
     "company": "Dronecast",
     "url": "http://www.dronecast.com/careers/",
     "webSiteUrl": "http://www.dronecast.com/",
-    "address": "1700 Market Street, Suite 1005, Philadelphia PA",
+    "address": "1700 Market Street, Suite 1005, Philadelphia, PA",
     "geo": {
       "latitude": 39.952974,
       "longitude": -75.168444
@@ -2090,7 +2090,7 @@
     "company": "Eastern Standard",
     "url": "http://easternstandard.com/pages/careers",
     "webSiteUrl": "http://easternstandard.com/",
-    "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+    "address": "261 Old York Rd., Suite 617, Jenkintown, PA 19046",
     "geo": {
       "latitude": 40.093339,
       "longitude": -75.125276
@@ -2126,7 +2126,7 @@
     "company": "Economy League of Greater Philadelphia",
     "url": "http://economyleague.org/about-us/join-our-team",
     "webSiteUrl": "http://economyleague.org/",
-    "address": "230 S Broad St, Philadelphia PA 19102",
+    "address": "230 S Broad St, Philadelphia, PA 19102",
     "geo": {
       "latitude": 39.94878,
       "longitude": -75.1644585
@@ -2367,7 +2367,7 @@
     "company": "Garfield Group",
     "url": "http://garfieldgroup.com/careers",
     "webSiteUrl": "http://garfieldgroup.com/",
-    "address": "60 Blacksmith Road, Newtown PA 18940",
+    "address": "60 Blacksmith Road, Newtown, PA 18940",
     "geo": {
       "latitude": 40.222709625,
       "longitude": -74.915183875
@@ -2571,7 +2571,7 @@
     "company": "Here's My Chance",
     "url": "http://heresmychance.com/careers/",
     "webSiteUrl": "http://heresmychance.com/",
-    "address": "121 S. 13th Street 4th Floor Philadelphia, PA 19107",
+    "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
     "geo": {
       "latitude": 39.949836,
       "longitude": -75.161949
@@ -3312,7 +3312,7 @@
     "company": "Monetate, Inc.",
     "url": "http://www.monetate.com/about/careers/#open-positions",
     "webSiteUrl": "http://www.monetate.com/",
-    "address": "951 E. Hector Street, Conshohocken PA 19428",
+    "address": "951 E. Hector Street, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.0750470612,
       "longitude": -75.2904890204
@@ -3342,7 +3342,7 @@
     "company": "Morgan Lewis",
     "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
     "webSiteUrl": "https://www.morganlewis.com/",
-    "address": "1701 Market St Philadelphia",
+    "address": "1701 Market St, Philadelphia, PA",
     "geo": {
       "latitude": 39.952974,
       "longitude": -75.168444
@@ -3467,7 +3467,7 @@
     "company": "Nasdaq OMX",
     "url": "https://careersus-nasdaq.icims.com/jobs/search?ss=1&searchLocation=12781-12822-philadelphia",
     "webSiteUrl": "http://business.nasdaq.com/",
-    "address": "1900 Market St,Philadelphia, PA",
+    "address": "1900 Market St, Philadelphia, PA",
     "geo": {
       "latitude": 39.953368,
       "longitude": -75.171593
@@ -3496,10 +3496,10 @@
     "company": "Netplus",
     "url": "http://thinknetplus.com/contact/#netplus-jobs",
     "webSiteUrl": "http://thinknetplus.com/",
-    "address": "718 Arch St Suite #400S",
+    "address": "718 Arch Street, Suite 400S, Philadelphia, PA 19106",
     "geo": {
-      "latitude": 39.9529856531,
-      "longitude": -75.1518336122
+      "latitude": 39.952624,
+      "longitude": -75.152505
     },
     "positions": [
       {
@@ -3564,7 +3564,7 @@
     "company": "Nimblelight",
     "url": "http://nimblelight.com/jobs/",
     "webSiteUrl": "http://nimblelight.com/",
-    "address": "4355 Orchard St, Philadelphia PA, 19124",
+    "address": "4355 Orchard St, Philadelphia, PA, 19124",
     "geo": {
       "latitude": 40.0109041224,
       "longitude": -75.0858912041
@@ -3696,7 +3696,7 @@
     "company": "Offshorent",
     "url": "http://offshorent.com/careers",
     "webSiteUrl": "http://offshorent.com/",
-    "address": "1000 W. Valley Forge Circle. #110A. King Of Prussia, PA 19406",
+    "address": "1000 W. Valley Forge Circle. #110A., King Of Prussia, PA 19406",
     "geo": {
       "latitude": 40.1030152727,
       "longitude": -75.4137162727
@@ -3803,7 +3803,7 @@
     "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
     "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
     "webSiteUrl": "http://www.discoverphl.com/",
-    "address": "1700 Market St., Suite 3000 Philadelphia, PA 19103",
+    "address": "1700 Market St., Suite 3000, Philadelphia, PA 19103",
     "geo": {
       "latitude": 39.952974,
       "longitude": -75.168444
@@ -3818,7 +3818,7 @@
     "company": "Philadelphia Media Network",
     "url": "http://apsweb.philly.com/jobs/",
     "webSiteUrl": "http://www.philly.com/",
-    "address": "801 Market Street, Suite 300, Philadelphia PA 19107",
+    "address": "801 Market Street, Suite 300, Philadelphia, PA 19107",
     "geo": {
       "latitude": 39.951667,
       "longitude": -75.153737
@@ -3932,7 +3932,7 @@
     "company": "Plan Management Corp.",
     "url": "http://www.optiontrax.com/about-us/working-here/",
     "webSiteUrl": "http://www.optiontrax.com/",
-    "address": "44 W. Lancaster Ave, Suite 145, Ardmore PA, 19003",
+    "address": "44 W. Lancaster Ave, Suite 145, Ardmore, PA, 19003",
     "geo": {
       "latitude": 40.0086664118,
       "longitude": -75.2925611765
@@ -3943,7 +3943,7 @@
     "company": "Plum Analytics",
     "url": "http://plumanalytics.com/about/careers/",
     "webSiteUrl": "http://plumanalytics.com/",
-    "address": "808 Firethorn Circle, Dresher PA 19025",
+    "address": "808 Firethorn Circle, Dresher, PA 19025",
     "geo": {
       "latitude": 40.1518441224,
       "longitude": -75.1554711633
@@ -3981,7 +3981,7 @@
     "company": "PromptWorks",
     "url": "http://www.promptworks.com/jobs/",
     "webSiteUrl": "http://www.promptworks.com/",
-    "address": "1211 Chestnut St, Suite 400, Philadelphia PA, 19107",
+    "address": "1211 Chestnut St, Suite 400, Philadelphia, PA, 19107",
     "geo": {
       "latitude": 39.9504152041,
       "longitude": -75.1603696122
@@ -4017,7 +4017,7 @@
     "company": "P'unk Avenue",
     "url": "http://jobs.punkave.com/",
     "webSiteUrl": "http://punkave.com/",
-    "address": "1168 E. Passyunk Avenue Philadelphia, PA 19147",
+    "address": "1168 E. Passyunk Avenue, Philadelphia, PA 19147",
     "geo": {
       "latitude": 39.9345045143,
       "longitude": -75.1578163143
@@ -4035,7 +4035,7 @@
     "company": "Push10 Design",
     "url": "http://www.push10.com/blog/",
     "webSiteUrl": "http://www.push10.com/",
-    "address": "125 NORTH 3RD ST, PHILA. PA 19106",
+    "address": "125 North 3rd St, Philadelphia, PA 19106",
     "geo": {
       "latitude": 39.9528668,
       "longitude": -75.1450802
@@ -4057,7 +4057,7 @@
     "company": "RDA Corp",
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
     "webSiteUrl": "http://rdacorp.com/",
-    "address": "101 Lindenwood Drive Suite 225 Malvern, PA 19355",
+    "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
     "geo": {
       "latitude": 40.049973,
       "longitude": -75.528712
@@ -4132,7 +4132,7 @@
     "company": "Relay",
     "url": "http://www.relaynetwork.com/careers/",
     "webSiteUrl": "http://www.relaynetwork.com/",
-    "address": "201 king of prussia rd radnor pa 19087",
+    "address": "201 king of prussia rd, radnor, pa 19087",
     "geo": {
       "latitude": 40.081206,
       "longitude": -75.388683
@@ -4244,7 +4244,7 @@
       "sql",
       "virtualbox"
     ],
-    "address": "1339 Chestnut Street Suite 1500 Philadelphia PA, 19107",
+    "address": "1339 Chestnut Street, Suite 1500, Philadelphia, PA, 19107",
     "geo": {
       "latitude": 39.9507376667,
       "longitude": -75.1629786667
@@ -4311,7 +4311,7 @@
     "company": "Saturn Infotech Inc",
     "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
     "webSiteUrl": "http://www.saturninfotech.com/",
-    "address": "1120 Welsh Road, Suite 110, North Wales, Pennsylvania 19454",
+    "address": "1120 Welsh Road, Suite 110, North Wales, PA 19454",
     "geo": {
       "latitude": 40.227722,
       "longitude": -75.261352
@@ -4665,7 +4665,7 @@
     "company": "Technically Media",
     "url": "http://technicallymedia.com/careers",
     "webSiteUrl": "http://technicallymedia.com/",
-    "address": "4040 Locust Street, Philadelphia, Pa.",
+    "address": "4040 Locust Street, Philadelphia, PA",
     "geo": {
       "latitude": 39.9531008333,
       "longitude": -75.2038928333
@@ -4676,7 +4676,7 @@
     "company": "The Wilson Concept",
     "url": "http://thewilsonconcept.com/careers/",
     "webSiteUrl": "http://thewilsonconcept.com/",
-    "address": "109 South 13th Street, Philadelphia PA 19107",
+    "address": "109 South 13th Street, Philadelphia, PA 19107",
     "geo": {
       "latitude": 39.950196,
       "longitude": -75.161868
@@ -4810,7 +4810,7 @@
     "company": "Tonic Design Co",
     "url": "http://www.tonicdesign.com/jobs/",
     "webSiteUrl": "http://www.tonicdesign.com/",
-    "address": "201 S State St; Suite 2B Newtown PA 18940",
+    "address": "201 S State St, Suite 2B, Newtown, PA 18940",
     "geo": {
       "latitude": 40.226642,
       "longitude": -74.937063
@@ -4928,7 +4928,7 @@
     "company": "Velora Studios",
     "url": "http://www.velorastudios.com/jobs",
     "webSiteUrl": "http://www.velorastudios.com/",
-    "address": "Philadelphia",
+    "address": "Philadelphia, PA",
     "geo": {
       "latitude": 40.07231,
       "longitude": -75.203371
@@ -5008,7 +5008,7 @@
     "company": "WebLinc Corp.",
     "url": "http://www.weblinc.com/company/careers/",
     "webSiteUrl": "http://www.weblinc.com/",
-    "address": "22 South 3rd Street Second Floor Philadelphia, PA 19106",
+    "address": "22 South 3rd Street, Second Floor, Philadelphia, PA 19106",
     "geo": {
       "latitude": 39.9497525,
       "longitude": -75.1457715
@@ -5228,7 +5228,7 @@
     "company": "Zoomi",
     "url": "http://www.zoomiinc.com/jobs/",
     "webSiteUrl": "http://www.zoomiinc.com/",
-    "address": "101 Lindenwood Drive, Suite 400, Malvern PA 19355",
+    "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
     "geo": {
       "latitude": 40.050203,
       "longitude": -75.527085

@@ -444,7 +444,7 @@
     "company": "CoreDial",
     "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
     "webSiteUrl": "http://coredial.com/",
-    "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
+    "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell, PA, 19422",
     "geo": {
       "latitude": 40.140902,
       "longitude": -75.285697
@@ -538,7 +538,7 @@
     "company": "Eastern Standard",
     "url": "http://easternstandard.com/pages/careers",
     "webSiteUrl": "http://easternstandard.com/",
-    "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+    "address": "261 Old York Rd., Suite 617, Jenkintown, PA 19046",
     "geo": {
       "latitude": 40.093339,
       "longitude": -75.125276
@@ -812,7 +812,7 @@
     "company": "Monetate, Inc.",
     "url": "http://www.monetate.com/about/careers/#open-positions",
     "webSiteUrl": "http://www.monetate.com/",
-    "address": "951 E. Hector Street, Conshohocken PA 19428",
+    "address": "951 E. Hector Street, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.0750470612,
       "longitude": -75.2904890204
@@ -853,7 +853,7 @@
     "company": "Offshorent",
     "url": "http://offshorent.com/careers",
     "webSiteUrl": "http://offshorent.com/",
-    "address": "1000 W. Valley Forge Circle. #110A. King Of Prussia, PA 19406",
+    "address": "1000 W. Valley Forge Circle. #110A., King Of Prussia, PA 19406",
     "geo": {
       "latitude": 40.1030152727,
       "longitude": -75.4137162727
@@ -874,7 +874,7 @@
     "company": "Plan Management Corp.",
     "url": "http://www.optiontrax.com/about-us/working-here/",
     "webSiteUrl": "http://www.optiontrax.com/",
-    "address": "44 W. Lancaster Ave, Suite 145, Ardmore PA, 19003",
+    "address": "44 W. Lancaster Ave, Suite 145, Ardmore, PA, 19003",
     "geo": {
       "latitude": 40.0086664118,
       "longitude": -75.2925611765
@@ -885,7 +885,7 @@
     "company": "Plum Analytics",
     "url": "http://plumanalytics.com/about/careers/",
     "webSiteUrl": "http://plumanalytics.com/",
-    "address": "808 Firethorn Circle, Dresher PA 19025",
+    "address": "808 Firethorn Circle, Dresher, PA 19025",
     "geo": {
       "latitude": 40.1518441224,
       "longitude": -75.1554711633
@@ -906,7 +906,7 @@
     "company": "Relay",
     "url": "http://www.relaynetwork.com/careers/",
     "webSiteUrl": "http://www.relaynetwork.com/",
-    "address": "201 king of prussia rd radnor pa 19087",
+    "address": "201 king of prussia rd, radnor, pa 19087",
     "geo": {
       "latitude": 40.081206,
       "longitude": -75.388683
@@ -960,7 +960,7 @@
     "company": "Saturn Infotech Inc",
     "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
     "webSiteUrl": "http://www.saturninfotech.com/",
-    "address": "1120 Welsh Road, Suite 110, North Wales, Pennsylvania 19454",
+    "address": "1120 Welsh Road, Suite 110, North Wales, PA 19454",
     "geo": {
       "latitude": 40.227722,
       "longitude": -75.261352
