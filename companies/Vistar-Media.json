@@ -1,15 +1,33 @@
 {
   "company": "Vistar Media",
+  "type": [],
   "url": "http://www.vistarmedia.com/careers",
   "webSiteUrl": "http://www.vistarmedia.com/",
-  "address": "332 S Smedley St, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9471276977,
-    "longitude": -75.1686654651
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "332 S Smedley St, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9471276977,
+        "longitude": -75.1686654651
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "http://www.vistarmedia.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

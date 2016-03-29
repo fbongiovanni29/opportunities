@@ -1,24 +1,66 @@
 {
   "company": "Oncora Medical",
+  "type": [],
   "url": "https://oncoramedical.recruiterbox.com/",
   "webSiteUrl": "http://oncoramedical.com/",
-  "address": "4040 Locust St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.952883,
-    "longitude": -75.204789
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4040 Locust St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952883,
+        "longitude": -75.204789
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Engineer",
+      "alternateName": "",
+      "url": "https://oncoramedical.recruiterbox.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Cloud Ops Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Ops Engineer",
+      "alternateName": "",
+      "url": "https://oncoramedical.recruiterbox.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "",
+      "url": "https://oncoramedical.recruiterbox.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "UX and Data Visualization Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX and Data Visualization Developer",
+      "alternateName": "",
+      "url": "https://oncoramedical.recruiterbox.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

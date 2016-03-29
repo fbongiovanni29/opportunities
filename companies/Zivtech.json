@@ -1,15 +1,33 @@
 {
   "company": "Zivtech",
+  "type": [],
   "url": "https://www.zivtech.com/about/employment",
   "webSiteUrl": "https://www.zivtech.com/",
-  "address": "The Philadelphia Building 1315 Walnut St, Suite 1500, Philadelphia, PA, 19107",
-  "geo": {
-    "latitude": 39.9491672,
-    "longitude": -75.1628294
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "The Philadelphia Building 1315 Walnut St, Suite 1500, Philadelphia, PA, 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9491672,
+        "longitude": -75.1628294
+      }
+    }
   },
   "positions": [
     {
-      "title": "Drupal Developers and Themers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Drupal Developers and Themers",
+      "alternateName": "",
+      "url": "https://www.zivtech.com/about/employment",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

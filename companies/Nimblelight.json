@@ -1,15 +1,33 @@
 {
   "company": "Nimblelight",
+  "type": [],
   "url": "http://nimblelight.com/jobs/",
   "webSiteUrl": "http://nimblelight.com/",
-  "address": "4355 Orchard St, Philadelphia, PA, 19124",
-  "geo": {
-    "latitude": 40.0109041224,
-    "longitude": -75.0858912041
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4355 Orchard St, Philadelphia, PA, 19124",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0109041224,
+        "longitude": -75.0858912041
+      }
+    }
   },
   "positions": [
     {
-      "title": "Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Developer",
+      "alternateName": "",
+      "url": "http://nimblelight.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

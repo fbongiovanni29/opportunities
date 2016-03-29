@@ -1,21 +1,55 @@
 {
   "company": "TherapyNotes",
+  "type": [],
   "url": "https://www.pliner.com/careers/",
   "webSiteUrl": "https://www.therapynotes.com/",
-  "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
-  "geo": {
-    "latitude": 40.157568,
-    "longitude": -75.120882
+  "technologies": [],
+  "locations": {
+    "willow grove": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.157568,
+        "longitude": -75.120882
+      }
+    }
   },
   "positions": [
     {
-      "title": "Quality Assurance Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Assurance Engineer",
+      "alternateName": "",
+      "url": "https://www.pliner.com/careers/",
+      "jobLocation": "willow grove",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Developer",
+      "alternateName": "",
+      "url": "https://www.pliner.com/careers/",
+      "jobLocation": "willow grove",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer",
+      "alternateName": "",
+      "url": "https://www.pliner.com/careers/",
+      "jobLocation": "willow grove",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

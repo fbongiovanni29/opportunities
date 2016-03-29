@@ -1,15 +1,33 @@
 {
   "company": "IT Pros - Philadelphia",
+  "type": [],
   "url": "http://www.itprosphilly.com/careers/",
   "webSiteUrl": "http://www.itprosphilly.com/",
-  "address": "1 Brown Street, #1604, Philadelphia, PA 19123",
-  "geo": {
-    "latitude": 39.962402,
-    "longitude": -75.13767
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1 Brown Street, #1604, Philadelphia, PA 19123",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.962402,
+        "longitude": -75.13767
+      }
+    }
   },
   "positions": [
     {
-      "title": ".NET Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": ".NET Developer",
+      "alternateName": "",
+      "url": "http://www.itprosphilly.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -5,14 +5,31 @@
   ],
   "url": "https://angel.co/tivipley/jobs",
   "webSiteUrl": "http://www.tivipley.com/",
-  "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
-  "geo": {
-    "latitude": 39.996284,
-    "longitude": -75.174103
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.996284,
+        "longitude": -75.174103
+      }
+    }
   },
   "positions": [
     {
-      "title": "Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "",
+      "url": "https://angel.co/tivipley/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

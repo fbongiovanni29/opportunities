@@ -1,18 +1,44 @@
 {
   "company": "MaassMedia, LLC",
+  "type": [],
   "url": "http://www.maassmedia.com/about-our-careers.php",
   "webSiteUrl": "http://www.maassmedia.com/",
-  "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.954096,
-    "longitude": -75.171007
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.954096,
+        "longitude": -75.171007
+      }
+    }
   },
   "positions": [
     {
-      "title": "Analytics Solutions Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Analytics Solutions Engineer",
+      "alternateName": "",
+      "url": "http://www.maassmedia.com/about-our-careers.php",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Consultant - Data Science/Reporting"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Consultant - Data Science/Reporting",
+      "alternateName": "",
+      "url": "http://www.maassmedia.com/about-our-careers.php",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

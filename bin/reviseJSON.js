@@ -85,7 +85,12 @@ function formatFile(fileName) {
       "@context": "http://schema.org",
       "@type": "Place",
       "address": opportunties.address,
-      "geo": opportunties.geo
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": opportunties.geo.latitude,
+        "longitude": opportunties.geo.longitude
+      }
     }
   }
   if ('positions' in opportunties) {

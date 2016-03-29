@@ -1,18 +1,43 @@
 {
   "company": "I-SITE",
+  "type": [],
   "url": "http://www.i-site.com/blog",
   "webSiteUrl": "http://www.i-site.com/",
-  "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
-  "geo": {
-    "latitude": 39.9496157,
-    "longitude": -75.1476798
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9496157,
+        "longitude": -75.1476798
+      }
+    }
   },
   "positions": [
     {
-      "title": "Digital Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Project Manager",
+      "alternateName": "",
+      "url": "http://www.i-site.com/blog",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Winter Interns",
+      "alternateName": "",
+      "url": "http://www.i-site.com/blog",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "datePosted": "2016-01-13"
     }
   ]

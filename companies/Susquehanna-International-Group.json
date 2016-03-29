@@ -1,102 +1,352 @@
 {
   "company": "Susquehanna International Group",
+  "type": [],
   "url": "https://careers.sig.com/",
   "webSiteUrl": "http://sig.com/",
-  "address": "401 City Avenue, Bala Cynwyd, PA 19004",
-  "geo": {
-    "latitude": 40.008582,
-    "longitude": -75.213322
+  "technologies": [],
+  "locations": {
+    "bala cynwyd": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "401 City Avenue, Bala Cynwyd, PA 19004",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.008582,
+        "longitude": -75.213322
+      }
+    }
   },
   "positions": [
     {
-      "title": "Junior Technical Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Technical Support Analyst",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "QlikView Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QlikView Developer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Engineering Internship Program"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineering Internship Program",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Junior Systems Administrator (Data Center)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Systems Administrator (Data Center)",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer - Middleware"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Middleware",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Business Analyst/Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Analyst/Project Manager",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "FPGA Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "FPGA Engineer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technical Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Support Analyst",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Telecom Client Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Telecom Client Support Analyst",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior VMware Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior VMware Engineer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer - Clearing and Positions"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Clearing and Positions",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Engineer - Production Engineering"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - Production Engineering",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer - C++"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - C++",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Messaging Engineer (Middleware)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Messaging Engineer (Middleware)",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Linux Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Engineer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technical Support Analyst (Trading Floor)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Support Analyst (Trading Floor)",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technology Associate: Software Engineering Development Program"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technology Associate: Software Engineering Development Program",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Junior FPGA Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior FPGA Engineer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer- Operations"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer- Operations",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer - SOT Services"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - SOT Services",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technology Co-op"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technology Co-op",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Junior Technical Support Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Technical Support Engineer",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Junior Telecom Client Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Telecom Client Support Analyst",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Systems & Network Administrator (Data Center)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems & Network Administrator (Data Center)",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technical Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Business Analyst",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer – Proprietary Trading Services"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer – Proprietary Trading Services",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer - Instruments Team"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Instruments Team",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Developer- TORQ"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer- TORQ",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Quantitative Developer - Backtesting and Research Computing "
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quantitative Developer - Backtesting and Research Computing ",
+      "alternateName": "",
+      "url": "https://careers.sig.com/",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

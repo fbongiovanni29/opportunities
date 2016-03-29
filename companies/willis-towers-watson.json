@@ -1,15 +1,33 @@
 {
   "company": "Willis Towers Watson",
+  "type": [],
   "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
   "webSiteUrl": "https://www.willistowerswatson.com/",
-  "address": "1500 Market St #22E, Philadelphia, PA 19102",
-  "geo": {
-    "latitude": 39.9377613,
-    "longitude": -75.1771446
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1500 Market St #22E, Philadelphia, PA 19102",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9377613,
+        "longitude": -75.1771446
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Developer (.NET)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer (.NET)",
+      "alternateName": "",
+      "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

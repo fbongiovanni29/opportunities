@@ -1,15 +1,33 @@
 {
   "company": "Wilson Legal Solutions Inc",
+  "type": [],
   "url": "http://www.wilsonlegalsol.com/careers.html",
   "webSiteUrl": "http://www.wilsonlegalsol.com/",
-  "address": "3817 West Chester Pike, Newtown Square, PA 19073",
-  "geo": {
-    "latitude": 39.986286,
-    "longitude": -75.408623
+  "technologies": [],
+  "locations": {
+    "newtown square": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3817 West Chester Pike, Newtown Square, PA 19073",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.986286,
+        "longitude": -75.408623
+      }
+    }
   },
   "positions": [
     {
-      "title": ".Net Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": ".Net Developer",
+      "alternateName": "",
+      "url": "http://www.wilsonlegalsol.com/careers.html",
+      "jobLocation": "newtown square",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

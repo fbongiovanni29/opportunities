@@ -1,21 +1,55 @@
 {
   "company": "Saturn Infotech Inc",
+  "type": [],
   "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
   "webSiteUrl": "http://www.saturninfotech.com/",
-  "address": "1120 Welsh Road, Suite 110, North Wales, PA 19454",
-  "geo": {
-    "latitude": 40.227722,
-    "longitude": -75.261352
+  "technologies": [],
+  "locations": {
+    "north wales": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1120 Welsh Road, Suite 110, North Wales, PA 19454",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.227722,
+        "longitude": -75.261352
+      }
+    }
   },
   "positions": [
     {
-      "title": "Entry Level Hyperion Developers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Entry Level Hyperion Developers",
+      "alternateName": "",
+      "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+      "jobLocation": "north wales",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Junior C/C++ or MATLAB Developers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior C/C++ or MATLAB Developers",
+      "alternateName": "",
+      "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+      "jobLocation": "north wales",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Fresh Graduates - Systems Analyst / Programmer Analyst",
+      "alternateName": "",
+      "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+      "jobLocation": "north wales",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

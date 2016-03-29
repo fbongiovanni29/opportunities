@@ -1,45 +1,143 @@
 {
   "company": "Sidecar",
+  "type": [],
   "url": "https://hello.getsidecar.com/careers-listing/",
   "webSiteUrl": "https://hello.getsidecar.com/",
-  "address": "114 S. 13th Street, 3rd Floor, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.949836,
-    "longitude": -75.161949
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "114 S. 13th Street, 3rd Floor, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.949836,
+        "longitude": -75.161949
+      }
+    }
   },
   "positions": [
     {
-      "title": "Application Support Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Support Developer",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Infrastructure Support Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Infrastructure Support Developer",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Product Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technical Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Project Manager",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr. Product Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Product Analyst",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr. DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. DevOps Engineer",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Systems Administrator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Administrator",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr. Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Data Scientist",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr. Front End Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Front End Engineer",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr. Product Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Product Engineer",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Content Marketing Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Marketing Manager",
+      "alternateName": "",
+      "url": "https://hello.getsidecar.com/careers-listing/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

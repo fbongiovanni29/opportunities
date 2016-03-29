@@ -1,21 +1,55 @@
 {
   "company": "Inspire Energy",
+  "type": [],
   "url": "http://www.inspireenergy.com/join-our-team#powers",
   "webSiteUrl": "http://www.inspireenergy.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": [
     {
-      "title": "Backend Developer - VC Backed Startup"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Backend Developer - VC Backed Startup",
+      "alternateName": "",
+      "url": "http://www.inspireenergy.com/join-our-team#powers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Full Stack Developer - VC Backed Startup"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Developer - VC Backed Startup",
+      "alternateName": "",
+      "url": "http://www.inspireenergy.com/join-our-team#powers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer - VC Backed Startup"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer - VC Backed Startup",
+      "alternateName": "",
+      "url": "http://www.inspireenergy.com/join-our-team#powers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,30 +1,88 @@
 {
   "company": "Monetate, Inc.",
+  "type": [],
   "url": "http://www.monetate.com/about/careers/#open-positions",
   "webSiteUrl": "http://www.monetate.com/",
-  "address": "951 E. Hector Street, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.0750470612,
-    "longitude": -75.2904890204
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "951 E. Hector Street, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0750470612,
+        "longitude": -75.2904890204
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Javascript Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Javascript Engineer",
+      "alternateName": "",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Product Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Product Owner"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Owner",
+      "alternateName": "",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

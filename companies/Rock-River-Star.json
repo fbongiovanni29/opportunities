@@ -3,20 +3,53 @@
   "type": [],
   "url": "http://rockriverstar.com/careers",
   "webSiteUrl": "http://rockriverstar.com/",
-  "address": "202 Corner Ketch Road, Downingtown, PA 19335",
-  "geo": {
-    "latitude": 40.031643,
-    "longitude": -75.750801
+  "technologies": [],
+  "locations": {
+    "downingtown": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "202 Corner Ketch Road, Downingtown, PA 19335",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.031643,
+        "longitude": -75.750801
+      }
+    }
   },
   "positions": [
     {
-      "title": "Creative Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "",
+      "url": "http://rockriverstar.com/careers",
+      "jobLocation": "downingtown",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Lead Project Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Project Architect",
+      "alternateName": "",
+      "url": "http://rockriverstar.com/careers",
+      "jobLocation": "downingtown",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Programmer / Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Programmer / Developer",
+      "alternateName": "",
+      "url": "http://rockriverstar.com/careers",
+      "jobLocation": "downingtown",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

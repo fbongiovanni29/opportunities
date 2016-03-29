@@ -5,10 +5,19 @@
   ],
   "url": "http://www.cisbydeloitte.com/careers/",
   "webSiteUrl": "http://www.cis-partners.com/",
-  "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
-  "geo": {
-    "latitude": 39.99049,
-    "longitude": -75.411689
+  "technologies": [],
+  "locations": {
+    "newtown square": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.99049,
+        "longitude": -75.411689
+      }
+    }
   },
   "positions": []
 }

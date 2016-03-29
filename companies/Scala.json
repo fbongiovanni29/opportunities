@@ -1,15 +1,33 @@
 {
   "company": "Scala",
+  "type": [],
   "url": "http://join.scala.com/careers/",
   "webSiteUrl": "http://scala.com/",
-  "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
-  "geo": {
-    "latitude": 40.0632385406,
-    "longitude": -75.5384306945
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0632385406,
+        "longitude": -75.5384306945
+      }
+    }
   },
   "positions": [
     {
-      "title": "Programmer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Programmer",
+      "alternateName": "",
+      "url": "http://join.scala.com/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

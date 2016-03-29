@@ -1,21 +1,55 @@
 {
   "company": "Velora Studios",
+  "type": [],
   "url": "http://www.velorastudios.com/jobs",
   "webSiteUrl": "http://www.velorastudios.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
   },
   "positions": [
     {
-      "title": "Ruby on Rails Lead Programmer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby on Rails Lead Programmer",
+      "alternateName": "",
+      "url": "http://www.velorastudios.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "",
+      "url": "http://www.velorastudios.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "",
+      "url": "http://www.velorastudios.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

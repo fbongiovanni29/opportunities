@@ -1,11 +1,21 @@
 {
   "company": "GovDelivery",
+  "type": [],
   "url": "https://www.govdelivery.com/company/careers/",
   "webSiteUrl": "https://www.govdelivery.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": []
 }

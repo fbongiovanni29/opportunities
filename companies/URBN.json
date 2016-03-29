@@ -1,51 +1,165 @@
 {
   "company": "URBN",
+  "type": [],
   "url": "http://urbn.com/career/",
   "webSiteUrl": "http://urbn.com/",
-  "address": "5000 South Broad St, Philadelphia, PA 19112-1495",
-  "geo": {
-    "latitude": 39.889369,
-    "longitude": -75.176112
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "5000 South Broad St, Philadelphia, PA 19112-1495",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.889369,
+        "longitude": -75.176112
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Network Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Network Engineer",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Production Support Manager - Ecommerce"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Production Support Manager - Ecommerce",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Microsoft Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Microsoft Engineer",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Store Systems Operations Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Store Systems Operations Manager",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Project Manager - Reporting Systems"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager - Reporting Systems",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "IT CRM Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IT CRM Business Analyst",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Linux Administration Store Technology"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Administration Store Technology",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "ETL Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ETL Engineer",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "OMS Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "OMS Business Analyst",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "",
+      "url": "http://urbn.com/career/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,18 +1,44 @@
 {
   "company": "Here's My Chance",
+  "type": [],
   "url": "http://heresmychance.com/careers/",
   "webSiteUrl": "http://heresmychance.com/",
-  "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.949836,
-    "longitude": -75.161949
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.949836,
+        "longitude": -75.161949
+      }
+    }
   },
   "positions": [
     {
-      "title": "Copywriter"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "",
+      "url": "http://heresmychance.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Freelance Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Freelance Designer",
+      "alternateName": "",
+      "url": "http://heresmychance.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

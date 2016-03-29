@@ -1,18 +1,44 @@
 {
   "company": "Halfpenny Technologies",
+  "type": [],
   "url": "http://www.halfpenny.com/careers.html",
   "webSiteUrl": "http://www.halfpenny.com/",
-  "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
-  "geo": {
-    "latitude": 40.152771,
-    "longitude": -75.283326
+  "technologies": [],
+  "locations": {
+    "blue bell": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.152771,
+        "longitude": -75.283326
+      }
+    }
   },
   "positions": [
     {
-      "title": "Integration Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Integration Developer",
+      "alternateName": "",
+      "url": "http://www.halfpenny.com/careers.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Quality Assurance (QA) Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Assurance (QA) Analyst",
+      "alternateName": "",
+      "url": "http://www.halfpenny.com/careers.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

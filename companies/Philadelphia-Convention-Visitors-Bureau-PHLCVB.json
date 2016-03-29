@@ -1,15 +1,33 @@
 {
   "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
+  "type": [],
   "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
   "webSiteUrl": "http://www.discoverphl.com/",
-  "address": "1700 Market St., Suite 3000, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.952974,
-    "longitude": -75.168444
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1700 Market St., Suite 3000, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952974,
+        "longitude": -75.168444
+      }
+    }
   },
   "positions": [
     {
-      "title": "Marketing Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Specialist",
+      "alternateName": "",
+      "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

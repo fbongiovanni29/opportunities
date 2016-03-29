@@ -1,21 +1,55 @@
 {
   "company": "PeopleLinx",
+  "type": [],
   "url": "http://peoplelinx.com/careers/",
   "webSiteUrl": "http://peoplelinx.com/",
-  "address": "1835 Market Street, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9532393469,
-    "longitude": -75.1705572449
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1835 Market Street, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9532393469,
+        "longitude": -75.1705572449
+      }
+    }
   },
   "positions": [
     {
-      "title": "Lead Content Designer / Instructional Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Content Designer / Instructional Designer",
+      "alternateName": "",
+      "url": "http://peoplelinx.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Client Success Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Success Manager",
+      "alternateName": "",
+      "url": "http://peoplelinx.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Account Executive"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive",
+      "alternateName": "",
+      "url": "http://peoplelinx.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

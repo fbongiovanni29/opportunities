@@ -1,21 +1,55 @@
 {
   "company": "PipelineDeals",
+  "type": [],
   "url": "https://www.pipelinedeals.com/careers",
   "webSiteUrl": "https://www.pipelinedeals.com/",
-  "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
-  "geo": {
-    "latitude": 40.04229,
-    "longitude": -75.581178
+  "technologies": [],
+  "locations": {
+    "exton": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.04229,
+        "longitude": -75.581178
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "",
+      "url": "https://www.pipelinedeals.com/careers",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Customer Ambassador"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Ambassador",
+      "alternateName": "",
+      "url": "https://www.pipelinedeals.com/careers",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "QA Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Analyst",
+      "alternateName": "",
+      "url": "https://www.pipelinedeals.com/careers",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,42 +1,132 @@
 {
   "company": "Zonoff",
+  "type": [],
   "url": "https://zonoff.com/our-story/careers/",
   "webSiteUrl": "https://zonoff.com/",
-  "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
-  "geo": {
-    "latitude": 40.051395125,
-    "longitude": -75.5336614375
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.051395125,
+        "longitude": -75.5336614375
+      }
+    }
   },
   "positions": [
     {
-      "title": "UI Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI Designer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Architect",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Cloud Services Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Services Developer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Javascript UI Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Javascript UI Developer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Linux Application Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Application Developer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Solutions Support Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Solutions Support Engineer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "QA Test Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Test Engineer",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Analytics Lead Contributor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Analytics Lead Contributor",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Director, Content and Brand Marketing"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director, Content and Brand Marketing",
+      "alternateName": "",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

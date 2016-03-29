@@ -1,15 +1,33 @@
 {
   "company": "Savana, Inc.",
+  "type": [],
   "url": "http://savanainc.com/company/careers/",
   "webSiteUrl": "http://savanainc.com/",
-  "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
-  "geo": {
-    "latitude": 40.06229052,
-    "longitude": -75.45604168
+  "technologies": [],
+  "locations": {
+    "berwyn": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.06229052,
+        "longitude": -75.45604168
+      }
+    }
   },
   "positions": [
     {
-      "title": "Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Analyst",
+      "alternateName": "",
+      "url": "http://savanainc.com/company/careers/",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

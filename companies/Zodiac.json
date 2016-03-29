@@ -1,20 +1,55 @@
 {
   "company": "Zodiac",
+  "type": [],
   "url": "http://jobs.lever.co/zodiacmetrics",
-  "address": "2001 Locust St, Philadelphia, PA",
-  "geo": {
-    "latitude": "39.954163",
-    "longitude": "-75.173731"
+  "webSiteUrl": "",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2001 Locust St, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": "39.954163",
+        "longitude": "-75.173731"
+      }
+    }
   },
   "positions": [
     {
-      "title": "Backend Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Backend Engineer",
+      "alternateName": "",
+      "url": "http://jobs.lever.co/zodiacmetrics",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Frontend Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Frontend Engineer",
+      "alternateName": "",
+      "url": "http://jobs.lever.co/zodiacmetrics",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Full Stack Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Engineer",
+      "alternateName": "",
+      "url": "http://jobs.lever.co/zodiacmetrics",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

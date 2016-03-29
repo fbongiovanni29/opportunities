@@ -1,15 +1,33 @@
 {
   "company": "Fynydd",
+  "type": [],
   "url": "https://fynydd.com/careers/",
   "webSiteUrl": "https://fynydd.com/",
-  "address": "630 Freedom Business Center Drive, King of Prussia, PA 19406",
-  "geo": {
-    "latitude": 40.0922677347,
-    "longitude": -75.4162122857
+  "technologies": [],
+  "locations": {
+    "king of prussia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "630 Freedom Business Center Drive, King of Prussia, PA 19406",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0922677347,
+        "longitude": -75.4162122857
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Developer",
+      "alternateName": "",
+      "url": "https://fynydd.com/careers/",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

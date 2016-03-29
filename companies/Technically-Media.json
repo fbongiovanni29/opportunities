@@ -1,11 +1,21 @@
 {
   "company": "Technically Media",
+  "type": [],
   "url": "http://technicallymedia.com/careers",
   "webSiteUrl": "http://technicallymedia.com/",
-  "address": "4040 Locust Street, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.9531008333,
-    "longitude": -75.2038928333
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4040 Locust Street, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9531008333,
+        "longitude": -75.2038928333
+      }
+    }
   },
   "positions": []
 }

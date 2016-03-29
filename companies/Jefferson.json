@@ -1,66 +1,220 @@
 {
   "company": "Jefferson",
+  "type": [],
   "url": "http://www.jefferson.edu/human-resources/careers.html",
   "webSiteUrl": "http://www.jefferson.edu/",
-  "address": "1025 Walnut Street, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.948784,
-    "longitude": -75.158186
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1025 Walnut Street, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.948784,
+        "longitude": -75.158186
+      }
+    }
   },
   "positions": [
     {
-      "title": "Application Development Specialist - IS&T - V69 - 9207191"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Development Specialist - IS&T - V69 - 9207191",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Multimedia Instructional Designer - IS&T - V67 - 9207192"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Multimedia Instructional Designer - IS&T - V67 - 9207192",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Scientist - IS&T - V70 - 9207105"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist - IS&T - V70 - 9207105",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Security Analyst II - IS&T - V67 - 9207104"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Security Analyst II - IS&T - V67 - 9207104",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Voice Communications Technician - V66 - 9207102"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Voice Communications Technician - V66 - 9207102",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Lead Client Solutions Analyst - 9205587"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Client Solutions Analyst - 9205587",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Windows System Administrator - V68 - 9206962"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Windows System Administrator - V68 - 9206962",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Domain Architect - 9205737"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Domain Architect - 9205737",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Security Analyst II - IS&T - 9204646"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Security Analyst II - IS&T - 9204646",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Application Development Specialist - IS&T - 9205225"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Development Specialist - IS&T - 9205225",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Oracle Database Administrator - 9204645"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Oracle Database Administrator - 9204645",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr. Storage Administrator - 9204643"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Storage Administrator - 9204643",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "End-Point System Administrator (V67) - 9206277"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "End-Point System Administrator (V67) - 9206277",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Virtualization Administrator (V68) - IS&T - 9206155"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Virtualization Administrator (V68) - IS&T - 9206155",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "IT Infrastructure Project Manager (V70) - 9206157"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IT Infrastructure Project Manager (V70) - 9206157",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Apple Systems Administrator (V68) - 9206161"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Apple Systems Administrator (V68) - 9206161",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer - 9206162"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer - 9206162",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Director of IS&T Security & Enterprise Security Officer - 9205586"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of IS&T Security & Enterprise Security Officer - 9205586",
+      "alternateName": "",
+      "url": "http://www.jefferson.edu/human-resources/careers.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

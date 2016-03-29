@@ -1,21 +1,55 @@
 {
   "company": "Transmogrify",
+  "type": [],
   "url": "http://xmog.com/jobs",
   "webSiteUrl": "http://xmog.com/",
-  "address": "112 Fayette St., Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.0739984286,
-    "longitude": -75.306129102
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "112 Fayette St., Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0739984286,
+        "longitude": -75.306129102
+      }
+    }
   },
   "positions": [
     {
-      "title": "Front-End / UI Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-End / UI Developer",
+      "alternateName": "",
+      "url": "http://xmog.com/jobs",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "iOS Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Developer",
+      "alternateName": "",
+      "url": "http://xmog.com/jobs",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "User Interface / Visual Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Interface / Visual Designer",
+      "alternateName": "",
+      "url": "http://xmog.com/jobs",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }
