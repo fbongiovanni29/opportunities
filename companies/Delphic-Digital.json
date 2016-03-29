@@ -1,18 +1,129 @@
 {
   "company": "Delphic Digital",
+  "type": ["agency"],
   "url": "http://www.delphicdigital.com/about/careers/open-positions",
   "webSiteUrl": "http://www.delphicdigital.com/",
-  "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
-  "geo": {
-    "latitude": 40.022712,
-    "longitude": -75.217571
+  "technologies": [".net", "Sitecore"],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
+      "geo": {
+        "latitude": 40.022712,
+        "longitude": -75.217571
+      }
+    }
   },
   "positions": [
     {
-      "title": "Sitecore Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=170305",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Systems Admin / DevOps Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Director, Healthcare Vertical ",
+      "alternateName": "Business Development",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=168723",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Group Account Director",
+      "alternateName": "Project Manager",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=180377",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Coordinator",
+      "alternateName": "Project Manager",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=179547",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=179538",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Business Analyst",
+      "alternateName": "Project Manager",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=178412",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Front End Web Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=173207",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Strategist",
+      "alternateName": "Content Strategist",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=59485",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sitecore Web Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=111708",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Lead",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=174453",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

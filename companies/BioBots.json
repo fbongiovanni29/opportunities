@@ -1,18 +1,30 @@
 {
   "company": "BioBots",
-  "type": [
-    "Startup"
-  ],
+  "type": ["Product", "Startup"],
   "url": "https://angel.co/biobots/jobs",
   "webSiteUrl": "https://www.biobots.io/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "3711 Market St #891, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.9567794,
+        "longitude": -75.1969127
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/biobots/jobs/116521-software-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

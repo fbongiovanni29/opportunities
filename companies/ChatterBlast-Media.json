@@ -1,15 +1,85 @@
 {
   "company": "ChatterBlast Media",
+  "type": ["consultancy"],
   "url": "http://chatterblast.com/careers/",
   "webSiteUrl": "http://chatterblast.com/",
-  "address": "1315 Walnut Street, Suite 800, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.9491672,
-    "longitude": -75.1628294
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1315 Walnut Street, Suite 800, Philadelphia, PA 19107",
+      "geo": {
+        "latitude": 39.9491672,
+        "longitude": -75.1628294
+      }
+    }
   },
   "positions": [
     {
-      "title": "Account Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Manager",
+      "alternateName": "Business Development",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Account Management Intern",
+      "alternateName": "Intern",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Copywriter Intern",
+      "alternateName": "Intern",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Graphic Designer Intern",
+      "alternateName": "Intern",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Research & Reporting Specialist Intern",
+      "alternateName": "Intern",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Community Coordinator Intern",
+      "alternateName": "Intern",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

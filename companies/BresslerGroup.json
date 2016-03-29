@@ -1,33 +1,129 @@
 {
   "company": "BresslerGroup",
+  "type": ["consultancy"],
   "url": "http://www.bresslergroup.com/about/#jobs",
   "webSiteUrl": "http://www.bresslergroup.com/",
-  "address": "7th floor, 1216 Arch St, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.951735,
-    "longitude": -75.158654
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "7th floor, 1216 Arch St, Philadelphia, PA 19107",
+      "geo": {
+        "latitude": 39.951735,
+        "longitude": -75.158654
+      }
+    }
   },
   "positions": [
     {
-      "title": "Junior Graphic Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Human Resources Coordinator",
+      "alternateName": "HR",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Product Development Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Design Researcher",
+      "alternateName": "Design, Research",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Interaction Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Researcher",
+      "alternateName": "Design, Research",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Software/Firmware Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Development Engineer",
+      "alternateName": "Engineer",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Product Development Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Product Development Engineer/Program Manager",
+      "alternateName": "Engineer",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Electrical Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Interaction Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Industrial Design Internship"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interaction Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Electrical Engineer",
+      "alternateName": "Engineer",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software/Firmware Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Industrial Design Internship",
+      "alternateName": "Intern",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

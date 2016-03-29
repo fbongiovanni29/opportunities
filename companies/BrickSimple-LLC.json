@@ -1,18 +1,41 @@
 {
   "company": "BrickSimple LLC",
+  "type": ["consultancy"],
   "url": "http://bricksimple.com/",
   "webSiteUrl": "http://bricksimple.com/",
-  "address": "22 S Main St, Doylestown, PA 18901",
-  "geo": {
-    "latitude": 40.309501,
-    "longitude": -75.1301983333
+  "technologies": ["Django", "Python"],
+  "locations": {
+    "doylestown": {
+      "@type": "Place",
+      "address": "22 S Main St, Doylestown, PA 18901",
+      "geo": {
+        "latitude": 40.309501,
+        "longitude": -75.1301983333
+      }
+    }
   },
   "positions": [
     {
-      "title": "Web Application Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://bricksimple.com/web_app_dev_listing.html",
+      "jobLocation": "doylestown",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Mobile Application Developer"
-    }
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Mobile Application Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "http://bricksimple.com/mobile_developer_listing.html",
+      "jobLocation": "doylestown",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
   ]
 }

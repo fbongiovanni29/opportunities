@@ -1,6 +1,6 @@
 {
   "company": "Azavea",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://jobs.azavea.com/",
   "webSiteUrl": "http://www.azavea.com/",
   "technologies": [
@@ -24,7 +24,6 @@
   ],
   "locations": {
     "philadelphia": {
-      "@context": "http://schema.org",
       "@type": "Place",
       "address": "340 N 12th St, Suite 402, Philadelphia, PA",
       "geo": {
@@ -39,18 +38,18 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Operations Engineer",
-      "alternateName": "",
+      "alternateName": "DevOps",
       "url": "http://jobs.azavea.com/opening/operations-engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-02-16"
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer - Civic Apps Team",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://jobs.azavea.com/opening/software-developer-civic-apps/",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -61,7 +60,7 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer - Geospatial Insights Team",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://jobs.azavea.com/opening/software-engineer-geospatial-insights-team/",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -72,7 +71,7 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer - GeoTrellis Team",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://jobs.azavea.com/opening/software-developer-geotrellis/",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -83,7 +82,7 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "UI/UX Designer",
-      "alternateName": "",
+      "alternateName": "Developer, Frontend",
       "url": "http://jobs.azavea.com/opening/ui-ux-designer/",
       "jobLocation": "philadelphia",
       "remote": false,

@@ -1,18 +1,30 @@
 {
   "company": "Clutch",
+  "type": ["product"],
   "url": "https://www.clutch.com/careers/",
   "webSiteUrl": "https://www.clutch.com/",
-  "address": "201 S Maple St #250, Ambler, PA 19002",
-  "geo": {
-    "latitude": 40.1561585849,
-    "longitude": -75.2278333396
+  "technologies": [],
+  "locations": {
+    "ambler": {
+      "@type": "Place",
+      "address": "201 S Maple St #250, Ambler, PA 19002",
+      "geo": {
+        "latitude": 40.1561585849,
+        "longitude": -75.2278333396
+      }
+    }
   },
   "positions": [
     {
-      "title": "SENIOR DATA SCIENTIST"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR DATA SCIENTIST",
+      "alternateName": "Data Scientist",
+      "url": "https://www.clutch.com/careers/",
+      "jobLocation": "ambler",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
-    {
-      "title": "PRODUCT MANAGER"
-    }
   ]
 }

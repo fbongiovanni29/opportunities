@@ -1,18 +1,85 @@
 {
   "company": "Evolve IP",
+  "type": ["agency"],
   "url": "http://www.evolveip.net/about/careers",
   "webSiteUrl": "http://www.evolveip.net/",
-  "address": "989 Old Eagle School Rd, Wayne, PA 19087",
-  "geo": {
-    "latitude": 40.076770625,
-    "longitude": -75.41092975
+  "technologies": [],
+  "locations": {
+    "wayne": {
+      "@type": "Place",
+      "address": "989 Old Eagle School Rd, Wayne, PA 19087",
+      "geo": {
+        "latitude": 40.076770625,
+        "longitude": -75.41092975
+      }
+    }
   },
   "positions": [
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Marketing Manager of Hosted Communications",
+      "alternateName": "Marketing",
+      "url": "http://www.evolveip.net/about/careers/product-marketing-manager",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Platform Engineer, Cloud Computing"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Assurance Analyst",
+      "alternateName": "Developer, QA",
+      "url": "http://www.evolveip.net/about/careers/quality-assurance-analyst",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "NSOC Technician Network Operations",
+      "alternateName": "Developer, DevOps",
+      "url": "http://www.evolveip.net/about/careers/network-security-operations-center-nsoc-technician",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Platform Engineer, Cloud Computing",
+      "alternateName": "Developer, DevOps",
+      "url": "http://www.evolveip.net/about/careers/platform-engineer-cloud-computing",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Technology Advisor",
+      "alternateName": "Business Development",
+      "url": "http://www.evolveip.net/about/careers/client-technology-advisor",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Computing Sales Engineer",
+      "alternateName": "Business Development",
+      "url": "http://www.evolveip.net/about/careers/cloud-computing-sales-engineer",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

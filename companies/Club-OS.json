@@ -1,24 +1,30 @@
 {
   "company": "Club OS",
-  "type": [
-    "Startup"
-  ],
+  "type": ["Startup", "Product"],
   "url": "https://angel.co/club-os/jobs",
   "webSiteUrl": "https://www.club-os.com/",
-  "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9549139592,
-    "longitude": -75.1671930612
+  "technologies": ["Java"],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9549139592,
+        "longitude": -75.1671930612
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Java Sofware Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/club-os/jobs/98081-software-engineer-multiple-positions",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
-    {
-      "title": "Front End Web Developer"
-    },
-    {
-      "title": "Software Engineer"
-    }
   ]
 }

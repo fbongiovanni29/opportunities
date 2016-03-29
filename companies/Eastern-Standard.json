@@ -1,18 +1,52 @@
 {
   "company": "Eastern Standard",
+  "type": ["agency"],
   "url": "http://easternstandard.com/pages/careers",
   "webSiteUrl": "http://easternstandard.com/",
-  "address": "261 Old York Rd., Suite 617, Jenkintown, PA 19046",
-  "geo": {
-    "latitude": 40.093339,
-    "longitude": -75.125276
+  "technologies": ["Drupal"],
+  "locations": {
+    "jenkintown": {
+      "@type": "Place",
+      "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+      "geo": {
+        "latitude": 40.093339,
+        "longitude": -75.125276
+      }
+    }
   },
   "positions": [
     {
-      "title": "SENIOR GRAPHIC DESIGNER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DEVELOPER",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://easternstandard.com/careers",
+      "jobLocation": "jenkintown",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "DEVELOPER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ASSOCIATE ART DIRECTOR",
+      "alternateName": "Designer, Visual",
+      "url": "http://easternstandard.com/careers",
+      "jobLocation": "jenkintown",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR INTERACTIVE DESIGNER",
+      "alternateName": "Designer, User Experience",
+      "url": "http://easternstandard.com/careers",
+      "jobLocation": "jenkintown",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

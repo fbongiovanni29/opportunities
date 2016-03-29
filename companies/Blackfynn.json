@@ -1,18 +1,41 @@
 {
   "company": "Blackfynn",
+  "type": ["product"],
   "url": "http://www.blackfynn.com/careers/",
   "webSiteUrl": "http://www.blackfynn.com/",
-  "address": "123 N 3rd St 2nd Floor, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.952821,
-    "longitude": -75.145047
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "123 N 3rd St 2nd Floor Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.952821,
+        "longitude": -75.145047
+      }
+    }
   },
   "positions": [
     {
-      "title": "Full Stack Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.blackfynn.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Front-end Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-end Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.blackfynn.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
