@@ -1,39 +1,239 @@
 {
   "company": "eMoney Advisor",
+  "type": ["internal"],
   "url": "http://emoneyadvisor.theresumator.com/apply",
   "webSiteUrl": "http://emoneyadvisor.com/",
-  "address": "1001 E Hector St, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.07517,
-    "longitude": -75.289722
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "1001 E Hector St, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.07517,
+        "longitude": -75.289722
+      }
+    }
   },
   "positions": [
     {
-      "title": "Billing Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of QA",
+      "alternateName": "Developer, QA",
+      "url": "http://emoneyadvisor.theresumator.com/apply/aqjLAi/Director-Of-QA",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Client Communications Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - API",
+      "alternateName": "Developer, Backend",
+      "url": "http://emoneyadvisor.theresumator.com/apply/Si8o4x/Software-Engineer-API",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Client Support Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://emoneyadvisor.theresumator.com/apply/BucJju/Software-Engineer-Application-Developer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Data Services Support Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - Data Services",
+      "alternateName": "Developer, DBA",
+      "url": "http://emoneyadvisor.theresumator.com/apply/WZ6gmY/Software-Engineer-Data-Services",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Information Security Analyst-Risk Management"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - Deployment",
+      "alternateName": "Developer, DevOps",
+      "url": "http://emoneyadvisor.theresumator.com/apply/VA18qx/Software-Engineer-Deployment",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Senior Systems Automation Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - Infrastructure & Tools",
+      "alternateName": "Developer, DevOps",
+      "url": "http://emoneyadvisor.theresumator.com/apply/nP8xw0/Software-Engineer-Infrastructure-Tools",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineering Manager",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://emoneyadvisor.theresumator.com/apply/bIVHmj/Software-Engineering-Manager",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Software Engineer-Data Services"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Support Specialist",
+      "alternateName": "Helpdesk",
+      "url": "http://emoneyadvisor.theresumator.com/apply/Ba3cas/Client-Support-Specialist",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Staff Accountant"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Support Specialist",
+      "alternateName": "Helpdesk",
+      "url": "http://emoneyadvisor.theresumator.com/apply/cSW0sx/Client-Support-Specialist",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Art Director",
+      "alternateName": "Designer, Visual",
+      "url": "http://emoneyadvisor.theresumator.com/apply/IUGP6C/Art-Director",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Motion Graphics Animator",
+      "alternateName": "Designer, Visual",
+      "url": "http://emoneyadvisor.theresumator.com/apply/0K9dRP/Sr-Motion-Graphics-Animator",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Services Support Specialist",
+      "alternateName": "Developer, DBA",
+      "url": "http://emoneyadvisor.theresumator.com/apply/Ecn8G0/Data-Services-Support-Specialist",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Architect",
+      "alternateName": "Developer, Backend",
+      "url": "http://emoneyadvisor.theresumator.com/apply/h8Kg9K/Systems-Architect",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Brand Marketing",
+      "alternateName": "Marketing",
+      "url": "http://emoneyadvisor.theresumator.com/apply/TBw64o/Director-Of-Brand-Marketing",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "",
+      "alternateName": "",
+      "url": "",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Generation Manager",
+      "alternateName": "Business Development",
+      "url": "http://emoneyadvisor.theresumator.com/apply/bATFOy/Lead-Generation-Manager",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Analyst - Enterprise Product Management",
+      "alternateName": "Project Manager",
+      "url": "http://emoneyadvisor.theresumator.com/apply/BEj5bE/Business-Analyst-Enterprise-Product-Management",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Implementation Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://emoneyadvisor.theresumator.com/apply/gYOxkk/Implementation-Engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "Project Manager",
+      "url": "http://emoneyadvisor.theresumator.com/apply/g7iE2P/Product-Manager",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Owner",
+      "alternateName": "Project Manager",
+      "url": "http://emoneyadvisor.theresumator.com/apply/Z67VtO/Product-Owner",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
