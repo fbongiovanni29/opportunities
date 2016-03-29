@@ -1,21 +1,55 @@
 {
   "company": "Philly Marketing Labs",
+  "type": [],
   "url": "http://www.phillymarketinglabs.com/join-our-team/",
   "webSiteUrl": "http://www.phillymarketinglabs.com/",
-  "address": "224 Lansdowne Ave, Wayne, PA 19087",
-  "geo": {
-    "latitude": 40.040375898,
-    "longitude": -75.3892247755
+  "technologies": [],
+  "locations": {
+    "wayne": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "224 Lansdowne Ave, Wayne, PA 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.040375898,
+        "longitude": -75.3892247755
+      }
+    }
   },
   "positions": [
     {
-      "title": "Web Marketing Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Marketing Project Manager",
+      "alternateName": "",
+      "url": "http://www.phillymarketinglabs.com/join-our-team/",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Organic Search Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Organic Search Manager",
+      "alternateName": "",
+      "url": "http://www.phillymarketinglabs.com/join-our-team/",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Paid Search Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Paid Search Manager",
+      "alternateName": "",
+      "url": "http://www.phillymarketinglabs.com/join-our-team/",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

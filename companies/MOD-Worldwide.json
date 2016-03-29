@@ -1,21 +1,55 @@
 {
   "company": "MOD Worldwide",
+  "type": [],
   "url": "http://www.modworldwide.com/creative.html",
   "webSiteUrl": "http://www.modworldwide.com/",
-  "address": "121 S Broad St, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.950696,
-    "longitude": -75.1638900816
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "121 S Broad St, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950696,
+        "longitude": -75.1638900816
+      }
+    }
   },
   "positions": [
     {
-      "title": "GRAPHIC DESIGNER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "GRAPHIC DESIGNER",
+      "alternateName": "",
+      "url": "http://www.modworldwide.com/creative.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "COPYWRITER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "COPYWRITER",
+      "alternateName": "",
+      "url": "http://www.modworldwide.com/creative.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "PROOFREADER/RESEARCH"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PROOFREADER/RESEARCH",
+      "alternateName": "",
+      "url": "http://www.modworldwide.com/creative.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

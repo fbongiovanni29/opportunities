@@ -1,11 +1,21 @@
 {
   "company": "Push10 Design",
+  "type": [],
   "url": "http://www.push10.com/blog/",
   "webSiteUrl": "http://www.push10.com/",
-  "address": "125 North 3rd St, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.9528668,
-    "longitude": -75.1450802
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "125 North 3rd St, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9528668,
+        "longitude": -75.1450802
+      }
+    }
   },
   "positions": []
 }

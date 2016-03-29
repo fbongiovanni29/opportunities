@@ -1,27 +1,77 @@
 {
   "company": "Veris Associates, Inc., dba VerisVisalign",
+  "type": [],
   "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
   "webSiteUrl": "http://www.verisvisalign.com/",
-  "address": "920 S. Broad Street, Lansdale, PA 19446",
-  "geo": {
-    "latitude": 40.229151,
-    "longitude": -75.296258
+  "technologies": [],
+  "locations": {
+    "lansdale": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "920 S. Broad Street, Lansdale, PA 19446",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.229151,
+        "longitude": -75.296258
+      }
+    }
   },
   "positions": [
     {
-      "title": "SHAREPOINT ARCHITECTS"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SHAREPOINT ARCHITECTS",
+      "alternateName": "",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SHAREPOINT DEVELOPERS"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SHAREPOINT DEVELOPERS",
+      "alternateName": "",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "PROJECT MANAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PROJECT MANAGER",
+      "alternateName": "",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "HELP DESK/SERVICE DESK ANALYST"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "HELP DESK/SERVICE DESK ANALYST",
+      "alternateName": "",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "APPLICATION PACKAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION PACKAGER",
+      "alternateName": "",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,21 +1,55 @@
 {
   "company": "Picwell Inc",
+  "type": [],
   "url": "http://nerds.picwell.com/jobs/",
   "webSiteUrl": "http://picwell.com/",
-  "address": "2200 Arch Street, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.955875,
-    "longitude": -75.176907
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2200 Arch Street, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.955875,
+        "longitude": -75.176907
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "http://nerds.picwell.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Engineer",
+      "alternateName": "",
+      "url": "http://nerds.picwell.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Scientist (Production)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist (Production)",
+      "alternateName": "",
+      "url": "http://nerds.picwell.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

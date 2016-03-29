@@ -1,18 +1,44 @@
 {
   "company": "Greenlane Search Marketing, LLC",
+  "type": [],
   "url": "http://www.greenlaneseo.com/jobs/",
   "webSiteUrl": "http://www.greenlaneseo.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": [
     {
-      "title": "Graphic / Web Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic / Web Designer",
+      "alternateName": "",
+      "url": "http://www.greenlaneseo.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Analyst",
+      "alternateName": "",
+      "url": "http://www.greenlaneseo.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

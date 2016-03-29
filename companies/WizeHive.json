@@ -1,18 +1,44 @@
 {
   "company": "WizeHive",
+  "type": [],
   "url": "https://review.wizehive.com/voting/posting",
   "webSiteUrl": "http://wizehive.com/",
-  "address": "441 E. Hector Street, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.073628,
-    "longitude": -75.297755
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "441 E. Hector Street, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.073628,
+        "longitude": -75.297755
+      }
+    }
   },
   "positions": [
     {
-      "title": "Implementation Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Implementation Specialist",
+      "alternateName": "",
+      "url": "https://review.wizehive.com/voting/posting",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Jr. Implementation Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Jr. Implementation Specialist",
+      "alternateName": "",
+      "url": "https://review.wizehive.com/voting/posting",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -3,14 +3,31 @@
   "type": [],
   "url": "http://www.goemerchant.com/careers.aspx",
   "webSiteUrl": "http://www.goemerchant.com/",
-  "address": "1 Mall Drive, Suite 515, Cherry Hill, NJ 08002",
-  "geo": {
-    "latitude": 39.942654,
-    "longitude": -75.025045
+  "technologies": [],
+  "locations": {
+    "cherry hill": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1 Mall Drive, Suite 515, Cherry Hill, NJ 08002",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.942654,
+        "longitude": -75.025045
+      }
+    }
   },
   "positions": [
     {
-      "title": "Technical Support Representative"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Support Representative",
+      "alternateName": "",
+      "url": "http://www.goemerchant.com/careers.aspx",
+      "jobLocation": "cherry hill",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

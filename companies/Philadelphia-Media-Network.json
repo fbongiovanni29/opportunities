@@ -1,51 +1,165 @@
 {
   "company": "Philadelphia Media Network",
+  "type": [],
   "url": "http://apsweb.philly.com/jobs/",
   "webSiteUrl": "http://www.philly.com/",
-  "address": "801 Market Street, Suite 300, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.951667,
-    "longitude": -75.153737
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "801 Market Street, Suite 300, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.951667,
+        "longitude": -75.153737
+      }
+    }
   },
   "positions": [
     {
-      "title": "Sales Planning Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sales Planning Analyst",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Outside Local Sales Representatives"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Outside Local Sales Representatives",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Advertising Sales Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Advertising Sales Manager",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Production Coordinator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Production Coordinator",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Audience Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Audience Analyst",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Product Associate"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Associate",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Co-Op Account Executive"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Co-Op Account Executive",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Graphic Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic Designer",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Interactive Graphic Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interactive Graphic Designer",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Reporting and Yield Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Reporting and Yield Specialist",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Campaign Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Campaign Manager",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "CRM Database Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "CRM Database Manager",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Market Research Analyst (Digital)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Market Research Analyst (Digital)",
+      "alternateName": "",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

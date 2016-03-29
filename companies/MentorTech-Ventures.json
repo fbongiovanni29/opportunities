@@ -1,27 +1,77 @@
 {
   "company": "MentorTech Ventures",
+  "type": [],
   "url": "http://www.mentortechventures.com/jobs",
   "webSiteUrl": "http://www.mentortechventures.com/",
-  "address": "3624 Market Street, Suite 300, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.9562402245,
-    "longitude": -75.1946339592
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3624 Market Street, Suite 300, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9562402245,
+        "longitude": -75.1946339592
+      }
+    }
   },
   "positions": [
     {
-      "title": "iOS Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Developer",
+      "alternateName": "",
+      "url": "http://www.mentortechventures.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Ruby Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby Developer",
+      "alternateName": "",
+      "url": "http://www.mentortechventures.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "iOS Developer – Intern/Co-Op"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Developer – Intern/Co-Op",
+      "alternateName": "",
+      "url": "http://www.mentortechventures.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Ruby Developer – Intern/Co-Op"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby Developer – Intern/Co-Op",
+      "alternateName": "",
+      "url": "http://www.mentortechventures.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "UI/UX Design – Intern/Co-Op"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI/UX Design – Intern/Co-Op",
+      "alternateName": "",
+      "url": "http://www.mentortechventures.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

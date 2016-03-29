@@ -1,11 +1,21 @@
 {
   "company": "National Constitution Center",
+  "type": [],
   "url": "http://constitutioncenter.org/about/careers/paid-positions/",
   "webSiteUrl": "http://constitutioncenter.org/",
-  "address": "Independence Mall 525 Arch Street, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.950063,
-    "longitude": -75.149022
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Independence Mall 525 Arch Street, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950063,
+        "longitude": -75.149022
+      }
+    }
   },
   "positions": []
 }

@@ -1,11 +1,21 @@
 {
   "company": "Tuva Labs Inc",
+  "type": [],
   "url": "https://tuvalabs.com/jobs/",
   "webSiteUrl": "https://tuvalabs.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": []
 }

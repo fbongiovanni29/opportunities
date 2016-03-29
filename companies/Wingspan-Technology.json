@@ -1,21 +1,55 @@
 {
   "company": "Wingspan Technology",
+  "type": [],
   "url": "http://www.wingspan.com/career_open_positions/",
   "webSiteUrl": "http://www.wingspan.com/",
-  "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
-  "geo": {
-    "latitude": 40.133626,
-    "longitude": -75.255467
+  "technologies": [],
+  "locations": {
+    "blue bell": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.133626,
+        "longitude": -75.255467
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "http://www.wingspan.com/career_open_positions/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "",
+      "url": "http://www.wingspan.com/career_open_positions/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "",
+      "url": "http://www.wingspan.com/career_open_positions/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

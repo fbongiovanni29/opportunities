@@ -1,21 +1,55 @@
 {
   "company": "Thomson Reuters",
+  "type": [],
   "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
   "webSiteUrl": "http://thomsonreuters.com/",
-  "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
-  "geo": {
-    "latitude": 39.962595,
-    "longitude": -75.163112
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.962595,
+        "longitude": -75.163112
+      }
+    }
   },
   "positions": [
     {
-      "title": "QA Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Engineer",
+      "alternateName": "",
+      "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Director, Sales Training & Development"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Director, Sales Training & Development",
+      "alternateName": "",
+      "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technology Consultant"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technology Consultant",
+      "alternateName": "",
+      "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

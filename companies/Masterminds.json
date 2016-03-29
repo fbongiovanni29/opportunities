@@ -1,24 +1,66 @@
 {
   "company": "Masterminds",
+  "type": [],
   "url": "http://mastermindsagency.com/#gigs",
   "webSiteUrl": "http://mastermindsagency.com/",
-  "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.9493152971,
-    "longitude": -75.1626386191
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9493152971,
+        "longitude": -75.1626386191
+      }
+    }
   },
   "positions": [
     {
-      "title": "Social Media Community Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Social Media Community Manager",
+      "alternateName": "",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Graphic Designer – Full time or Freelance"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic Designer – Full time or Freelance",
+      "alternateName": "",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Creative Internships"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Internships",
+      "alternateName": "",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Media Internship"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Media Internship",
+      "alternateName": "",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

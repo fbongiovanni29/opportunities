@@ -1,33 +1,99 @@
 {
   "company": "Relay",
+  "type": [],
   "url": "http://www.relaynetwork.com/careers/",
   "webSiteUrl": "http://www.relaynetwork.com/",
-  "address": "201 king of prussia rd, radnor, pa 19087",
-  "geo": {
-    "latitude": 40.081206,
-    "longitude": -75.388683
+  "technologies": [],
+  "locations": {
+    "radnor": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "201 king of prussia rd, radnor, pa 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.081206,
+        "longitude": -75.388683
+      }
+    }
   },
   "positions": [
     {
-      "title": "CLIENT PROJECT MANAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "CLIENT PROJECT MANAGER",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "DATA ARCHITECT"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DATA ARCHITECT",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "DEVOPS MANAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DEVOPS MANAGER",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "FRONT-END DEVELOPER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "FRONT-END DEVELOPER",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SCRUM MASTER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SCRUM MASTER",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SOFTWARE ENGINEER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SOFTWARE ENGINEER",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SR. SALES EXECUTIVE"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SR. SALES EXECUTIVE",
+      "alternateName": "",
+      "url": "http://www.relaynetwork.com/careers/",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

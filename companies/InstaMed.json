@@ -1,21 +1,55 @@
 {
   "company": "InstaMed",
+  "type": [],
   "url": "http://www.instamed.com/about/careers/",
   "webSiteUrl": "http://www.instamed.com/",
-  "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.952896,
-    "longitude": -75.174298
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952896,
+        "longitude": -75.174298
+      }
+    }
   },
   "positions": [
     {
-      "title": "Engagement Lead"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Engagement Lead",
+      "alternateName": "",
+      "url": "http://www.instamed.com/about/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "User Experience Researcher"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Experience Researcher",
+      "alternateName": "",
+      "url": "http://www.instamed.com/about/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Program Delivery Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Program Delivery Manager",
+      "alternateName": "",
+      "url": "http://www.instamed.com/about/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

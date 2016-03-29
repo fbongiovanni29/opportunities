@@ -1,18 +1,44 @@
 {
   "company": "Inverse Paradox",
+  "type": [],
   "url": "https://www.inverseparadox.com/careers/",
   "webSiteUrl": "https://www.inverseparadox.com/",
-  "address": "133 Bellevue Ave., Penndel, PA 19047",
-  "geo": {
-    "latitude": 40.1584053469,
-    "longitude": -74.9120337959
+  "technologies": [],
+  "locations": {
+    "penndel": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "133 Bellevue Ave., Penndel, PA 19047",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.1584053469,
+        "longitude": -74.9120337959
+      }
+    }
   },
   "positions": [
     {
-      "title": "PHP Developer – Magento"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PHP Developer – Magento",
+      "alternateName": "",
+      "url": "https://www.inverseparadox.com/careers/",
+      "jobLocation": "penndel",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "WordPress Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "WordPress Developer",
+      "alternateName": "",
+      "url": "https://www.inverseparadox.com/careers/",
+      "jobLocation": "penndel",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

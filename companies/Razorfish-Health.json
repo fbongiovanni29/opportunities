@@ -1,11 +1,21 @@
 {
   "company": "Razorfish Health",
+  "type": [],
   "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfishhealth&searchExpanded=FALSE#",
   "webSiteUrl": "http://www.razorfishhealth.com/",
-  "address": "100 Penn Square East, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.94491,
-    "longitude": -75.159786
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "100 Penn Square East, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.94491,
+        "longitude": -75.159786
+      }
+    }
   },
   "positions": []
 }

@@ -1,30 +1,88 @@
 {
   "company": "RDA Corp",
+  "type": [],
   "url": "http://rdacorp.com/en/Careers/Current%20Openings",
   "webSiteUrl": "http://rdacorp.com/",
-  "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
-  "geo": {
-    "latitude": 40.049973,
-    "longitude": -75.528712
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.049973,
+        "longitude": -75.528712
+      }
+    }
   },
   "positions": [
     {
-      "title": "Account Executive - Digital Sales and Marketing"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive - Digital Sales and Marketing",
+      "alternateName": "",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "BI Contractor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "BI Contractor",
+      "alternateName": "",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SharePoint Contractor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SharePoint Contractor",
+      "alternateName": "",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sitecore Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sitecore Developer",
+      "alternateName": "",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Marketing Strategist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Marketing Strategist",
+      "alternateName": "",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Cloud Developer Architect Contractor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Developer Architect Contractor",
+      "alternateName": "",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

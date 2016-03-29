@@ -1,15 +1,33 @@
 {
   "company": "InterNACHI",
+  "type": [],
   "url": "https://internachi.recruitee.com/",
   "webSiteUrl": "https://www.nachi.org/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)",
+      "alternateName": "",
+      "url": "https://internachi.recruitee.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,42 +1,132 @@
 {
   "company": "SEER Interactive",
+  "type": [],
   "url": "http://www.seerinteractive.com/careers/",
   "webSiteUrl": "http://www.seerinteractive.com/",
-  "address": "1033 N 2nd Street, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.9672323333,
-    "longitude": -75.1400423333
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1033 N 2nd Street, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9672323333,
+        "longitude": -75.1400423333
+      }
+    }
   },
   "positions": [
     {
-      "title": "Digital Strategy Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Strategy Manager",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Director of Business Strategy"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Business Strategy",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Analytics Associate"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Analytics Associate",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Director of Paid Search"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Paid Search",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Analytics Account Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Analytics Account Manager",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Technical SEO Associate"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical SEO Associate",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SEO Account Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SEO Account Manager",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "PPC Associate"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PPC Associate",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "PPC Account Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PPC Account Manager",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "SEO Associate"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SEO Associate",
+      "alternateName": "",
+      "url": "http://www.seerinteractive.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }
