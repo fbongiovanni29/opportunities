@@ -9,7 +9,7 @@
   "locations": {
     "philadelphia": {
       "@type": "Place",
-      "address": "1619 Walnut St. Philadelphia, PA 19103",
+      "address": "1619 Walnut St., Philadelphia, PA 19103",
       "geo": {
         "latitude": 39.9499277431,
         "longitude": -75.1677158144

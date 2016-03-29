@@ -68,7 +68,7 @@
     "company": "Boomi",
     "url": "http://www.boomi.com/company/careers",
     "webSiteUrl": "http://www.boomi.com/",
-    "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+    "address": "801 Cassatt Road, Suite 111, Berwyn, PA 19312",
     "geo": {
       "latitude": 40.062366,
       "longitude": -75.456169
@@ -260,7 +260,7 @@
     "company": "RDA Corp",
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
     "webSiteUrl": "http://rdacorp.com/",
-    "address": "101 Lindenwood Drive Suite 225 Malvern, PA 19355",
+    "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
     "geo": {
       "latitude": 40.049973,
       "longitude": -75.528712
@@ -384,7 +384,7 @@
     "company": "Zoomi",
     "url": "http://www.zoomiinc.com/jobs/",
     "webSiteUrl": "http://www.zoomiinc.com/",
-    "address": "101 Lindenwood Drive, Suite 400, Malvern PA 19355",
+    "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
     "geo": {
       "latitude": 40.050203,
       "longitude": -75.527085
