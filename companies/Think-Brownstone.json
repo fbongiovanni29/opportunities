@@ -1,33 +1,99 @@
 {
   "company": "Think Brownstone",
+  "type": [],
   "url": "https://www.thinkbrownstone.com/careers/",
   "webSiteUrl": "https://www.thinkbrownstone.com/",
-  "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
-  "geo": {
-    "latitude": 39.950745,
-    "longitude": -75.165716
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950745,
+        "longitude": -75.165716
+      }
+    }
   },
   "positions": [
     {
-      "title": "Content Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Analyst",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Experience Designer - Contractor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Experience Designer - Contractor",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Project Manager",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "UX & Visual Design Contractors"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX & Visual Design Contractors",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "UX Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX Designer",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer (Contract)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer (Contract)",
+      "alternateName": "",
+      "url": "https://www.thinkbrownstone.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

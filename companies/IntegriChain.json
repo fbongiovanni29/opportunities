@@ -1,15 +1,33 @@
 {
   "company": "IntegriChain",
+  "type": [],
   "url": "http://www.integrichain.com/about-us/careers/",
   "webSiteUrl": "http://www.integrichain.com/",
-  "address": "1628 JFK Boulevard, Suite 300, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.953705,
-    "longitude": -75.167953
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1628 JFK Boulevard, Suite 300, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.953705,
+        "longitude": -75.167953
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Test Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Test Engineer",
+      "alternateName": "",
+      "url": "http://www.integrichain.com/about-us/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

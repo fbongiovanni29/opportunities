@@ -1,6 +1,9 @@
 {
   "company": "Cerner",
-  "title": ["product", "consultancy"],
+  "type": [
+    "product",
+    "consultancy"
+  ],
   "url": "http://cerner.com/About_Cerner/Careers/",
   "webSiteUrl": "http://cerner.com/",
   "technologies": [],

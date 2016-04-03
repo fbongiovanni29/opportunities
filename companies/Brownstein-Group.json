@@ -1,6 +1,8 @@
 {
   "company": "Brownstein Group",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.brownsteingroup.com/careers/",
   "webSiteUrl": "http://www.brownsteingroup.com/",
   "technologies": [],

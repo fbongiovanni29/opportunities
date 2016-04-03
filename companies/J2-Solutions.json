@@ -1,18 +1,44 @@
 {
   "company": "J2 Solutions",
+  "type": [],
   "url": "http://www.j2-solutions.com/career.aspx",
   "webSiteUrl": "http://www.j2-solutions.com/",
-  "address": "660 American Avenue, Suite 104, King of Prussia, PA 19406",
-  "geo": {
-    "latitude": 40.094423,
-    "longitude": -75.394149
+  "technologies": [],
+  "locations": {
+    "king of prussia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "660 American Avenue, Suite 104, King of Prussia, PA 19406",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.094423,
+        "longitude": -75.394149
+      }
+    }
   },
   "positions": [
     {
-      "title": "Application Developers - .NET"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Developers - .NET",
+      "alternateName": "",
+      "url": "http://www.j2-solutions.com/career.aspx",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Application Developers - Java"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Developers - Java",
+      "alternateName": "",
+      "url": "http://www.j2-solutions.com/career.aspx",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

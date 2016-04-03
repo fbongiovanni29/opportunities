@@ -1,11 +1,21 @@
 {
   "company": "University of Pennsylvania Human Resources Department",
+  "type": [],
   "url": "https://www.hr.upenn.edu/career",
   "webSiteUrl": "https://www.hr.upenn.edu/",
-  "address": "3624 Market Street, Suite 1SD, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.955912,
-    "longitude": -75.195443
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3624 Market Street, Suite 1SD, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.955912,
+        "longitude": -75.195443
+      }
+    }
   },
   "positions": []
 }

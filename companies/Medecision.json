@@ -1,21 +1,55 @@
 {
   "company": "Medecision",
+  "type": [],
   "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
   "webSiteUrl": "http://www.medecision.com/",
-  "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
-  "geo": {
-    "latitude": 40.0755407626,
-    "longitude": -75.4241920791
+  "technologies": [],
+  "locations": {
+    "wayne": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0755407626,
+        "longitude": -75.4241920791
+      }
+    }
   },
   "positions": [
     {
-      "title": "Director, Data Management"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director, Data Management",
+      "alternateName": "",
+      "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Director, Customer Marketing"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Director, Customer Marketing",
+      "alternateName": "",
+      "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Solution Architect, Senior"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Solution Architect, Senior",
+      "alternateName": "",
+      "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

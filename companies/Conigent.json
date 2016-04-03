@@ -1,6 +1,8 @@
 {
   "company": "Conigent",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.conigent.com/contact/#openings-list",
   "webSiteUrl": "http://www.conigent.com/",
   "technologies": [],

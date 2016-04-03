@@ -1,6 +1,8 @@
 {
   "company": "Deacom, Inc",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
   "webSiteUrl": "http://deacom.com/",
   "technologies": [],

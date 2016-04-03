@@ -1,9 +1,14 @@
 {
   "company": "Club OS",
-  "type": ["Startup", "Product"],
+  "type": [
+    "Startup",
+    "Product"
+  ],
   "url": "https://angel.co/club-os/jobs",
   "webSiteUrl": "https://www.club-os.com/",
-  "technologies": ["Java"],
+  "technologies": [
+    "Java"
+  ],
   "locations": {
     "philadelphia": {
       "@type": "Place",
@@ -25,6 +30,6 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }

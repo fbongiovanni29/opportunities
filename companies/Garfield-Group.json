@@ -1,27 +1,77 @@
 {
   "company": "Garfield Group",
+  "type": [],
   "url": "http://garfieldgroup.com/careers",
   "webSiteUrl": "http://garfieldgroup.com/",
-  "address": "60 Blacksmith Road, Newtown, PA 18940",
-  "geo": {
-    "latitude": 40.222709625,
-    "longitude": -74.915183875
+  "technologies": [],
+  "locations": {
+    "newtown": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "60 Blacksmith Road, Newtown, PA 18940",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.222709625,
+        "longitude": -74.915183875
+      }
+    }
   },
   "positions": [
     {
-      "title": "Copywriter"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Art Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Art Director",
+      "alternateName": "",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Copywriter Intern"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter Intern",
+      "alternateName": "",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Graphic Design Intern"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic Design Intern",
+      "alternateName": "",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,6 +1,8 @@
 {
-  "type": ["product"],
   "company": "Curalate",
+  "type": [
+    "product"
+  ],
   "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
   "webSiteUrl": "http://www.curalate.com/",
   "technologies": [],

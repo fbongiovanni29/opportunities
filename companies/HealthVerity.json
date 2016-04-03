@@ -1,24 +1,66 @@
 {
   "company": "HealthVerity",
+  "type": [],
   "url": "http://healthverity.com/careers-2",
   "webSiteUrl": "http://healthverity.com/",
-  "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
-  "geo": {
-    "latitude": 39.95591,
-    "longitude": -75.17309
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.95591,
+        "longitude": -75.17309
+      }
+    }
   },
   "positions": [
     {
-      "title": "GIS Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "GIS Developer",
+      "alternateName": "",
+      "url": "http://healthverity.com/careers-2",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Back End Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Back End Software Developer",
+      "alternateName": "",
+      "url": "http://healthverity.com/careers-2",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Front End Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Software Developer",
+      "alternateName": "",
+      "url": "http://healthverity.com/careers-2",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Operations Engineer / DevOps"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Operations Engineer / DevOps",
+      "alternateName": "",
+      "url": "http://healthverity.com/careers-2",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

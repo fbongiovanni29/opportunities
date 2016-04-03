@@ -1,21 +1,55 @@
 {
   "company": "Graphene Frontiers",
+  "type": [],
   "url": "http://graphenefrontiers.com/careers/",
   "webSiteUrl": "http://graphenefrontiers.com/",
-  "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.9562402245,
-    "longitude": -75.1946339592
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9562402245,
+        "longitude": -75.1946339592
+      }
+    }
   },
   "positions": [
     {
-      "title": "Biosensor Research and Development Technician"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Biosensor Research and Development Technician",
+      "alternateName": "",
+      "url": "http://graphenefrontiers.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Database Developer / Programmer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Database Developer / Programmer",
+      "alternateName": "",
+      "url": "http://graphenefrontiers.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Semiconductor Device Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Semiconductor Device Engineer",
+      "alternateName": "",
+      "url": "http://graphenefrontiers.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

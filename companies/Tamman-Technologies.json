@@ -1,15 +1,32 @@
 {
   "company": "Tamman Technologies",
+  "type": [],
   "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
   "webSiteUrl": "http://www.tammantech.com/",
-  "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.950812,
-    "longitude": -75.145607
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950812,
+        "longitude": -75.145607
+      }
+    }
   },
   "positions": [
     {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Front-End & Full Stack Developers",
+      "alternateName": "",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "datePosted": "2016-03-14"
     }
   ]

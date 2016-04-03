@@ -1,9 +1,14 @@
 {
   "company": "BrickSimple LLC",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://bricksimple.com/",
   "webSiteUrl": "http://bricksimple.com/",
-  "technologies": ["Django", "Python"],
+  "technologies": [
+    "Django",
+    "Python"
+  ],
   "locations": {
     "doylestown": {
       "@type": "Place",
@@ -36,6 +41,6 @@
       "jobLocation": "doylestown",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
+    }
   ]
 }

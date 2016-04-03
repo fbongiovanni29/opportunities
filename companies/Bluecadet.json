@@ -1,9 +1,13 @@
 {
   "company": "Bluecadet",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.bluecadet.com/contact/careers/",
   "webSiteUrl": "http://www.bluecadet.com/",
-  "technologies": ["Drupal"],
+  "technologies": [
+    "Drupal"
+  ],
   "locations": {
     "philadelphia": {
       "@type": "Place",

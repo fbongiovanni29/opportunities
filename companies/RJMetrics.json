@@ -27,23 +27,63 @@
     "sql",
     "virtualbox"
   ],
-  "address": "1339 Chestnut Street, Suite 1500, Philadelphia, PA, 19107",
-  "geo": {
-    "latitude": 39.9507376667,
-    "longitude": -75.1629786667
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1339 Chestnut Street, Suite 1500, Philadelphia, PA, 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9507376667,
+        "longitude": -75.1629786667
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Data Warehouse Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Warehouse Analyst",
+      "alternateName": "",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Front End Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Engineer",
+      "alternateName": "",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

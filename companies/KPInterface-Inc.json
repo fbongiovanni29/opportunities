@@ -1,21 +1,55 @@
 {
   "company": "KPInterface, Inc.",
+  "type": [],
   "url": "http://www.kpinterface.com/careers.html",
   "webSiteUrl": "http://www.kpinterface.com/",
-  "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
-  "geo": {
-    "latitude": 40.209139,
-    "longitude": -75.544583
+  "technologies": [],
+  "locations": {
+    "limerick": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.209139,
+        "longitude": -75.544583
+      }
+    }
   },
   "positions": [
     {
-      "title": "IT Consultant – Mid-Level"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IT Consultant – Mid-Level",
+      "alternateName": "",
+      "url": "http://www.kpinterface.com/careers.html",
+      "jobLocation": "limerick",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "IT Consultant – Junior Level"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IT Consultant – Junior Level",
+      "alternateName": "",
+      "url": "http://www.kpinterface.com/careers.html",
+      "jobLocation": "limerick",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Computer Tech Support Internship"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Computer Tech Support Internship",
+      "alternateName": "",
+      "url": "http://www.kpinterface.com/careers.html",
+      "jobLocation": "limerick",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

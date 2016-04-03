@@ -1,6 +1,8 @@
 {
   "company": "EPAM",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.epam.com/careers",
   "webSiteUrl": "http://www.epam.com/",
   "technologies": [],

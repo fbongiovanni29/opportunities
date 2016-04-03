@@ -1,6 +1,8 @@
 {
   "company": "Clinical Ink",
-  "title": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://careers.smartrecruiters.com/ClinicalInk",
   "webSiteUrl": "http://www.clinicalink.com/",
   "technologies": [],

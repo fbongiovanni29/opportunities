@@ -1,18 +1,44 @@
 {
   "company": "GatherDocs",
+  "type": [],
   "url": "http://jobs.gatherdocs.com/",
   "webSiteUrl": "http://gatherdocs.com/",
-  "address": "4040 Locust St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.9531008333,
-    "longitude": -75.2038928333
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4040 Locust St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9531008333,
+        "longitude": -75.2038928333
+      }
+    }
   },
   "positions": [
     {
-      "title": "PHP Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PHP Web Developer",
+      "alternateName": "",
+      "url": "http://jobs.gatherdocs.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "http://jobs.gatherdocs.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

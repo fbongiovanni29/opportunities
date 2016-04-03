@@ -1,24 +1,66 @@
 {
   "company": "LevelUp",
+  "type": [],
   "url": "https://www.thelevelup.com/jobs",
   "webSiteUrl": "https://www.thelevelup.com/",
-  "address": "1628 JFK Blvd., Philadelphia, PA",
-  "geo": {
-    "latitude": 39.953705,
-    "longitude": -75.167953
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1628 JFK Blvd., Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.953705,
+        "longitude": -75.167953
+      }
+    }
   },
   "positions": [
     {
-      "title": "Ruby on Rails Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby on Rails Developer",
+      "alternateName": "",
+      "url": "https://www.thelevelup.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "iOS Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Developer",
+      "alternateName": "",
+      "url": "https://www.thelevelup.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr iOS Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr iOS Developer",
+      "alternateName": "",
+      "url": "https://www.thelevelup.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Sr Android Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr Android Developer",
+      "alternateName": "",
+      "url": "https://www.thelevelup.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,18 +1,44 @@
 {
   "company": "P'unk Avenue",
+  "type": [],
   "url": "http://jobs.punkave.com/",
   "webSiteUrl": "http://punkave.com/",
-  "address": "1168 E. Passyunk Avenue, Philadelphia, PA 19147",
-  "geo": {
-    "latitude": 39.9345045143,
-    "longitude": -75.1578163143
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1168 E. Passyunk Avenue, Philadelphia, PA 19147",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9345045143,
+        "longitude": -75.1578163143
+      }
+    }
   },
   "positions": [
     {
-      "title": "Front-End Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-End Developer",
+      "alternateName": "",
+      "url": "http://jobs.punkave.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Full Stack Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Developer",
+      "alternateName": "",
+      "url": "http://jobs.punkave.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

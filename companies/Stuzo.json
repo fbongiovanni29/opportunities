@@ -1,15 +1,33 @@
 {
   "company": "Stuzo",
+  "type": [],
   "url": "http://www.stuzo.com/careers/",
   "webSiteUrl": "http://www.stuzo.com/",
-  "address": "211 North 13th Street, Suite 802, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.956513,
-    "longitude": -75.160248
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "211 North 13th Street, Suite 802, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.956513,
+        "longitude": -75.160248
+      }
+    }
   },
   "positions": [
     {
-      "title": "Technical Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Project Manager",
+      "alternateName": "",
+      "url": "http://www.stuzo.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

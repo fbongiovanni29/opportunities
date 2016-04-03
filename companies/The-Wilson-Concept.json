@@ -1,11 +1,21 @@
 {
   "company": "The Wilson Concept",
+  "type": [],
   "url": "http://thewilsonconcept.com/careers/",
   "webSiteUrl": "http://thewilsonconcept.com/",
-  "address": "109 South 13th Street, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.950196,
-    "longitude": -75.161868
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "109 South 13th Street, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950196,
+        "longitude": -75.161868
+      }
+    }
   },
   "positions": []
 }

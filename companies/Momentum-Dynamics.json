@@ -1,27 +1,77 @@
 {
   "company": "Momentum Dynamics",
+  "type": [],
   "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
   "webSiteUrl": "http://www.momentumdynamics.com/",
-  "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
-  "geo": {
-    "latitude": 40.0374198571,
-    "longitude": -75.5168733857
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0374198571,
+        "longitude": -75.5168733857
+      }
+    }
   },
   "positions": [
     {
-      "title": "Power Electronics Engineers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Power Electronics Engineers",
+      "alternateName": "",
+      "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Electronics Engineers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Electronics Engineers",
+      "alternateName": "",
+      "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Electronics Engineers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Electronics Engineers",
+      "alternateName": "",
+      "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Electronics Technicians"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Electronics Technicians",
+      "alternateName": "",
+      "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Embedded Software Engineers"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Embedded Software Engineers",
+      "alternateName": "",
+      "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

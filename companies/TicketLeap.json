@@ -1,15 +1,33 @@
 {
   "company": "Ticketleap",
+  "type": [],
   "url": "http://ticketleap.theresumator.com/",
   "webSiteUrl": "http://ticketleap.com/",
-  "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.95124,
-    "longitude": -75.179508
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.95124,
+        "longitude": -75.179508
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "",
+      "url": "http://ticketleap.theresumator.com/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

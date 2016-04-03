@@ -1,36 +1,110 @@
 {
   "company": "Revzilla",
+  "type": [],
   "url": "http://www.revzilla.com/careers",
   "webSiteUrl": "http://www.revzilla.com/",
-  "address": "4020 S 26th St, Philadelphia, PA 19112",
-  "geo": {
-    "latitude": 39.936679,
-    "longitude": -75.187326
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4020 S 26th St, Philadelphia, PA 19112",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.936679,
+        "longitude": -75.187326
+      }
+    }
   },
   "positions": [
     {
-      "title": "Manager, Digital Analytics and Insights"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Manager, Digital Analytics and Insights",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Manager, Usability and Research"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Manager, Usability and Research",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Senior Product Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Product Designer",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Search Engine Marketing (SEM) Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Search Engine Marketing (SEM) Manager",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Marketing Manager - Display/Media"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Marketing Manager - Display/Media",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Digital Content Manager - Editorial"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Content Manager - Editorial",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "RevZilla Video Production Coordinator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "RevZilla Video Production Coordinator",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "",
+      "url": "http://www.revzilla.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

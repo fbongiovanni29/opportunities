@@ -1,6 +1,8 @@
 {
   "company": "Azavea",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://jobs.azavea.com/",
   "webSiteUrl": "http://www.azavea.com/",
   "technologies": [

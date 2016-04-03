@@ -1,24 +1,66 @@
 {
   "company": "iPipeline",
+  "type": [],
   "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
   "webSiteUrl": "http://www.ipipeline.com/",
-  "address": "222 Valley Creek Boulevard, Suite 300, Exton, PA 19341",
-  "geo": {
-    "latitude": 40.03875,
-    "longitude": -75.597482
+  "technologies": [],
+  "locations": {
+    "exton": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "222 Valley Creek Boulevard, Suite 300, Exton, PA 19341",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.03875,
+        "longitude": -75.597482
+      }
+    }
   },
   "positions": [
     {
-      "title": "Application Support Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Support Engineer",
+      "alternateName": "",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Actuarial Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Actuarial Developer",
+      "alternateName": "",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Application Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Developer",
+      "alternateName": "",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Application Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Support Analyst",
+      "alternateName": "",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

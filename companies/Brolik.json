@@ -1,6 +1,8 @@
 {
   "company": "Brolik",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://brolik.com/careers",
   "webSiteUrl": "http://brolik.com/",
   "technologies": [],

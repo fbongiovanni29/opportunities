@@ -1,6 +1,8 @@
 {
   "company": "Blackfynn",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.blackfynn.com/careers/",
   "webSiteUrl": "http://www.blackfynn.com/",
   "technologies": [],

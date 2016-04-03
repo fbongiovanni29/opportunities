@@ -1,6 +1,8 @@
 {
   "company": "Billy Penn",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://billypenn.com/jobs/",
   "webSiteUrl": "https://billypenn.com/",
   "technologies": [],
