@@ -1,6 +1,6 @@
 {
   "company": "InterNACHI",
-  "type": [],
+  "type": ["internal"],
   "url": "https://internachi.recruitee.com/",
   "webSiteUrl": "https://www.nachi.org/",
   "technologies": [],
@@ -23,11 +23,11 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)",
-      "alternateName": "",
-      "url": "https://internachi.recruitee.com/",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://internachi.recruitee.com/o/senior-web-developer-php-mysql-js-html-css",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     }
   ]
 }

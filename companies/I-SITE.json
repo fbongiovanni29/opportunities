@@ -1,7 +1,7 @@
 {
   "company": "I-SITE",
-  "type": [],
-  "url": "http://www.i-site.com/blog",
+  "type": ["agency"],
+  "url": "http://www.i-site.com/category/jobs/",
   "webSiteUrl": "http://www.i-site.com/",
   "technologies": [],
   "locations": {
@@ -17,28 +17,5 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Digital Project Manager",
-      "alternateName": "",
-      "url": "http://www.i-site.com/blog",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Winter Interns",
-      "alternateName": "",
-      "url": "http://www.i-site.com/blog",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-01-13"
-    }
-  ]
+  "positions": []
 }

@@ -1,6 +1,6 @@
 {
   "company": "Intuitive Company",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://intuitivecompany.com/careers/",
   "webSiteUrl": "http://intuitivecompany.com/",
   "technologies": [],
@@ -23,22 +23,33 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "User Experience Researcher",
-      "alternateName": "",
+      "alternateName": "Designer, User Experience",
       "url": "http://intuitivecompany.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Program Delivery Manager",
-      "alternateName": "",
+      "alternateName": "Project Manager",
       "url": "http://intuitivecompany.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Engagement Lead",
+      "alternateName": "Business Development",
+      "url": "http://intuitivecompany.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
