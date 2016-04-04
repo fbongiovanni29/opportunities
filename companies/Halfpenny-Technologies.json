@@ -1,6 +1,6 @@
 {
   "company": "Halfpenny Technologies",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.halfpenny.com/careers.html",
   "webSiteUrl": "http://www.halfpenny.com/",
   "technologies": [],
@@ -22,23 +22,56 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Integration Developer",
-      "alternateName": "",
-      "url": "http://www.halfpenny.com/careers.html",
-      "jobLocation": "blue bell",
+      "title": "Client Relations Specialist",
+      "alternateName": "Business Development",
+      "url": "http://www.halfpenny.com/client-relationship-specialist.html",
+      "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Integration Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.halfpenny.com/integration-developer.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Technical Support Tier 1 Analyst",
+      "alternateName": "Developer, Product Support",
+      "url": "http://www.halfpenny.com/client-technical-support.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager - Clinical Data Exchange",
+      "alternateName": "Project Manager",
+      "url": "http://www.halfpenny.com/product-manager.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Quality Assurance (QA) Analyst",
-      "alternateName": "",
-      "url": "http://www.halfpenny.com/careers.html",
-      "jobLocation": "blue bell",
+      "alternateName": "Developer, QA",
+      "url": "http://www.halfpenny.com/quality-assurance-analyst.html",
+      "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     }
   ]
 }

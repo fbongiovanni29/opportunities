@@ -1,6 +1,6 @@
 {
   "company": "Inverse Paradox",
-  "type": [],
+  "type": ["agency"],
   "url": "https://www.inverseparadox.com/careers/",
   "webSiteUrl": "https://www.inverseparadox.com/",
   "technologies": [],
@@ -23,22 +23,22 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "PHP Developer – Magento",
-      "alternateName": "",
-      "url": "https://www.inverseparadox.com/careers/",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.inverseparadox.com/jobs/php-developer-magento/",
       "jobLocation": "penndel",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "WordPress Developer",
-      "alternateName": "",
-      "url": "https://www.inverseparadox.com/careers/",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.inverseparadox.com/jobs/wordpress-developer/",
       "jobLocation": "penndel",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     }
   ]
 }
