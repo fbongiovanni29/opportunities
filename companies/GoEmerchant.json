@@ -1,6 +1,6 @@
 {
   "company": "GoEmerchant",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.goemerchant.com/careers.aspx",
   "webSiteUrl": "http://www.goemerchant.com/",
   "technologies": [],
@@ -17,17 +17,5 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Technical Support Representative",
-      "alternateName": "",
-      "url": "http://www.goemerchant.com/careers.aspx",
-      "jobLocation": "cherry hill",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": []
 }

@@ -1,6 +1,6 @@
 {
   "company": "GatherDocs",
-  "type": [],
+  "type": ["Product"],
   "url": "http://jobs.gatherdocs.com/",
   "webSiteUrl": "http://gatherdocs.com/",
   "technologies": [],
@@ -23,8 +23,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "PHP Web Developer",
-      "alternateName": "",
-      "url": "http://jobs.gatherdocs.com/",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://jobs.gatherdocs.com/listing/1134",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""
@@ -32,10 +32,10 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "",
-      "url": "http://jobs.gatherdocs.com/",
+      "employmentType": "intern",
+      "title": "Spring Marketing Internship",
+      "alternateName": "Intern",
+      "url": "http://jobs.gatherdocs.com/listing/492",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""
