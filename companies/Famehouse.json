@@ -1,6 +1,6 @@
 {
   "company": "Famehouse",
-  "type": [],
+  "type": ["agency"],
   "url": "http://famehouse.net/category/job-listings/",
   "webSiteUrl": "http://famehouse.net/",
   "technologies": [],
@@ -23,11 +23,33 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "FRONT-END DEVELOPER",
-      "alternateName": "",
-      "url": "http://famehouse.net/category/job-listings/",
+      "alternateName": "Developer, Frontend",
+      "url": "http://famehouse.net/job-listing-front-end-developer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Merchandise Operations Director",
+      "alternateName": "Marketing",
+      "url": "http://famehouse.net/job-listing-merchandise-operations-director/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DATA ANALYST",
+      "alternateName": "Data Analyst",
+      "url": "http://famehouse.net/job-listing-data-analyst/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

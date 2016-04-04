@@ -1,6 +1,6 @@
 {
   "company": "GLOBO",
-  "type": [],
+  "type": ["internal"],
   "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
   "webSiteUrl": "http://www.helloglobo.com/",
   "technologies": [],
@@ -22,23 +22,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Quantitative Data Analyst",
-      "alternateName": "",
-      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
+      "title": "Client Account Manager",
+      "alternateName": "Business Development",
+      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=121841&tzi=Eastern%20Standard%20Time",
       "jobLocation": "fort washington",
       "remote": false,
       "datePosted": "2016-02-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Software Engineer",
-      "alternateName": "",
-      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
-      "jobLocation": "fort washington",
-      "remote": false,
-      "datePosted": "2016-02-01"
     }
   ]
 }

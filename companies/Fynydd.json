@@ -1,17 +1,14 @@
 {
   "company": "Fynydd",
-  "type": [],
+  "type": ["consultancy"],
   "url": "https://fynydd.com/careers/",
   "webSiteUrl": "https://fynydd.com/",
   "technologies": [],
   "locations": {
-    "king of prussia": {
-      "@context": "http://schema.org",
+    "kingofprussia": {
       "@type": "Place",
       "address": "630 Freedom Business Center Drive, King of Prussia, PA 19406",
       "geo": {
-        "@context": "http://schema.org",
-        "@type": "Place",
         "latitude": 40.0922677347,
         "longitude": -75.4162122857
       }
@@ -23,11 +20,11 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Developer",
-      "alternateName": "",
-      "url": "https://fynydd.com/careers/",
-      "jobLocation": "king of prussia",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://fynydd.com/careers/jp1937/",
+      "jobLocation": "kingofprussia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     }
   ]
 }
