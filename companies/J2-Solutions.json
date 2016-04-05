@@ -1,6 +1,6 @@
 {
   "company": "J2 Solutions",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://www.j2-solutions.com/career.aspx",
   "webSiteUrl": "http://www.j2-solutions.com/",
   "technologies": [],
@@ -17,28 +17,5 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Application Developers - .NET",
-      "alternateName": "",
-      "url": "http://www.j2-solutions.com/career.aspx",
-      "jobLocation": "king of prussia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Application Developers - Java",
-      "alternateName": "",
-      "url": "http://www.j2-solutions.com/career.aspx",
-      "jobLocation": "king of prussia",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": []
 }

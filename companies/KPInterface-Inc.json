@@ -1,6 +1,6 @@
 {
   "company": "KPInterface, Inc.",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://www.kpinterface.com/careers.html",
   "webSiteUrl": "http://www.kpinterface.com/",
   "technologies": [],
@@ -22,34 +22,45 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "IT Consultant – Mid-Level",
-      "alternateName": "",
-      "url": "http://www.kpinterface.com/careers.html",
+      "title": "IT Services Sales Representative",
+      "alternateName": "Business Development",
+      "url": "http://www.kpinterface.com/careers.html#sales",
       "jobLocation": "limerick",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IT Consultant – Mid-Level",
+      "alternateName": "IT, Networking",
+      "url": "http://www.kpinterface.com/careers.html#mid",
+      "jobLocation": "limerick",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "IT Consultant – Junior Level",
-      "alternateName": "",
-      "url": "http://www.kpinterface.com/careers.html",
+      "alternateName": "IT, Networking",
+      "url": "http://www.kpinterface.com/careers.html#junior",
       "jobLocation": "limerick",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "intern",
       "title": "Computer Tech Support Internship",
-      "alternateName": "",
-      "url": "http://www.kpinterface.com/careers.html",
+      "alternateName": "Intern",
+      "url": "http://www.kpinterface.com/careers.html#internship",
       "jobLocation": "limerick",
       "remote": false,
-      "datePosted": ""
-    }
+      "datePosted": "2016-03-13"
+    },
   ]
 }
