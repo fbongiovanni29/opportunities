@@ -22,12 +22,23 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Full-Stack Developer",
+      "alternateName": "",
+      "url": "http://xmog.com/jobs",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Front-End / UI Developer",
       "alternateName": "",
       "url": "http://xmog.com/jobs",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-30"
     },
     {
       "@context": "http://schema.org",
@@ -38,18 +49,7 @@
       "url": "http://xmog.com/jobs",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "User Interface / Visual Designer",
-      "alternateName": "",
-      "url": "http://xmog.com/jobs",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-30"
     }
   ]
 }

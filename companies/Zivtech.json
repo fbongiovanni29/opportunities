@@ -3,7 +3,15 @@
   "type": [],
   "url": "https://www.zivtech.com/about/employment",
   "webSiteUrl": "https://www.zivtech.com/",
-  "technologies": [],
+  "technologies": [
+    "Drupal",
+    "JavaScript",
+    "Jquery",
+    "Node.js",
+    "PHP",
+    "Python",
+    "Ruby"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
@@ -27,7 +35,18 @@
       "url": "https://www.zivtech.com/about/employment",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX / UI Designer",
+      "alternateName": "",
+      "url": "https://www.zivtech.com/about/employment",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-30"
     }
   ]
 }
