@@ -1,6 +1,6 @@
 {
   "company": "Kepler Group",
-  "type": [],
+  "type": ["agency"],
   "url": "http://www.keplergrp.com/careers/",
   "webSiteUrl": "http://www.keplergrp.com/",
   "technologies": [],
@@ -8,14 +8,70 @@
     "philadelphia": {
       "@context": "http://schema.org",
       "@type": "Place",
-      "address": "Philadelphia, PA",
+      "address": "230 South Broad Street, 17th Floor, Philadelphia, PA, 19102",
       "geo": {
         "@context": "http://schema.org",
         "@type": "Place",
-        "latitude": 39.952584,
-        "longitude": -75.165222
+        "latitude": 39.9483761,
+        "longitude": -75.1670123
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Talent Acquisition Specialist",
+      "alternateName": "HR",
+      "url": "http://www.keplergrp.com/careers/?gh_jid=169149",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Solutions Analyst",
+      "alternateName": "Business Development",
+      "url": "http://www.keplergrp.com/careers/?gh_jid=111082",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Solutions Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.keplergrp.com/careers/?gh_jid=111131",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Solutions Senior Analyst",
+      "alternateName": "Business Development",
+      "url": "http://www.keplergrp.com/careers/?gh_jid=113457",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Media Analytics Analyst ",
+      "alternateName": "Data Analyst",
+      "url": "http://www.keplergrp.com/careers/?gh_jid=154961",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ]
 }
