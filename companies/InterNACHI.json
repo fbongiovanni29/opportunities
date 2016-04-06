@@ -1,6 +1,8 @@
 {
   "company": "InterNACHI",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://internachi.recruitee.com/",
   "webSiteUrl": "https://www.nachi.org/",
   "technologies": [],

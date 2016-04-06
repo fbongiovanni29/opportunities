@@ -1,6 +1,8 @@
 {
   "company": "Garfield Group",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://garfieldgroup.com/careers",
   "webSiteUrl": "http://garfieldgroup.com/",
   "technologies": [],

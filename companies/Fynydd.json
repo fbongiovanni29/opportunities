@@ -1,6 +1,8 @@
 {
   "company": "Fynydd",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://fynydd.com/careers/",
   "webSiteUrl": "https://fynydd.com/",
   "technologies": [],

@@ -1,103 +1,112 @@
 [
   {
-    "company": "B Lab",
-    "url": "http://slackatwork.com/company/B+Lab/",
-    "webSiteUrl": "http://www.bcorporation.net/",
-    "address": "155 East Lancaster Avenue, 2nd Floor, Wayne, PA 19087",
-    "geo": {
-      "latitude": 40.043971,
-      "longitude": -75.385869
-    },
-    "positions": [
-      {
-        "title": "Jr. Web Application Developer"
-      }
-    ]
-  },
-  {
     "company": "Compliance Implementation Services",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.cisbydeloitte.com/careers/",
     "webSiteUrl": "http://www.cis-partners.com/",
-    "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
-    "geo": {
-      "latitude": 39.99049,
-      "longitude": -75.411689
-    },
-    "positions": [
-      {
-        "title": "BI Analytics and Visualization Specialist"
-      },
-      {
-        "title": "Client Account Manager - Life Sciences"
-      },
-      {
-        "title": "Data Software Engineer"
-      },
-      {
-        "title": "Senior Software Engineer"
-      },
-      {
-        "title": "Senior Software Engineer"
-      },
-      {
-        "title": "Quality Assurance Manager"
-      },
-      {
-        "title": "Manager Government Pricing and Contracts"
-      },
-      {
-        "title": "Security & Information Assurance Manager"
-      },
-      {
-        "title": "Business Analyst - Life Sciences"
-      },
-      {
-        "title": "Quality Assurance Engineer"
-      },
-      {
-        "title": "Software Engineer"
-      },
-      {
-        "title": "Software Engineer"
-      },
-      {
-        "title": "Sr. IT System Administrator"
+    "technologies": [],
+    "locations": {
+      "newtown square": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "3809 West Chester Pike, Suite 100, Newtown Square, PA 19073",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.99049,
+          "longitude": -75.411689
+        }
       }
-    ]
+    },
+    "positions": []
   },
   {
     "company": "Philly Marketing Labs",
+    "type": [],
     "url": "http://www.phillymarketinglabs.com/join-our-team/",
     "webSiteUrl": "http://www.phillymarketinglabs.com/",
-    "address": "224 Lansdowne Ave, Wayne, PA 19087",
-    "geo": {
-      "latitude": 40.040375898,
-      "longitude": -75.3892247755
+    "technologies": [],
+    "locations": {
+      "wayne": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "224 Lansdowne Ave, Wayne, PA 19087",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.040375898,
+          "longitude": -75.3892247755
+        }
+      }
     },
     "positions": [
       {
-        "title": "Web Marketing Project Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Marketing Project Manager",
+        "alternateName": "",
+        "url": "http://www.phillymarketinglabs.com/join-our-team/",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Organic Search Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Organic Search Manager",
+        "alternateName": "",
+        "url": "http://www.phillymarketinglabs.com/join-our-team/",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Paid Search Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Paid Search Manager",
+        "alternateName": "",
+        "url": "http://www.phillymarketinglabs.com/join-our-team/",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": ""
       }
     ]
   },
   {
     "company": "Wilson Legal Solutions Inc",
+    "type": [],
     "url": "http://www.wilsonlegalsol.com/careers.html",
     "webSiteUrl": "http://www.wilsonlegalsol.com/",
-    "address": "3817 West Chester Pike, Newtown Square, PA 19073",
-    "geo": {
-      "latitude": 39.986286,
-      "longitude": -75.408623
+    "technologies": [],
+    "locations": {
+      "newtown square": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "3817 West Chester Pike, Newtown Square, PA 19073",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.986286,
+          "longitude": -75.408623
+        }
+      }
     },
     "positions": [
       {
-        "title": ".Net Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": ".Net Developer",
+        "alternateName": "",
+        "url": "http://www.wilsonlegalsol.com/careers.html",
+        "jobLocation": "newtown square",
+        "remote": false,
+        "datePosted": ""
       }
     ]
   }

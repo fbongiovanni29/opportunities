@@ -91,22 +91,56 @@
   },
   {
     "company": "Swift Capital",
+    "type": [],
     "url": "https://www.swiftcapital.com/Careers",
     "webSiteUrl": "http://www.swiftcapital.com/",
-    "address": "501 Carr Rd #301, Wilmington, DE 19809",
-    "geo": {
-      "latitude": 39.776617,
-      "longitude": -75.513209
+    "technologies": [],
+    "locations": {
+      "wilmington": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "501 Carr Rd #301, Wilmington, DE 19809",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.776617,
+          "longitude": -75.513209
+        }
+      }
     },
     "positions": [
       {
-        "title": "UX/UI Designer/Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "UX/UI Designer/Developer",
+        "alternateName": "",
+        "url": "https://www.swiftcapital.com/Careers",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Software Quality Assurance (QA) Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Quality Assurance (QA) Engineer",
+        "alternateName": "",
+        "url": "https://www.swiftcapital.com/Careers",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Senior C#.Net Software Development Engineer "
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior C#.Net Software Development Engineer ",
+        "alternateName": "",
+        "url": "https://www.swiftcapital.com/Careers",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": ""
       }
     ]
   }
