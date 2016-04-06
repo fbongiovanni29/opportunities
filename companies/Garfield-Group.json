@@ -1,17 +1,14 @@
 {
   "company": "Garfield Group",
-  "type": [],
+  "type": ["agency"],
   "url": "http://garfieldgroup.com/careers",
   "webSiteUrl": "http://garfieldgroup.com/",
   "technologies": [],
   "locations": {
     "newtown": {
-      "@context": "http://schema.org",
       "@type": "Place",
       "address": "60 Blacksmith Road, Newtown, PA 18940",
       "geo": {
-        "@context": "http://schema.org",
-        "@type": "Place",
         "latitude": 40.222709625,
         "longitude": -74.915183875
       }

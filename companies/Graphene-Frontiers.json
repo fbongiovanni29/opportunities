@@ -1,6 +1,6 @@
 {
   "company": "Graphene Frontiers",
-  "type": [],
+  "type": ["internal"],
   "url": "http://graphenefrontiers.com/careers/",
   "webSiteUrl": "http://graphenefrontiers.com/",
   "technologies": [],
@@ -22,31 +22,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Biosensor Research and Development Technician",
-      "alternateName": "",
-      "url": "http://graphenefrontiers.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Database Developer / Programmer",
-      "alternateName": "",
-      "url": "http://graphenefrontiers.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Semiconductor Device Engineer",
-      "alternateName": "",
-      "url": "http://graphenefrontiers.com/careers/",
+      "title": "Mfg. Data Guru: Data Management",
+      "alternateName": "Data Scientist",
+      "url": "https://theapplicantmanager.com/jobs?pos=GF115",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""

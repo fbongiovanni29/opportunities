@@ -1,6 +1,6 @@
 {
   "company": "InstaMed",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.instamed.com/about/careers/",
   "webSiteUrl": "http://www.instamed.com/",
   "technologies": [],
@@ -22,34 +22,56 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Engagement Lead",
-      "alternateName": "",
-      "url": "http://www.instamed.com/about/careers/",
+      "title": "Information Systems – Analyst",
+      "alternateName": "Data Analyst",
+      "url": "http://www.instamed.com/about/careers/information-systems-analyst/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "User Experience Researcher",
-      "alternateName": "",
-      "url": "http://www.instamed.com/about/careers/",
+      "title": "Marketing Copy Writing Manager",
+      "alternateName": "Content Strategy",
+      "url": "http://www.instamed.com/about/careers/marketing-copy-writing-manager/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Program Delivery Manager",
-      "alternateName": "",
-      "url": "http://www.instamed.com/about/careers/",
+      "title": "Implementations Associate",
+      "alternateName": "Developer, Product Support",
+      "url": "http://www.instamed.com/about/careers/professional-services-implementations-associate/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Implementations Manager",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.instamed.com/about/careers/professional-services-implementations-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Payer Implementations Manager",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.instamed.com/about/careers/professional-services-payer-implementations-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }
