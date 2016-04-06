@@ -1,9 +1,18 @@
 {
   "company": "TherapyNotes",
   "type": [],
-  "url": "https://www.pliner.com/careers/",
+  "url": "https://therapynotes.workable.com/",
   "webSiteUrl": "https://www.therapynotes.com/",
-  "technologies": [],
+  "technologies": [
+    "C#",
+    "ASP.NET",
+    "JavaScript",
+    "SQL",
+    "CSS",
+    "HTML",
+    "PL/SQL",
+    "WCF"
+  ],
   "locations": {
     "willow grove": {
       "@context": "http://schema.org",
@@ -22,20 +31,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Quality Assurance Engineer",
+      "title": "Senior .NET Developer (C#)",
       "alternateName": "",
-      "url": "https://www.pliner.com/careers/",
-      "jobLocation": "willow grove",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Software Developer",
-      "alternateName": "",
-      "url": "https://www.pliner.com/careers/",
+      "url": "https://therapynotes.workable.com/jobs/145948",
       "jobLocation": "willow grove",
       "remote": false,
       "datePosted": ""
@@ -46,7 +44,7 @@
       "employmentType": "full-time",
       "title": "Software Developer",
       "alternateName": "",
-      "url": "https://www.pliner.com/careers/",
+      "url": "https://therapynotes.workable.com/jobs/139735",
       "jobLocation": "willow grove",
       "remote": false,
       "datePosted": ""

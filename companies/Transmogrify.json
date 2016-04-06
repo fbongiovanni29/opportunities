@@ -3,7 +3,14 @@
   "type": [],
   "url": "http://xmog.com/jobs",
   "webSiteUrl": "http://xmog.com/",
-  "technologies": [],
+  "technologies": [
+    "Node.js",
+    "Express",
+    "Handlebars",
+    "Sass",
+    "Intl MessageFormat",
+    "Gulp"
+  ],
   "locations": {
     "conshohocken": {
       "@context": "http://schema.org",
