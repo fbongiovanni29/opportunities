@@ -1,6 +1,6 @@
 {
   "company": "LeadiD",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
   "webSiteUrl": "http://www.leadid.com/",
   "technologies": [
@@ -34,8 +34,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Data Scientist",
-      "alternateName": "",
-      "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+      "alternateName": "Data Scientist",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=113843",
       "jobLocation": "ambler",
       "remote": false,
       "datePosted": "2016-03-25"
@@ -45,8 +45,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Director of Engineering",
-      "alternateName": "",
-      "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=178927",
       "jobLocation": "ambler",
       "remote": false,
       "datePosted": "2016-03-25"
@@ -56,8 +56,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Software Engineer",
-      "alternateName": "",
-      "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=106360",
       "jobLocation": "ambler",
       "remote": false,
       "datePosted": "2016-03-25"
@@ -67,8 +67,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer",
-      "alternateName": "",
-      "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=132522",
       "jobLocation": "ambler",
       "remote": false,
       "datePosted": "2016-03-25"
@@ -78,11 +78,22 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer in Test",
-      "alternateName": "",
-      "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+      "alternateName": "Developer, QA",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=188513",
       "jobLocation": "ambler",
       "remote": false,
       "datePosted": "2016-03-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director, Strategic Accounts",
+      "alternateName": "Business Development",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=38798",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

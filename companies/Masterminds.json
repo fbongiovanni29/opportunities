@@ -1,6 +1,6 @@
 {
   "company": "Masterminds",
-  "type": [],
+  "type": ["agency"],
   "url": "http://mastermindsagency.com/#gigs",
   "webSiteUrl": "http://mastermindsagency.com/",
   "technologies": [],
@@ -22,45 +22,67 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Social Media Community Manager",
-      "alternateName": "",
+      "title": "Digital Media Specialist",
+      "alternateName": "Data Analyst",
       "url": "http://mastermindsagency.com/#gigs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Graphic Designer – Full time or Freelance",
-      "alternateName": "",
+      "title": "Account Supervisor",
+      "alternateName": "Business Development",
       "url": "http://mastermindsagency.com/#gigs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Graphic Designer",
+      "alternateName": "Designer, Visual",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Business Development",
+      "alternateName": "Business Development",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
       "title": "Creative Internships",
-      "alternateName": "",
+      "alternateName": "Intern",
       "url": "http://mastermindsagency.com/#gigs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "intern",
       "title": "Media Internship",
-      "alternateName": "",
+      "alternateName": "Intern",
       "url": "http://mastermindsagency.com/#gigs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    }
+      "datePosted": "2016-04-05"
+    },
   ]
 }

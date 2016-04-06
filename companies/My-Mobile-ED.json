@@ -1,8 +1,6 @@
 {
   "company": "My Mobile ED",
-  "type": [
-    "Startup"
-  ],
+  "type": ["Startup"],
   "url": "https://angel.co/my-mobile-ed/jobs",
   "webSiteUrl": "http://mymobileed.com/",
   "technologies": [],
@@ -25,11 +23,11 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer",
-      "alternateName": "",
-      "url": "https://angel.co/my-mobile-ed/jobs",
+      "alternateName": "Developer, Mobile",
+      "url": "https://angel.co/my-mobile-ed/jobs/116098-software-engineer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     }
   ]
 }
