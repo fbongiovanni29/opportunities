@@ -1,8 +1,6 @@
 {
   "company": "KickUp",
-  "type": [
-    "Startup"
-  ],
+  "type": ["Startup"],
   "url": "https://angel.co/kickup-1/jobs",
   "webSiteUrl": "http://kickup.co/",
   "technologies": [],
@@ -23,35 +21,35 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "intern",
       "title": "Data visualization intern",
-      "alternateName": "",
-      "url": "https://angel.co/kickup-1/jobs",
+      "alternateName": "Intern",
+      "url": "https://angel.co/kickup-1/jobs/116339-data-visualization-and-design-intern-to-join-fast-growing-startup-that-uses-analytics-to-drive-teacher-development",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Front-end engineer",
-      "alternateName": "",
-      "url": "https://angel.co/kickup-1/jobs",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://angel.co/kickup-1/jobs/116332-senior-software-engineer-full-stack",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Full-stack developer",
-      "alternateName": "",
-      "url": "https://angel.co/kickup-1/jobs",
+      "title": "Senior Front-End Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://angel.co/kickup-1/jobs/116337-senior-front-end-engineer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-13"
     }
   ]
 }

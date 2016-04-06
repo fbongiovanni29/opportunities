@@ -1,6 +1,7 @@
 {
   "company": "Lemma",
   "type": [
+    "product",
     "startup"
   ],
   "url": "https://www.lem.ma/home/?page_id=70",
@@ -33,22 +34,22 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Full stack Angular.js, Node.js developer",
-      "alternateName": "",
-      "url": "https://www.lem.ma/home/?page_id=70",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.lem.ma/home/?page_id=74",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "UX Developer",
-      "alternateName": "",
-      "url": "https://www.lem.ma/home/?page_id=70",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.lem.ma/home/?page_id=79",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     }
   ]
 }

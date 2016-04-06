@@ -1,6 +1,6 @@
 {
   "company": "Monetate, Inc.",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.monetate.com/about/careers/#open-positions",
   "webSiteUrl": "http://www.monetate.com/",
   "technologies": [],
@@ -22,67 +22,67 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Data Scientist",
-      "alternateName": "",
+      "title": "HR Generalist",
+      "alternateName": "HR",
       "url": "http://www.monetate.com/about/careers/#open-positions",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "DevOps Engineer",
-      "alternateName": "",
+      "title": "Director of Analytics",
+      "alternateName": "Data Scientist",
       "url": "http://www.monetate.com/about/careers/#open-positions",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Strategy Consultant",
+      "alternateName": "Project Manager",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Javascript Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Frontend",
       "url": "http://www.monetate.com/about/careers/#open-positions",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "",
-      "url": "http://www.monetate.com/about/careers/#open-positions",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Product Manager",
-      "alternateName": "",
+      "alternateName": "Project Manager",
       "url": "http://www.monetate.com/about/careers/#open-positions",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Product Owner",
-      "alternateName": "",
+      "title": "Marketing Automation (Marketo) Specialist",
+      "alternateName": "Marketing",
       "url": "http://www.monetate.com/about/careers/#open-positions",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     }
   ]
 }
