@@ -1,6 +1,6 @@
 {
   "company": "MOD Worldwide",
-  "type": [],
+  "type": ["agency"],
   "url": "http://www.modworldwide.com/creative.html",
   "webSiteUrl": "http://www.modworldwide.com/",
   "technologies": [],
@@ -23,33 +23,33 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "GRAPHIC DESIGNER",
-      "alternateName": "",
+      "alternateName": "Designer, Visual",
       "url": "http://www.modworldwide.com/creative.html",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "COPYWRITER",
-      "alternateName": "",
+      "alternateName": "Content Strategy",
       "url": "http://www.modworldwide.com/creative.html",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "PROOFREADER/RESEARCH",
-      "alternateName": "",
+      "alternateName": "Content Strategy",
       "url": "http://www.modworldwide.com/creative.html",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     }
   ]
 }

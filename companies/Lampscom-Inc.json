@@ -1,6 +1,6 @@
 {
   "company": "Lamps.com Inc",
-  "type": [],
+  "type": ["internal"],
   "url": "http://jobs.interactivecommercegroup.com/",
   "webSiteUrl": "http://www.lamps.com/",
   "technologies": [],
@@ -23,8 +23,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "eCommerce Merchandiser",
-      "alternateName": "",
-      "url": "http://jobs.interactivecommercegroup.com/",
+      "alternateName": "Marketing",
+      "url": "http://jobs.interactivecommercegroup.com/apply/X2maRI/ECommerce-Merchandiser",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""
@@ -34,8 +34,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Full Stack Magento Developer",
-      "alternateName": "",
-      "url": "http://jobs.interactivecommercegroup.com/",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.interactivecommercegroup.com/apply/26wj0Q/Full-Stack-Magento-Developer",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""
@@ -45,8 +45,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Product Data Specialist",
-      "alternateName": "",
-      "url": "http://jobs.interactivecommercegroup.com/",
+      "alternateName": "Marketing",
+      "url": "http://jobs.interactivecommercegroup.com/apply/MzsREP/Product-Data-Specialist",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""

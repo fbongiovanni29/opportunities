@@ -1,6 +1,6 @@
 {
   "company": "M",
-  "type": [],
+  "type": ["agency"],
   "url": "http://agency-m.com/careers",
   "webSiteUrl": "http://agency-m.com/",
   "technologies": [],
@@ -17,5 +17,28 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Specialist",
+      "alternateName": "Content Strategy",
+      "url": "http://agency-m.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "freelance",
+      "title": "Freelance Interactive Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://agency-m.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    }
+  ]
 }
