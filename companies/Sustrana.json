@@ -1,0 +1,43 @@
+{
+  "company": "Sustrana",
+  "type": [
+    "startup"
+  ],
+  "url": "https://angel.co/sustrana-2/jobs",
+  "webSiteUrl": "http://www.sustrana.com/",
+  "technologies": [
+    "ASP.NET 4.5",
+    "C#",
+    "Microsoft Azure DocumentDB",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap",
+    "Knockout"
+  ],
+  "locations": {
+    "devon": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "15 North Devon Boulevard, Devon PA 19333",
+      "geo": {
+        "latitude": 40.0465,
+        "longitude": -75.422861
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Application Developer",
+      "alternateName": "",
+      "url": "https://angel.co/sustrana-2/jobs",
+      "jobLocation": "devon",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    }
+  ]
+}

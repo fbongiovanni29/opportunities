@@ -1,9 +1,18 @@
 {
   "company": "HealthVerity",
-  "type": [],
+  "type": [
+    "startup"
+  ],
   "url": "http://healthverity.com/careers-2",
   "webSiteUrl": "http://healthverity.com/",
-  "technologies": [],
+  "technologies": [
+    "Python",
+    "Django",
+    "Amazon Web Services",
+    "Javascript",
+    "Perl",
+    "docker"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",

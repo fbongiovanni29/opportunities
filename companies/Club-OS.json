@@ -7,7 +7,8 @@
   "url": "https://angel.co/club-os/jobs",
   "webSiteUrl": "https://www.club-os.com/",
   "technologies": [
-    "Java"
+    "Java",
+    "SQL"
   ],
   "locations": {
     "philadelphia": {

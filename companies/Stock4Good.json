@@ -1,10 +1,10 @@
 {
-  "company": "IntroNet",
+  "company": "Stock4Good",
   "type": [
-    "Startup"
+    "startup"
   ],
-  "url": "https://angel.co/intronet/jobs",
-  "webSiteUrl": "https://secure.intro.net/",
+  "url": "https://angel.co/stock4good/jobs",
+  "webSiteUrl": "http://www.stock4good.com/",
   "technologies": [],
   "locations": {
     "philadelphia": {
@@ -12,8 +12,6 @@
       "@type": "Place",
       "address": "Philadelphia, PA",
       "geo": {
-        "@context": "http://schema.org",
-        "@type": "Place",
         "latitude": 40.07231,
         "longitude": -75.203371
       }
@@ -23,13 +21,13 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Chief Technical Officer",
+      "employmentType": "contract to perm",
+      "title": "Tech PM / Full Stack Developer",
       "alternateName": "",
-      "url": "https://angel.co/intronet/jobs",
+      "url": "https://angel.co/stock4good/jobs",
       "jobLocation": "philadelphia",
       "remote": true,
-      "datePosted": "2016-03-08"
+      "datePosted": "2016-04-05"
     }
   ]
 }

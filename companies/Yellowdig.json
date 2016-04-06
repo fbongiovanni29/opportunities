@@ -1,29 +1,28 @@
 {
-  "company": "Lemma",
+  "company": "Yellowdig",
   "type": [
     "startup"
   ],
-  "url": "https://www.lem.ma/home/?page_id=70",
-  "webSiteUrl": "https://www.lem.ma/",
+  "url": "https://angel.co/yellowdig/jobs",
+  "webSiteUrl": "https://www.yellowdig.com/",
   "technologies": [
+    "PHP",
     "Javascript",
-    "HTML",
-    "Node.js",
-    "C/C++",
     "HTML5",
     "CSS3",
-    "Angular.JS"
+    "iOS",
+    "Android",
+    "Ruby on Rails",
+    "Cordova"
   ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
       "@type": "Place",
-      "address": "Philadelphia, PA",
+      "address": "1650 Arch St #1906, Philadelphia, PA 19103",
       "geo": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "latitude": 40.07231,
-        "longitude": -75.203371
+        "latitude": 39.95466,
+        "longitude": -75.167697
       }
     }
   },
@@ -32,23 +31,23 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Full stack Angular.js, Node.js developer",
+      "title": "Web Designer",
       "alternateName": "",
-      "url": "https://www.lem.ma/home/?page_id=70",
+      "url": "https://angel.co/yellowdig/jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "UX Developer",
+      "title": "Software Developer",
       "alternateName": "",
-      "url": "https://www.lem.ma/home/?page_id=70",
+      "url": "https://angel.co/yellowdig/jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
     }
   ]
 }
