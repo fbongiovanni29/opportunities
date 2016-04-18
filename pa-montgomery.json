@@ -813,6 +813,48 @@
     ]
   },
   {
+    "company": "eBay Enterprise",
+    "type": [],
+    "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+    "webSiteUrl": "http://www.ebayenterprise.com/",
+    "technologies": [],
+    "locations": {
+      "king of prussia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "935 First Avenue, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.094032,
+          "longitude": -75.405792
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Production Support Analyst",
+        "alternateName": "",
+        "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+        "jobLocation": "king of prussia",
+        "remote": false,
+        "datePosted": "2016-04-18"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Information Security Engineer",
+        "alternateName": "",
+        "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+        "jobLocation": "king of prussia",
+        "remote": false,
+        "datePosted": "2016-04-18"
+      }
+    ]
+  },
+  {
     "company": "eMoney Advisor",
     "type": [
       "internal"
@@ -1401,7 +1443,9 @@
   },
   {
     "company": "J2 Solutions",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.j2-solutions.com/career.aspx",
     "webSiteUrl": "http://www.j2-solutions.com/",
     "technologies": [],
@@ -1418,34 +1462,13 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Application Developers - .NET",
-        "alternateName": "",
-        "url": "http://www.j2-solutions.com/career.aspx",
-        "jobLocation": "king of prussia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Application Developers - Java",
-        "alternateName": "",
-        "url": "http://www.j2-solutions.com/career.aspx",
-        "jobLocation": "king of prussia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": []
   },
   {
     "company": "KPInterface, Inc.",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.kpinterface.com/careers.html",
     "webSiteUrl": "http://www.kpinterface.com/",
     "technologies": [],
@@ -1467,40 +1490,53 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "IT Consultant – Mid-Level",
-        "alternateName": "",
-        "url": "http://www.kpinterface.com/careers.html",
+        "title": "IT Services Sales Representative",
+        "alternateName": "Business Development",
+        "url": "http://www.kpinterface.com/careers.html#sales",
         "jobLocation": "limerick",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IT Consultant – Mid-Level",
+        "alternateName": "IT, Networking",
+        "url": "http://www.kpinterface.com/careers.html#mid",
+        "jobLocation": "limerick",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "IT Consultant – Junior Level",
-        "alternateName": "",
-        "url": "http://www.kpinterface.com/careers.html",
+        "alternateName": "IT, Networking",
+        "url": "http://www.kpinterface.com/careers.html#junior",
         "jobLocation": "limerick",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "intern",
         "title": "Computer Tech Support Internship",
-        "alternateName": "",
-        "url": "http://www.kpinterface.com/careers.html",
+        "alternateName": "Intern",
+        "url": "http://www.kpinterface.com/careers.html#internship",
         "jobLocation": "limerick",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "LeadiD",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "webSiteUrl": "http://www.leadid.com/",
     "technologies": [
@@ -1534,8 +1570,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Scientist",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Data Scientist",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=113843",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -1545,8 +1581,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Director of Engineering",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=178927",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -1556,8 +1592,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Software Engineer",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=106360",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -1567,8 +1603,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=132522",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -1578,17 +1614,30 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer in Test",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, QA",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=188513",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director, Strategic Accounts",
+        "alternateName": "Business Development",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=38798",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Monetate, Inc.",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.monetate.com/about/careers/#open-positions",
     "webSiteUrl": "http://www.monetate.com/",
     "technologies": [],
@@ -1610,73 +1659,75 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Data Scientist",
-        "alternateName": "",
+        "title": "HR Generalist",
+        "alternateName": "HR",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "DevOps Engineer",
-        "alternateName": "",
+        "title": "Director of Analytics",
+        "alternateName": "Data Scientist",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Strategy Consultant",
+        "alternateName": "Project Manager",
+        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Javascript Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
-        "jobLocation": "conshohocken",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Product Manager",
-        "alternateName": "",
+        "alternateName": "Project Manager",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Product Owner",
-        "alternateName": "",
+        "title": "Marketing Automation (Marketo) Specialist",
+        "alternateName": "Marketing",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Municibid",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "https://municibid.com/jobs/",
     "webSiteUrl": "https://municibid.com/",
     "technologies": [],
@@ -2390,9 +2441,18 @@
   {
     "company": "TherapyNotes",
     "type": [],
-    "url": "https://www.pliner.com/careers/",
+    "url": "https://therapynotes.workable.com/",
     "webSiteUrl": "https://www.therapynotes.com/",
-    "technologies": [],
+    "technologies": [
+      "C#",
+      "ASP.NET",
+      "JavaScript",
+      "SQL",
+      "CSS",
+      "HTML",
+      "PL/SQL",
+      "WCF"
+    ],
     "locations": {
       "willow grove": {
         "@context": "http://schema.org",
@@ -2411,20 +2471,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Quality Assurance Engineer",
+        "title": "Senior .NET Developer (C#)",
         "alternateName": "",
-        "url": "https://www.pliner.com/careers/",
-        "jobLocation": "willow grove",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Software Developer",
-        "alternateName": "",
-        "url": "https://www.pliner.com/careers/",
+        "url": "https://therapynotes.workable.com/jobs/145948",
         "jobLocation": "willow grove",
         "remote": false,
         "datePosted": ""
@@ -2435,7 +2484,7 @@
         "employmentType": "full-time",
         "title": "Software Developer",
         "alternateName": "",
-        "url": "https://www.pliner.com/careers/",
+        "url": "https://therapynotes.workable.com/jobs/139735",
         "jobLocation": "willow grove",
         "remote": false,
         "datePosted": ""
@@ -2447,7 +2496,14 @@
     "type": [],
     "url": "http://xmog.com/jobs",
     "webSiteUrl": "http://xmog.com/",
-    "technologies": [],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "Handlebars",
+      "Sass",
+      "Intl MessageFormat",
+      "Gulp"
+    ],
     "locations": {
       "conshohocken": {
         "@context": "http://schema.org",

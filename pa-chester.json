@@ -285,6 +285,61 @@
     ]
   },
   {
+    "company": "Entech Consulting",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://entech.com/Careers",
+    "webSiteUrl": "http://entech.com/",
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1200 Atwater Dr., Suite 140, Malvern, PA 19355",
+        "geo": {
+          "latitude": 40.072126,
+          "longitude": -75.52588
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": ".NET Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://entech.com/Careers/Req/10000",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://entech.com/Careers/Req/10001",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://entech.com/Careers/Req/10002",
+        "jobLocation": "malvern",
+        "remote": true,
+        "datePosted": "2016-04-13"
+      }
+    ]
+  },
+  {
     "company": "Evolve IP",
     "type": [
       "agency"
@@ -540,7 +595,9 @@
   },
   {
     "company": "Medecision",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
     "webSiteUrl": "http://www.medecision.com/",
     "technologies": [],
@@ -562,111 +619,100 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Director, Data Management",
-        "alternateName": "",
-        "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+        "title": "Senior Application Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1271/senior-application-architect/job",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Director, Customer Marketing",
-        "alternateName": "",
-        "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+        "title": "Program Manager",
+        "alternateName": "Project Manager",
+        "url": "https://careers-medecision.icims.com/jobs/1270/program-manager/job",
+        "jobLocation": "",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Product Business Analyst",
+        "alternateName": "Project Manager",
+        "url": "https://careers-medecision.icims.com/jobs/1269/senior-product-business-analyst/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Director, Solutions Marketing",
+        "alternateName": "Marketing",
+        "url": "https://careers-medecision.icims.com/jobs/1265/senior-director%2c-solutions-marketing/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Director, IT Security and Compliance",
+        "alternateName": "IT, Networking",
+        "url": "https://careers-medecision.icims.com/jobs/1250/senior-director%2c-it-security-and-compliance/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1240/application-developer/job",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Solution Architect, Senior",
-        "alternateName": "",
-        "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+        "title": "Application Developer, Senior",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1239/application-developer%2c-senior/job",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "Momentum Dynamics",
-    "type": [],
-    "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-    "webSiteUrl": "http://www.momentumdynamics.com/",
-    "technologies": [],
-    "locations": {
-      "malvern": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 40.0374198571,
-          "longitude": -75.5168733857
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Power Electronics Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Electronics Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
+        "title": "Senior Data Modeler",
+        "alternateName": "Developer, DBA",
+        "url": "https://careers-medecision.icims.com/jobs/1235/senior-data-modeler/job",
+        "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Electronics Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Electronics Technicians",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Embedded Software Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
+        "title": "Business Development Executive",
+        "alternateName": "Business Development",
+        "url": "https://careers-medecision.icims.com/jobs/1196/business-development-executive/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
       }
     ]
   },

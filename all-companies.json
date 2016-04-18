@@ -164,18 +164,7 @@
         "url": "http://50onred.theresumator.com/apply/UnLNnf/Data-Scientist",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Data Analyst",
-        "alternateName": "Data Analyst",
-        "url": "http://50onred.theresumator.com/apply/Q1paDp/Senior-Data-Analyst",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-04-13"
       },
       {
         "@context": "http://schema.org",
@@ -186,7 +175,7 @@
         "url": "http://50onred.theresumator.com/apply/cFMeje/Senior-Software-Engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-04-13"
       },
       {
         "@context": "http://schema.org",
@@ -197,7 +186,7 @@
         "url": "http://50onred.theresumator.com/apply/wTCBIf/Agile-Project-Manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-04-13"
       },
       {
         "@context": "http://schema.org",
@@ -208,7 +197,18 @@
         "url": "http://50onred.theresumator.com/apply/dHHHrO/Senior-Product-Manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IT Administrator",
+        "alternateName": "IT, Networking",
+        "url": "http://50onred.theresumator.com/apply/dHHHrO/Senior-Product-Manager",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-13"
       }
     ]
   },
@@ -3645,6 +3645,48 @@
     ]
   },
   {
+    "company": "eBay Enterprise",
+    "type": [],
+    "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+    "webSiteUrl": "http://www.ebayenterprise.com/",
+    "technologies": [],
+    "locations": {
+      "king of prussia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "935 First Avenue, King of Prussia, PA 19406",
+        "geo": {
+          "latitude": 40.094032,
+          "longitude": -75.405792
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Production Support Analyst",
+        "alternateName": "",
+        "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+        "jobLocation": "king of prussia",
+        "remote": false,
+        "datePosted": "2016-04-18"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Information Security Engineer",
+        "alternateName": "",
+        "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+        "jobLocation": "king of prussia",
+        "remote": false,
+        "datePosted": "2016-04-18"
+      }
+    ]
+  },
+  {
     "company": "eCity Interactive",
     "type": [
       "agency"
@@ -3988,6 +4030,61 @@
         "jobLocation": "conshohocken",
         "remote": false,
         "datePosted": "2016-03-13"
+      }
+    ]
+  },
+  {
+    "company": "Entech Consulting",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://entech.com/Careers",
+    "webSiteUrl": "http://entech.com/",
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1200 Atwater Dr., Suite 140, Malvern, PA 19355",
+        "geo": {
+          "latitude": 40.072126,
+          "longitude": -75.52588
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": ".NET Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://entech.com/Careers/Req/10000",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://entech.com/Careers/Req/10001",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://entech.com/Careers/Req/10002",
+        "jobLocation": "malvern",
+        "remote": true,
+        "datePosted": "2016-04-13"
       }
     ]
   },
@@ -4815,7 +4912,19 @@
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "",
+        "url": "https://www.getguru.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-16"
+      }
+    ]
   },
   {
     "company": "Halfpenny Technologies",
@@ -5753,7 +5862,9 @@
   },
   {
     "company": "J2 Solutions",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.j2-solutions.com/career.aspx",
     "webSiteUrl": "http://www.j2-solutions.com/",
     "technologies": [],
@@ -5770,254 +5881,13 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Application Developers - .NET",
-        "alternateName": "",
-        "url": "http://www.j2-solutions.com/career.aspx",
-        "jobLocation": "king of prussia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Application Developers - Java",
-        "alternateName": "",
-        "url": "http://www.j2-solutions.com/career.aspx",
-        "jobLocation": "king of prussia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "Jefferson",
-    "type": [],
-    "url": "http://www.jefferson.edu/human-resources/careers.html",
-    "webSiteUrl": "http://www.jefferson.edu/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "1025 Walnut Street, Philadelphia, PA 19107",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 39.948784,
-          "longitude": -75.158186
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Application Development Specialist - IS&T - V69 - 9207191",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Multimedia Instructional Designer - IS&T - V67 - 9207192",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Data Scientist - IS&T - V70 - 9207105",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Security Analyst II - IS&T - V67 - 9207104",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Voice Communications Technician - V66 - 9207102",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Lead Client Solutions Analyst - 9205587",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Windows System Administrator - V68 - 9206962",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Domain Architect - 9205737",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Security Analyst II - IS&T - 9204646",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Application Development Specialist - IS&T - 9205225",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Oracle Database Administrator - 9204645",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. Storage Administrator - 9204643",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "End-Point System Administrator (V67) - 9206277",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Virtualization Administrator (V68) - IS&T - 9206155",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "IT Infrastructure Project Manager (V70) - 9206157",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Apple Systems Administrator (V68) - 9206161",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Web Developer - 9206162",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Director of IS&T Security & Enterprise Security Officer - 9205586",
-        "alternateName": "",
-        "url": "http://www.jefferson.edu/human-resources/careers.html",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": []
   },
   {
     "company": "Kepler Group",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://www.keplergrp.com/careers/",
     "webSiteUrl": "http://www.keplergrp.com/",
     "technologies": [],
@@ -6025,16 +5895,72 @@
       "philadelphia": {
         "@context": "http://schema.org",
         "@type": "Place",
-        "address": "Philadelphia, PA",
+        "address": "230 South Broad Street, 17th Floor, Philadelphia, PA, 19102",
         "geo": {
           "@context": "http://schema.org",
           "@type": "Place",
-          "latitude": 39.952584,
-          "longitude": -75.165222
+          "latitude": 39.9483761,
+          "longitude": -75.1670123
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Talent Acquisition Specialist",
+        "alternateName": "HR",
+        "url": "http://www.keplergrp.com/careers/?gh_jid=169149",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Solutions Analyst",
+        "alternateName": "Business Development",
+        "url": "http://www.keplergrp.com/careers/?gh_jid=111082",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Solutions Manager",
+        "alternateName": "Business Development",
+        "url": "http://www.keplergrp.com/careers/?gh_jid=111131",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Solutions Senior Analyst",
+        "alternateName": "Business Development",
+        "url": "http://www.keplergrp.com/careers/?gh_jid=113457",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Media Analytics Analyst ",
+        "alternateName": "Data Analyst",
+        "url": "http://www.keplergrp.com/careers/?gh_jid=154961",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ]
   },
   {
     "company": "KickUp",
@@ -6061,41 +5987,43 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "intern",
         "title": "Data visualization intern",
-        "alternateName": "",
-        "url": "https://angel.co/kickup-1/jobs",
+        "alternateName": "Intern",
+        "url": "https://angel.co/kickup-1/jobs/116339-data-visualization-and-design-intern-to-join-fast-growing-startup-that-uses-analytics-to-drive-teacher-development",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Front-end engineer",
-        "alternateName": "",
-        "url": "https://angel.co/kickup-1/jobs",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://angel.co/kickup-1/jobs/116332-senior-software-engineer-full-stack",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Full-stack developer",
-        "alternateName": "",
-        "url": "https://angel.co/kickup-1/jobs",
+        "title": "Senior Front-End Engineer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://angel.co/kickup-1/jobs/116337-senior-front-end-engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "KPInterface, Inc.",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.kpinterface.com/careers.html",
     "webSiteUrl": "http://www.kpinterface.com/",
     "technologies": [],
@@ -6117,40 +6045,53 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "IT Consultant – Mid-Level",
-        "alternateName": "",
-        "url": "http://www.kpinterface.com/careers.html",
+        "title": "IT Services Sales Representative",
+        "alternateName": "Business Development",
+        "url": "http://www.kpinterface.com/careers.html#sales",
         "jobLocation": "limerick",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IT Consultant – Mid-Level",
+        "alternateName": "IT, Networking",
+        "url": "http://www.kpinterface.com/careers.html#mid",
+        "jobLocation": "limerick",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "IT Consultant – Junior Level",
-        "alternateName": "",
-        "url": "http://www.kpinterface.com/careers.html",
+        "alternateName": "IT, Networking",
+        "url": "http://www.kpinterface.com/careers.html#junior",
         "jobLocation": "limerick",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "intern",
         "title": "Computer Tech Support Internship",
-        "alternateName": "",
-        "url": "http://www.kpinterface.com/careers.html",
+        "alternateName": "Intern",
+        "url": "http://www.kpinterface.com/careers.html#internship",
         "jobLocation": "limerick",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Lamps.com Inc",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://jobs.interactivecommercegroup.com/",
     "webSiteUrl": "http://www.lamps.com/",
     "technologies": [],
@@ -6173,8 +6114,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "eCommerce Merchandiser",
-        "alternateName": "",
-        "url": "http://jobs.interactivecommercegroup.com/",
+        "alternateName": "Marketing",
+        "url": "http://jobs.interactivecommercegroup.com/apply/X2maRI/ECommerce-Merchandiser",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": ""
@@ -6184,8 +6125,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Full Stack Magento Developer",
-        "alternateName": "",
-        "url": "http://jobs.interactivecommercegroup.com/",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.interactivecommercegroup.com/apply/26wj0Q/Full-Stack-Magento-Developer",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": ""
@@ -6195,8 +6136,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Product Data Specialist",
-        "alternateName": "",
-        "url": "http://jobs.interactivecommercegroup.com/",
+        "alternateName": "Marketing",
+        "url": "http://jobs.interactivecommercegroup.com/apply/MzsREP/Product-Data-Specialist",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": ""
@@ -6205,7 +6146,9 @@
   },
   {
     "company": "LeadiD",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
     "webSiteUrl": "http://www.leadid.com/",
     "technologies": [
@@ -6239,8 +6182,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Scientist",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Data Scientist",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=113843",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -6250,8 +6193,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Director of Engineering",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=178927",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -6261,8 +6204,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Software Engineer",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=106360",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -6272,8 +6215,8 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=132522",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
@@ -6283,17 +6226,30 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer in Test",
-        "alternateName": "",
-        "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+        "alternateName": "Developer, QA",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=188513",
         "jobLocation": "ambler",
         "remote": false,
         "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director, Strategic Accounts",
+        "alternateName": "Business Development",
+        "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=38798",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Leadnomics",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.leadnomics.com/careers/",
     "webSiteUrl": "http://www.leadnomics.com/",
     "technologies": [],
@@ -6315,29 +6271,41 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Engineer",
-        "alternateName": "",
+        "title": "Human Resource Coordinator",
+        "alternateName": "HR",
         "url": "http://www.leadnomics.com/careers/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Engineer (node.js, java, php, aws)",
-        "alternateName": "",
+        "title": "Director of Product",
+        "alternateName": "Project Manager",
         "url": "http://www.leadnomics.com/careers/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Leadnomics Interns",
+        "alternateName": "Intern",
+        "url": "http://www.leadnomics.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Lemma",
     "type": [
+      "product",
       "startup"
     ],
     "url": "https://www.lem.ma/home/?page_id=70",
@@ -6370,94 +6338,30 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Full stack Angular.js, Node.js developer",
-        "alternateName": "",
-        "url": "https://www.lem.ma/home/?page_id=70",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://www.lem.ma/home/?page_id=74",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "UX Developer",
-        "alternateName": "",
-        "url": "https://www.lem.ma/home/?page_id=70",
+        "alternateName": "Developer, Frontend",
+        "url": "https://www.lem.ma/home/?page_id=79",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "LevelUp",
-    "type": [],
-    "url": "https://www.thelevelup.com/jobs",
-    "webSiteUrl": "https://www.thelevelup.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "1628 JFK Blvd., Philadelphia, PA",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 39.953705,
-          "longitude": -75.167953
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Ruby on Rails Developer",
-        "alternateName": "",
-        "url": "https://www.thelevelup.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "iOS Developer",
-        "alternateName": "",
-        "url": "https://www.thelevelup.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr iOS Developer",
-        "alternateName": "",
-        "url": "https://www.thelevelup.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr Android Developer",
-        "alternateName": "",
-        "url": "https://www.thelevelup.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Linode, LLC",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://www.linode.com/careers",
     "webSiteUrl": "https://www.linode.com/",
     "technologies": [],
@@ -6480,83 +6384,96 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Linux Technical Support",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Agile Project Manager (Scrum Master)",
-        "alternateName": "",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Full Stack",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technical Writer",
-        "alternateName": "",
-        "url": "https://www.linode.com/careers",
-        "jobLocation": "haddonfield",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Linux Network Engineer",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Network Administrator",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Information Security",
+        "alternateName": "IT, Networking",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Linux Systems Engineer",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Security Engineer",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "https://www.linode.com/careers",
         "jobLocation": "haddonfield",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Database Administrator (MySQL)",
+        "alternateName": "Developer, DBA",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "M",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://agency-m.com/careers",
     "webSiteUrl": "http://agency-m.com/",
     "technologies": [],
@@ -6573,11 +6490,36 @@
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Content Specialist",
+        "alternateName": "Content Strategy",
+        "url": "http://agency-m.com/careers",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "freelance",
+        "title": "Freelance Interactive Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "http://agency-m.com/careers",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      }
+    ]
   },
   {
     "company": "MaassMedia, LLC",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.maassmedia.com/about-our-careers.php",
     "webSiteUrl": "http://www.maassmedia.com/",
     "technologies": [],
@@ -6600,28 +6542,63 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Analytics Solutions Engineer",
-        "alternateName": "",
-        "url": "http://www.maassmedia.com/about-our-careers.php",
+        "alternateName": "Data Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=3",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Consultant - Data Science/Reporting",
-        "alternateName": "",
-        "url": "http://www.maassmedia.com/about-our-careers.php",
+        "alternateName": "Data Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=4",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Specialist",
+        "alternateName": "Marketing",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=6",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Digital Analyst - Social Media",
+        "alternateName": "Data Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=7",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Measurement & Reporting Analyst",
+        "alternateName": "Data Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=8",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Masterminds",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://mastermindsagency.com/#gigs",
     "webSiteUrl": "http://mastermindsagency.com/",
     "technologies": [],
@@ -6643,51 +6620,75 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Social Media Community Manager",
-        "alternateName": "",
+        "title": "Digital Media Specialist",
+        "alternateName": "Data Analyst",
         "url": "http://mastermindsagency.com/#gigs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Graphic Designer – Full time or Freelance",
-        "alternateName": "",
+        "title": "Account Supervisor",
+        "alternateName": "Business Development",
         "url": "http://mastermindsagency.com/#gigs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
+        "title": "Graphic Designer",
+        "alternateName": "Designer, Visual",
+        "url": "http://mastermindsagency.com/#gigs",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Business Development",
+        "alternateName": "Business Development",
+        "url": "http://mastermindsagency.com/#gigs",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
         "title": "Creative Internships",
-        "alternateName": "",
+        "alternateName": "Intern",
         "url": "http://mastermindsagency.com/#gigs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "intern",
         "title": "Media Internship",
-        "alternateName": "",
+        "alternateName": "Intern",
         "url": "http://mastermindsagency.com/#gigs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Medecision",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
     "webSiteUrl": "http://www.medecision.com/",
     "technologies": [],
@@ -6709,41 +6710,109 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Director, Data Management",
-        "alternateName": "",
-        "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+        "title": "Senior Application Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1271/senior-application-architect/job",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Director, Customer Marketing",
-        "alternateName": "",
-        "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
-        "jobLocation": "wayne",
-        "remote": false,
-        "datePosted": ""
+        "title": "Program Manager",
+        "alternateName": "Project Manager",
+        "url": "https://careers-medecision.icims.com/jobs/1270/program-manager/job",
+        "jobLocation": "",
+        "remote": true,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Solution Architect, Senior",
-        "alternateName": "",
-        "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+        "title": "Senior Product Business Analyst",
+        "alternateName": "Project Manager",
+        "url": "https://careers-medecision.icims.com/jobs/1269/senior-product-business-analyst/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Director, Solutions Marketing",
+        "alternateName": "Marketing",
+        "url": "https://careers-medecision.icims.com/jobs/1265/senior-director%2c-solutions-marketing/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Director, IT Security and Compliance",
+        "alternateName": "IT, Networking",
+        "url": "https://careers-medecision.icims.com/jobs/1250/senior-director%2c-it-security-and-compliance/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1240/application-developer/job",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Developer, Senior",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1239/application-developer%2c-senior/job",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Data Modeler",
+        "alternateName": "Developer, DBA",
+        "url": "https://careers-medecision.icims.com/jobs/1235/senior-data-modeler/job",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Business Development Executive",
+        "alternateName": "Business Development",
+        "url": "https://careers-medecision.icims.com/jobs/1196/business-development-executive/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "MeetMe",
-    "type": [],
-    "url": "http://www.meetme.com/apps/careers#careers-position",
+    "type": [
+      "internal"
+    ],
+    "url": "http://www.meetme.com/apps/careers#careers-about",
     "webSiteUrl": "http://www.meetme.com/",
     "technologies": [],
     "locations": {
@@ -6765,165 +6834,132 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Big Data Engineer",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DBA",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Architect, API",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sr. Android Engineer / Architect",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sr. iOS Developer / Architect",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sr. Software Developer (API)",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "QA Developer (Automation)",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "title": "QA Automation Engineer",
+        "alternateName": "Developer, QA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Sr. DevOps Engineer (Remote)",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "title": "QA Automation Lead",
+        "alternateName": "Developer, QA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Website Content Review & Customer Support Specialist",
-        "alternateName": "",
-        "url": "http://www.meetme.com/apps/careers#careers-position",
+        "alternateName": "Content Strategy",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
         "jobLocation": "new hope",
         "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "MentorTech Ventures",
-    "type": [],
-    "url": "http://www.mentortechventures.com/jobs",
-    "webSiteUrl": "http://www.mentortechventures.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "3624 Market Street, Suite 300, Philadelphia, PA",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 39.9562402245,
-          "longitude": -75.1946339592
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "iOS Developer",
-        "alternateName": "",
-        "url": "http://www.mentortechventures.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Ruby Developer",
-        "alternateName": "",
-        "url": "http://www.mentortechventures.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "iOS Developer – Intern/Co-Op",
-        "alternateName": "",
-        "url": "http://www.mentortechventures.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Ruby Developer – Intern/Co-Op",
-        "alternateName": "",
-        "url": "http://www.mentortechventures.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "UI/UX Design – Intern/Co-Op",
-        "alternateName": "",
-        "url": "http://www.mentortechventures.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
@@ -6965,29 +7001,10 @@
     ]
   },
   {
-    "company": "Metropolitan Acoustics",
-    "type": [],
-    "url": "http://metro-acoustics.com/careers",
-    "webSiteUrl": "http://metro-acoustics.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "40 West Evergreen Avenue Suite 108, Philadelphia, PA 19118",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 40.0759209111,
-          "longitude": -75.2081357556
-        }
-      }
-    },
-    "positions": []
-  },
-  {
     "company": "MOD Worldwide",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://www.modworldwide.com/creative.html",
     "webSiteUrl": "http://www.modworldwide.com/",
     "technologies": [],
@@ -7010,116 +7027,41 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "GRAPHIC DESIGNER",
-        "alternateName": "",
+        "alternateName": "Designer, Visual",
         "url": "http://www.modworldwide.com/creative.html",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "COPYWRITER",
-        "alternateName": "",
+        "alternateName": "Content Strategy",
         "url": "http://www.modworldwide.com/creative.html",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "PROOFREADER/RESEARCH",
-        "alternateName": "",
+        "alternateName": "Content Strategy",
         "url": "http://www.modworldwide.com/creative.html",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "Momentum Dynamics",
-    "type": [],
-    "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-    "webSiteUrl": "http://www.momentumdynamics.com/",
-    "technologies": [],
-    "locations": {
-      "malvern": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 40.0374198571,
-          "longitude": -75.5168733857
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Power Electronics Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Electronics Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Electronics Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Electronics Technicians",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Embedded Software Engineers",
-        "alternateName": "",
-        "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Monetate, Inc.",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.monetate.com/about/careers/#open-positions",
     "webSiteUrl": "http://www.monetate.com/",
     "technologies": [],
@@ -7141,73 +7083,75 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Data Scientist",
-        "alternateName": "",
+        "title": "HR Generalist",
+        "alternateName": "HR",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "DevOps Engineer",
-        "alternateName": "",
+        "title": "Director of Analytics",
+        "alternateName": "Data Scientist",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Strategy Consultant",
+        "alternateName": "Project Manager",
+        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Javascript Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://www.monetate.com/about/careers/#open-positions",
-        "jobLocation": "conshohocken",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Product Manager",
-        "alternateName": "",
+        "alternateName": "Project Manager",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Product Owner",
-        "alternateName": "",
+        "title": "Marketing Automation (Marketo) Specialist",
+        "alternateName": "Marketing",
         "url": "http://www.monetate.com/about/careers/#open-positions",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Morgan Lewis",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
     "webSiteUrl": "https://www.morganlewis.com/",
     "technologies": [],
@@ -7229,195 +7173,75 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "365BR Business Intelligence Engineer",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+        "title": "678BR Infrastructure Engineer",
+        "alternateName": "DevOps",
+        "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=292188&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=292188_5172&GQId=878",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-04"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "678BR Network Engineer (Infrastructure)",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+        "title": "715BR Network Automation Engineer (Network Services)",
+        "alternateName": "IT, Networking",
+        "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=300229&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=300229_5172&GQId=878",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-29"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "692BR Manager of Information Governance Compliance",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+        "title": "743BR Business Analyst",
+        "alternateName": "Project Manager",
+        "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=305107&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=305107_5172&GQId=878",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-08"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "585BR New Business Analyst",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+        "title": "746BR Data Warehouse Developer",
+        "alternateName": "Developer, DBA",
+        "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=305720&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=305720_5172&GQId=878",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "687BR Human Resources Coordinator",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "683BR Human Resources Coordinator",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "647BR SQL DBA Developer",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "682BR Human Resources Manager",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "415BR Business Operations Analyst",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-02-02"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "671BR Manager of Web Development",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=290968&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=290968_5172&GQId=878",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-02-10"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "670BR Business Operations Analyst",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
+        "title": "710BR Operations Support Engineer eData",
+        "alternateName": "Developer, DBA",
+        "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=299415&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=299415_5172&GQId=878",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "653BR Communications Specialist",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "656BR Talent Acquisition Business Partner",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "610BR Manager of Professional Development",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "643BR Manager, Business Development & Marketing - Litigation",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "592BR Director-Business Development and Marketing",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "371BR Manager - Business Operations",
-        "alternateName": "",
-        "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-02-01"
       }
     ]
   },
   {
     "company": "Moven",
     "type": [
-      "Startup"
+      "Startup",
+      "product"
     ],
     "url": "https://angel.co/moven/jobs",
     "webSiteUrl": "https://www.moven.com/",
@@ -7440,12 +7264,45 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Full Stack Engineer",
-        "alternateName": "",
-        "url": "https://angel.co/moven/jobs",
-        "jobLocation": "philadelphia",
+        "title": "Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "https://angel.co/moven/jobs/90838-data-scientist",
+        "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "https://angel.co/moven/jobs/90845-data-analyst",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior UX Designer",
+        "alternateName": "Designer, User Experience",
+        "url": "https://angel.co/moven/jobs/90833-senior-ux-designer",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Full Stack Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://angel.co/moven/jobs/78958-full-stack-engineer",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
@@ -7453,60 +7310,29 @@
         "employmentType": "full-time",
         "title": "Service Delivery Engineer",
         "alternateName": "",
-        "url": "https://angel.co/moven/jobs",
-        "jobLocation": "philadelphia",
+        "url": "https://angel.co/moven/jobs/90828-service-delivery-engineer",
+        "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior UX Designer",
-        "alternateName": "",
-        "url": "https://angel.co/moven/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Data Scientist",
-        "alternateName": "",
-        "url": "https://angel.co/moven/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Data Analyst",
-        "alternateName": "",
-        "url": "https://angel.co/moven/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Mobile Engineer",
-        "alternateName": "",
-        "url": "https://angel.co/moven/jobs",
-        "jobLocation": "philadelphia",
+        "alternateName": "Developer, Mobile",
+        "url": "https://angel.co/moven/jobs/91945-senior-mobile-engineer",
+        "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Municibid",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "https://municibid.com/jobs/",
     "webSiteUrl": "https://municibid.com/",
     "technologies": [],
@@ -7552,11 +7378,11 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
-        "url": "https://angel.co/my-mobile-ed/jobs",
+        "alternateName": "Developer, Mobile",
+        "url": "https://angel.co/my-mobile-ed/jobs/116098-software-engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
       }
     ]
   },
@@ -10727,9 +10553,18 @@
   {
     "company": "TherapyNotes",
     "type": [],
-    "url": "https://www.pliner.com/careers/",
+    "url": "https://therapynotes.workable.com/",
     "webSiteUrl": "https://www.therapynotes.com/",
-    "technologies": [],
+    "technologies": [
+      "C#",
+      "ASP.NET",
+      "JavaScript",
+      "SQL",
+      "CSS",
+      "HTML",
+      "PL/SQL",
+      "WCF"
+    ],
     "locations": {
       "willow grove": {
         "@context": "http://schema.org",
@@ -10748,20 +10583,9 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Quality Assurance Engineer",
+        "title": "Senior .NET Developer (C#)",
         "alternateName": "",
-        "url": "https://www.pliner.com/careers/",
-        "jobLocation": "willow grove",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Software Developer",
-        "alternateName": "",
-        "url": "https://www.pliner.com/careers/",
+        "url": "https://therapynotes.workable.com/jobs/145948",
         "jobLocation": "willow grove",
         "remote": false,
         "datePosted": ""
@@ -10772,7 +10596,7 @@
         "employmentType": "full-time",
         "title": "Software Developer",
         "alternateName": "",
-        "url": "https://www.pliner.com/careers/",
+        "url": "https://therapynotes.workable.com/jobs/139735",
         "jobLocation": "willow grove",
         "remote": false,
         "datePosted": ""
@@ -11105,7 +10929,14 @@
     "type": [],
     "url": "http://xmog.com/jobs",
     "webSiteUrl": "http://xmog.com/",
-    "technologies": [],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "Handlebars",
+      "Sass",
+      "Intl MessageFormat",
+      "Gulp"
+    ],
     "locations": {
       "conshohocken": {
         "@context": "http://schema.org",
