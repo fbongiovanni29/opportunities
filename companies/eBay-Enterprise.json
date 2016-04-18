@@ -1,0 +1,42 @@
+{
+  "company": "eBay Enterprise",
+  "type": [],
+  "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+  "webSiteUrl": "http://www.ebayenterprise.com/",
+  "technologies": [],
+  "locations": {
+    "king of prussia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "935 First Avenue, King of Prussia, PA 19406",
+      "geo": {
+        "latitude": 40.094032,
+        "longitude": -75.405792
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Production Support Analyst",
+      "alternateName": "",
+      "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": "2016-04-18"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Information Security Engineer",
+      "alternateName": "",
+      "url": "http://ebayenterprise.force.com/careers/ts2__JobSearch",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": "2016-04-18"
+    }
+  ]
+}

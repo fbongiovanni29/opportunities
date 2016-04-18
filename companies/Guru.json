@@ -19,5 +19,17 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "",
+      "url": "https://www.getguru.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-16"
+    }
+  ]
 }
