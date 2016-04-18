@@ -1,6 +1,8 @@
 {
   "company": "MOD Worldwide",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.modworldwide.com/creative.html",
   "webSiteUrl": "http://www.modworldwide.com/",
   "technologies": [],

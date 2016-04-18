@@ -1,6 +1,8 @@
 {
   "company": "MeetMe",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://www.meetme.com/apps/careers#careers-about",
   "webSiteUrl": "http://www.meetme.com/",
   "technologies": [],
