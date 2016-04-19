@@ -1,6 +1,8 @@
 {
   "company": "KPInterface, Inc.",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.kpinterface.com/careers.html",
   "webSiteUrl": "http://www.kpinterface.com/",
   "technologies": [],

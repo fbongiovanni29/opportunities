@@ -1,6 +1,8 @@
 {
   "company": "Masterminds",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://mastermindsagency.com/#gigs",
   "webSiteUrl": "http://mastermindsagency.com/",
   "technologies": [],
