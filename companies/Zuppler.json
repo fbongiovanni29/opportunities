@@ -1,6 +1,6 @@
 {
   "company": "Zuppler",
-  "type": [],
+  "type": ["product", "internal"],
   "url": "http://www.zupplerworks.com/careers.html",
   "webSiteUrl": "http://www.zupplerworks.com/",
   "technologies": [],
@@ -21,13 +21,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Operations Project Manager",
-      "alternateName": "",
-      "url": "http://www.zupplerworks.com/careers.html",
+      "employmentType": "intern",
+      "title": "Business Operations Intern",
+      "alternateName": "intern",
+      "url": "http://www.zupplerworks.com/careers.html#business_operations",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Operations Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.zupplerworks.com/careers.html#business_operations",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Service Representative",
+      "alternateName": "Business Development",
+      "url": "http://www.zupplerworks.com/careers.html#customer_service_representative",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Inside Sales Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.zupplerworks.com/careers.html#inside_sales_manager",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

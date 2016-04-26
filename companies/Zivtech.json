@@ -1,6 +1,6 @@
 {
   "company": "Zivtech",
-  "type": [],
+  "type": ["agency"],
   "url": "https://www.zivtech.com/about/employment",
   "webSiteUrl": "https://www.zivtech.com/",
   "technologies": [],
@@ -22,12 +22,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Drupal Developers and Themers",
-      "alternateName": "",
+      "alternateName": "Designer, User Experience",
+      "alternateName": "Developer, Frontend",
       "url": "https://www.zivtech.com/about/employment",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-21"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

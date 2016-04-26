@@ -1,6 +1,6 @@
 {
   "company": "WizeHive",
-  "type": [],
+  "type": ["product"],
   "url": "https://review.wizehive.com/voting/posting",
   "webSiteUrl": "http://wizehive.com/",
   "technologies": [],
@@ -23,22 +23,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Implementation Specialist",
-      "alternateName": "",
-      "url": "https://review.wizehive.com/voting/posting",
+      "alternateName": "Project Manager",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1190539/0",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-21"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Jr. Implementation Specialist",
-      "alternateName": "",
-      "url": "https://review.wizehive.com/voting/posting",
+      "title": "Inside Sales Person",
+      "alternateName": "Business Development",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1193226/0",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
-    }
-  ]
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1177957/0",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+  ],
+  "updated": "2016-04-21"
 }

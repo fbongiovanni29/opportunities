@@ -1,6 +1,6 @@
 {
   "company": "Vistar Media",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.vistarmedia.com/careers",
   "webSiteUrl": "http://www.vistarmedia.com/",
   "technologies": [],
@@ -23,11 +23,12 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://www.vistarmedia.com/careers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

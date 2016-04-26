@@ -1,9 +1,9 @@
 {
   "company": "Transmogrify",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://xmog.com/jobs",
   "webSiteUrl": "http://xmog.com/",
-  "technologies": [],
+  "technologies": ["Objective-C", "Java", ".NET", "Ruby", "JavaScript"],
   "locations": {
     "conshohocken": {
       "@context": "http://schema.org",
@@ -22,34 +22,46 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Front-End / UI Developer",
-      "alternateName": "",
+      "title": "Full-Stack Developer",
+      "alternateName": "Developer, Full Stack",
       "url": "http://xmog.com/jobs",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://xmog.com/jobs",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-End / UI Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://xmog.com/jobs",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "iOS Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Mobile",
       "url": "http://xmog.com/jobs",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "User Interface / Visual Designer",
-      "alternateName": "",
-      "url": "http://xmog.com/jobs",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-25"
 }

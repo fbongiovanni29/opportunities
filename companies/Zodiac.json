@@ -1,8 +1,8 @@
 {
   "company": "Zodiac",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://jobs.lever.co/zodiacmetrics",
-  "webSiteUrl": "",
+  "webSiteUrl": "http://www.zodiacmetrics.com/",
   "technologies": [],
   "locations": {
     "philadelphia": {
@@ -23,33 +23,23 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Backend Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Backend",
       "url": "http://jobs.lever.co/zodiacmetrics",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Frontend Engineer",
-      "alternateName": "",
-      "url": "http://jobs.lever.co/zodiacmetrics",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-21"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Full Stack Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://jobs.lever.co/zodiacmetrics",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-21"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

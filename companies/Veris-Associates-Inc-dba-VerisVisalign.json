@@ -1,6 +1,6 @@
 {
   "company": "Veris Associates, Inc., dba VerisVisalign",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
   "webSiteUrl": "http://www.verisvisalign.com/",
   "technologies": [],
@@ -23,55 +23,56 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "SHAREPOINT ARCHITECTS",
-      "alternateName": "",
+      "alternateName": "Developer, Backend",
       "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
       "jobLocation": "lansdale",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "SHAREPOINT DEVELOPERS",
-      "alternateName": "",
+      "alternateName": "Developer, Backend",
       "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
       "jobLocation": "lansdale",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "PROJECT MANAGER",
-      "alternateName": "",
+      "alternateName": "Project Manager",
       "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
       "jobLocation": "lansdale",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "HELP DESK/SERVICE DESK ANALYST",
-      "alternateName": "",
+      "alternateName": "IT, Networking",
       "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
       "jobLocation": "lansdale",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "APPLICATION PACKAGER",
-      "alternateName": "",
+      "alternateName": "IT, Networking",
       "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
       "jobLocation": "lansdale",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-25"
 }

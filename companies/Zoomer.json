@@ -1,6 +1,6 @@
 {
   "company": "Zoomer",
-  "type": [],
+  "type": ["product, internal"],
   "url": "https://jobs.lever.co/zoomer",
   "webSiteUrl": "http://www.zoomerdelivery.com/",
   "technologies": [],
@@ -22,12 +22,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Backend Engineer",
-      "alternateName": "",
-      "url": "https://jobs.lever.co/zoomer",
+      "title": "Bilingual Sales & Partnership Executive",
+      "alternateName": "Business Development",
+      "url": "https://jobs.lever.co/zoomer/7b294e47-bb10-4048-a590-e95d06a00464",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-21"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

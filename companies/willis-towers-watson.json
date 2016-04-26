@@ -1,6 +1,6 @@
 {
   "company": "Willis Towers Watson",
-  "type": [],
+  "type": ["internal"],
   "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
   "webSiteUrl": "https://www.willistowerswatson.com/",
   "technologies": [],
@@ -22,12 +22,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Software Developer (.NET)",
-      "alternateName": "",
-      "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
+      "title": "SCRUM MASTER",
+      "alternateName": "Project Manager",
+      "url": "https://willis-towers-watson.jobs.net/job/scrum-master/J3H2R06D9QPMM5798YQ",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    }
-  ]
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PROGRAMMER ANALYST",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://willis-towers-watson.jobs.net/job/programmer-analyst/J3J60W78N8TXSSXJXPC",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+  ],
+  "updated": "2016-04-21"
 }
