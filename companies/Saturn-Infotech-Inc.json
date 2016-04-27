@@ -1,7 +1,7 @@
 {
   "company": "Saturn Infotech Inc",
-  "type": [],
-  "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+  "type": ["consultancy"],
+  "url": "http://www.saturninfotech.com/jobs.php",
   "webSiteUrl": "http://www.saturninfotech.com/",
   "technologies": [],
   "locations": {
@@ -18,38 +18,18 @@
     }
   },
   "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Entry Level Hyperion Developers",
-      "alternateName": "",
-      "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
-      "jobLocation": "north wales",
-      "remote": false,
-      "datePosted": ""
-    },
+
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Junior C/C++ or MATLAB Developers",
-      "alternateName": "",
-      "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.saturninfotech.com/job_details.php?jobid=3",
       "jobLocation": "north wales",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Fresh Graduates - Systems Analyst / Programmer Analyst",
-      "alternateName": "",
-      "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
-      "jobLocation": "north wales",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

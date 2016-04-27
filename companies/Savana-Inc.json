@@ -1,6 +1,6 @@
 {
   "company": "Savana, Inc.",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://savanainc.com/company/careers/",
   "webSiteUrl": "http://savanainc.com/",
   "technologies": [],
@@ -17,17 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Business Analyst",
-      "alternateName": "",
-      "url": "http://savanainc.com/company/careers/",
-      "jobLocation": "berwyn",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-26"
 }

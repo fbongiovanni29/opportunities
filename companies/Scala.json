@@ -1,6 +1,6 @@
 {
   "company": "Scala",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://join.scala.com/careers/",
   "webSiteUrl": "http://scala.com/",
   "technologies": [],
@@ -17,17 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Programmer",
-      "alternateName": "",
-      "url": "http://join.scala.com/careers/",
-      "jobLocation": "malvern",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-26"
 }

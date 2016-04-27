@@ -1,6 +1,6 @@
 {
   "company": "SnipSnap",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.snipsnap.it/snipsnap-jobs/",
   "webSiteUrl": "http://www.snipsnap.it/",
   "technologies": [],
@@ -22,12 +22,68 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Product Designer (Android)",
-      "alternateName": "",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/",
+      "title": "Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.snipsnap.it/jobs/engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive",
+      "alternateName": "Business Development",
+      "url": "http://www.snipsnap.it/jobs/account-executive/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Designer (Android)",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.snipsnap.it/jobs/product-designer-android-2/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SVP Sales",
+      "alternateName": "Business Development",
+      "url": "http://www.snipsnap.it/jobs/svp-national-sales-mobile-retail/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Sales",
+      "alternateName": "Business Development",
+      "url": "http://www.snipsnap.it/jobs/director-of-sales/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "UI/UX Design – Intern/Co-Op",
+      "alternateName": "Intern",
+      "url": "http://www.snipsnap.it/jobs/uiux-design-internco-op/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }
