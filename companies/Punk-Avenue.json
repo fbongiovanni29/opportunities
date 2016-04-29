@@ -1,6 +1,6 @@
 {
   "company": "P'unk Avenue",
-  "type": [],
+  "type": ["agency"],
   "url": "http://jobs.punkave.com/",
   "webSiteUrl": "http://punkave.com/",
   "technologies": [],
@@ -17,28 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front-End Developer",
-      "alternateName": "",
-      "url": "http://jobs.punkave.com/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Full Stack Developer",
-      "alternateName": "",
-      "url": "http://jobs.punkave.com/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-28"
 }

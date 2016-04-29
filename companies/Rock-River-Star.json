@@ -1,6 +1,6 @@
 {
   "company": "Rock River Star",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://rockriverstar.com/careers",
   "webSiteUrl": "http://rockriverstar.com/",
   "technologies": [],
@@ -23,33 +23,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Creative Director",
-      "alternateName": "",
-      "url": "http://rockriverstar.com/careers",
+      "alternateName": "Developer, Frontend",
+      "url": "http://rockriverstar.com/careers/creative-director",
       "jobLocation": "downingtown",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Lead Project Architect",
-      "alternateName": "",
-      "url": "http://rockriverstar.com/careers",
+      "alternateName": "Developer, Frontend",
+      "url": "http://rockriverstar.com/careers/lead-project-architect",
       "jobLocation": "downingtown",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Programmer / Developer",
-      "alternateName": "",
-      "url": "http://rockriverstar.com/careers",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://rockriverstar.com/careers/programmer-developer",
       "jobLocation": "downingtown",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

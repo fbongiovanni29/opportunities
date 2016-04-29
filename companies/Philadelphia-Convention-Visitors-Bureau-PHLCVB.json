@@ -1,6 +1,6 @@
 {
   "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
-  "type": [],
+  "type": ["internal"],
   "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
   "webSiteUrl": "http://www.discoverphl.com/",
   "technologies": [],
@@ -17,17 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Marketing Specialist",
-      "alternateName": "",
-      "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-28"
 }

@@ -1,6 +1,6 @@
 {
   "company": "Philly Marketing Labs",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://www.phillymarketinglabs.com/join-our-team/",
   "webSiteUrl": "http://www.phillymarketinglabs.com/",
   "technologies": [],
@@ -23,33 +23,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Web Marketing Project Manager",
-      "alternateName": "",
-      "url": "http://www.phillymarketinglabs.com/join-our-team/",
+      "alternateName": "Project Manager",
+      "url": "http://www.phillymarketinglabs.com/about/join-our-team/web-marketing-project-manager/",
       "jobLocation": "wayne",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Organic Search Manager",
-      "alternateName": "",
-      "url": "http://www.phillymarketinglabs.com/join-our-team/",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://www.phillymarketinglabs.com/about/join-our-team/organic-search-manager/",
       "jobLocation": "wayne",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Paid Search Manager",
-      "alternateName": "",
-      "url": "http://www.phillymarketinglabs.com/join-our-team/",
+      "title": "Senior Digital Marketing Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.phillymarketinglabs.com/about/join-our-team/senior-digital-marketing-project-manager/",
       "jobLocation": "wayne",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

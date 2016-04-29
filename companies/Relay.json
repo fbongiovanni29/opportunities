@@ -1,6 +1,6 @@
 {
   "company": "Relay",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.relaynetwork.com/careers/",
   "webSiteUrl": "http://www.relaynetwork.com/",
   "technologies": [],
@@ -22,78 +22,46 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "CLIENT PROJECT MANAGER",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
+      "title": "Business Development",
+      "alternateName": "Business Development",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN112",
       "jobLocation": "radnor",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "DATA ARCHITECT",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
+      "title": "Front-End Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN106",
       "jobLocation": "radnor",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "DEVOPS MANAGER",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN115",
       "jobLocation": "radnor",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "FRONT-END DEVELOPER",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
+      "title": "Sr. Sales Executive",
+      "alternateName": "Business Development",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN113",
       "jobLocation": "radnor",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SCRUM MASTER",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
-      "jobLocation": "radnor",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SOFTWARE ENGINEER",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
-      "jobLocation": "radnor",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SR. SALES EXECUTIVE",
-      "alternateName": "",
-      "url": "http://www.relaynetwork.com/careers/",
-      "jobLocation": "radnor",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

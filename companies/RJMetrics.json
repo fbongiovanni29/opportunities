@@ -1,8 +1,6 @@
 {
   "company": "RJMetrics",
-  "type": [
-    "product"
-  ],
+  "type": ["product"],
   "url": "https://rjmetrics.com/jobs/",
   "webSiteUrl": "https://rjmetrics.com/",
   "technologies": [
@@ -45,45 +43,35 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Data Scientist",
-      "alternateName": "",
-      "url": "https://rjmetrics.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Data Warehouse Analyst",
-      "alternateName": "",
+      "alternateName": "Data Analyst",
       "url": "https://rjmetrics.com/jobs/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Front End Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Frontend",
       "url": "https://rjmetrics.com/jobs/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "https://rjmetrics.com/jobs/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

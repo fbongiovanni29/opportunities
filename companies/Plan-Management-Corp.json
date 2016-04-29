@@ -1,6 +1,6 @@
 {
   "company": "Plan Management Corp.",
-  "type": [],
+  "type": ["product", "consultancy"],
   "url": "http://www.optiontrax.com/about-us/working-here/",
   "webSiteUrl": "http://www.optiontrax.com/",
   "technologies": [],
@@ -17,5 +17,6 @@
       }
     }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-28"
 }

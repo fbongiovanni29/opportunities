@@ -1,6 +1,6 @@
 {
   "company": "roundCorner",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.roundcorner.com/job-postings/",
   "webSiteUrl": "http://www.roundcorner.com/",
   "technologies": [],
@@ -23,33 +23,23 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Data Architect",
-      "alternateName": "",
-      "url": "http://www.roundcorner.com/job-postings/",
+      "alternateName": "Developer, DBA",
+      "url": "http://www.roundcorner.com/data-architect/",
       "jobLocation": "ardmore",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Data Migration Specialist",
-      "alternateName": "",
-      "url": "http://www.roundcorner.com/job-postings/",
+      "alternateName": "Developer, DBA",
+      "url": "http://www.roundcorner.com/data-migration-specialist/",
       "jobLocation": "ardmore",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Project Manager",
-      "alternateName": "",
-      "url": "http://www.roundcorner.com/job-postings/",
-      "jobLocation": "ardmore",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

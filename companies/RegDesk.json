@@ -1,8 +1,6 @@
 {
   "company": "RegDesk",
-  "type": [
-    "Startup"
-  ],
+  "type": ["Startup"],
   "url": "https://angel.co/regdesk/jobs",
   "webSiteUrl": "http://www.regdesk.co/",
   "technologies": [],
@@ -25,22 +23,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Developer",
-      "alternateName": "",
-      "url": "https://angel.co/regdesk/jobs",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://angel.co/regdesk/jobs/30788-developer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Front-End Intern",
+      "alternateName": "Intern",
+      "url": "https://angel.co/regdesk/jobs/104503-front-end-intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Front-End Intern",
-      "alternateName": "",
-      "url": "https://angel.co/regdesk/jobs",
+      "title": "Marketing Manager",
+      "alternateName": "Marketing",
+      "url": "https://angel.co/regdesk/jobs/43012-marketing-manager",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

@@ -1,9 +1,9 @@
 {
   "company": "Revzilla",
-  "type": [],
+  "type": ["internal"],
   "url": "http://www.revzilla.com/careers",
   "webSiteUrl": "http://www.revzilla.com/",
-  "technologies": [],
+  "technologies": ["Rails", "Elixir"],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
@@ -22,89 +22,90 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Manager, Digital Analytics and Insights",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "title": "Benefits Coordinator",
+      "alternateName": "HR",
+      "url": "http://revzilla.theresumator.com/apply/WXzoXK/job_20160408212907_ZSIKS2DDVSH5LFJG",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Manager, Usability and Research",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "title": "Product Design + Usability Lead",
+      "alternateName": "Designer, User Experience",
+      "url": "http://revzilla.theresumator.com/apply/Tzckmb/job_20160425122222_NBSA9EQQPVAXO7W0",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Product Designer",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Search Engine Marketing (SEM) Manager",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://revzilla.theresumator.com/apply/OixWbA/job_20150923125146_03BEJG9U3IUY34G6",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Digital Marketing Manager - Display/Media",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "title": "Search Engine Optimization (SEO) Manager",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://revzilla.theresumator.com/apply/YlZqyk/job_20160223145500_EXZLEKEGMVCJMNFJ",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Digital Content Manager - Editorial",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "title": "Senior Visual Designer",
+      "alternateName": "Design, Visual",
+      "url": "http://revzilla.theresumator.com/apply/A4CeX5/job_20160425115719_6YEMWWDF2EXRAZM3",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "RevZilla Video Production Coordinator",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "title": "Content Writer - Motorcycles",
+      "alternateName": "Content Strategy",
+      "url": "http://revzilla.theresumator.com/apply/udSus9/job_20160317191505_BNJHE0HGKTW4JZOU",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Editorial Content Manager — Motorcycles",
+      "alternateName": "Content Strategy",
+      "url": "http://revzilla.theresumator.com/apply/ejIznz/job_20160222195342_HSZFI9U23WIW36UK",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Web Developer",
-      "alternateName": "",
-      "url": "http://www.revzilla.com/careers",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://revzilla.theresumator.com/apply/gRhWCZ/job_20160422191213_BVJKKKOMEYHKBO7M",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }
