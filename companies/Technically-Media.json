@@ -1,6 +1,8 @@
 {
   "company": "Technically Media",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://technicallymedia.com/careers",
   "webSiteUrl": "http://technicallymedia.com/",
   "technologies": [],

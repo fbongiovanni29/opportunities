@@ -1,6 +1,8 @@
 {
   "company": "Graphene Frontiers",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://graphenefrontiers.com/careers/",
   "webSiteUrl": "http://graphenefrontiers.com/",
   "technologies": [],

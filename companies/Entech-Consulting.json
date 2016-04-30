@@ -1,0 +1,55 @@
+{
+  "company": "Entech Consulting",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://entech.com/Careers",
+  "webSiteUrl": "http://entech.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1200 Atwater Dr., Suite 140, Malvern, PA 19355",
+      "geo": {
+        "latitude": 40.072126,
+        "longitude": -75.52588
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": ".NET Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://entech.com/Careers/Req/10000",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Java Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://entech.com/Careers/Req/10001",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "http://entech.com/Careers/Req/10002",
+      "jobLocation": "malvern",
+      "remote": true,
+      "datePosted": "2016-04-13"
+    }
+  ]
+}

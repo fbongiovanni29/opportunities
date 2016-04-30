@@ -1,6 +1,8 @@
 {
   "company": "J2 Solutions",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.j2-solutions.com/career.aspx",
   "webSiteUrl": "http://www.j2-solutions.com/",
   "technologies": [],

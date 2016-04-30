@@ -1,6 +1,8 @@
 {
   "company": "Sidecar",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://hello.getsidecar.com/careers-listing/",
   "webSiteUrl": "https://hello.getsidecar.com/",
   "technologies": [],

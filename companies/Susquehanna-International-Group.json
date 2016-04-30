@@ -1,6 +1,8 @@
 {
   "company": "Susquehanna International Group",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://careers.sig.com/",
   "webSiteUrl": "http://sig.com/",
   "technologies": [],

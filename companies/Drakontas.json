@@ -1,0 +1,46 @@
+{
+  "company": "Drakontas",
+  "type": [
+    "startup"
+  ],
+  "url": "https://angel.co/drakontas/jobs",
+  "webSiteUrl": "https://drakontas.com/",
+  "technologies": [
+    "Python",
+    "Postgres",
+    "Linux (CentOS/RedHat)",
+    "Bash scripting",
+    "AWS",
+    "KVM",
+    "VMWare ESXi",
+    "Puppet",
+    "Chef",
+    "Ansible",
+    "JavaScript",
+    "Node.js"
+  ],
+  "locations": {
+    "glenside": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "33 E. Glenside Avenue, Suite 6, Glenside, PA 19038",
+      "geo": {
+        "latitude": 51.503407,
+        "longitude": -0.127592
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Backend Software Engineer",
+      "alternateName": "",
+      "url": "https://angel.co/drakontas/jobs",
+      "jobLocation": "glenside",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 {
   "company": "PromptWorks",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.promptworks.com/jobs/",
   "webSiteUrl": "http://www.promptworks.com/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "Oncora Medical",
-  "type": [],
+  "type": [
+    "startup"
+  ],
   "url": "https://oncoramedical.recruiterbox.com/",
   "webSiteUrl": "http://oncoramedical.com/",
   "technologies": [],

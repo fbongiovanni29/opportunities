@@ -1,6 +1,8 @@
 {
   "company": "GoEmerchant",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.goemerchant.com/careers.aspx",
   "webSiteUrl": "http://www.goemerchant.com/",
   "technologies": [],

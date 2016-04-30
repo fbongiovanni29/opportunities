@@ -136,158 +136,484 @@
   },
   {
     "company": "BOLT ON TECHNOLOGY",
+    "type": [
+      "product"
+    ],
     "url": "http://boltontechnology.com/category/careers/",
     "webSiteUrl": "http://www.boltontechnology.com/",
-    "address": "1105 Industrial Blvd., Southampton, PA 18966-4160",
-    "geo": {
-      "latitude": 40.16228,
-      "longitude": -75.040384
+    "technologies": [
+      ".NET"
+    ],
+    "locations": {
+      "southampton": {
+        "@type": "Place",
+        "address": "1105 Industrial Blvd., Southampton, PA 18966-4160",
+        "geo": {
+          "latitude": 40.16228,
+          "longitude": -75.040384
+        }
+      }
     },
     "positions": [
       {
-        "title": "Customer Support Technician"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Support Technician",
+        "alternateName": "Helpdesk",
+        "url": "http://boltontechnology.com/customer-support-technician/",
+        "jobLocation": "southampton",
+        "remote": false,
+        "datePosted": "2016-01-15"
       },
       {
-        "title": "Microsoft Software Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Microsoft Software Developer",
+        "alternateName": "Developer, Backend",
+        "url": "http://boltontechnology.com/microsoft-software-developer/",
+        "jobLocation": "southampton",
+        "remote": false,
+        "datePosted": "2016-01-15"
       }
     ]
   },
   {
     "company": "BrickSimple LLC",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://bricksimple.com/",
     "webSiteUrl": "http://bricksimple.com/",
-    "address": "22 S Main St, Doylestown, PA 18901",
-    "geo": {
-      "latitude": 40.309501,
-      "longitude": -75.1301983333
+    "technologies": [
+      "Django",
+      "Python"
+    ],
+    "locations": {
+      "doylestown": {
+        "@type": "Place",
+        "address": "22 S Main St, Doylestown, PA 18901",
+        "geo": {
+          "latitude": 40.309501,
+          "longitude": -75.1301983333
+        }
+      }
     },
     "positions": [
       {
-        "title": "Web Application Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Application Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://bricksimple.com/web_app_dev_listing.html",
+        "jobLocation": "doylestown",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Mobile Application Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Mobile Application Developer",
+        "alternateName": "Developer, Mobile",
+        "url": "http://bricksimple.com/mobile_developer_listing.html",
+        "jobLocation": "doylestown",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Garfield Group",
+    "type": [
+      "agency"
+    ],
     "url": "http://garfieldgroup.com/careers",
     "webSiteUrl": "http://garfieldgroup.com/",
-    "address": "60 Blacksmith Road, Newtown, PA 18940",
-    "geo": {
-      "latitude": 40.222709625,
-      "longitude": -74.915183875
+    "technologies": [],
+    "locations": {
+      "newtown": {
+        "@type": "Place",
+        "address": "60 Blacksmith Road, Newtown, PA 18940",
+        "geo": {
+          "latitude": 40.222709625,
+          "longitude": -74.915183875
+        }
+      }
     },
     "positions": [
       {
-        "title": "Copywriter"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Copywriter",
+        "alternateName": "",
+        "url": "http://garfieldgroup.com/careers",
+        "jobLocation": "newtown",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Art Director"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Art Director",
+        "alternateName": "",
+        "url": "http://garfieldgroup.com/careers",
+        "jobLocation": "newtown",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Web Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Developer",
+        "alternateName": "",
+        "url": "http://garfieldgroup.com/careers",
+        "jobLocation": "newtown",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Copywriter Intern"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Copywriter Intern",
+        "alternateName": "",
+        "url": "http://garfieldgroup.com/careers",
+        "jobLocation": "newtown",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Graphic Design Intern"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Graphic Design Intern",
+        "alternateName": "",
+        "url": "http://garfieldgroup.com/careers",
+        "jobLocation": "newtown",
+        "remote": false,
+        "datePosted": ""
       }
     ]
   },
   {
     "company": "Inverse Paradox",
+    "type": [
+      "agency"
+    ],
     "url": "https://www.inverseparadox.com/careers/",
     "webSiteUrl": "https://www.inverseparadox.com/",
-    "address": "133 Bellevue Ave., Penndel, PA 19047",
-    "geo": {
-      "latitude": 40.1584053469,
-      "longitude": -74.9120337959
+    "technologies": [],
+    "locations": {
+      "penndel": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "133 Bellevue Ave., Penndel, PA 19047",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.1584053469,
+          "longitude": -74.9120337959
+        }
+      }
     },
     "positions": [
       {
-        "title": "PHP Developer – Magento"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "PHP Developer – Magento",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.inverseparadox.com/jobs/php-developer-magento/",
+        "jobLocation": "penndel",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "WordPress Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "WordPress Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.inverseparadox.com/jobs/wordpress-developer/",
+        "jobLocation": "penndel",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "MeetMe",
-    "url": "http://www.meetme.com/apps/careers#careers-position",
+    "type": [
+      "internal"
+    ],
+    "url": "http://www.meetme.com/apps/careers#careers-about",
     "webSiteUrl": "http://www.meetme.com/",
-    "address": "100 Union Square Drive, New Hope, PA",
-    "geo": {
-      "latitude": 40.314,
-      "longitude": -75.131903
+    "technologies": [],
+    "locations": {
+      "new hope": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "100 Union Square Drive, New Hope, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.314,
+          "longitude": -75.131903
+        }
+      }
     },
     "positions": [
       {
-        "title": "Big Data Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Big Data Engineer",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Software Architect, API"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Sr. Android Engineer / Architect"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DBA",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Sr. iOS Developer / Architect"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Architect, API",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Sr. Software Developer (API)"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Android Engineer / Architect",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "QA Developer (Automation)"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Sr. DevOps Engineer (Remote)"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. iOS Developer / Architect",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Website Content Review & Customer Support Specialist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Software Developer (API)",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "QA Automation Engineer",
+        "alternateName": "Developer, QA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "QA Automation Lead",
+        "alternateName": "Developer, QA",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Website Content Review & Customer Support Specialist",
+        "alternateName": "Content Strategy",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Pedrera Philadelphia Web Development",
+    "type": [],
     "url": "http://pedrera.com/about-us/careers",
     "webSiteUrl": "http://pedrera.com/",
-    "address": "100 Mechanics Street, Doylestown, PA 18901",
-    "geo": {
-      "latitude": 40.3136617818,
-      "longitude": -75.1289168909
+    "technologies": [],
+    "locations": {
+      "doylestown": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "100 Mechanics Street, Doylestown, PA 18901",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.3136617818,
+          "longitude": -75.1289168909
+        }
+      }
     },
     "positions": [
       {
-        "title": "Web Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Developer",
+        "alternateName": "",
+        "url": "http://pedrera.com/about-us/careers",
+        "jobLocation": "doylestown",
+        "remote": false,
+        "datePosted": ""
       }
     ]
   },
   {
     "company": "Tonic Design Co",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.tonicdesign.com/jobs/",
     "webSiteUrl": "http://www.tonicdesign.com/",
-    "address": "201 S State St, Suite 2B, Newtown, PA 18940",
-    "geo": {
-      "latitude": 40.226642,
-      "longitude": -74.937063
+    "technologies": [],
+    "locations": {
+      "newtown": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "201 S State St, Suite 2B, Newtown, PA 18940",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.226642,
+          "longitude": -74.937063
+        }
+      }
     },
     "positions": [
       {
-        "title": ".NET/C# Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "2016 Summer Interns",
+        "alternateName": "Intern",
+        "url": "http://www.tonicdesign.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
-        "title": "Experience Design Lead"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Education",
+        "alternateName": "Content Strategy",
+        "url": "http://www.tonicdesign.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
-        "title": "Mobile Developers - Android & iOS"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Coordinator",
+        "alternateName": "Marketing",
+        "url": "http://www.tonicdesign.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
-        "title": "Senior User Experience Designer (UX)"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Mobile Developers - Android & iOS",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.tonicdesign.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "User Experience Design Lead (UXDL)",
+        "alternateName": "Designer, User Experience",
+        "url": "http://www.tonicdesign.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-25"
   }
 ]

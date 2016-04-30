@@ -1,9 +1,20 @@
 {
   "company": "TherapyNotes",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.pliner.com/careers/",
   "webSiteUrl": "https://www.therapynotes.com/",
-  "technologies": [],
+  "technologies": [
+    "C#",
+    "ASP.NET",
+    "JavaScript",
+    "SQL",
+    "CSS",
+    "HTML",
+    "PL/SQL",
+    "WCF"
+  ],
   "locations": {
     "willow grove": {
       "@context": "http://schema.org",

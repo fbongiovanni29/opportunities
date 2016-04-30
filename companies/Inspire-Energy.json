@@ -1,6 +1,9 @@
 {
   "company": "Inspire Energy",
-  "type": ["internal", "Startup"],
+  "type": [
+    "internal",
+    "Startup"
+  ],
   "url": "http://www.inspireenergy.com/join-our-team#powers",
   "webSiteUrl": "http://www.inspireenergy.com/",
   "technologies": [],

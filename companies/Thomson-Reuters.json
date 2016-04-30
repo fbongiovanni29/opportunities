@@ -1,6 +1,9 @@
 {
   "company": "Thomson Reuters",
-  "type": ["internal", "consultancy"],
+  "type": [
+    "internal",
+    "consultancy"
+  ],
   "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
   "webSiteUrl": "http://thomsonreuters.com/",
   "technologies": [],

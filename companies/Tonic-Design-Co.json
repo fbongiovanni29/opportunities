@@ -1,6 +1,8 @@
 {
   "company": "Tonic Design Co",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.tonicdesign.com/jobs/",
   "webSiteUrl": "http://www.tonicdesign.com/",
   "technologies": [],

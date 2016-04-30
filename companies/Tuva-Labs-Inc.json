@@ -1,6 +1,8 @@
 {
   "company": "Tuva Labs Inc",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://tuvalabs.com/jobs/",
   "webSiteUrl": "https://tuvalabs.com/",
   "technologies": [],

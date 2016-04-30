@@ -1,0 +1,39 @@
+{
+  "company": "GlobeTopper",
+  "type": [
+    "startup"
+  ],
+  "url": "https://angel.co/globetopper/jobs",
+  "webSiteUrl": "http://www.globetopper.com/",
+  "technologies": [
+    "PHP",
+    "Yii",
+    "CodeIgniter",
+    "Zend",
+    "MySQL"
+  ],
+  "locations": {
+    "king of prussia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1150 1st Avenue Suite, #51047, King of Prussia, PA 19406",
+      "geo": {
+        "latitude": 40.096784,
+        "longitude": -75.4158
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Co Founder/CTO",
+      "alternateName": "",
+      "url": "https://angel.co/globetopper/jobs",
+      "jobLocation": "king of prussia",
+      "remote": true,
+      "datePosted": "2016-04-06"
+    }
+  ]
+}

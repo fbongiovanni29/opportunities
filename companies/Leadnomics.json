@@ -1,6 +1,8 @@
 {
   "company": "Leadnomics",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.leadnomics.com/careers/",
   "webSiteUrl": "http://www.leadnomics.com/",
   "technologies": [],

@@ -66,333 +66,1335 @@
   },
   {
     "company": "Boomi",
+    "type": [
+      "Product"
+    ],
     "url": "http://www.boomi.com/company/careers",
     "webSiteUrl": "http://www.boomi.com/",
-    "address": "801 Cassatt Road, Suite 111, Berwyn, PA 19312",
-    "geo": {
-      "latitude": 40.062366,
-      "longitude": -75.456169
+    "technologies": [
+      "Java"
+    ],
+    "locations": {
+      "Berwyn": {
+        "@type": "Place",
+        "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+        "geo": {
+          "latitude": 40.062366,
+          "longitude": -75.456169
+        }
+      }
     },
     "positions": [
       {
-        "title": "Software Develoment Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Boomi Marketing Manager",
+        "alternateName": "Marketing",
+        "url": "http://jobs.dell.com/au/melbourne/marketing/jobid9894736-boomi-marketing-manager-apj-sydney-or-melbourne-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Software Engineer Director"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Development Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5830518-software-development-engineer-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Software Engineer Java"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer Java",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5241663-software-engineer-java-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Software QA Staff Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SW Solutions Architect III",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.dell.com/us/north-america/engineering/jobid9772762-sw-solutions-architect-iii-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Software Engineer Java",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid6186484-sr.-software-engineer-java-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineering Senior Advisor",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-senior-advisor-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineering Senior Advisor",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs",
+        "jobLocation": "berwyn",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "Cerner",
+    "type": [
+      "product",
+      "consultancy"
+    ],
     "url": "http://cerner.com/About_Cerner/Careers/",
     "webSiteUrl": "http://cerner.com/",
-    "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
-    "geo": {
-      "latitude": 40.060103,
-      "longitude": -75.522087
-    },
-    "positions": []
-  },
-  {
-    "company": "Deacom, Inc",
-    "type": [],
-    "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
-    "webSiteUrl": "http://deacom.com/",
-    "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
-    "geo": {
-      "latitude": 40.067907,
-      "longitude": -75.427966
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@type": "Place",
+        "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
+        "geo": {
+          "latitude": 40.060103,
+          "longitude": -75.522087
+        }
+      }
     },
     "positions": [
       {
-        "title": "Inside Sales Rep"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cybersecurity Consultant",
+        "alternateName": "Developer, Security",
+        "url": "https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?SID=%5e1wg6soENfz3bAh7WRZRAk03Qhge8SDPsu0V61G%2fjxExNNMLVossPMz8y%2f3WkNzQj&jobId=289506&type=search&JobReqLang=1&recordstart=1&JobSiteId=5095&JobSiteInfo=289506_5095&GQId=0",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Senior ERP Product Specialist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?SID=%5e1wg6soENfz3bAh7WRZRAk03Qhge8SDPsu0V61G%2fjxExNNMLVossPMz8y%2f3WkNzQj&jobId=289541&type=search&JobReqLang=1&recordstart=1&JobSiteId=5095&JobSiteInfo=289541_5095&GQId=0",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ]
+  },
+  {
+    "company": "Deacom, Inc",
+    "type": [
+      "product"
+    ],
+    "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+    "webSiteUrl": "http://deacom.com/",
+    "technologies": [],
+    "locations": {
+      "wayne": {
+        "@type": "Place",
+        "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
+        "geo": {
+          "latitude": 40.067907,
+          "longitude": -75.427966
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Business Development Representative",
+        "alternateName": "Business Development",
+        "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Software Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "ERP Product Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.deacom.com/ViewPage/177/deacom-inc-erp-product-specialist",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "ERP Product Specialist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Technical Specialist",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ]
+  },
+  {
+    "company": "Entech Consulting",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://entech.com/Careers",
+    "webSiteUrl": "http://entech.com/",
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1200 Atwater Dr., Suite 140, Malvern, PA 19355",
+        "geo": {
+          "latitude": 40.072126,
+          "longitude": -75.52588
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": ".NET Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://entech.com/Careers/Req/10000",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://entech.com/Careers/Req/10001",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://entech.com/Careers/Req/10002",
+        "jobLocation": "malvern",
+        "remote": true,
+        "datePosted": "2016-04-13"
       }
     ]
   },
   {
     "company": "Evolve IP",
+    "type": [
+      "agency"
+    ],
     "url": "http://www.evolveip.net/about/careers",
     "webSiteUrl": "http://www.evolveip.net/",
-    "address": "989 Old Eagle School Rd, Wayne, PA 19087",
-    "geo": {
-      "latitude": 40.076770625,
-      "longitude": -75.41092975
+    "technologies": [],
+    "locations": {
+      "wayne": {
+        "@type": "Place",
+        "address": "989 Old Eagle School Rd, Wayne, PA 19087",
+        "geo": {
+          "latitude": 40.076770625,
+          "longitude": -75.41092975
+        }
+      }
     },
     "positions": [
       {
-        "title": "Project Manager"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Marketing Manager of Hosted Communications",
+        "alternateName": "Marketing",
+        "url": "http://www.evolveip.net/about/careers/product-marketing-manager",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
-        "title": "Platform Engineer, Cloud Computing"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Quality Assurance Analyst",
+        "alternateName": "Developer, QA",
+        "url": "http://www.evolveip.net/about/careers/quality-assurance-analyst",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "NSOC Technician Network Operations",
+        "alternateName": "Developer, DevOps",
+        "url": "http://www.evolveip.net/about/careers/network-security-operations-center-nsoc-technician",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Platform Engineer, Cloud Computing",
+        "alternateName": "Developer, DevOps",
+        "url": "http://www.evolveip.net/about/careers/platform-engineer-cloud-computing",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Technology Advisor",
+        "alternateName": "Business Development",
+        "url": "http://www.evolveip.net/about/careers/client-technology-advisor",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cloud Computing Sales Engineer",
+        "alternateName": "Business Development",
+        "url": "http://www.evolveip.net/about/careers/cloud-computing-sales-engineer",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ]
   },
   {
     "company": "iPipeline",
+    "type": [
+      "product"
+    ],
     "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
     "webSiteUrl": "http://www.ipipeline.com/",
-    "address": "222 Valley Creek Boulevard, Suite 300, Exton, PA 19341",
-    "geo": {
-      "latitude": 40.03875,
-      "longitude": -75.597482
+    "technologies": [],
+    "locations": {
+      "exton": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "222 Valley Creek Boulevard, Suite 300, Exton, PA 19341",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.03875,
+          "longitude": -75.597482
+        }
+      }
     },
     "positions": [
       {
-        "title": "Application Support Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Lead Infrastructure Engineer",
+        "alternateName": "DevOps",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2693/lead-infrastructure-engineer/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "4/1/2016"
       },
       {
-        "title": "Actuarial Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Engineer",
+        "alternateName": "Business Development",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2677/sales-engineer/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "3/25/2016"
       },
       {
-        "title": "Application Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Contract Renewal Specialist",
+        "alternateName": "Business Development",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2665/contract-renewal-specialist/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "3/21/2016"
       },
       {
-        "title": "Application Support Analyst"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Accounts Receivable-Collections",
+        "alternateName": "Business Development",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2662/accounts-receivable-collections/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "3/16/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Tier 1 Technical Support Analyst",
+        "alternateName": "Developer, Product Support",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2637/tier-1-technical-support-analyst/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "3/11/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Business Analyst-Life Insurance/Illustrations",
+        "alternateName": "Project Manager",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2570/senior-business-analyst-life-insurance-illustrations/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2/18/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Support Engineer",
+        "alternateName": "Developer, Product Support",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2383/application-support-engineer/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2/5/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Actuarial Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2255/actuarial-developer/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2/5/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Project Manager",
+        "alternateName": "Project Manager",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2232/senior-project-manager/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2/5/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2198/application-developer/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2/5/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Support Analyst",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2095/application-support-analyst/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "3/31/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Sales Account Director",
+        "alternateName": "Business Development",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2035/software-sales-account-director/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "3/15/2016"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Business Analyst",
+        "alternateName": "Project Manager",
+        "url": "https://ipipeline-orspartners.icims.com/jobs/2035/software-sales-account-director/job",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2/5/2016"
       }
     ]
   },
   {
     "company": "Medecision",
+    "type": [
+      "product"
+    ],
     "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
     "webSiteUrl": "http://www.medecision.com/",
-    "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
-    "geo": {
-      "latitude": 40.0755407626,
-      "longitude": -75.4241920791
-    },
-    "positions": [
-      {
-        "title": "Director, Data Management"
-      },
-      {
-        "title": "Senior Director, Customer Marketing"
-      },
-      {
-        "title": "Solution Architect, Senior"
+    "technologies": [],
+    "locations": {
+      "wayne": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0755407626,
+          "longitude": -75.4241920791
+        }
       }
-    ]
-  },
-  {
-    "company": "Momentum Dynamics",
-    "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
-    "webSiteUrl": "http://www.momentumdynamics.com/",
-    "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
-    "geo": {
-      "latitude": 40.0374198571,
-      "longitude": -75.5168733857
     },
     "positions": [
       {
-        "title": "Power Electronics Engineers"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Application Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1271/senior-application-architect/job",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Senior Electronics Engineers"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Program Manager",
+        "alternateName": "Project Manager",
+        "url": "https://careers-medecision.icims.com/jobs/1270/program-manager/job",
+        "jobLocation": "",
+        "remote": true,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Electronics Engineers"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Product Business Analyst",
+        "alternateName": "Project Manager",
+        "url": "https://careers-medecision.icims.com/jobs/1269/senior-product-business-analyst/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Electronics Technicians"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Director, Solutions Marketing",
+        "alternateName": "Marketing",
+        "url": "https://careers-medecision.icims.com/jobs/1265/senior-director%2c-solutions-marketing/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
       },
       {
-        "title": "Embedded Software Engineers"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Director, IT Security and Compliance",
+        "alternateName": "IT, Networking",
+        "url": "https://careers-medecision.icims.com/jobs/1250/senior-director%2c-it-security-and-compliance/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1240/application-developer/job",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Application Developer, Senior",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://careers-medecision.icims.com/jobs/1239/application-developer%2c-senior/job",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Data Modeler",
+        "alternateName": "Developer, DBA",
+        "url": "https://careers-medecision.icims.com/jobs/1235/senior-data-modeler/job",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Business Development Executive",
+        "alternateName": "Business Development",
+        "url": "https://careers-medecision.icims.com/jobs/1196/business-development-executive/job",
+        "jobLocation": "wayne",
+        "remote": true,
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "NRG Edge, LLC",
+    "type": [],
     "url": "http://nrg-edge.com/careers.html",
     "webSiteUrl": "http://nrg-edge.com/",
-    "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
-    "geo": {
-      "latitude": 40.064788,
-      "longitude": -75.533473
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.064788,
+          "longitude": -75.533473
+        }
+      }
     },
     "positions": [
       {
-        "title": "Lead Web Development Architect"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Lead Web Development Architect",
+        "alternateName": "",
+        "url": "http://nrg-edge.com/careers.html",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "UI Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "UI Developer",
+        "alternateName": "",
+        "url": "http://nrg-edge.com/careers.html",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": ""
       },
       {
-        "title": "Web Analyst / Tester"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Analyst / Tester",
+        "alternateName": "",
+        "url": "http://nrg-edge.com/careers.html",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": ""
       }
     ]
   },
   {
     "company": "PipelineDeals",
+    "type": [
+      "product"
+    ],
     "url": "https://www.pipelinedeals.com/careers",
     "webSiteUrl": "https://www.pipelinedeals.com/",
-    "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
-    "geo": {
-      "latitude": 40.04229,
-      "longitude": -75.581178
+    "technologies": [],
+    "locations": {
+      "exton": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.04229,
+          "longitude": -75.581178
+        }
+      }
     },
     "positions": [
       {
-        "title": "Senior Software Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Marketing Manager",
+        "alternateName": "Marketing",
+        "url": "https://www.pipelinedeals.com/careers/product_marketing_manager",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "Customer Ambassador"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/account_executive",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "QA Analyst"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.pipelinedeals.com/careers/senior_rails_developer",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Development Representative",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/sales_development_rep",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Ambassador",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "QA Analyst",
+        "alternateName": "Developer, QA",
+        "url": "https://www.pipelinedeals.com/careers/qa_analyst",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "RDA Corp",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
     "webSiteUrl": "http://rdacorp.com/",
-    "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
-    "geo": {
-      "latitude": 40.049973,
-      "longitude": -75.528712
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.049973,
+          "longitude": -75.528712
+        }
+      }
     },
     "positions": [
       {
-        "title": "Account Executive - Digital Sales and Marketing"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": ".NET Senior Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/dotNET%20Senior%20Software%20Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "BI Contractor"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive - Digital Sales and Marketing",
+        "alternateName": "Business Development",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/AE%20DSM%20-%20Philly",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "SharePoint Contractor"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "contract",
+        "title": "SharePoint Contractor",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20SharePoint%20Contractor%20-%203",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "Sitecore Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sitecore Developer",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/Sitecore%20Developer%20-%203",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "Digital Marketing Strategist"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Digital Marketing Strategist",
+        "alternateName": "Marketing",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Digital%20Marketing%20Strategist%20-%203",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "Cloud Developer Architect Contractor"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "BI and Data Warehouse Specialist",
+        "alternateName": "Developer, DBA",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_BI%20and%20Data%20Warehouse%20Specialist",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cloud Developer Architect",
+        "alternateName": "DevOps",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Cloud%20Developer%20Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior SharePoint Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Senior%20SharePoint%20Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "contract",
+        "title": "Cloud Developer Architect Contractor",
+        "alternateName": "DevOps",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20Cloud%20Developer%20Architect%20Contractor%20-%203",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Rock River Star",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://rockriverstar.com/careers",
     "webSiteUrl": "http://rockriverstar.com/",
-    "address": "202 Corner Ketch Road, Downingtown, PA 19335",
-    "geo": {
-      "latitude": 40.031643,
-      "longitude": -75.750801
+    "technologies": [],
+    "locations": {
+      "downingtown": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "202 Corner Ketch Road, Downingtown, PA 19335",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.031643,
+          "longitude": -75.750801
+        }
+      }
     },
     "positions": [
       {
-        "title": "Creative Director"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Creative Director",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/creative-director",
+        "jobLocation": "downingtown",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "Lead Project Architect"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Lead Project Architect",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/lead-project-architect",
+        "jobLocation": "downingtown",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
-        "title": "Programmer / Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Programmer / Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rockriverstar.com/careers/programmer-developer",
+        "jobLocation": "downingtown",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Savana, Inc.",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://savanainc.com/company/careers/",
     "webSiteUrl": "http://savanainc.com/",
-    "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
-    "geo": {
-      "latitude": 40.06229052,
-      "longitude": -75.45604168
-    },
-    "positions": [
-      {
-        "title": "Business Analyst"
+    "technologies": [],
+    "locations": {
+      "berwyn": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.06229052,
+          "longitude": -75.45604168
+        }
       }
-    ]
+    },
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "Scala",
+    "type": [
+      "consultancy"
+    ],
     "url": "http://join.scala.com/careers/",
     "webSiteUrl": "http://scala.com/",
-    "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
-    "geo": {
-      "latitude": 40.0632385406,
-      "longitude": -75.5384306945
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0632385406,
+          "longitude": -75.5384306945
+        }
+      }
+    },
+    "positions": [],
+    "updated": "2016-04-26"
+  },
+  {
+    "company": "SunGuard Financial",
+    "type": [
+      "internal"
+    ],
+    "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
+    "webSiteUrl": "https://www.sungard.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "601 Walnut St, Philadelphia, PA 19106",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.94827,
+          "longitude": -75.151171
+        }
+      },
+      "wayne": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "680-650 E. Swedesford Road, Wayne, PA 19087",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0778877,
+          "longitude": -75.416152
+        }
+      }
     },
     "positions": [
       {
-        "title": "Programmer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front End Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer/1682/1509415",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-19"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front End Developer - Fulltime",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer-fulltime/1682/1509416",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-19"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Java developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/sr-java-developer/1682/208235",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-01-27"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Ruby on Rails Web Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/ruby-on-rails-web-developer/1682/1295844",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-01-07"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "FT Front End Developer-2",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/ft-front-end-developer-2/1682/2036611",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front end Javascript Engineer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-javascript-engineer/1682/1955175",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/java-developer/1682/1955184",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Information Security Engineer-Sr.",
+        "alternateName": "IT, Networking",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/information-security-engineer-sr/1682/738416",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      }
+    ],
+    "updated": "2016-04-26"
+  },
+  {
+    "company": "Sustrana",
+    "type": [
+      "startup"
+    ],
+    "url": "https://angel.co/sustrana-2/jobs",
+    "webSiteUrl": "http://www.sustrana.com/",
+    "technologies": [
+      "ASP.NET 4.5",
+      "C#",
+      "Microsoft Azure DocumentDB",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "Bootstrap",
+      "Knockout"
+    ],
+    "locations": {
+      "devon": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "15 North Devon Boulevard, Devon PA 19333",
+        "geo": {
+          "latitude": 40.0465,
+          "longitude": -75.422861
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Application Developer",
+        "alternateName": "",
+        "url": "https://angel.co/sustrana-2/jobs",
+        "jobLocation": "devon",
+        "remote": false,
+        "datePosted": "2016-04-05"
       }
     ]
   },
   {
     "company": "Zonoff",
-    "url": "https://zonoff.com/our-story/careers/",
+    "type": [
+      "product"
+    ],
+    "url": "http://zonoff.com/our-story/careers/current-openings/",
     "webSiteUrl": "https://zonoff.com/",
-    "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
-    "geo": {
-      "latitude": 40.051395125,
-      "longitude": -75.5336614375
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.051395125,
+          "longitude": -75.5336614375
+        }
+      }
     },
     "positions": [
       {
-        "title": "UI Designer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cloud Services Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "Architect"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "Cloud Services Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Javascript UI Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "DevOps Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Linux Application Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "Javascript UI Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Solutions Support Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "Linux Application Developer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "QA Test Engineer",
+        "alternateName": "Developer, QA",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "Solutions Support Engineer"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Analytics Lead Contributor",
+        "alternateName": "Data Analyst",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       },
       {
-        "title": "QA Test Engineer"
-      },
-      {
-        "title": "Data Analytics Lead Contributor"
-      },
-      {
-        "title": "Director, Content and Brand Marketing"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director, Content and Brand Marketing",
+        "alternateName": "Content Strategy",
+        "url": "https://zonoff.com/our-story/careers/",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zoomi",
+    "type": [
+      "product",
+      "startup"
+    ],
     "url": "http://www.zoomiinc.com/jobs/",
     "webSiteUrl": "http://www.zoomiinc.com/",
-    "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
-    "geo": {
-      "latitude": 40.050203,
-      "longitude": -75.527085
-    },
-    "positions": [
-      {
-        "title": "ALGORITHM ENGINEER"
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.050203,
+          "longitude": -75.527085
+        }
       }
-    ]
+    },
+    "positions": [],
+    "updated": "2016-04-21"
   }
 ]

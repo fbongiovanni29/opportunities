@@ -1,6 +1,8 @@
 {
   "company": "Vistar Media",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.vistarmedia.com/careers",
   "webSiteUrl": "http://www.vistarmedia.com/",
   "technologies": [],

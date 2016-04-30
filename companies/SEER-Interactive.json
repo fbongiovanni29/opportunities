@@ -1,6 +1,8 @@
 {
   "company": "SEER Interactive",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.seerinteractive.com/careers/",
   "webSiteUrl": "http://www.seerinteractive.com/",
   "technologies": [],

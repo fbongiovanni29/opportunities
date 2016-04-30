@@ -1,6 +1,8 @@
 {
   "company": "Morgan Lewis",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
   "webSiteUrl": "https://www.morganlewis.com/",
   "technologies": [],

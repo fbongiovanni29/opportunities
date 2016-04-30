@@ -1,6 +1,8 @@
 {
   "company": "Veris Associates, Inc., dba VerisVisalign",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
   "webSiteUrl": "http://www.verisvisalign.com/",
   "technologies": [],

@@ -1,9 +1,13 @@
 {
   "company": "Ticketleap",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://ticketleap.theresumator.com/",
   "webSiteUrl": "http://ticketleap.com/",
-  "technologies": ["python"],
+  "technologies": [
+    "python"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",

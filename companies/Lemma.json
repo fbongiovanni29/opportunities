@@ -1,9 +1,19 @@
 {
   "company": "Lemma",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.lem.ma/home/?page_id=70",
   "webSiteUrl": "https://www.lem.ma/",
-  "technologies": [],
+  "technologies": [
+    "Javascript",
+    "HTML",
+    "Node.js",
+    "C/C++",
+    "HTML5",
+    "CSS3",
+    "Angular.JS"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",

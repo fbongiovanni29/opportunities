@@ -1,6 +1,8 @@
 {
   "company": "roundCorner",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.roundcorner.com/job-postings/",
   "webSiteUrl": "http://www.roundcorner.com/",
   "technologies": [],

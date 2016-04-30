@@ -1,6 +1,8 @@
 {
   "company": "Scala",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://join.scala.com/careers/",
   "webSiteUrl": "http://scala.com/",
   "technologies": [],

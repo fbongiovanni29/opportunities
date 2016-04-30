@@ -1,6 +1,9 @@
 {
   "company": "Plan Management Corp.",
-  "type": ["product", "consultancy"],
+  "type": [
+    "product",
+    "consultancy"
+  ],
   "url": "http://www.optiontrax.com/about-us/working-here/",
   "webSiteUrl": "http://www.optiontrax.com/",
   "technologies": [],

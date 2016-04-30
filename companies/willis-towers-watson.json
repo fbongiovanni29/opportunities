@@ -1,6 +1,8 @@
 {
   "company": "Willis Towers Watson",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
   "webSiteUrl": "https://www.willistowerswatson.com/",
   "technologies": [],
@@ -39,7 +41,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-25"
-    },
+    }
   ],
   "updated": "2016-04-21"
 }

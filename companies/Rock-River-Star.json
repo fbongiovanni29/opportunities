@@ -1,6 +1,8 @@
 {
   "company": "Rock River Star",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://rockriverstar.com/careers",
   "webSiteUrl": "http://rockriverstar.com/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "Wildbit",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://wildbit.com/jobs",
   "webSiteUrl": "http://wildbit.com/",
   "technologies": [],
