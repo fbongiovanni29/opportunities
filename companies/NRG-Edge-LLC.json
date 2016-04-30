@@ -1,6 +1,6 @@
 {
   "company": "NRG Edge, LLC",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://nrg-edge.com/careers.html",
   "webSiteUrl": "http://nrg-edge.com/",
   "technologies": [],
@@ -23,33 +23,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Lead Web Development Architect",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://nrg-edge.com/careers.html",
       "jobLocation": "malvern",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "UI Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Frontend",
       "url": "http://nrg-edge.com/careers.html",
       "jobLocation": "malvern",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Web Analyst / Tester",
-      "alternateName": "",
+      "alternateName": "Developer, QA",
       "url": "http://nrg-edge.com/careers.html",
       "jobLocation": "malvern",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

@@ -1,6 +1,6 @@
 {
   "company": "Offshorent",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://offshorent.com/careers",
   "webSiteUrl": "http://offshorent.com/",
   "technologies": [],
@@ -23,33 +23,45 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "WordPress developer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://offshorent.com/careers",
       "jobLocation": "king of prussia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Business Development Lead",
-      "alternateName": "",
+      "alternateName": "Business Development",
       "url": "http://offshorent.com/careers",
       "jobLocation": "king of prussia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Frontend Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://offshorent.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Engineer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://offshorent.com/careers",
       "jobLocation": "king of prussia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

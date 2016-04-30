@@ -1,6 +1,6 @@
 {
   "company": "PCS Trac",
-  "type": [],
+  "type": ["product"],
   "url": "http://www.pcstrac.com/#!careers/cuev",
   "webSiteUrl": "http://www.pcstrac.com/",
   "technologies": [],
@@ -17,5 +17,29 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sales Consultant",
+      "alternateName": "Business Development",
+      "url": "http://www.pcstrac.com/#!careers/cuev",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Support Manager",
+      "alternateName": "IT, Networking",
+      "url": "http://www.pcstrac.com/#!careers/cuev",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
+    },
+  ],
+  "updated": "2016-04-29"
 }

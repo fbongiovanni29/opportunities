@@ -1,6 +1,6 @@
 {
   "company": "Pedrera Philadelphia Web Development",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://pedrera.com/about-us/careers",
   "webSiteUrl": "http://pedrera.com/",
   "technologies": [],
@@ -23,11 +23,12 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Web Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://pedrera.com/about-us/careers",
       "jobLocation": "doylestown",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }
