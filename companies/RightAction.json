@@ -1,6 +1,6 @@
 {
   "company": "RightAction",
-  "type": [],
+  "type": ["product"],
   "url": "http://rightaction.theresumator.com/",
   "webSiteUrl": "https://www.rightaction.com/",
   "technologies": [],
@@ -23,22 +23,23 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer, Java",
-      "alternateName": "",
-      "url": "http://rightaction.theresumator.com/",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://rightaction.theresumator.com/apply/mHmQDw/Software-Engineer-Java",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer, Java + Ruby",
-      "alternateName": "",
-      "url": "http://rightaction.theresumator.com/",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://rightaction.theresumator.com/apply/dnS8F6/Software-Engineer-Java-Ruby",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

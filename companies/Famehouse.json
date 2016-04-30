@@ -1,8 +1,6 @@
 {
   "company": "Famehouse",
-  "type": [
-    "agency"
-  ],
+  "type": ["agency"],
   "url": "http://famehouse.net/category/job-listings/",
   "webSiteUrl": "http://famehouse.net/",
   "technologies": [],

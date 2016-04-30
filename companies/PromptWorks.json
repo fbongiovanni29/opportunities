@@ -1,6 +1,6 @@
 {
   "company": "PromptWorks",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://www.promptworks.com/jobs/",
   "webSiteUrl": "http://www.promptworks.com/",
   "technologies": [],
@@ -23,33 +23,23 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Software Engineer",
-      "alternateName": "",
-      "url": "http://www.promptworks.com/jobs/",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.promptworks.com/jobs/senior-software-engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "",
-      "url": "http://www.promptworks.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Front-end Engineer",
-      "alternateName": "",
-      "url": "http://www.promptworks.com/jobs/",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.promptworks.com/jobs/senior-front-end-engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

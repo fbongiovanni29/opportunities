@@ -1,9 +1,6 @@
 {
   "company": "Moven",
-  "type": [
-    "Startup",
-    "product"
-  ],
+  "type": ["Startup", "product"],
   "url": "https://angel.co/moven/jobs",
   "webSiteUrl": "https://www.moven.com/",
   "technologies": [],

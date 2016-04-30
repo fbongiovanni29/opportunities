@@ -1,8 +1,6 @@
 {
   "company": "GatherDocs",
-  "type": [
-    "Product"
-  ],
+  "type": ["Product"],
   "url": "http://jobs.gatherdocs.com/",
   "webSiteUrl": "http://gatherdocs.com/",
   "technologies": [],

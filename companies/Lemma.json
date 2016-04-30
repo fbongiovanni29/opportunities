@@ -1,9 +1,6 @@
 {
   "company": "Lemma",
-  "type": [
-    "product",
-    "startup"
-  ],
+  "type": ["product"],
   "url": "https://www.lem.ma/home/?page_id=70",
   "webSiteUrl": "https://www.lem.ma/",
   "technologies": [

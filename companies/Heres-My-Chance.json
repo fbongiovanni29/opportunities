@@ -1,8 +1,6 @@
 {
   "company": "Here's My Chance",
-  "type": [
-    "agency"
-  ],
+  "type": ["agency"],
   "url": "http://heresmychance.com/careers/",
   "webSiteUrl": "http://heresmychance.com/",
   "technologies": [],

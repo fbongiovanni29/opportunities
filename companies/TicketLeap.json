@@ -1,9 +1,9 @@
 {
   "company": "Ticketleap",
-  "type": [],
+  "type": ["internal"],
   "url": "http://ticketleap.theresumator.com/",
   "webSiteUrl": "http://ticketleap.com/",
-  "technologies": [],
+  "technologies": ["python"],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
@@ -22,12 +22,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "http://ticketleap.theresumator.com/",
+      "alternateName": "Developer, Backend",
+      "url": "http://ticketleap.theresumator.com/apply/G5ZW38/Senior-Software-Engineer-Systems-Architect",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Software Engineer",
-      "alternateName": "",
-      "url": "http://ticketleap.theresumator.com/",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://ticketleap.theresumator.com/apply/IJ9KNH/Software-Engineer",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

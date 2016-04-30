@@ -1,6 +1,6 @@
 {
   "company": "YIKES Inc",
-  "type": [],
+  "type": ["agency"],
   "url": "http://www.yikesinc.com/company/join-team/",
   "webSiteUrl": "http://www.yikesinc.com/",
   "technologies": [],
@@ -17,5 +17,6 @@
       }
     }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-21"
 }

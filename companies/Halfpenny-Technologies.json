@@ -1,8 +1,6 @@
 {
   "company": "Halfpenny Technologies",
-  "type": [
-    "product"
-  ],
+  "type": ["product"],
   "url": "http://www.halfpenny.com/careers.html",
   "webSiteUrl": "http://www.halfpenny.com/",
   "technologies": [],

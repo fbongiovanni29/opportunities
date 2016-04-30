@@ -1,7 +1,7 @@
 {
   "company": "Razorfish Health",
-  "type": [],
-  "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfishhealth&searchExpanded=FALSE#",
+  "type": ["consultancy"],
+  "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
   "webSiteUrl": "http://www.razorfishhealth.com/",
   "technologies": [],
   "locations": {
@@ -17,5 +17,84 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Software Engineer Internship",
+      "alternateName": "Intern",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHC000276",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Director",
+      "alternateName": "Business Development",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000192",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Director",
+      "alternateName": "Business Development",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000180",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Science and Medicine Internship",
+      "alternateName": "Intern",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHC000292",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000199",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "User Experience Internships",
+      "alternateName": "Intern",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHC000250",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Account Executive",
+      "alternateName": "Business Development",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000194",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    }
+  ],
+  "updated": "2016-04-28"
 }

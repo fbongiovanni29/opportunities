@@ -1,6 +1,6 @@
 {
   "company": "Think Brownstone",
-  "type": [],
+  "type": ["consultancy"],
   "url": "https://www.thinkbrownstone.com/careers/",
   "webSiteUrl": "https://www.thinkbrownstone.com/",
   "technologies": [],
@@ -15,85 +15,85 @@
         "latitude": 39.950745,
         "longitude": -75.165716
       }
+    },
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "201 Fayette Street, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0747,
+        "longitude": -75.305437
+      }
     }
   },
-  "positions": [
-    {
+  "positions": [    {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "contract",
       "title": "Content Analyst",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
+      "alternateName": "Content Strategy",
+      "url": "http://tbi.applytojob.com/apply/HBCgWu/Content-Analyst",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Experience Designer - Contractor",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
+      "title": "UI/UX/Data Visualization Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://tbi.applytojob.com/apply/9XO95r/UIUXData-Visualization-Designer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Project Manager",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
+      "employmentType": "contract",
+      "title": "UI & UX Design Contractors",
+      "alternateName": "Designer, User Experience",
+      "url": "http://tbi.applytojob.com/apply/8wkxT2/UX-Visual-Design-Contractors",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "UX & Visual Design Contractors",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "contract",
       "title": "UX Designer",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
+      "alternateName": "Designer, User Experience",
+      "url": "http://tbi.applytojob.com/apply/Yu2EYG/UX-Designer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Web Developer",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://tbi.applytojob.com/apply/FKn4GU/Web-Developer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Web Developer (Contract)",
-      "alternateName": "",
-      "url": "https://www.thinkbrownstone.com/careers/",
+      "employmentType": "contract",
+      "title": "Web Developer ",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://tbi.applytojob.com/apply/ezEwut/Web-Developer-Contract",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

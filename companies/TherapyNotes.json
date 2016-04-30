@@ -1,7 +1,7 @@
 {
   "company": "TherapyNotes",
-  "type": [],
-  "url": "https://therapynotes.workable.com/",
+  "type": ["product"],
+  "url": "https://www.pliner.com/careers/",
   "webSiteUrl": "https://www.therapynotes.com/",
   "technologies": [
     "C#",
@@ -31,23 +31,46 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Account Management and Customer Support",
+      "alternateName": "Business Development",
+      "url": "https://therapynotes.workable.com/jobs/135558",
+      "jobLocation": "willow grove",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Communications Specialist ",
+      "alternateName": "Marketing",
+      "url": "https://therapynotes.workable.com/jobs/219298",
+      "jobLocation": "willow grove",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Senior .NET Developer (C#)",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "https://therapynotes.workable.com/jobs/145948",
       "jobLocation": "willow grove",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Backend",
       "url": "https://therapynotes.workable.com/jobs/139735",
       "jobLocation": "willow grove",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

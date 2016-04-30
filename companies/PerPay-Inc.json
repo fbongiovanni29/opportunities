@@ -1,7 +1,7 @@
 {
   "company": "PerPay Inc",
-  "type": [],
-  "url": "http://perpay.com/careers.html",
+  "type": ["product"],
+  "url": "https://perpay.com/careers/",
   "webSiteUrl": "http://perpay.com/",
   "technologies": [],
   "locations": {
@@ -22,12 +22,57 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Engineers",
-      "alternateName": "",
-      "url": "http://perpay.com/careers.html",
+      "title": "Full Stack Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://perpay.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    }
-  ]
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Architect",
+      "alternateName": "Developer, Backend",
+      "url": "https://perpay.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "https://perpay.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "https://perpay.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Happiness Lead",
+      "alternateName": "Business Development",
+      "url": "https://perpay.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+  ],
+  "updated": "2016-04-28"
 }

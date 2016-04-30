@@ -1,7 +1,7 @@
 {
   "company": "WebLinc Corp.",
-  "type": [],
-  "url": "http://www.weblinc.com/company/careers/",
+  "type": ["agency", "product"],
+  "url": "https://weblinc.workable.com/",
   "webSiteUrl": "http://www.weblinc.com/",
   "technologies": [],
   "locations": {
@@ -22,78 +22,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": ".NET Lead Developer",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
+      "title": "Ruby On Rails Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://weblinc.workable.com/jobs/17597",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Sr. Visual Designer",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
+      "alternateName": "Designer, Visual",
+      "url": "https://weblinc.workable.com/jobs/17629",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Ruby On Rails Developer",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front-End Developer",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "User Experience Designer",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sr. Project Manager",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Project Manager",
-      "alternateName": "",
-      "url": "http://www.weblinc.com/company/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

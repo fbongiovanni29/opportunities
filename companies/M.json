@@ -1,8 +1,6 @@
 {
   "company": "M",
-  "type": [
-    "agency"
-  ],
+  "type": ["agency"],
   "url": "http://agency-m.com/careers",
   "webSiteUrl": "http://agency-m.com/",
   "technologies": [],

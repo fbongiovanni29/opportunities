@@ -1,9 +1,6 @@
 {
   "company": "IntroNet",
-  "type": [
-    "Startup",
-    "product"
-  ],
+  "type": ["Startup", "product"],
   "url": "https://angel.co/intronet/jobs",
   "webSiteUrl": "https://secure.intro.net/",
   "technologies": [],
@@ -29,7 +26,7 @@
       "alternateName": "Developer, Full Stack",
       "url": "https://angel.co/intronet/jobs/123020-chief-technical-officer",
       "jobLocation": "philadelphia",
-      "remote": true,
+      "remote": false,
       "datePosted": "2016-03-08"
     }
   ]

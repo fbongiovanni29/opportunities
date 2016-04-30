@@ -1,8 +1,6 @@
 {
   "company": "IntegriChain",
-  "type": [
-    "product"
-  ],
+  "type": ["product"],
   "url": "https://integrichain-orspartners.icims.com/jobs/search?ss=1",
   "webSiteUrl": "http://www.integrichain.com/",
   "technologies": [],
@@ -85,6 +83,6 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    }
+    },
   ]
 }

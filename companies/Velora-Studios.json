@@ -1,6 +1,6 @@
 {
   "company": "Velora Studios",
-  "type": [],
+  "type": ["agency"],
   "url": "http://www.velorastudios.com/jobs",
   "webSiteUrl": "http://www.velorastudios.com/",
   "technologies": [],
@@ -23,33 +23,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Ruby on Rails Lead Programmer",
-      "alternateName": "",
+      "alternateName": "Developer, Backend",
       "url": "http://www.velorastudios.com/jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Web Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://www.velorastudios.com/jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Project Manager",
-      "alternateName": "",
+      "alternateName": "Project Manager",
       "url": "http://www.velorastudios.com/jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-25"
 }

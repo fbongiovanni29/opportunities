@@ -1,6 +1,6 @@
 {
   "company": "Wildbit",
-  "type": [],
+  "type": ["product"],
   "url": "http://wildbit.com/jobs",
   "webSiteUrl": "http://wildbit.com/",
   "technologies": [],
@@ -17,17 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Quality Assurance Engineer",
-      "alternateName": "",
-      "url": "http://wildbit.com/jobs",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-21"
 }

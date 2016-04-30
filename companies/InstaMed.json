@@ -1,8 +1,6 @@
 {
   "company": "InstaMed",
-  "type": [
-    "product"
-  ],
+  "type": ["product"],
   "url": "http://www.instamed.com/about/careers/",
   "webSiteUrl": "http://www.instamed.com/",
   "technologies": [],

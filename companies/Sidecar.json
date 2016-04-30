@@ -1,6 +1,6 @@
 {
   "company": "Sidecar",
-  "type": [],
+  "type": ["product"],
   "url": "https://hello.getsidecar.com/careers-listing/",
   "webSiteUrl": "https://hello.getsidecar.com/",
   "technologies": [],
@@ -22,122 +22,101 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Application Support Developer",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
+      "title": "Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2745/designer/job",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-19"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Infrastructure Support Developer",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
+      "title": "Front End Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2727/front-end-engineer/job",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Product Manager",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Technical Project Manager",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sr. Product Analyst",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sr. DevOps Engineer",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Systems Administrator",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sr. Data Scientist",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sr. Front End Engineer",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Sr. Product Engineer",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
+      "alternateName": "Developer, Backend",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2723/sr.-product-engineer/job",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Content Marketing Manager",
-      "alternateName": "",
-      "url": "https://hello.getsidecar.com/careers-listing/",
+      "title": "Client Success Manager (Account Manager)",
+      "alternateName": "Business Development",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2683/client-success-manager-%28account-manager%29/job",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-03-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Client Success Manager (Account Manager)",
+      "alternateName": "Business Development",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2682/senior-client-success-manager-%28account-manager%29/job",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Infrastructure Support Developer",
+      "alternateName": "IT, Networking",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2457/infrastructure-support-developer/job",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Marketing Director",
+      "alternateName": "Marketing",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2322/product-marketing-director/job",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "",
+      "alternateName": "",
+      "url": "",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "https://sidecar-orspartners.icims.com/jobs/2179/sr.-data-scientist/job",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-10"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

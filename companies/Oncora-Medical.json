@@ -5,24 +5,7 @@
   ],
   "url": "https://oncoramedical.recruiterbox.com/",
   "webSiteUrl": "http://oncoramedical.com/",
-  "technologies": [
-    "Python",
-    "Hadoop",
-    "Pig",
-    "Django",
-    "MongoDB",
-    "AWS/EC2/ELB/S3/DynamoDB",
-    "Apache Spark",
-    "Numpy",
-    "Scipy",
-    "scikit-learn",
-    "Javascript",
-    "HTML",
-    "CSS",
-    "jQuery",
-    "D3.js",
-    "Twitter Bootstrap"
-  ],
+  "technologies": [],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",

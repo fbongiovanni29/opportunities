@@ -1,6 +1,6 @@
 {
   "company": "Tamman Technologies",
-  "type": [],
+  "type": ["consultancy"],
   "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
   "webSiteUrl": "http://www.tammantech.com/",
   "technologies": [],
@@ -22,12 +22,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Front-End & Full Stack Developers",
-      "alternateName": "",
-      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+      "title": "Apple Macintosh System Administrato",
+      "alternateName": "IT, Networking",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/apple-macintosh-system-administrator-74cd5157?source=ziprecruiter-jobs-site",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-14"
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-End & Full Stack Developers",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/front-end-full-stack-developers-9a3497f4?source=ziprecruiter-jobs-site",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

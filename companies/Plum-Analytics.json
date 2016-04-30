@@ -1,6 +1,6 @@
 {
   "company": "Plum Analytics",
-  "type": [],
+  "type": ["product"],
   "url": "http://plumanalytics.com/about/careers/",
   "webSiteUrl": "http://plumanalytics.com/",
   "technologies": [],
@@ -23,33 +23,23 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Engineer / Architect (Big Data)",
-      "alternateName": "",
-      "url": "http://plumanalytics.com/about/careers/",
+      "alternateName": "Developer, Backend",
+      "url": "http://plumanalytics.com/about/careers/senior-engineer-architect-big-data/",
       "jobLocation": "dresher",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Mid-Level Engineer (Data Acquisition)",
-      "alternateName": "",
-      "url": "http://plumanalytics.com/about/careers/",
-      "jobLocation": "dresher",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Mid-level Java Engineer",
-      "alternateName": "",
-      "url": "http://plumanalytics.com/about/careers/",
+      "alternateName": "Developer, Backend",
+      "url": "http://plumanalytics.com/about/careers/mid-level-java-engineer/",
       "jobLocation": "dresher",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

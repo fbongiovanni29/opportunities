@@ -1,8 +1,6 @@
 {
   "company": "MaassMedia, LLC",
-  "type": [
-    "consultancy"
-  ],
+  "type": ["consultancy"],
   "url": "http://www.maassmedia.com/about-our-careers.php",
   "webSiteUrl": "http://www.maassmedia.com/",
   "technologies": [],
@@ -74,6 +72,6 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-05"
-    }
+    },
   ]
 }

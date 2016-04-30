@@ -1,8 +1,6 @@
 {
   "company": "GLOBO",
-  "type": [
-    "internal"
-  ],
+  "type": ["internal"],
   "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
   "webSiteUrl": "http://www.helloglobo.com/",
   "technologies": [],

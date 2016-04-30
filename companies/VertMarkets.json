@@ -1,9 +1,9 @@
 {
   "company": "VertMarkets",
-  "type": [],
+  "type": ["agency"],
   "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
   "webSiteUrl": "http://www.vertmarkets.com/",
-  "technologies": [],
+  "technologies": ["mongodb", "elasticsearch", "angularjs", "javascript", "asp.net-mvc"],
   "locations": {
     "horsham": {
       "@context": "http://schema.org",
@@ -23,11 +23,12 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Mid or Senior Full Stack Developer",
-      "alternateName": "",
-      "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://stackoverflow.com/jobs/107551/mid-or-senior-full-stack-developer-vertmarkets-inc",
       "jobLocation": "horsham",
       "remote": false,
       "datePosted": "2016-02-26"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

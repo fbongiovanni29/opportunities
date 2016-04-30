@@ -1,6 +1,6 @@
 {
   "company": "Pulsar Informatics",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
   "webSiteUrl": "http://www.pulsarinformatics.com/",
   "technologies": [],
@@ -23,11 +23,12 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Senior Software Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

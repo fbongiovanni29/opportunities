@@ -1,6 +1,6 @@
 {
   "company": "The Wilson Concept",
-  "type": [],
+  "type": ["agency"],
   "url": "http://thewilsonconcept.com/careers/",
   "webSiteUrl": "http://thewilsonconcept.com/",
   "technologies": [],
@@ -17,5 +17,6 @@
       }
     }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-26"
 }

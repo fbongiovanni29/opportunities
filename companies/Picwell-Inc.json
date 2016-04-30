@@ -1,6 +1,6 @@
 {
   "company": "Picwell Inc",
-  "type": [],
+  "type": ["product"],
   "url": "http://nerds.picwell.com/jobs/",
   "webSiteUrl": "http://picwell.com/",
   "technologies": [],
@@ -23,33 +23,45 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Software Engineer",
-      "alternateName": "",
-      "url": "http://nerds.picwell.com/jobs/",
+      "alternateName": "Developer, Backend",
+      "url": "http://nerds.picwell.com/jobs/software_engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Data Engineer",
-      "alternateName": "",
-      "url": "http://nerds.picwell.com/jobs/",
+      "alternateName": "Data Scientist",
+      "url": "http://nerds.picwell.com/jobs/data_engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Data Scientist (Production)",
-      "alternateName": "",
-      "url": "http://nerds.picwell.com/jobs/",
+      "title": "Production Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "http://nerds.picwell.com/jobs/prod_data_scientist/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "http://nerds.picwell.com/jobs/data_analyst/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }
