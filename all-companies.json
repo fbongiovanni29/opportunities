@@ -164,7 +164,18 @@
         "url": "http://50onred.theresumator.com/apply/UnLNnf/Data-Scientist",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-13"
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "http://50onred.theresumator.com/apply/Q1paDp/Senior-Data-Analyst",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
@@ -175,7 +186,7 @@
         "url": "http://50onred.theresumator.com/apply/cFMeje/Senior-Software-Engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-13"
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
@@ -186,7 +197,7 @@
         "url": "http://50onred.theresumator.com/apply/wTCBIf/Agile-Project-Manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-13"
+        "datePosted": "2016-03-13"
       },
       {
         "@context": "http://schema.org",
@@ -197,18 +208,7 @@
         "url": "http://50onred.theresumator.com/apply/dHHHrO/Senior-Product-Manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "IT Administrator",
-        "alternateName": "IT, Networking",
-        "url": "http://50onred.theresumator.com/apply/dHHHrO/Senior-Product-Manager",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-04-13"
+        "datePosted": "2016-03-13"
       }
     ]
   },
@@ -763,7 +763,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "part-time",
         "title": "Part-time Experienced SEO Professional",
         "alternateName": "Content Strategy, SEO",
         "url": "http://www.arcintermedia.com/company/careers/part-time-experienced-seo-professional/",
@@ -2435,6 +2435,224 @@
     ]
   },
   {
+    "company": "Children's Hospital of Philadelphia",
+    "type": [],
+    "url": "https://www.chop.edu.apply2jobs.com/",
+    "webSiteUrl": "http://www.chop.edu/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "34th St and Civic Center Blvd, Philadelphia, PA 19104",
+        "geo": {
+          "latitude": 39.948829,
+          "longitude": -75.192948
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Biomedical Engineering Technologist",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-09"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Controlled Substance Auditor",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-01-19"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Information Analyst I",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2015-11-12"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IS Infrastructure Manager",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-11"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "IS Support Analyst I",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Lawson Systems Analyst III",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2015-11-20"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Medical Abstractionist",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-09"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Platform Engineer I",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-04"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Director, Web Technology and Application Development",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Analyst I",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Analyst II",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-09"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Analyst II",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-04"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Analyst II",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-08"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Analyst II",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-08"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Analyst Principal",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-09"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineer I (Unix/Linux)",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-08"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineer III",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Technology Administration Analyst I",
+        "alternateName": "",
+        "url": "https://www.chop.edu.apply2jobs.com",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-03"
+      }
+    ]
+  },
+  {
     "company": "Circulate",
     "type": [
       "consultancy"
@@ -2685,8 +2903,7 @@
     "url": "https://angel.co/club-os/jobs",
     "webSiteUrl": "https://www.club-os.com/",
     "technologies": [
-      "Java",
-      "SQL"
+      "Java"
     ],
     "locations": {
       "philadelphia": {
@@ -4912,19 +5129,7 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Software Engineer",
-        "alternateName": "",
-        "url": "https://www.getguru.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-04-16"
-      }
-    ]
+    "positions": []
   },
   {
     "company": "Halfpenny Technologies",
@@ -5585,7 +5790,7 @@
         "alternateName": "Developer, Full Stack",
         "url": "https://angel.co/intronet/jobs/123020-chief-technical-officer",
         "jobLocation": "philadelphia",
-        "remote": true,
+        "remote": false,
         "datePosted": "2016-03-08"
       }
     ]
@@ -6305,8 +6510,7 @@
   {
     "company": "Lemma",
     "type": [
-      "product",
-      "startup"
+      "product"
     ],
     "url": "https://www.lem.ma/home/?page_id=70",
     "webSiteUrl": "https://www.lem.ma/",
@@ -7864,24 +8068,7 @@
     ],
     "url": "https://oncoramedical.recruiterbox.com/",
     "webSiteUrl": "http://oncoramedical.com/",
-    "technologies": [
-      "Python",
-      "Hadoop",
-      "Pig",
-      "Django",
-      "MongoDB",
-      "AWS/EC2/ELB/S3/DynamoDB",
-      "Apache Spark",
-      "Numpy",
-      "Scipy",
-      "scikit-learn",
-      "Javascript",
-      "HTML",
-      "CSS",
-      "jQuery",
-      "D3.js",
-      "Twitter Bootstrap"
-    ],
+    "technologies": [],
     "locations": {
       "philadelphia": {
         "@context": "http://schema.org",
@@ -8086,8 +8273,10 @@
   },
   {
     "company": "PerPay Inc",
-    "type": [],
-    "url": "http://perpay.com/careers.html",
+    "type": [
+      "product"
+    ],
+    "url": "https://perpay.com/careers/",
     "webSiteUrl": "http://perpay.com/",
     "technologies": [],
     "locations": {
@@ -8108,18 +8297,65 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Engineers",
-        "alternateName": "",
-        "url": "http://perpay.com/careers.html",
+        "title": "Full Stack Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://perpay.com/careers/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Architect",
+        "alternateName": "Developer, Backend",
+        "url": "https://perpay.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "https://perpay.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "https://perpay.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Happiness Lead",
+        "alternateName": "Business Development",
+        "url": "https://perpay.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
     "webSiteUrl": "http://www.discoverphl.com/",
     "technologies": [],
@@ -8136,19 +8372,8 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Marketing Specialist",
-        "alternateName": "",
-        "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-28"
   },
   {
     "company": "Philadelphia Media Network",
@@ -8174,150 +8399,76 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Sales Planning Analyst",
-        "alternateName": "",
+        "title": "National Digital Sales Executive",
+        "alternateName": "Business Development",
         "url": "http://apsweb.philly.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Outside Local Sales Representatives",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Digital Advertising Sales Manager",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Production Coordinator",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Digital Audience Analyst",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Product Associate",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Co-Op Account Executive",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Graphic Designer",
-        "alternateName": "",
+        "alternateName": "Design, Visual",
         "url": "http://apsweb.philly.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Digital Sales Specialist",
+        "alternateName": "Business Development",
+        "url": "http://apsweb.philly.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Interactive Graphic Designer",
-        "alternateName": "",
+        "alternateName": "Design, Visual",
         "url": "http://apsweb.philly.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Digital Reporting and Yield Specialist",
-        "alternateName": "",
+        "title": "Marketing Specialist",
+        "alternateName": "Marketing",
         "url": "http://apsweb.philly.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Digital Campaign Manager",
-        "alternateName": "",
+        "title": "Web Developer",
+        "alternateName": "Developer, Full Stack",
         "url": "http://apsweb.philly.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "CRM Database Manager",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Market Research Analyst (Digital)",
-        "alternateName": "",
-        "url": "http://apsweb.philly.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Philly Marketing Labs",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.phillymarketinglabs.com/join-our-team/",
     "webSiteUrl": "http://www.phillymarketinglabs.com/",
     "technologies": [],
@@ -8340,39 +8491,42 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Web Marketing Project Manager",
-        "alternateName": "",
-        "url": "http://www.phillymarketinglabs.com/join-our-team/",
+        "alternateName": "Project Manager",
+        "url": "http://www.phillymarketinglabs.com/about/join-our-team/web-marketing-project-manager/",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Organic Search Manager",
-        "alternateName": "",
-        "url": "http://www.phillymarketinglabs.com/join-our-team/",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://www.phillymarketinglabs.com/about/join-our-team/organic-search-manager/",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Paid Search Manager",
-        "alternateName": "",
-        "url": "http://www.phillymarketinglabs.com/join-our-team/",
+        "title": "Senior Digital Marketing Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.phillymarketinglabs.com/about/join-our-team/senior-digital-marketing-project-manager/",
         "jobLocation": "wayne",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Picwell Inc",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://nerds.picwell.com/jobs/",
     "webSiteUrl": "http://picwell.com/",
     "technologies": [],
@@ -8395,39 +8549,53 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://nerds.picwell.com/jobs/",
+        "alternateName": "Developer, Backend",
+        "url": "http://nerds.picwell.com/jobs/software_engineer/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Engineer",
-        "alternateName": "",
-        "url": "http://nerds.picwell.com/jobs/",
+        "alternateName": "Data Scientist",
+        "url": "http://nerds.picwell.com/jobs/data_engineer/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Data Scientist (Production)",
-        "alternateName": "",
-        "url": "http://nerds.picwell.com/jobs/",
+        "title": "Production Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "http://nerds.picwell.com/jobs/prod_data_scientist/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "http://nerds.picwell.com/jobs/data_analyst/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "PipelineDeals",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://www.pipelinedeals.com/careers",
     "webSiteUrl": "https://www.pipelinedeals.com/",
     "technologies": [],
@@ -8449,40 +8617,77 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Software Engineer",
-        "alternateName": "",
-        "url": "https://www.pipelinedeals.com/careers",
+        "title": "Product Marketing Manager",
+        "alternateName": "Marketing",
+        "url": "https://www.pipelinedeals.com/careers/product_marketing_manager",
         "jobLocation": "exton",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/account_executive",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.pipelinedeals.com/careers/senior_rails_developer",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Development Representative",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/sales_development_rep",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Customer Ambassador",
-        "alternateName": "",
-        "url": "https://www.pipelinedeals.com/careers",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
         "jobLocation": "exton",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "QA Analyst",
-        "alternateName": "",
-        "url": "https://www.pipelinedeals.com/careers",
+        "alternateName": "Developer, QA",
+        "url": "https://www.pipelinedeals.com/careers/qa_analyst",
         "jobLocation": "exton",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Plan Management Corp.",
-    "type": [],
+    "type": [
+      "product",
+      "consultancy"
+    ],
     "url": "http://www.optiontrax.com/about-us/working-here/",
     "webSiteUrl": "http://www.optiontrax.com/",
     "technologies": [],
@@ -8499,11 +8704,14 @@
         }
       }
     },
-    "positions": []
+    "positions": [],
+    "updated": "2016-04-28"
   },
   {
     "company": "Plum Analytics",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://plumanalytics.com/about/careers/",
     "webSiteUrl": "http://plumanalytics.com/",
     "technologies": [],
@@ -8526,72 +8734,31 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Engineer / Architect (Big Data)",
-        "alternateName": "",
-        "url": "http://plumanalytics.com/about/careers/",
+        "alternateName": "Developer, Backend",
+        "url": "http://plumanalytics.com/about/careers/senior-engineer-architect-big-data/",
         "jobLocation": "dresher",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Mid-Level Engineer (Data Acquisition)",
-        "alternateName": "",
-        "url": "http://plumanalytics.com/about/careers/",
-        "jobLocation": "dresher",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Mid-level Java Engineer",
-        "alternateName": "",
-        "url": "http://plumanalytics.com/about/careers/",
+        "alternateName": "Developer, Backend",
+        "url": "http://plumanalytics.com/about/careers/mid-level-java-engineer/",
         "jobLocation": "dresher",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
-  },
-  {
-    "company": "Pobox",
-    "type": [],
-    "url": "https://www.pobox.com/jobs",
-    "webSiteUrl": "https://www.pobox.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "Philadelphia, PA 19107",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 39.955929,
-          "longitude": -75.157457
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "programmer",
-        "alternateName": "",
-        "url": "https://www.pobox.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "PromptWorks",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.promptworks.com/jobs/",
     "webSiteUrl": "http://www.promptworks.com/",
     "technologies": [],
@@ -8614,39 +8781,31 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Software Engineer",
-        "alternateName": "",
-        "url": "http://www.promptworks.com/jobs/",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.promptworks.com/jobs/senior-software-engineer/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://www.promptworks.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Front-end Engineer",
-        "alternateName": "",
-        "url": "http://www.promptworks.com/jobs/",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.promptworks.com/jobs/senior-front-end-engineer/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Pulsar Informatics",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
     "webSiteUrl": "http://www.pulsarinformatics.com/",
     "technologies": [],
@@ -8669,17 +8828,20 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Senior Software Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "P'unk Avenue",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://jobs.punkave.com/",
     "webSiteUrl": "http://punkave.com/",
     "technologies": [],
@@ -8696,56 +8858,15 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Front-End Developer",
-        "alternateName": "",
-        "url": "http://jobs.punkave.com/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Full Stack Developer",
-        "alternateName": "",
-        "url": "http://jobs.punkave.com/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "Push10 Design",
-    "type": [],
-    "url": "http://www.push10.com/blog/",
-    "webSiteUrl": "http://www.push10.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "125 North 3rd St, Philadelphia, PA 19106",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 39.9528668,
-          "longitude": -75.1450802
-        }
-      }
-    },
-    "positions": []
+    "positions": [],
+    "updated": "2016-04-28"
   },
   {
     "company": "Razorfish Health",
-    "type": [],
-    "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfishhealth&searchExpanded=FALSE#",
+    "type": [
+      "consultancy"
+    ],
+    "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
     "webSiteUrl": "http://www.razorfishhealth.com/",
     "technologies": [],
     "locations": {
@@ -8761,11 +8882,92 @@
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Software Engineer Internship",
+        "alternateName": "Intern",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHC000276",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Director",
+        "alternateName": "Business Development",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000192",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Director",
+        "alternateName": "Business Development",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000180",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Science and Medicine Internship",
+        "alternateName": "Intern",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHC000292",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Copywriter",
+        "alternateName": "Content Strategy",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000199",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "User Experience Internships",
+        "alternateName": "Intern",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHC000250",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000194",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      }
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "RDA Corp",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
     "webSiteUrl": "http://rdacorp.com/",
     "technologies": [],
@@ -8787,73 +8989,109 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
+        "title": ".NET Senior Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/dotNET%20Senior%20Software%20Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Account Executive - Digital Sales and Marketing",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Business Development",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/AE%20DSM%20-%20Philly",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "BI Contractor",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "contract",
         "title": "SharePoint Contractor",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20SharePoint%20Contractor%20-%203",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sitecore Developer",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/Sitecore%20Developer%20-%203",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Digital Marketing Strategist",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Marketing",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Digital%20Marketing%20Strategist%20-%203",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Cloud Developer Architect Contractor",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "title": "BI and Data Warehouse Specialist",
+        "alternateName": "Developer, DBA",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_BI%20and%20Data%20Warehouse%20Specialist",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cloud Developer Architect",
+        "alternateName": "DevOps",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Cloud%20Developer%20Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior SharePoint Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Senior%20SharePoint%20Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "contract",
+        "title": "Cloud Developer Architect Contractor",
+        "alternateName": "DevOps",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20Cloud%20Developer%20Architect%20Contractor%20-%203",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Red Tettemer O'Connell + Partners",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://www.rtop.com/contact/",
     "webSiteUrl": "http://www.rtop.com/",
     "technologies": [],
@@ -8875,47 +9113,92 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "COPYWRITER",
-        "alternateName": "",
-        "url": "http://www.rtop.com/contact/",
+        "title": "JUNIOR STRATEGIST",
+        "alternateName": "Content Strategy",
+        "url": "http://www.rtop.com/jobs/32",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "ART DIRECTOR",
-        "alternateName": "",
-        "url": "http://www.rtop.com/contact/",
+        "title": "ACCOUNT COORDINATOR",
+        "alternateName": "Business Development",
+        "url": "http://www.rtop.com/jobs/20",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SENIOR FRONT END DEVELOPER",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.rtop.com/jobs/28",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "COPYWRITER",
+        "alternateName": "Content Strategy",
+        "url": "http://www.rtop.com/jobs/7",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "APP DEVELOPER",
-        "alternateName": "",
-        "url": "http://www.rtop.com/contact/",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.rtop.com/jobs/17",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "WEB DEV INTERN",
-        "alternateName": "",
+        "title": "SENIOR ACCOUNT MANAGER",
+        "alternateName": "Business Development",
+        "url": "http://www.rtop.com/jobs/5",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "ART DIRECTOR",
+        "alternateName": "Design, Visual",
+        "url": "http://www.rtop.com/jobs/12",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Intern (multiple)",
+        "alternateName": "Intern",
         "url": "http://www.rtop.com/contact/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "RegDesk",
@@ -8944,28 +9227,42 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Developer",
-        "alternateName": "",
-        "url": "https://angel.co/regdesk/jobs",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://angel.co/regdesk/jobs/30788-developer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Front-End Intern",
+        "alternateName": "Intern",
+        "url": "https://angel.co/regdesk/jobs/104503-front-end-intern",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Front-End Intern",
-        "alternateName": "",
-        "url": "https://angel.co/regdesk/jobs",
+        "title": "Marketing Manager",
+        "alternateName": "Marketing",
+        "url": "https://angel.co/regdesk/jobs/43012-marketing-manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Relay",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.relaynetwork.com/careers/",
     "webSiteUrl": "http://www.relaynetwork.com/",
     "technologies": [],
@@ -8987,87 +9284,60 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "CLIENT PROJECT MANAGER",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
+        "title": "Business Development",
+        "alternateName": "Business Development",
+        "url": "https://theapplicantmanager.com/jobs?pos=RN112",
         "jobLocation": "radnor",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "DATA ARCHITECT",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
+        "title": "Front-End Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://theapplicantmanager.com/jobs?pos=RN106",
         "jobLocation": "radnor",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "DEVOPS MANAGER",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://theapplicantmanager.com/jobs?pos=RN115",
         "jobLocation": "radnor",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "FRONT-END DEVELOPER",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
+        "title": "Sr. Sales Executive",
+        "alternateName": "Business Development",
+        "url": "https://theapplicantmanager.com/jobs?pos=RN113",
         "jobLocation": "radnor",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SCRUM MASTER",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
-        "jobLocation": "radnor",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SOFTWARE ENGINEER",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
-        "jobLocation": "radnor",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SR. SALES EXECUTIVE",
-        "alternateName": "",
-        "url": "http://www.relaynetwork.com/careers/",
-        "jobLocation": "radnor",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Revzilla",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://www.revzilla.com/careers",
     "webSiteUrl": "http://www.revzilla.com/",
-    "technologies": [],
+    "technologies": [
+      "Rails",
+      "Elixir"
+    ],
     "locations": {
       "philadelphia": {
         "@context": "http://schema.org",
@@ -9086,95 +9356,98 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Manager, Digital Analytics and Insights",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "title": "Benefits Coordinator",
+        "alternateName": "HR",
+        "url": "http://revzilla.theresumator.com/apply/WXzoXK/job_20160408212907_ZSIKS2DDVSH5LFJG",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Manager, Usability and Research",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "title": "Product Design + Usability Lead",
+        "alternateName": "Designer, User Experience",
+        "url": "http://revzilla.theresumator.com/apply/Tzckmb/job_20160425122222_NBSA9EQQPVAXO7W0",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Product Designer",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Search Engine Marketing (SEM) Manager",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://revzilla.theresumator.com/apply/OixWbA/job_20150923125146_03BEJG9U3IUY34G6",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Digital Marketing Manager - Display/Media",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "title": "Search Engine Optimization (SEO) Manager",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://revzilla.theresumator.com/apply/YlZqyk/job_20160223145500_EXZLEKEGMVCJMNFJ",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Digital Content Manager - Editorial",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "title": "Senior Visual Designer",
+        "alternateName": "Design, Visual",
+        "url": "http://revzilla.theresumator.com/apply/A4CeX5/job_20160425115719_6YEMWWDF2EXRAZM3",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "RevZilla Video Production Coordinator",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "title": "Content Writer - Motorcycles",
+        "alternateName": "Content Strategy",
+        "url": "http://revzilla.theresumator.com/apply/udSus9/job_20160317191505_BNJHE0HGKTW4JZOU",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Editorial Content Manager — Motorcycles",
+        "alternateName": "Content Strategy",
+        "url": "http://revzilla.theresumator.com/apply/ejIznz/job_20160222195342_HSZFI9U23WIW36UK",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Web Developer",
-        "alternateName": "",
-        "url": "http://www.revzilla.com/careers",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://revzilla.theresumator.com/apply/gRhWCZ/job_20160422191213_BVJKKKOMEYHKBO7M",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "RightAction",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://rightaction.theresumator.com/",
     "webSiteUrl": "https://www.rightaction.com/",
     "technologies": [],
@@ -9197,24 +9470,25 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer, Java",
-        "alternateName": "",
-        "url": "http://rightaction.theresumator.com/",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rightaction.theresumator.com/apply/mHmQDw/Software-Engineer-Java",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer, Java + Ruby",
-        "alternateName": "",
-        "url": "http://rightaction.theresumator.com/",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rightaction.theresumator.com/apply/dnS8F6/Software-Engineer-Java-Ruby",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "RJMetrics",
@@ -9263,51 +9537,43 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Data Scientist",
-        "alternateName": "",
-        "url": "https://rjmetrics.com/jobs/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Data Warehouse Analyst",
-        "alternateName": "",
+        "alternateName": "Data Analyst",
         "url": "https://rjmetrics.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Front End Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "https://rjmetrics.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "https://rjmetrics.com/jobs/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Rock River Star",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://rockriverstar.com/careers",
     "webSiteUrl": "http://rockriverstar.com/",
     "technologies": [],
@@ -9330,39 +9596,42 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Creative Director",
-        "alternateName": "",
-        "url": "http://rockriverstar.com/careers",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/creative-director",
         "jobLocation": "downingtown",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Lead Project Architect",
-        "alternateName": "",
-        "url": "http://rockriverstar.com/careers",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/lead-project-architect",
         "jobLocation": "downingtown",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Programmer / Developer",
-        "alternateName": "",
-        "url": "http://rockriverstar.com/careers",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rockriverstar.com/careers/programmer-developer",
         "jobLocation": "downingtown",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "roundCorner",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.roundcorner.com/job-postings/",
     "webSiteUrl": "http://www.roundcorner.com/",
     "technologies": [],
@@ -9385,40 +9654,32 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Architect",
-        "alternateName": "",
-        "url": "http://www.roundcorner.com/job-postings/",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.roundcorner.com/data-architect/",
         "jobLocation": "ardmore",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Migration Specialist",
-        "alternateName": "",
-        "url": "http://www.roundcorner.com/job-postings/",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.roundcorner.com/data-migration-specialist/",
         "jobLocation": "ardmore",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Project Manager",
-        "alternateName": "",
-        "url": "http://www.roundcorner.com/job-postings/",
-        "jobLocation": "ardmore",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Saturn Infotech Inc",
-    "type": [],
-    "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://www.saturninfotech.com/jobs.php",
     "webSiteUrl": "http://www.saturninfotech.com/",
     "technologies": [],
     "locations": {
@@ -9439,40 +9700,21 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Entry Level Hyperion Developers",
-        "alternateName": "",
-        "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
-        "jobLocation": "north wales",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Junior C/C++ or MATLAB Developers",
-        "alternateName": "",
-        "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.saturninfotech.com/job_details.php?jobid=3",
         "jobLocation": "north wales",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Fresh Graduates - Systems Analyst / Programmer Analyst",
-        "alternateName": "",
-        "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
-        "jobLocation": "north wales",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Savana, Inc.",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://savanainc.com/company/careers/",
     "webSiteUrl": "http://savanainc.com/",
     "technologies": [],
@@ -9489,23 +9731,14 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Business Analyst",
-        "alternateName": "",
-        "url": "http://savanainc.com/company/careers/",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "Scala",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://join.scala.com/careers/",
     "webSiteUrl": "http://scala.com/",
     "technologies": [],
@@ -9522,23 +9755,14 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Programmer",
-        "alternateName": "",
-        "url": "http://join.scala.com/careers/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "SEER Interactive",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.seerinteractive.com/careers/",
     "webSiteUrl": "http://www.seerinteractive.com/",
     "technologies": [],
@@ -9560,117 +9784,109 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Digital Strategy Manager",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "PPC TEAM LEAD",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://jobs.seerinteractive.com/apply/eZA2cQ/PPC-Team-Lead",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Director of Business Strategy",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "PPC ACCOUNT MANAGER",
+        "alternateName": "Business Development",
+        "url": "http://jobs.seerinteractive.com/apply/0oOAaU/PPC-Account-Manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Analytics Associate",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "SEO ACCOUNT MANAGER",
+        "alternateName": "Business Development",
+        "url": "http://jobs.seerinteractive.com/apply/9WjdfE/SEO-Account-Manager",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Director of Paid Search",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "DIGITAL SALES LEAD",
+        "alternateName": "Business Development",
+        "url": "http://jobs.seerinteractive.com/apply/efj45t/Digital-Sales-Lead",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Analytics Account Manager",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "SEO ASSOCIATE",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://jobs.seerinteractive.com/apply/oacVoi/SEO-Associate",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Technical SEO Associate",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "DIRECTOR OF BUSINESS STRATEGY",
+        "alternateName": "Business Development",
+        "url": "http://jobs.seerinteractive.com/apply/KUSitp/Director-of-Business-Strategy",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "SEO Account Manager",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "ANALYTICS ASSOCIATE",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://jobs.seerinteractive.com/apply/DsHTB8/Analytics-Associate",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "PPC Associate",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "TECHNICAL SEO ASSOCIATE",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://jobs.seerinteractive.com/apply/wHBFU0/Technical-SEO-Associate",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "PPC Account Manager",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
+        "title": "PPC ASSOCIATE",
+        "alternateName": "Content Strategy, SEO",
+        "url": "http://jobs.seerinteractive.com/apply/DOI6DW/PPC-Associate",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SEO Associate",
-        "alternateName": "",
-        "url": "http://www.seerinteractive.com/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Sidecar",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://hello.getsidecar.com/careers-listing/",
     "webSiteUrl": "https://hello.getsidecar.com/",
     "technologies": [],
@@ -9692,128 +9908,109 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Application Support Developer",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
+        "title": "Designer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2745/designer/job",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-19"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Infrastructure Support Developer",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
+        "title": "Front End Engineer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2727/front-end-engineer/job",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Product Manager",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technical Project Manager",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. Product Analyst",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. DevOps Engineer",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Systems Administrator",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. Data Scientist",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. Front End Engineer",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sr. Product Engineer",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
+        "alternateName": "Developer, Backend",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2723/sr.-product-engineer/job",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-13"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Content Marketing Manager",
-        "alternateName": "",
-        "url": "https://hello.getsidecar.com/careers-listing/",
+        "title": "Client Success Manager (Account Manager)",
+        "alternateName": "Business Development",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2683/client-success-manager-%28account-manager%29/job",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-03-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Client Success Manager (Account Manager)",
+        "alternateName": "Business Development",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2682/senior-client-success-manager-%28account-manager%29/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Infrastructure Support Developer",
+        "alternateName": "IT, Networking",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2457/infrastructure-support-developer/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-01"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Marketing Director",
+        "alternateName": "Marketing",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2322/product-marketing-director/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-01"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "",
+        "alternateName": "",
+        "url": "",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "https://sidecar-orspartners.icims.com/jobs/2179/sr.-data-scientist/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-10"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "SnipSnap",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.snipsnap.it/snipsnap-jobs/",
     "webSiteUrl": "http://www.snipsnap.it/",
     "technologies": [],
@@ -9835,18 +10032,76 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Product Designer (Android)",
-        "alternateName": "",
-        "url": "http://www.snipsnap.it/snipsnap-jobs/",
+        "title": "Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.snipsnap.it/jobs/engineer/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive",
+        "alternateName": "Business Development",
+        "url": "http://www.snipsnap.it/jobs/account-executive/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Designer (Android)",
+        "alternateName": "Designer, User Experience",
+        "url": "http://www.snipsnap.it/jobs/product-designer-android-2/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SVP Sales",
+        "alternateName": "Business Development",
+        "url": "http://www.snipsnap.it/jobs/svp-national-sales-mobile-retail/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Sales",
+        "alternateName": "Business Development",
+        "url": "http://www.snipsnap.it/jobs/director-of-sales/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "UI/UX Design – Intern/Co-Op",
+        "alternateName": "Intern",
+        "url": "http://www.snipsnap.it/jobs/uiux-design-internco-op/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "SpectiCast",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://www.specticast.com/en/contents/careers",
     "webSiteUrl": "http://www.specticast.com/",
     "technologies": [],
@@ -9863,7 +10118,8 @@
         }
       }
     },
-    "positions": []
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "Stock4Good",
@@ -9900,7 +10156,9 @@
   },
   {
     "company": "Stuzo",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.stuzo.com/careers/",
     "webSiteUrl": "http://www.stuzo.com/",
     "technologies": [],
@@ -9922,18 +10180,76 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Technical Project Manager",
-        "alternateName": "",
-        "url": "http://www.stuzo.com/careers/",
+        "title": "Director of Delivery",
+        "alternateName": "Project Manager",
+        "url": "http://www.stuzo.com/careers/director-of-delivery/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Partner Manager",
+        "alternateName": "Business Development",
+        "url": "http://www.stuzo.com/careers/client-partner-manager/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Client Services",
+        "alternateName": "Business Development",
+        "url": "http://www.stuzo.com/careers/director-of-client-service/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Business Development",
+        "alternateName": "Business Development",
+        "url": "http://www.stuzo.com/careers/director-of-business-development/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Technical Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.stuzo.com/careers/technical-project-manager/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Specialist",
+        "alternateName": "Marketing",
+        "url": "http://www.stuzo.com/careers/marketing-specialist/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "SunGuard Financial",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
     "webSiteUrl": "https://www.sungard.com/",
     "technologies": [],
@@ -9948,6 +10264,17 @@
           "latitude": 39.94827,
           "longitude": -75.151171
         }
+      },
+      "wayne": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "680-650 E. Swedesford Road, Wayne, PA 19087",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0778877,
+          "longitude": -75.416152
+        }
       }
     },
     "positions": [
@@ -9955,40 +10282,98 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Sr. Android developer",
-        "alternateName": "",
-        "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
+        "title": "Front End Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer/1682/1509415",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-02-19"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front End Developer - Fulltime",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer-fulltime/1682/1509416",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-19"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sr. Java developer",
-        "alternateName": "",
-        "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/sr-java-developer/1682/208235",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-01-27"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Ruby on Rails Web Developer",
-        "alternateName": "",
-        "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/ruby-on-rails-web-developer/1682/1295844",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-01-07"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "FT Front End Developer-2",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/ft-front-end-developer-2/1682/2036611",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front end Javascript Engineer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-javascript-engineer/1682/1955175",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/java-developer/1682/1955184",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Information Security Engineer-Sr.",
+        "alternateName": "IT, Networking",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/information-security-engineer-sr/1682/738416",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Susquehanna International Group",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "https://careers.sig.com/",
     "webSiteUrl": "http://sig.com/",
     "technologies": [],
@@ -10010,333 +10395,213 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Junior Technical Support Analyst",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "title": "Software Developer - C#",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y81/Software-Developer-C",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "QlikView Developer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Engineering Internship Program",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Junior Systems Administrator (Data Center)",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Developer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y94/Software-Developer",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Developer - Middleware",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "title": "Quantitative Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y118/Quantitative-Developer-Backtesting-and-Research-Computing",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Business Analyst/Project Manager",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "FPGA Engineer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technical Support Analyst",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Telecom Client Support Analyst",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior VMware Engineer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Developer - Clearing and Positions",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y162/Software-Developer-Clearing-and-Positions",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Engineer - Production Engineering",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "title": "Junior Systems Administrator",
+        "alternateName": "IT, Networking",
+        "url": "https://careers.sig.com/job/SUSQA004Y185/Junior-Systems-Administrator",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Developer - C++",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "title": "Trading Systems Support Engineer",
+        "alternateName": "IT, Networking",
+        "url": "https://careers.sig.com/job/SUSQA004Y210/Trading-Systems-Support-Engineer",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Messaging Engineer (Middleware)",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "title": "Junior Systems & Network Administrator (Data Center)",
+        "alternateName": "IT, Networking",
+        "url": "https://careers.sig.com/job/SUSQA004Y231/Junior-Systems-Network-Administrator-Data-Center",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer - MDCAD",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y251/Software-Developer-MDCAD",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Business Intelligence Developer",
+        "alternateName": "Developer, DBA",
+        "url": "https://careers.sig.com/job/SUSQA004Y29/Business-Intelligence-Developer",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Junior Software Developer – Proprietary Trading Services",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y61/Junior-Software-Developer-Proprietary-Trading-Services",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer - C++",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y111/Software-Engineer-C",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Junior Network Engineer",
+        "alternateName": "IT, Networking",
+        "url": "https://careers.sig.com/job/SUSQA004Y215/Junior-Network-Engineer",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Software Engineer",
+        "alternateName": "Developer, DBA",
+        "url": "https://careers.sig.com/job/SUSQA004Y237/Data-Software-Engineer",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer - Server Side",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y240/Software-Developer-Server-Side",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer - Middleware",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y103/Software-Developer-Middleware",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Quantitative Research Analyst",
+        "alternateName": "Data Scientist",
+        "url": "https://careers.sig.com/job/SUSQA004Y163/Quantitative-Research-Analyst",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer - Index",
+        "alternateName": "Developer, Backend",
+        "url": "https://careers.sig.com/job/SUSQA004Y236/Software-Developer-Index",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Linux Engineer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "alternateName": "IT, Networking",
+        "url": "https://careers.sig.com/job/SUSQA004Y239/Linux-Engineer",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Technical Support Analyst (Trading Floor)",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
+        "title": "Software Test Engineer - Institutional Brokerage Technology",
+        "alternateName": "Developer, QA",
+        "url": "https://careers.sig.com/job/SUSQA004Y246/Software-Test-Engineer-Institutional-Brokerage-Technology",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technology Associate: Software Engineering Development Program",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Junior FPGA Engineer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Developer- Operations",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Developer - SOT Services",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technology Co-op",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Junior Technical Support Engineer",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Junior Telecom Client Support Analyst",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Systems & Network Administrator (Data Center)",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technical Business Analyst",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Developer – Proprietary Trading Services",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Developer - Instruments Team",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Developer- TORQ",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Quantitative Developer - Backtesting and Research Computing ",
-        "alternateName": "",
-        "url": "https://careers.sig.com/",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Sustrana",
@@ -10383,7 +10648,9 @@
   },
   {
     "company": "Swift Capital",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "https://www.swiftcapital.com/Careers",
     "webSiteUrl": "http://www.swiftcapital.com/",
     "technologies": [],
@@ -10398,6 +10665,17 @@
           "latitude": 39.776617,
           "longitude": -75.513209
         }
+      },
+      "conshohocken": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "625 Ridge Pike, Conshohocken, PA 19428",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0965061,
+          "longitude": -75.2986249
+        }
       }
     },
     "positions": [
@@ -10406,40 +10684,140 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "UX/UI Designer/Developer",
-        "alternateName": "",
-        "url": "https://www.swiftcapital.com/Careers",
-        "jobLocation": "wilmington",
+        "alternateName": "Developer, Frontend",
+        "url": "https://www.swiftcapital.com/Careers#op-116925-uxui-designerdeveloper",
+        "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Systems Engineer",
+        "alternateName": "DevOps",
+        "url": "https://www.swiftcapital.com/Careers#op-116915-senior-systems-engineer",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Marketing Coordinator",
+        "alternateName": "Marketing",
+        "url": "https://www.swiftcapital.com/Careers#op-116913-senior-marketing-coordinator",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior C#.Net Software Development Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://www.swiftcapital.com/Careers#op-116912-senior-cnet-software-development-engineer",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Operations Analyst",
+        "alternateName": "Marketing",
+        "url": "https://www.swiftcapital.com/Careers#op-116908-marketing-operations-analyst",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "https://www.swiftcapital.com/Careers#op-116905-marketing-data-analyst",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "https://www.swiftcapital.com/Careers#op-116903-devops-engineer",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "B2B Sales Representative",
+        "alternateName": "Business Development",
+        "url": "https://www.swiftcapital.com/Careers#op-116900--b2b-sales-representative",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "B2B Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://www.swiftcapital.com/Careers#op-116895-b2b-account-executive",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Quality Assurance (QA) Engineer",
-        "alternateName": "",
-        "url": "https://www.swiftcapital.com/Careers",
-        "jobLocation": "wilmington",
+        "alternateName": "Developer, QA",
+        "url": "https://www.swiftcapital.com/Careers#op-115354--software-quality-assurance-qa-engineer",
+        "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Internships available",
+        "alternateName": "Intern",
+        "url": "https://www.swiftcapital.com/Careers",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior C#.Net Software Development Engineer ",
-        "alternateName": "",
-        "url": "https://www.swiftcapital.com/Careers",
+        "title": "Data Scientist – Credit Risk Strategies",
+        "alternateName": "Data Scientist",
+        "url": "https://www.swiftcapital.com/Careers#op-116902-data-scientist--credit-risk-strategies",
         "jobLocation": "wilmington",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Syapse",
     "type": [
-      "startup"
+      "consultancy"
     ],
     "url": "http://www.syapse.com/about/careers/",
     "webSiteUrl": "http://www.syapse.com/",
@@ -10461,23 +10839,14 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Customer Solutions Software Engineer",
-        "alternateName": "",
-        "url": "http://www.syapse.com/about/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "Tamman Technologies",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
     "webSiteUrl": "http://www.tammantech.com/",
     "technologies": [],
@@ -10499,18 +10868,32 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Front-End & Full Stack Developers",
-        "alternateName": "",
-        "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+        "title": "Apple Macintosh System Administrato",
+        "alternateName": "IT, Networking",
+        "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/apple-macintosh-system-administrator-74cd5157?source=ziprecruiter-jobs-site",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-14"
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front-End & Full Stack Developers",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/front-end-full-stack-developers-9a3497f4?source=ziprecruiter-jobs-site",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Technically Media",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://technicallymedia.com/careers",
     "webSiteUrl": "http://technicallymedia.com/",
     "technologies": [],
@@ -10527,11 +10910,26 @@
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Operations Manager",
+        "alternateName": "HR",
+        "url": "http://technical.ly/job/technically-media-hr-finance-manager/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      }
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "The Wilson Concept",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://thewilsonconcept.com/careers/",
     "webSiteUrl": "http://thewilsonconcept.com/",
     "technologies": [],
@@ -10548,12 +10946,15 @@
         }
       }
     },
-    "positions": []
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "TherapyNotes",
-    "type": [],
-    "url": "https://therapynotes.workable.com/",
+    "type": [
+      "product"
+    ],
+    "url": "https://www.pliner.com/careers/",
     "webSiteUrl": "https://www.therapynotes.com/",
     "technologies": [
       "C#",
@@ -10583,29 +10984,54 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
+        "title": "Account Management and Customer Support",
+        "alternateName": "Business Development",
+        "url": "https://therapynotes.workable.com/jobs/135558",
+        "jobLocation": "willow grove",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Communications Specialist ",
+        "alternateName": "Marketing",
+        "url": "https://therapynotes.workable.com/jobs/219298",
+        "jobLocation": "willow grove",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Senior .NET Developer (C#)",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "https://therapynotes.workable.com/jobs/145948",
         "jobLocation": "willow grove",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "https://therapynotes.workable.com/jobs/139735",
         "jobLocation": "willow grove",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Think Brownstone",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "https://www.thinkbrownstone.com/careers/",
     "webSiteUrl": "https://www.thinkbrownstone.com/",
     "technologies": [],
@@ -10620,91 +11046,95 @@
           "latitude": 39.950745,
           "longitude": -75.165716
         }
+      },
+      "conshohocken": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "201 Fayette Street, Conshohocken, PA 19428",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0747,
+          "longitude": -75.305437
+        }
       }
     },
     "positions": [
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "contract",
         "title": "Content Analyst",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
+        "alternateName": "Content Strategy",
+        "url": "http://tbi.applytojob.com/apply/HBCgWu/Content-Analyst",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Experience Designer - Contractor",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
+        "title": "UI/UX/Data Visualization Designer",
+        "alternateName": "Designer, User Experience",
+        "url": "http://tbi.applytojob.com/apply/9XO95r/UIUXData-Visualization-Designer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Senior Project Manager",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
+        "employmentType": "contract",
+        "title": "UI & UX Design Contractors",
+        "alternateName": "Designer, User Experience",
+        "url": "http://tbi.applytojob.com/apply/8wkxT2/UX-Visual-Design-Contractors",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "UX & Visual Design Contractors",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "contract",
         "title": "UX Designer",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
+        "alternateName": "Designer, User Experience",
+        "url": "http://tbi.applytojob.com/apply/Yu2EYG/UX-Designer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Web Developer",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://tbi.applytojob.com/apply/FKn4GU/Web-Developer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Web Developer (Contract)",
-        "alternateName": "",
-        "url": "https://www.thinkbrownstone.com/careers/",
+        "employmentType": "contract",
+        "title": "Web Developer ",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://tbi.applytojob.com/apply/ezEwut/Web-Developer-Contract",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Thomson Reuters",
-    "type": [],
+    "type": [
+      "internal",
+      "consultancy"
+    ],
     "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
     "webSiteUrl": "http://thomsonreuters.com/",
     "technologies": [],
@@ -10726,36 +11156,26 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "QA Engineer",
-        "alternateName": "",
+        "title": "Senior Director, Cloud Operations - JREQ058735",
+        "alternateName": "DevOps",
         "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Director, Sales Training & Development",
-        "alternateName": "",
+        "title": "Software Developer - 16000510",
+        "alternateName": "Developer, Backend",
         "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technology Consultant",
-        "alternateName": "",
-        "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Thoughtbot",
@@ -10792,10 +11212,14 @@
   },
   {
     "company": "Ticketleap",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "http://ticketleap.theresumator.com/",
     "webSiteUrl": "http://ticketleap.com/",
-    "technologies": [],
+    "technologies": [
+      "python"
+    ],
     "locations": {
       "philadelphia": {
         "@context": "http://schema.org",
@@ -10814,53 +11238,32 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://ticketleap.theresumator.com/",
+        "title": "http://ticketleap.theresumator.com/",
+        "alternateName": "Developer, Backend",
+        "url": "http://ticketleap.theresumator.com/apply/G5ZW38/Senior-Software-Engineer-Systems-Architect",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      }
-    ]
-  },
-  {
-    "company": "Tivipley",
-    "type": [
-      "Startup"
-    ],
-    "url": "https://angel.co/tivipley/jobs",
-    "webSiteUrl": "http://www.tivipley.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@context": "http://schema.org",
-        "@type": "Place",
-        "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
-        "geo": {
-          "@context": "http://schema.org",
-          "@type": "Place",
-          "latitude": 39.996284,
-          "longitude": -75.174103
-        }
-      }
-    },
-    "positions": [
+        "datePosted": "2016-04-25"
+      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Web Developer",
-        "alternateName": "",
-        "url": "https://angel.co/tivipley/jobs",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://ticketleap.theresumator.com/apply/IJ9KNH/Software-Engineer",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": ""
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Tonic Design Co",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.tonicdesign.com/jobs/",
     "webSiteUrl": "http://www.tonicdesign.com/",
     "technologies": [],
@@ -10881,61 +11284,74 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": ".NET/C# Developer",
-        "alternateName": "",
+        "employmentType": "intern",
+        "title": "2016 Summer Interns",
+        "alternateName": "Intern",
         "url": "http://www.tonicdesign.com/jobs/",
-        "jobLocation": "newtown",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Experience Design Lead",
-        "alternateName": "",
+        "title": "Director of Education",
+        "alternateName": "Content Strategy",
         "url": "http://www.tonicdesign.com/jobs/",
-        "jobLocation": "newtown",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Coordinator",
+        "alternateName": "Marketing",
+        "url": "http://www.tonicdesign.com/jobs/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Mobile Developers - Android & iOS",
-        "alternateName": "",
+        "alternateName": "Developer, Mobile",
         "url": "http://www.tonicdesign.com/jobs/",
-        "jobLocation": "newtown",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior User Experience Designer (UX)",
-        "alternateName": "",
+        "title": "User Experience Design Lead (UXDL)",
+        "alternateName": "Designer, User Experience",
         "url": "http://www.tonicdesign.com/jobs/",
-        "jobLocation": "newtown",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "Transmogrify",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://xmog.com/jobs",
     "webSiteUrl": "http://xmog.com/",
     "technologies": [
-      "Node.js",
-      "Express",
-      "Handlebars",
-      "Sass",
-      "Intl MessageFormat",
-      "Gulp"
+      "Objective-C",
+      "Java",
+      ".NET",
+      "Ruby",
+      "JavaScript"
     ],
     "locations": {
       "conshohocken": {
@@ -10956,39 +11372,53 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Full-Stack Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "http://xmog.com/jobs",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": "2016-03-30"
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://xmog.com/jobs",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Front-End / UI Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "http://xmog.com/jobs",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": "2016-03-30"
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "iOS Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Mobile",
         "url": "http://xmog.com/jobs",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": "2016-03-30"
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "Tuva Labs Inc",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "https://tuvalabs.com/jobs/",
     "webSiteUrl": "https://tuvalabs.com/",
     "technologies": [],
@@ -11005,12 +11435,49 @@
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "part-time",
+        "title": "Data & Statistics – Cross-Disciplinary Curriculum Designer",
+        "alternateName": "Content Strategy",
+        "url": "https://tuvalabs.com/jobs/curriculum_designer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "part-time",
+        "title": "Content Specialist – K-12 STEM Education",
+        "alternateName": "Content Strategy",
+        "url": "https://tuvalabs.com/jobs/content_specialist_k12/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "part-time",
+        "title": "UI/UX Designer",
+        "alternateName": "Designer, User Experience",
+        "url": "https://tuvalabs.com/jobs/ui_ux_designer/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      }
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "University of Pennsylvania Human Resources Department",
-    "type": [],
-    "url": "https://www.hr.upenn.edu/career",
+    "type": [
+      "internal"
+    ],
+    "url": "https://jobs.hr.upenn.edu/postings/search",
     "webSiteUrl": "https://www.hr.upenn.edu/",
     "technologies": [],
     "locations": {
@@ -11026,12 +11493,181 @@
         }
       }
     },
-    "positions": []
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "WEB DESIGNER SR",
+        "alternateName": "Design, Visual",
+        "url": "https://jobs.hr.upenn.edu/postings/18017",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "WEB DESIGNER, MARKETING AND COMMUNICATIONS",
+        "alternateName": "Developer, Frontend",
+        "url": "https://jobs.hr.upenn.edu/postings/17441",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "MULTIMEDIA DESIGNER",
+        "alternateName": "Developer, Frontend",
+        "url": "https://jobs.hr.upenn.edu/postings/16917",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATION DEVELOPER SR",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://jobs.hr.upenn.edu/postings/18119",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DATA AND PROGRAMMING SPECIALIST",
+        "alternateName": "Developer, Backend",
+        "url": "https://jobs.hr.upenn.edu/postings/17947",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "TEACHING & LEARNING APPLICATION DEVELOPER",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://jobs.hr.upenn.edu/postings/17880",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATION DEVELOPER SR",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://jobs.hr.upenn.edu/postings/17670",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SOFTWARE DEVELOPER",
+        "alternateName": "Developer, Backend",
+        "url": "https://jobs.hr.upenn.edu/postings/17613",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "BIG DATA RESEARCH ANALYST",
+        "alternateName": "Data Analyst",
+        "url": "https://jobs.hr.upenn.edu/postings/17599",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SENIOR APPLICATION DEVELOPER",
+        "alternateName": "Developer, Backend",
+        "url": "https://jobs.hr.upenn.edu/postings/17573",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "EDITOR, WHARTON MAGAZINE",
+        "alternateName": "Content Strategy",
+        "url": "https://jobs.hr.upenn.edu/postings/17165",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATIONS DEVELOPER SR",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://jobs.hr.upenn.edu/postings/16242",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATION DEVELOPER",
+        "alternateName": "Developer, Backend",
+        "url": "https://jobs.hr.upenn.edu/postings/16233",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATION DEVELOPER",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://jobs.hr.upenn.edu/postings/16124",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "APPLICATION DEVELOPER JR/SR",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://jobs.hr.upenn.edu/postings/15705",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      }
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "URBN",
-    "type": [],
-    "url": "http://urbn.com/career/",
+    "type": [
+      "internal"
+    ],
+    "url": "https://career4.successfactors.com/career?company=URBN",
     "webSiteUrl": "http://urbn.com/",
     "technologies": [],
     "locations": {
@@ -11052,150 +11688,263 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Network Engineer",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "SalesForce Solution Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=43423&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "DevOps Engineer",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "Customer Insights Analyst (43301)",
+        "alternateName": "Data Analyst",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=43301&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "contract",
+        "title": "Temporary QA Engineer (43021)",
+        "alternateName": "Developer, QA",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=43021&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Production Support Manager - Ecommerce",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "QA Engineer (36721)",
+        "alternateName": "Developer, QA",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=36721&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Quality Assurance Engineer (42061)",
+        "alternateName": "Developer, QA",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42061&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Jr. Product Manager (42568)",
+        "alternateName": "Developer, Frontend",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42568&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java/Python Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=31661&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front End Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42721&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Network Engineer SAN",
+        "alternateName": "IT, Networking",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42522&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer POS Systems (39501)",
+        "alternateName": "Developer, Backend",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=39501&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "AngularJS Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=41012&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Junior Front End Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=41011&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "User Experience Designer (40741)",
+        "alternateName": "Developer, Frontend",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=40741&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "ETL Engineer (35542)",
+        "alternateName": "Data Analyst",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=35542&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Enterprise Reporting Project Manager (40262)",
+        "alternateName": "Project Manager",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=40262&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=39242&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Network Engineer (39241)",
+        "alternateName": "IT, Networking",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=39241&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Microsoft Engineer",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "alternateName": "IT, Networking",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=38026&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Store Systems Operations Manager",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "Project Manager - Reporting Systems (37201)",
+        "alternateName": "Project Manager",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=37201&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Project Manager - Reporting Systems",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "Project Manager (36481)",
+        "alternateName": "Project Manager",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=36481&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "IT CRM Business Analyst",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "Project Manager (33762)",
+        "alternateName": "Project Manager",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=33762&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Project Manager",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "Data Scientist (33161)",
+        "alternateName": "Data Scientist",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=33161&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Linux Administration Store Technology",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
+        "title": "iOS Engineer (30551)",
+        "alternateName": "Developer, Mobile",
+        "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=30551&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "ETL Engineer",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "OMS Business Analyst",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Project Manager",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Data Scientist",
-        "alternateName": "",
-        "url": "http://urbn.com/career/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "Velora Studios",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://www.velorastudios.com/jobs",
     "webSiteUrl": "http://www.velorastudios.com/",
     "technologies": [],
@@ -11218,39 +11967,42 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Ruby on Rails Lead Programmer",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "http://www.velorastudios.com/jobs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Web Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "http://www.velorastudios.com/jobs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Project Manager",
-        "alternateName": "",
+        "alternateName": "Project Manager",
         "url": "http://www.velorastudios.com/jobs",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "Veris Associates, Inc., dba VerisVisalign",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
     "webSiteUrl": "http://www.verisvisalign.com/",
     "technologies": [],
@@ -11273,64 +12025,73 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "SHAREPOINT ARCHITECTS",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
         "jobLocation": "lansdale",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "SHAREPOINT DEVELOPERS",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
         "jobLocation": "lansdale",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "PROJECT MANAGER",
-        "alternateName": "",
+        "alternateName": "Project Manager",
         "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
         "jobLocation": "lansdale",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "HELP DESK/SERVICE DESK ANALYST",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
         "jobLocation": "lansdale",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "APPLICATION PACKAGER",
-        "alternateName": "",
+        "alternateName": "IT, Networking",
         "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
         "jobLocation": "lansdale",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-25"
   },
   {
     "company": "VertMarkets",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
     "webSiteUrl": "http://www.vertmarkets.com/",
-    "technologies": [],
+    "technologies": [
+      "mongodb",
+      "elasticsearch",
+      "angularjs",
+      "javascript",
+      "asp.net-mvc"
+    ],
     "locations": {
       "horsham": {
         "@context": "http://schema.org",
@@ -11350,17 +12111,20 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Mid or Senior Full Stack Developer",
-        "alternateName": "",
-        "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://stackoverflow.com/jobs/107551/mid-or-senior-full-stack-developer-vertmarkets-inc",
         "jobLocation": "horsham",
         "remote": false,
         "datePosted": "2016-02-26"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Vistar Media",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://www.vistarmedia.com/careers",
     "webSiteUrl": "http://www.vistarmedia.com/",
     "technologies": [],
@@ -11383,18 +12147,22 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "http://www.vistarmedia.com/careers",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "WebLinc Corp.",
-    "type": [],
-    "url": "http://www.weblinc.com/company/careers/",
+    "type": [
+      "agency",
+      "product"
+    ],
+    "url": "https://weblinc.workable.com/",
     "webSiteUrl": "http://www.weblinc.com/",
     "technologies": [],
     "locations": {
@@ -11415,84 +12183,32 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": ".NET Lead Developer",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
+        "title": "Ruby On Rails Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://weblinc.workable.com/jobs/17597",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sr. Visual Designer",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
+        "alternateName": "Designer, Visual",
+        "url": "https://weblinc.workable.com/jobs/17629",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Ruby On Rails Developer",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Front-End Developer",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "User Experience Designer",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. Project Manager",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Project Manager",
-        "alternateName": "",
-        "url": "http://www.weblinc.com/company/careers/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Wildbit",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "http://wildbit.com/jobs",
     "webSiteUrl": "http://wildbit.com/",
     "technologies": [],
@@ -11509,23 +12225,14 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Quality Assurance Engineer",
-        "alternateName": "",
-        "url": "http://wildbit.com/jobs",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-21"
   },
   {
     "company": "Willis Towers Watson",
-    "type": [],
+    "type": [
+      "internal"
+    ],
     "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
     "webSiteUrl": "https://www.willistowerswatson.com/",
     "technologies": [],
@@ -11547,21 +12254,37 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Developer (.NET)",
-        "alternateName": "",
-        "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
+        "title": "SCRUM MASTER",
+        "alternateName": "Project Manager",
+        "url": "https://willis-towers-watson.jobs.net/job/scrum-master/J3H2R06D9QPMM5798YQ",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "PROGRAMMER ANALYST",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://willis-towers-watson.jobs.net/job/programmer-analyst/J3J60W78N8TXSSXJXPC",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-25"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Wilson Legal Solutions Inc",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://www.wilsonlegalsol.com/careers.html",
     "webSiteUrl": "http://www.wilsonlegalsol.com/",
-    "technologies": [],
+    "technologies": [
+      ".net"
+    ],
     "locations": {
       "newtown square": {
         "@context": "http://schema.org",
@@ -11580,19 +12303,66 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
+        "title": "Senior Consultant",
+        "alternateName": "Project Manager",
+        "url": "http://www.wilsonlegalsol.com/careers_SC.html",
+        "jobLocation": "newtown square",
+        "remote": true,
+        "datePosted": "2016-04-21"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": ".Net Developer",
-        "alternateName": "",
-        "url": "http://www.wilsonlegalsol.com/careers.html",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.wilsonlegalsol.com/careers_ND.html",
         "jobLocation": "newtown square",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SSRS Report Developer",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.wilsonlegalsol.com/careers_RD.html",
+        "jobLocation": "newtown square",
+        "remote": false,
+        "datePosted": "2016-04-21"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SSAS Consultant",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.wilsonlegalsol.com/careers_SSC.html",
+        "jobLocation": "newtown square",
+        "remote": false,
+        "datePosted": "2016-04-21"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Warehouse/ETL Developer",
+        "alternateName": "Developer, DBA",
+        "url": "http://www.wilsonlegalsol.com/careers_DW.html",
+        "jobLocation": "newtown square",
+        "remote": false,
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Wingspan Technology",
-    "type": [],
-    "url": "http://www.wingspan.com/career_open_positions/",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.wingspan.com/careers/",
     "webSiteUrl": "http://www.wingspan.com/",
     "technologies": [],
     "locations": {
@@ -11614,39 +12384,53 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Software Engineer",
-        "alternateName": "",
-        "url": "http://www.wingspan.com/career_open_positions/",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.wingspan.com/project/software-engineer/",
         "jobLocation": "blue bell",
         "remote": false,
-        "datePosted": ""
+        "updated": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Project Manager",
-        "alternateName": "",
-        "url": "http://www.wingspan.com/career_open_positions/",
+        "alternateName": "Project Manager",
+        "url": "http://www.wingspan.com/project/project-manager/",
         "jobLocation": "blue bell",
         "remote": false,
-        "datePosted": ""
+        "updated": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "DevOps Engineer",
-        "alternateName": "",
-        "url": "http://www.wingspan.com/career_open_positions/",
+        "alternateName": "DevOps",
+        "url": "http://www.wingspan.com/project/devops-engineer/",
         "jobLocation": "blue bell",
         "remote": false,
-        "datePosted": ""
+        "updated": "2016-04-21"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Business Analyst",
+        "alternateName": "Project Manager",
+        "url": "http://www.wingspan.com/project/business-analyst/",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "WizeHive",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://review.wizehive.com/voting/posting",
     "webSiteUrl": "http://wizehive.com/",
     "technologies": [],
@@ -11669,24 +12453,36 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Implementation Specialist",
-        "alternateName": "",
-        "url": "https://review.wizehive.com/voting/posting",
+        "alternateName": "Project Manager",
+        "url": "https://review.wizehive.com/voting/view/posting/13854/1190539/0",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Jr. Implementation Specialist",
-        "alternateName": "",
-        "url": "https://review.wizehive.com/voting/posting",
+        "title": "Inside Sales Person",
+        "alternateName": "Business Development",
+        "url": "https://review.wizehive.com/voting/view/posting/13854/1193226/0",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Coordinator",
+        "alternateName": "Marketing",
+        "url": "https://review.wizehive.com/voting/view/posting/13854/1177957/0",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Yellowdig",
@@ -11743,7 +12539,9 @@
   },
   {
     "company": "YIKES Inc",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "http://www.yikesinc.com/company/join-team/",
     "webSiteUrl": "http://www.yikesinc.com/",
     "technologies": [],
@@ -11760,11 +12558,14 @@
         }
       }
     },
-    "positions": []
+    "positions": [],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zivtech",
-    "type": [],
+    "type": [
+      "agency"
+    ],
     "url": "https://www.zivtech.com/about/employment",
     "webSiteUrl": "https://www.zivtech.com/",
     "technologies": [
@@ -11794,31 +12595,22 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Drupal Developers and Themers",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "https://www.zivtech.com/about/employment",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-30"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "UX / UI Designer",
-        "alternateName": "",
-        "url": "https://www.zivtech.com/about/employment",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-30"
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zodiac",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://jobs.lever.co/zodiacmetrics",
-    "webSiteUrl": "",
+    "webSiteUrl": "http://www.zodiacmetrics.com/",
     "technologies": [],
     "locations": {
       "philadelphia": {
@@ -11839,40 +12631,32 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Backend Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "http://jobs.lever.co/zodiacmetrics",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Frontend Engineer",
-        "alternateName": "",
-        "url": "http://jobs.lever.co/zodiacmetrics",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Full Stack Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "http://jobs.lever.co/zodiacmetrics",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zonoff",
-    "type": [],
-    "url": "https://zonoff.com/our-story/careers/",
+    "type": [
+      "product"
+    ],
+    "url": "http://zonoff.com/our-story/careers/current-openings/",
     "webSiteUrl": "https://zonoff.com/",
     "technologies": [],
     "locations": {
@@ -11893,117 +12677,98 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "UI Designer",
-        "alternateName": "",
-        "url": "https://zonoff.com/our-story/careers/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Architect",
-        "alternateName": "",
-        "url": "https://zonoff.com/our-story/careers/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Cloud Services Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "DevOps Engineer",
-        "alternateName": "",
+        "alternateName": "DevOps",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Javascript UI Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Linux Application Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Solutions Support Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "QA Test Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, QA",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Analytics Lead Contributor",
-        "alternateName": "",
+        "alternateName": "Data Analyst",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Director, Content and Brand Marketing",
-        "alternateName": "",
+        "alternateName": "Content Strategy",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zoomer",
-    "type": [],
+    "type": [
+      "product, internal"
+    ],
     "url": "https://jobs.lever.co/zoomer",
     "webSiteUrl": "http://www.zoomerdelivery.com/",
     "technologies": [],
@@ -12025,18 +12790,22 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Backend Engineer",
-        "alternateName": "",
-        "url": "https://jobs.lever.co/zoomer",
+        "title": "Bilingual Sales & Partnership Executive",
+        "alternateName": "Business Development",
+        "url": "https://jobs.lever.co/zoomer/7b294e47-bb10-4048-a590-e95d06a00464",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zoomi",
-    "type": [],
+    "type": [
+      "product",
+      "startup"
+    ],
     "url": "http://www.zoomiinc.com/jobs/",
     "webSiteUrl": "http://www.zoomiinc.com/",
     "technologies": [],
@@ -12053,23 +12822,15 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "ALGORITHM ENGINEER",
-        "alternateName": "",
-        "url": "http://www.zoomiinc.com/jobs/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zuppler",
-    "type": [],
+    "type": [
+      "product",
+      "internal"
+    ],
     "url": "http://www.zupplerworks.com/careers.html",
     "webSiteUrl": "http://www.zupplerworks.com/",
     "technologies": [],
@@ -12090,14 +12851,48 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Operations Project Manager",
-        "alternateName": "",
-        "url": "http://www.zupplerworks.com/careers.html",
+        "employmentType": "intern",
+        "title": "Business Operations Intern",
+        "alternateName": "intern",
+        "url": "http://www.zupplerworks.com/careers.html#business_operations",
         "jobLocation": "conshohocken",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Operations Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.zupplerworks.com/careers.html#business_operations",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Service Representative",
+        "alternateName": "Business Development",
+        "url": "http://www.zupplerworks.com/careers.html#customer_service_representative",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Inside Sales Manager",
+        "alternateName": "Business Development",
+        "url": "http://www.zupplerworks.com/careers.html#inside_sales_manager",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   }
 ]

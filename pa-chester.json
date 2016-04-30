@@ -773,7 +773,9 @@
   },
   {
     "company": "PipelineDeals",
-    "type": [],
+    "type": [
+      "product"
+    ],
     "url": "https://www.pipelinedeals.com/careers",
     "webSiteUrl": "https://www.pipelinedeals.com/",
     "technologies": [],
@@ -795,40 +797,76 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Software Engineer",
-        "alternateName": "",
-        "url": "https://www.pipelinedeals.com/careers",
+        "title": "Product Marketing Manager",
+        "alternateName": "Marketing",
+        "url": "https://www.pipelinedeals.com/careers/product_marketing_manager",
         "jobLocation": "exton",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/account_executive",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.pipelinedeals.com/careers/senior_rails_developer",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Development Representative",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/sales_development_rep",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Customer Ambassador",
-        "alternateName": "",
-        "url": "https://www.pipelinedeals.com/careers",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
         "jobLocation": "exton",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "QA Analyst",
-        "alternateName": "",
-        "url": "https://www.pipelinedeals.com/careers",
+        "alternateName": "Developer, QA",
+        "url": "https://www.pipelinedeals.com/careers/qa_analyst",
         "jobLocation": "exton",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "RDA Corp",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
     "webSiteUrl": "http://rdacorp.com/",
     "technologies": [],
@@ -850,73 +888,109 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
+        "title": ".NET Senior Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/dotNET%20Senior%20Software%20Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
         "title": "Account Executive - Digital Sales and Marketing",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Business Development",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/AE%20DSM%20-%20Philly",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "BI Contractor",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "contract",
         "title": "SharePoint Contractor",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20SharePoint%20Contractor%20-%203",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Sitecore Developer",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/Sitecore%20Developer%20-%203",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Digital Marketing Strategist",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "alternateName": "Marketing",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Digital%20Marketing%20Strategist%20-%203",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Cloud Developer Architect Contractor",
-        "alternateName": "",
-        "url": "http://rdacorp.com/en/Careers/Current%20Openings",
-        "jobLocation": "malvern",
+        "title": "BI and Data Warehouse Specialist",
+        "alternateName": "Developer, DBA",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_BI%20and%20Data%20Warehouse%20Specialist",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cloud Developer Architect",
+        "alternateName": "DevOps",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Cloud%20Developer%20Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior SharePoint Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Senior%20SharePoint%20Engineer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "contract",
+        "title": "Cloud Developer Architect Contractor",
+        "alternateName": "DevOps",
+        "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20Cloud%20Developer%20Architect%20Contractor%20-%203",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Rock River Star",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://rockriverstar.com/careers",
     "webSiteUrl": "http://rockriverstar.com/",
     "technologies": [],
@@ -939,39 +1013,42 @@
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Creative Director",
-        "alternateName": "",
-        "url": "http://rockriverstar.com/careers",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/creative-director",
         "jobLocation": "downingtown",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Lead Project Architect",
-        "alternateName": "",
-        "url": "http://rockriverstar.com/careers",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/lead-project-architect",
         "jobLocation": "downingtown",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Programmer / Developer",
-        "alternateName": "",
-        "url": "http://rockriverstar.com/careers",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rockriverstar.com/careers/programmer-developer",
         "jobLocation": "downingtown",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-28"
       }
-    ]
+    ],
+    "updated": "2016-04-28"
   },
   {
     "company": "Savana, Inc.",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://savanainc.com/company/careers/",
     "webSiteUrl": "http://savanainc.com/",
     "technologies": [],
@@ -988,23 +1065,14 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Business Analyst",
-        "alternateName": "",
-        "url": "http://savanainc.com/company/careers/",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-26"
   },
   {
     "company": "Scala",
-    "type": [],
+    "type": [
+      "consultancy"
+    ],
     "url": "http://join.scala.com/careers/",
     "webSiteUrl": "http://scala.com/",
     "technologies": [],
@@ -1021,19 +1089,132 @@
         }
       }
     },
+    "positions": [],
+    "updated": "2016-04-26"
+  },
+  {
+    "company": "SunGuard Financial",
+    "type": [
+      "internal"
+    ],
+    "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
+    "webSiteUrl": "https://www.sungard.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "601 Walnut St, Philadelphia, PA 19106",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.94827,
+          "longitude": -75.151171
+        }
+      },
+      "wayne": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "680-650 E. Swedesford Road, Wayne, PA 19087",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0778877,
+          "longitude": -75.416152
+        }
+      }
+    },
     "positions": [
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Programmer",
-        "alternateName": "",
-        "url": "http://join.scala.com/careers/",
-        "jobLocation": "malvern",
+        "title": "Front End Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer/1682/1509415",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-02-19"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front End Developer - Fulltime",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer-fulltime/1682/1509416",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-02-19"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Java developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/sr-java-developer/1682/208235",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-01-27"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Ruby on Rails Web Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/ruby-on-rails-web-developer/1682/1295844",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-01-07"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "FT Front End Developer-2",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/ft-front-end-developer-2/1682/2036611",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front end Javascript Engineer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-javascript-engineer/1682/1955175",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Java Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/java-developer/1682/1955184",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Information Security Engineer-Sr.",
+        "alternateName": "IT, Networking",
+        "url": "https://financialsystemsjobs.sungard.com/job/wayne/information-security-engineer-sr/1682/738416",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-26"
       }
-    ]
+    ],
+    "updated": "2016-04-26"
   },
   {
     "company": "Sustrana",
@@ -1080,8 +1261,10 @@
   },
   {
     "company": "Zonoff",
-    "type": [],
-    "url": "https://zonoff.com/our-story/careers/",
+    "type": [
+      "product"
+    ],
+    "url": "http://zonoff.com/our-story/careers/current-openings/",
     "webSiteUrl": "https://zonoff.com/",
     "technologies": [],
     "locations": {
@@ -1102,117 +1285,99 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "UI Designer",
-        "alternateName": "",
-        "url": "https://zonoff.com/our-story/careers/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Architect",
-        "alternateName": "",
-        "url": "https://zonoff.com/our-story/careers/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Cloud Services Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Backend",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "DevOps Engineer",
-        "alternateName": "",
+        "alternateName": "DevOps",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Javascript UI Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Frontend",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Linux Application Developer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Solutions Support Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, Full Stack",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "QA Test Engineer",
-        "alternateName": "",
+        "alternateName": "Developer, QA",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Data Analytics Lead Contributor",
-        "alternateName": "",
+        "alternateName": "Data Analyst",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Director, Content and Brand Marketing",
-        "alternateName": "",
+        "alternateName": "Content Strategy",
         "url": "https://zonoff.com/our-story/careers/",
         "jobLocation": "malvern",
         "remote": false,
-        "datePosted": ""
+        "datePosted": "2016-04-21"
       }
-    ]
+    ],
+    "updated": "2016-04-21"
   },
   {
     "company": "Zoomi",
-    "type": [],
+    "type": [
+      "product",
+      "startup"
+    ],
     "url": "http://www.zoomiinc.com/jobs/",
     "webSiteUrl": "http://www.zoomiinc.com/",
     "technologies": [],
@@ -1229,18 +1394,7 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "ALGORITHM ENGINEER",
-        "alternateName": "",
-        "url": "http://www.zoomiinc.com/jobs/",
-        "jobLocation": "malvern",
-        "remote": false,
-        "datePosted": ""
-      }
-    ]
+    "positions": [],
+    "updated": "2016-04-21"
   }
 ]
