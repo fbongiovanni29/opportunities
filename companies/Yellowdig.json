@@ -1,0 +1,53 @@
+{
+  "company": "Yellowdig",
+  "type": [
+    "startup"
+  ],
+  "url": "https://angel.co/yellowdig/jobs",
+  "webSiteUrl": "https://www.yellowdig.com/",
+  "technologies": [
+    "PHP",
+    "Javascript",
+    "HTML5",
+    "CSS3",
+    "iOS",
+    "Android",
+    "Ruby on Rails",
+    "Cordova"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1650 Arch St #1906, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.95466,
+        "longitude": -75.167697
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Designer",
+      "alternateName": "",
+      "url": "https://angel.co/yellowdig/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer",
+      "alternateName": "",
+      "url": "https://angel.co/yellowdig/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    }
+  ]
+}

@@ -1,9 +1,17 @@
 {
   "company": "VertMarkets",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
   "webSiteUrl": "http://www.vertmarkets.com/",
-  "technologies": ["mongodb", "elasticsearch", "angularjs", "javascript", "asp.net-mvc"],
+  "technologies": [
+    "mongodb",
+    "elasticsearch",
+    "angularjs",
+    "javascript",
+    "asp.net-mvc"
+  ],
   "locations": {
     "horsham": {
       "@context": "http://schema.org",

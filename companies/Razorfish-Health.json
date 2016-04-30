@@ -1,6 +1,8 @@
 {
   "company": "Razorfish Health",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
   "webSiteUrl": "http://www.razorfishhealth.com/",
   "technologies": [],

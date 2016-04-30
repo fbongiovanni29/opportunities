@@ -1,6 +1,8 @@
 {
   "company": "Tamman Technologies",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
   "webSiteUrl": "http://www.tammantech.com/",
   "technologies": [],

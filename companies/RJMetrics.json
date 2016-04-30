@@ -1,6 +1,8 @@
 {
   "company": "RJMetrics",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://rjmetrics.com/jobs/",
   "webSiteUrl": "https://rjmetrics.com/",
   "technologies": [

@@ -1,6 +1,8 @@
 {
   "company": "Think Brownstone",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "https://www.thinkbrownstone.com/careers/",
   "webSiteUrl": "https://www.thinkbrownstone.com/",
   "technologies": [],
@@ -28,7 +30,8 @@
       }
     }
   },
-  "positions": [    {
+  "positions": [
+    {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "contract",

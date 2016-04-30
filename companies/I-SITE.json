@@ -1,6 +1,8 @@
 {
   "company": "I-SITE",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.i-site.com/category/jobs/",
   "webSiteUrl": "http://www.i-site.com/",
   "technologies": [],

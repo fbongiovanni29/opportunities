@@ -1,6 +1,8 @@
 {
   "company": "Inverse Paradox",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "https://www.inverseparadox.com/careers/",
   "webSiteUrl": "https://www.inverseparadox.com/",
   "technologies": [],

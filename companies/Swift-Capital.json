@@ -1,6 +1,8 @@
 {
   "company": "Swift Capital",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://www.swiftcapital.com/Careers",
   "webSiteUrl": "http://www.swiftcapital.com/",
   "technologies": [],
@@ -149,7 +151,7 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-04-26"
-    }
+    },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",

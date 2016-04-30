@@ -1,6 +1,8 @@
 {
   "company": "Medecision",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
   "webSiteUrl": "http://www.medecision.com/",
   "technologies": [],

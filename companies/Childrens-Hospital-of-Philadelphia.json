@@ -1,0 +1,218 @@
+{
+  "company": "Children's Hospital of Philadelphia",
+  "type": [],
+  "url": "https://www.chop.edu.apply2jobs.com/",
+  "webSiteUrl": "http://www.chop.edu/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "34th St and Civic Center Blvd, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.948829,
+        "longitude": -75.192948
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Biomedical Engineering Technologist",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-09"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Controlled Substance Auditor",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-01-19"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Information Analyst I",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-11-12"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IS Infrastructure Manager",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-11"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IS Support Analyst I",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lawson Systems Analyst III",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-11-20"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Medical Abstractionist",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-09"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Platform Engineer I",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-04"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Director, Web Technology and Application Development",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst I",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst II",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-09"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst II",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-04"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst II",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-08"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst II",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-08"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst Principal",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-09"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineer I (Unix/Linux)",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-08"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineer III",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technology Administration Analyst I",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-03"
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 {
   "company": "Pulsar Informatics",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
   "webSiteUrl": "http://www.pulsarinformatics.com/",
   "technologies": [],

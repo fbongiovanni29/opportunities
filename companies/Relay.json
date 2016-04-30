@@ -1,6 +1,8 @@
 {
   "company": "Relay",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.relaynetwork.com/careers/",
   "webSiteUrl": "http://www.relaynetwork.com/",
   "technologies": [],

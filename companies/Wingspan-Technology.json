@@ -1,6 +1,8 @@
 {
   "company": "Wingspan Technology",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.wingspan.com/careers/",
   "webSiteUrl": "http://www.wingspan.com/",
   "technologies": [],
@@ -61,7 +63,7 @@
       "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-04-21"
-    },
+    }
   ],
   "updated": "2016-04-21"
 }

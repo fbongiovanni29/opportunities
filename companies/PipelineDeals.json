@@ -1,6 +1,8 @@
 {
   "company": "PipelineDeals",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.pipelinedeals.com/careers",
   "webSiteUrl": "https://www.pipelinedeals.com/",
   "technologies": [],

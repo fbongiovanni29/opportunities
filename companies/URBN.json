@@ -1,6 +1,8 @@
 {
   "company": "URBN",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://career4.successfactors.com/career?company=URBN",
   "webSiteUrl": "http://urbn.com/",
   "technologies": [],
@@ -89,8 +91,8 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Java/Python Developer",
-      "alternateName": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=31661&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
       "alternateName": "Developer, Full Stack",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=31661&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-25"

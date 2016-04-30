@@ -1,6 +1,8 @@
 {
   "company": "Greenlane Search Marketing, LLC",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.greenlaneseo.com/jobs/",
   "webSiteUrl": "http://www.greenlaneseo.com/",
   "technologies": [],

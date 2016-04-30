@@ -1,9 +1,19 @@
 {
   "company": "Zivtech",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "https://www.zivtech.com/about/employment",
   "webSiteUrl": "https://www.zivtech.com/",
-  "technologies": [],
+  "technologies": [
+    "Drupal",
+    "JavaScript",
+    "Jquery",
+    "Node.js",
+    "PHP",
+    "Python",
+    "Ruby"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
@@ -22,7 +32,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "alternateName": "Designer, User Experience",
       "alternateName": "Developer, Frontend",
       "url": "https://www.zivtech.com/about/employment",
       "jobLocation": "philadelphia",

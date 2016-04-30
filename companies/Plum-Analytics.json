@@ -1,6 +1,8 @@
 {
   "company": "Plum Analytics",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://plumanalytics.com/about/careers/",
   "webSiteUrl": "http://plumanalytics.com/",
   "technologies": [],

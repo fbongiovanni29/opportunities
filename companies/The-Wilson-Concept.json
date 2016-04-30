@@ -1,6 +1,8 @@
 {
   "company": "The Wilson Concept",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://thewilsonconcept.com/careers/",
   "webSiteUrl": "http://thewilsonconcept.com/",
   "technologies": [],

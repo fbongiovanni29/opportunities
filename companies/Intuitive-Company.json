@@ -1,6 +1,8 @@
 {
   "company": "Intuitive Company",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://intuitivecompany.com/careers/",
   "webSiteUrl": "http://intuitivecompany.com/",
   "technologies": [],

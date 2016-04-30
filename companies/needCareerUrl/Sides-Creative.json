@@ -1,0 +1,18 @@
+{
+  "company": "Sides Creative",
+  "type": [],
+  "url": "http://sidescreative.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": []
+}

@@ -1,6 +1,8 @@
 {
   "company": "Zodiac",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://jobs.lever.co/zodiacmetrics",
   "webSiteUrl": "http://www.zodiacmetrics.com/",
   "technologies": [],

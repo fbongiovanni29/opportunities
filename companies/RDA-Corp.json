@@ -1,6 +1,8 @@
 {
   "company": "RDA Corp",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://rdacorp.com/en/Careers/Current%20Openings",
   "webSiteUrl": "http://rdacorp.com/",
   "technologies": [],

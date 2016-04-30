@@ -1,6 +1,9 @@
 {
   "company": "WebLinc Corp.",
-  "type": ["agency", "product"],
+  "type": [
+    "agency",
+    "product"
+  ],
   "url": "https://weblinc.workable.com/",
   "webSiteUrl": "http://www.weblinc.com/",
   "technologies": [],
