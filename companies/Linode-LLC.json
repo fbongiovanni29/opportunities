@@ -1,6 +1,8 @@
 {
   "company": "Linode, LLC",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://www.linode.com/careers",
   "webSiteUrl": "https://www.linode.com/",
   "technologies": [],

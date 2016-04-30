@@ -1,6 +1,8 @@
 {
   "company": "Stuzo",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.stuzo.com/careers/",
   "webSiteUrl": "http://www.stuzo.com/",
   "technologies": [],
@@ -83,7 +85,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-26"
-    },
+    }
   ],
   "updated": "2016-04-26"
 }

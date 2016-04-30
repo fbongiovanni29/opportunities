@@ -1,9 +1,13 @@
 {
   "company": "Wilson Legal Solutions Inc",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.wilsonlegalsol.com/careers.html",
   "webSiteUrl": "http://www.wilsonlegalsol.com/",
-  "technologies": [".net"],
+  "technologies": [
+    ".net"
+  ],
   "locations": {
     "newtown square": {
       "@context": "http://schema.org",

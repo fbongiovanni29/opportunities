@@ -1,9 +1,14 @@
 {
   "company": "Revzilla",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://www.revzilla.com/careers",
   "webSiteUrl": "http://www.revzilla.com/",
-  "technologies": ["Rails", "Elixir"],
+  "technologies": [
+    "Rails",
+    "Elixir"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",

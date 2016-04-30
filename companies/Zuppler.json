@@ -1,6 +1,9 @@
 {
   "company": "Zuppler",
-  "type": ["product", "internal"],
+  "type": [
+    "product",
+    "internal"
+  ],
   "url": "http://www.zupplerworks.com/careers.html",
   "webSiteUrl": "http://www.zupplerworks.com/",
   "technologies": [],

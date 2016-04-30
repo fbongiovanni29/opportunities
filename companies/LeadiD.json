@@ -1,6 +1,8 @@
 {
   "company": "LeadiD",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
   "webSiteUrl": "http://www.leadid.com/",
   "technologies": [

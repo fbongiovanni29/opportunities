@@ -1,6 +1,8 @@
 {
   "company": "Zivtech",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "https://www.zivtech.com/about/employment",
   "webSiteUrl": "https://www.zivtech.com/",
   "technologies": [
@@ -30,7 +32,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "alternateName": "Designer, User Experience",
       "alternateName": "Developer, Frontend",
       "url": "https://www.zivtech.com/about/employment",
       "jobLocation": "philadelphia",

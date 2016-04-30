@@ -1,6 +1,8 @@
 {
   "company": "Velora Studios",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://www.velorastudios.com/jobs",
   "webSiteUrl": "http://www.velorastudios.com/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "Zonoff",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://zonoff.com/our-story/careers/current-openings/",
   "webSiteUrl": "https://zonoff.com/",
   "technologies": [],

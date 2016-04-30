@@ -1,6 +1,8 @@
 {
   "company": "My Mobile ED",
-  "type": ["Startup"],
+  "type": [
+    "Startup"
+  ],
   "url": "https://angel.co/my-mobile-ed/jobs",
   "webSiteUrl": "http://mymobileed.com/",
   "technologies": [],

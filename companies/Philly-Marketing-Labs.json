@@ -1,6 +1,8 @@
 {
   "company": "Philly Marketing Labs",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.phillymarketinglabs.com/join-our-team/",
   "webSiteUrl": "http://www.phillymarketinglabs.com/",
   "technologies": [],

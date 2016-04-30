@@ -1,6 +1,8 @@
 {
   "company": "Saturn Infotech Inc",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.saturninfotech.com/jobs.php",
   "webSiteUrl": "http://www.saturninfotech.com/",
   "technologies": [],
@@ -18,7 +20,6 @@
     }
   },
   "positions": [
-
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",

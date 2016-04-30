@@ -1,6 +1,8 @@
 {
   "company": "PerPay Inc",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://perpay.com/careers/",
   "webSiteUrl": "http://perpay.com/",
   "technologies": [],
@@ -72,7 +74,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-28"
-    },
+    }
   ],
   "updated": "2016-04-28"
 }

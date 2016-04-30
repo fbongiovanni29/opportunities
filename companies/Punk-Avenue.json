@@ -1,6 +1,8 @@
 {
   "company": "P'unk Avenue",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://jobs.punkave.com/",
   "webSiteUrl": "http://punkave.com/",
   "technologies": [],

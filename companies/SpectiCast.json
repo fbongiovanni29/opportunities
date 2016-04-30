@@ -1,6 +1,8 @@
 {
   "company": "SpectiCast",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://www.specticast.com/en/contents/careers",
   "webSiteUrl": "http://www.specticast.com/",
   "technologies": [],

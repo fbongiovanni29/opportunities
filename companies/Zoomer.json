@@ -1,6 +1,8 @@
 {
   "company": "Zoomer",
-  "type": ["product, internal"],
+  "type": [
+    "product, internal"
+  ],
   "url": "https://jobs.lever.co/zoomer",
   "webSiteUrl": "http://www.zoomerdelivery.com/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "RegDesk",
-  "type": ["Startup"],
+  "type": [
+    "Startup"
+  ],
   "url": "https://angel.co/regdesk/jobs",
   "webSiteUrl": "http://www.regdesk.co/",
   "technologies": [],

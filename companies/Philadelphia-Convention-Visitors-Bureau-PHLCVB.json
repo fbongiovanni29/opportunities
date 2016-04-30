@@ -1,6 +1,8 @@
 {
   "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
   "webSiteUrl": "http://www.discoverphl.com/",
   "technologies": [],

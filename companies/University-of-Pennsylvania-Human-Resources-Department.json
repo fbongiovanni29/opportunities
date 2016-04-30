@@ -1,6 +1,8 @@
 {
   "company": "University of Pennsylvania Human Resources Department",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://jobs.hr.upenn.edu/postings/search",
   "webSiteUrl": "https://www.hr.upenn.edu/",
   "technologies": [],
@@ -182,7 +184,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-25"
-    },
+    }
   ],
   "updated": "2016-04-25"
 }

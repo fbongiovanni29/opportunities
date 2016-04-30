@@ -1,6 +1,8 @@
 {
   "company": "SnipSnap",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.snipsnap.it/snipsnap-jobs/",
   "webSiteUrl": "http://www.snipsnap.it/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "RightAction",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://rightaction.theresumator.com/",
   "webSiteUrl": "https://www.rightaction.com/",
   "technologies": [],

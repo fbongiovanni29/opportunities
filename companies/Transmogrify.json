@@ -1,9 +1,17 @@
 {
   "company": "Transmogrify",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://xmog.com/jobs",
   "webSiteUrl": "http://xmog.com/",
-  "technologies": ["Objective-C", "Java", ".NET", "Ruby", "JavaScript"],
+  "technologies": [
+    "Objective-C",
+    "Java",
+    ".NET",
+    "Ruby",
+    "JavaScript"
+  ],
   "locations": {
     "conshohocken": {
       "@context": "http://schema.org",

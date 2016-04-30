@@ -1,6 +1,8 @@
 {
   "company": "Savana, Inc.",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://savanainc.com/company/careers/",
   "webSiteUrl": "http://savanainc.com/",
   "technologies": [],

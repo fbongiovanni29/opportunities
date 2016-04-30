@@ -1,6 +1,8 @@
 {
   "company": "SunGuard Financial",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
   "webSiteUrl": "https://www.sungard.com/",
   "technologies": [],

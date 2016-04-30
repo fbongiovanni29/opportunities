@@ -1,6 +1,8 @@
 {
   "company": "WizeHive",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "https://review.wizehive.com/voting/posting",
   "webSiteUrl": "http://wizehive.com/",
   "technologies": [],
@@ -50,7 +52,7 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-04-21"
-    },
+    }
   ],
   "updated": "2016-04-21"
 }

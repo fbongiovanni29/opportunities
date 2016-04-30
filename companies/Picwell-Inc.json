@@ -1,6 +1,8 @@
 {
   "company": "Picwell Inc",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://nerds.picwell.com/jobs/",
   "webSiteUrl": "http://picwell.com/",
   "technologies": [],
