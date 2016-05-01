@@ -54,12 +54,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Software Developer",
+      "title": "C# / .NET Software Developer",
       "alternateName": "Developer, Backend",
       "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer",
-      "jobLocation": "wayne",
+      "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
@@ -72,5 +72,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

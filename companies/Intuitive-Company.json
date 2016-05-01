@@ -24,6 +24,17 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Engagement Lead",
+      "alternateName": "Business Development",
+      "url": "http://intuitivecompany.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "User Experience Researcher",
       "alternateName": "Designer, User Experience",
       "url": "http://intuitivecompany.com/careers/",
@@ -41,17 +52,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Engagement Lead",
-      "alternateName": "Business Development",
-      "url": "http://intuitivecompany.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

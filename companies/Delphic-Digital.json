@@ -35,78 +35,45 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Account Director, Healthcare Vertical ",
+      "title": "Account Director",
       "alternateName": "Business Development",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=168723",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Group Account Director",
-      "alternateName": "Project Manager",
       "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=180377",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Project Coordinator",
-      "alternateName": "Project Manager",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=179547",
+      "title": "Director, Content Strategy",
+      "alternateName": "Content Strategy",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=200611",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Project Manager",
-      "alternateName": "Project Manager",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=179538",
+      "employmentType": "intern",
+      "title": "Digital Production Internship",
+      "alternateName": "Intern",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=192419",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Digital Business Analyst",
-      "alternateName": "Project Manager",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=178412",
+      "employmentType": "intern",
+      "title": "IT / Help Desk Intern ",
+      "alternateName": "Intern",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=189349",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Junior Front End Web Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=173207",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Content Strategist",
-      "alternateName": "Content Strategist",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=59485",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
@@ -118,17 +85,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Technical Lead",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=174453",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

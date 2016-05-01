@@ -46,6 +46,17 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "E-COMMERCE OPERATIONS ASSOCIATE",
+      "alternateName": "Marketing",
+      "url": "http://famehouse.net/category/job-listings/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "DATA ANALYST",
       "alternateName": "Data Analyst",
       "url": "http://famehouse.net/job-listing-data-analyst/",
@@ -53,5 +64,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

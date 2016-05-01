@@ -21,7 +21,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "http://ecityinteractive.com/us/careers/",
+      "title": "Senior Developer",
       "alternateName": "Developer, Full Stack",
       "url": "http://ecityinteractive.com/us/careers/",
       "jobLocation": "philadelphia",
@@ -32,12 +32,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Junior Interactive Designer",
-      "alternateName": "Designer, User Experience",
+      "title": "PHP/.NET Developer",
+      "alternateName": "Developer, Full Stack",
       "url": "http://ecityinteractive.com/us/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

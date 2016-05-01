@@ -24,17 +24,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "HR Generalist",
-      "alternateName": "HR",
-      "url": "http://www.monetate.com/about/careers/#open-positions",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Director of Analytics",
       "alternateName": "Data Scientist",
       "url": "http://www.monetate.com/about/careers/#open-positions",
@@ -52,6 +41,17 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
@@ -85,6 +85,29 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sales Director",
+      "alternateName": "Business Development",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Solutions Consultant",
+      "alternateName": "Business Development",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

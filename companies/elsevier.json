@@ -21,23 +21,90 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Java Developer",
-      "alternateName": "Developer, Backend",
-      "url": "https://reedelsevier.taleo.net/careersection/15/jobdetail.ftl?job=ELS001LP&lang=en#.Vo5oV05wvXQ.mailto",
+      "title": "Marketing Manager,Digital Strategy",
+      "alternateName": "Marketing",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Front-End Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://reedelsevier.taleo.net/careersection/15/jobdetail.ftl?job=ELS001LT&lang=en",
+      "title": "Product Director, Physician Experience",
+      "alternateName": "Project Manager",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Director, Patient Engagement",
+      "alternateName": "Project Manager",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Development Specialist",
+      "alternateName": "Content Strategy",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Analyst - Customer Analytics",
+      "alternateName": "Data Analyst",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Quality Test Analyst",
+      "alternateName": "Developer, QA",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Engineering Lead",
+      "alternateName": "Developer, QA",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

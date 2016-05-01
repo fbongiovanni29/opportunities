@@ -20,57 +20,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Copywriter",
-      "alternateName": "",
-      "url": "http://garfieldgroup.com/careers",
-      "jobLocation": "newtown",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Art Director",
-      "alternateName": "",
-      "url": "http://garfieldgroup.com/careers",
-      "jobLocation": "newtown",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Web Developer",
-      "alternateName": "",
-      "url": "http://garfieldgroup.com/careers",
-      "jobLocation": "newtown",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "intern",
       "title": "Copywriter Intern",
-      "alternateName": "",
+      "alternateName": "Intern",
       "url": "http://garfieldgroup.com/careers",
       "jobLocation": "newtown",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2015-12-14"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Graphic Design Intern",
-      "alternateName": "",
+      "title": "Junior Copywriter",
+      "alternateName": "Content Strategy",
       "url": "http://garfieldgroup.com/careers",
       "jobLocation": "newtown",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

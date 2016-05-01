@@ -27,7 +27,7 @@
       "title": "Client Relations Specialist",
       "alternateName": "Business Development",
       "url": "http://www.halfpenny.com/client-relationship-specialist.html",
-      "jobLocation": "philadelphia",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -38,7 +38,7 @@
       "title": "Integration Developer",
       "alternateName": "Developer, Backend",
       "url": "http://www.halfpenny.com/integration-developer.html",
-      "jobLocation": "philadelphia",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -49,7 +49,7 @@
       "title": "Client Technical Support Tier 1 Analyst",
       "alternateName": "Developer, Product Support",
       "url": "http://www.halfpenny.com/client-technical-support.html",
-      "jobLocation": "philadelphia",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -60,7 +60,7 @@
       "title": "Product Manager - Clinical Data Exchange",
       "alternateName": "Project Manager",
       "url": "http://www.halfpenny.com/product-manager.html",
-      "jobLocation": "philadelphia",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -71,9 +71,10 @@
       "title": "Quality Assurance (QA) Analyst",
       "alternateName": "Developer, QA",
       "url": "http://www.halfpenny.com/quality-assurance-analyst.html",
-      "jobLocation": "philadelphia",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

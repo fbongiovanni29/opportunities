@@ -93,17 +93,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Analytics Associate",
-      "alternateName": "Data Analyst",
-      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=303&org=DORLAND",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

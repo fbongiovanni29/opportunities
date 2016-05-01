@@ -1,8 +1,6 @@
 {
   "company": "Municibid",
-  "type": [
-    "internal"
-  ],
+  "type": ["internal"],
   "url": "https://municibid.com/jobs/",
   "webSiteUrl": "https://municibid.com/",
   "technologies": [],
@@ -19,5 +17,6 @@
       }
     }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-30"
 }

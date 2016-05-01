@@ -96,6 +96,28 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    }
-  ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Direct Sales",
+      "alternateName": "Business Development",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=154788",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Strategic Account Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.leadid.com/about-us/join-our-team/open-positions?gh_jid=194923",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+  ],
+  "updated": "2016-04-30"
 }

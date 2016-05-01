@@ -31,12 +31,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "GIS Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://jobs.jobvite.com/healthverity/job/o61i1fwa",
+      "title": "Business Development Director",
+      "alternateName": "Business Development",
+      "url": "http://healthverity.com/careers-2?p=job%2FoKV52fww",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
@@ -92,28 +92,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Technical Recruiter",
-      "alternateName": "HR",
-      "url": "http://jobs.jobvite.com/healthverity/job/odSJ1fwz",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sales Director - Healthcare Provider Markets",
-      "alternateName": "Business Development",
-      "url": "http://jobs.jobvite.com/healthverity/job/oMa40fwK",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

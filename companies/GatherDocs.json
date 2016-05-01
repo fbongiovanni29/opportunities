@@ -29,7 +29,7 @@
       "url": "http://jobs.gatherdocs.com/listing/1134",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2015-12-14"
     },
     {
       "@context": "http://schema.org",
@@ -40,7 +40,8 @@
       "url": "http://jobs.gatherdocs.com/listing/492",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2015-12-14"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

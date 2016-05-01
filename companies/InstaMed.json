@@ -24,56 +24,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Information Systems – Analyst",
-      "alternateName": "Data Analyst",
-      "url": "http://www.instamed.com/about/careers/information-systems-analyst/",
+      "title": "Marketing – Senior Associate",
+      "alternateName": "Marketing",
+      "url": "http://www.instamed.com/about/careers/marketing-senior-associate/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Marketing Copy Writing Manager",
-      "alternateName": "Content Strategy",
-      "url": "http://www.instamed.com/about/careers/marketing-copy-writing-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Implementations Associate",
-      "alternateName": "Developer, Product Support",
-      "url": "http://www.instamed.com/about/careers/professional-services-implementations-associate/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Implementations Manager",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.instamed.com/about/careers/professional-services-implementations-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Payer Implementations Manager",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.instamed.com/about/careers/professional-services-payer-implementations-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }
