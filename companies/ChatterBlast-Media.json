@@ -27,39 +27,28 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    }
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "http://chatterblast.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Account Management Intern",
-      "alternateName": "Intern",
+      "employmentType": "full-time",
+      "title": "Graphic Designer",
+      "alternateName": "Designer, Visual",
       "url": "http://chatterblast.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Copywriter Intern",
-      "alternateName": "Intern",
-      "url": "http://chatterblast.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Graphic Designer Intern",
-      "alternateName": "Intern",
-      "url": "http://chatterblast.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-05-01"
     },
     {
       "@context": "http://schema.org",
@@ -75,13 +64,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Community Coordinator Intern",
-      "alternateName": "Intern",
+      "employmentType": "full-time",
+      "title": "Community Coordinator - Reading Terminal Market",
+      "alternateName": "Marketing",
       "url": "http://chatterblast.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-05-01"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

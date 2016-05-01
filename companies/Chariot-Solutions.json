@@ -10,7 +10,7 @@
     "Java"
   ],
   "locations": {
-    "fortwashington": {
+    "fort washington": {
       "@type": "Place",
       "address": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
       "geo": {
@@ -27,7 +27,7 @@
       "title": "Scala Developer",
       "alternateName": "Developer, Backend",
       "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/",
-      "jobLocation": "fortwashington",
+      "jobLocation": "fort washington",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -38,7 +38,7 @@
       "title": "Senior Java/Spring Engineer",
       "alternateName": "Developer, Backend",
       "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/",
-      "jobLocation": "fortwashington",
+      "jobLocation": "fort washington",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -49,9 +49,10 @@
       "title": "Mobile Developer",
       "alternateName": "Developer, Mobile",
       "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/",
-      "jobLocation": "fortwashington",
+      "jobLocation": "fort washington",
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

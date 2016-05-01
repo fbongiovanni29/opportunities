@@ -7,7 +7,7 @@
   "webSiteUrl": "http://coredial.com/",
   "technologies": [],
   "locations": {
-    "bluebell": {
+    "blue bell": {
       "@type": "Place",
       "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
       "geo": {
@@ -21,12 +21,23 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Project Manager",
-      "alternateName": "Project Manager",
-      "url": "https://careers-coredial.icims.com/jobs/1048/project-manager/job",
-      "jobLocation": "bluebell",
+      "title": "Marketing Communications Specialist",
+      "alternateName": "Marketing",
+      "url": "https://careers-coredial.icims.com/jobs/1052/marketing-communications-specialist/job",
+      "jobLocation": "blue bell",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-11"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "VoIP Support Technician",
+      "alternateName": "IT, Networking",
+      "url": "https://careers-coredial.icims.com/jobs/1051/voip-support-technician/job",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-04-08"
     },
     {
       "@context": "http://schema.org",
@@ -35,7 +46,7 @@
       "title": "VP of Marketing",
       "alternateName": "Marketing",
       "url": "https://careers-coredial.icims.com/jobs/1046/vp-of-marketing/job",
-      "jobLocation": "bluebell",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     },
@@ -43,12 +54,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "SQL DBA - MySQL",
-      "alternateName": "Developer, DBA",
-      "url": "https://careers-coredial.icims.com/jobs/1037/sql-dba---mysql/job",
-      "jobLocation": "bluebell",
+      "title": "Full Stack Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://careers-coredial.icims.com/jobs/1037/full-stack-web-developer/job",
+      "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2015-11-30"
     },
     {
       "@context": "http://schema.org",
@@ -57,9 +68,10 @@
       "title": "Principal Software Engineer",
       "alternateName": "Developer, Full Stack",
       "url": "https://careers-coredial.icims.com/jobs/1012/principal-software-engineer/job",
-      "jobLocation": "bluebell",
+      "jobLocation": "blue bell",
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

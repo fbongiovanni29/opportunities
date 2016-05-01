@@ -24,6 +24,28 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Jr. Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/club-os/jobs/30410-jr-software-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Web Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://angel.co/club-os/jobs/82642-front-end-web-developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Software Engineer",
       "alternateName": "Developer, Backend",
       "url": "https://angel.co/club-os/jobs/98081-software-engineer-multiple-positions",
