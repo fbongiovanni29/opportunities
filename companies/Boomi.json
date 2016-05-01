@@ -23,12 +23,34 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Boomi Marketing Manager",
-      "alternateName": "Marketing",
-      "url": "http://jobs.dell.com/au/melbourne/marketing/jobid9894736-boomi-marketing-manager-apj-sydney-or-melbourne-jobs",
+      "title": "ISV Business Developer SAP",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038153-dell-boomi-isv-business-developer-sap-us-remote-jobs",
       "jobLocation": "berwyn",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Marketing Manager Dell Boomi",
+      "alternateName": "Marketing",
+      "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10101252-customer-marketing-manager-dell-boomi-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ISV Business Developer Partner Accounts US Remote",
+      "alternateName": "Business Development",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038169-dell-boomi-isv-business-developer-partner-accounts-us-remote-jobs",
+      "jobLocation": "berwyn",
+      "remote": true,
+      "datePosted": "2016-05-01"
     },
     {
       "@context": "http://schema.org",
@@ -67,17 +89,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Sr. Software Engineer Java",
-      "alternateName": "Developer, Backend",
-      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid6186484-sr.-software-engineer-java-jobs",
-      "jobLocation": "berwyn",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Systems Engineering Senior Advisor",
       "alternateName": "Developer, Backend",
       "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-senior-advisor-jobs",
@@ -96,5 +107,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

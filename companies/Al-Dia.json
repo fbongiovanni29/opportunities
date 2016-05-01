@@ -20,6 +20,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Entrepreneurial Journalism Training Program",
+      "alternateName": "Intern",
+      "url": "http://aldianews.com/pages/entrepreneurial-journalism-training-program/41144",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Digital Editor",
       "alternateName": "Content Strategy",
@@ -42,17 +53,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Content Producer",
-      "alternateName": "Content Strategy",
-      "url": "http://aldianews.com/pages/content-producer/34937",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "employmentType": "intern",
       "title": "Intern",
       "alternateName": "Intern",
@@ -64,13 +64,25 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Entrepreneurial Journalism Training Program",
-      "alternateName": "Intern",
-      "url": "http://aldianews.com/pages/entrepreneurial-journalism-training-program/41144",
+      "employmentType": "full-time",
+      "title": "Content Producer",
+      "alternateName": "Content Strategy",
+      "url": "http://aldianews.com/pages/content-producer/34937",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://aldianews.com/pages/web-developer/43039",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

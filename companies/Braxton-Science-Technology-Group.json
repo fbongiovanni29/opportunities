@@ -3,7 +3,7 @@
   "type": [
     "consultancy"
   ],
-  "url": "http://bstg.hirecentric.com/jobs/",
+  "url": "http://jobs.bstgllc.com/",
   "webSiteUrl": "http://bstgllc.com/",
   "technologies": [],
   "locations": {
@@ -16,5 +16,40 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineer, Senior",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2azodi",
+      "jobLocation": "moorestown",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineer, Senior Staff",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2jq8ce",
+      "jobLocation": "moorestown",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineer, Staff",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2qm5sl",
+      "jobLocation": "moorestown",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    }
+  ],
+  "updated": "2016-05-01"
 }

@@ -3,8 +3,8 @@
   "type": [
     "agency"
   ],
-  "url": "http://www.bluecadet.com/contact/careers/",
-  "webSiteUrl": "http://www.bluecadet.com/",
+  "url": "http://bluecadet.com/contact/careers/",
+  "webSiteUrl": "http://bluecadet.com/",
   "technologies": [
     "Drupal"
   ],
@@ -19,6 +19,17 @@
     }
   },
   "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "freelance",
+      "title": "Freelance iOS and Android developers",
+      "alternateName": "Developer, Mobile",
+      "url": "http://bluecadet.com/careers/freelance-ios-and-android-developers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
@@ -85,5 +96,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

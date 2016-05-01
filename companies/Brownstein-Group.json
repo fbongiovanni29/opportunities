@@ -21,30 +21,19 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Public Relations & Social Media Account Executive",
+      "alternateName": "Marketing",
+      "url": "http://www.brownsteingroup.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Director of Client Services",
       "alternateName": "Business Development",
-      "url": "http://www.brownsteingroup.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Account Planner",
-      "alternateName": "Business Development",
-      "url": "http://www.brownsteingroup.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Videographer/Editor",
-      "alternateName": "Videographer",
       "url": "http://www.brownsteingroup.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -61,5 +50,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }
