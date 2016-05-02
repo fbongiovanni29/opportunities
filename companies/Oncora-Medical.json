@@ -1,6 +1,9 @@
 {
   "company": "Oncora Medical",
-  "type": ["product", "startup"],
+  "type": [
+    "product",
+    "startup"
+  ],
   "url": "http://oncoramedical.com/careers",
   "webSiteUrl": "http://oncoramedical.com/",
   "technologies": [],

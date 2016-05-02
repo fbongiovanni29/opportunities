@@ -32,12 +32,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Drupal Developers and Themers",
       "alternateName": "Developer, Frontend",
-      "url": "https://www.zivtech.com/about/employment",
+      "url": "https://www.zivtech.com/about/employment/drupal-developers-and-themers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-21"
+      "datePosted": "2016-05-02"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX / UI Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "https://www.zivtech.com/about/employment/ux-ui-designer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-02"
     }
   ],
-  "updated": "2016-04-21"
+  "updated": "2016-05-02"
 }

@@ -1,6 +1,8 @@
 {
   "company": "Night Kitchen Interactive",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "http://www.whatscookin.com/about/careers",
   "webSiteUrl": "http://www.whatscookin.com/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "New York Code + Design Academy",
-  "type": ["internal"],
+  "type": [
+    "internal"
+  ],
   "url": "https://nycda.com/careers#openings",
   "webSiteUrl": "https://nycda.com/",
   "technologies": [],

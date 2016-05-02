@@ -1,6 +1,8 @@
 {
   "company": "O3 World",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://o3world.com/careers/",
   "webSiteUrl": "http://o3world.com/",
   "technologies": [

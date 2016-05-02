@@ -1,6 +1,8 @@
 {
   "company": "PCS Trac",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://www.pcstrac.com/#!careers/cuev",
   "webSiteUrl": "http://www.pcstrac.com/",
   "technologies": [],

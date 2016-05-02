@@ -1,6 +1,8 @@
 {
   "company": "Nimblelight",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://nimblelight.com/jobs/",
   "webSiteUrl": "http://nimblelight.com/",
   "technologies": [],

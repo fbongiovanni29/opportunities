@@ -1,6 +1,8 @@
 {
   "company": "Offshorent",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://offshorent.com/careers",
   "webSiteUrl": "http://offshorent.com/",
   "technologies": [],

@@ -1,0 +1,39 @@
+<div ng-show="vm.data">
+    <div ng-repeat="opportunity in vm.data | filter : search" class="panel panel-default" ng-show="opportunity.positions != ''">
+        <div class="panel-heading">
+            <h1><a href="{{opportunity.url}}" target="_blank">{{opportunity.company}}</a></h1>
+
+        </div>
+        <div class="panel-body">
+            <p>
+                <span ng-repeat="type in opportunity.type">
+        <span class="label label-primary">{{type}}</span>
+                </span>
+                <span ng-repeat="technology in opportunity.technologies">
+          <span class="label label-default">{{technology}}</span>
+                </span>
+            </p>
+            <p ng-show="opportunity.updated">
+                Last Updated: {{opportunity.updated | date : mediumDate}}
+            </p>
+            <p ng-show="opportunity.address">
+                <a href="https://www.google.com/maps/place/{{opportunity.address}}" target="_blank">
+      {{opportunity.address}}
+    </a>
+            </p>
+            <p ng-repeat="location in opportunity.locations">
+                <a href="https://www.google.com/maps/place/{{location.address}}" target="_blank">
+      {{location.address}}
+    </a>
+            </p>
+        </div>
+        <div class="list-group">
+            <a ng-repeat="position in opportunity.positions" class="list-group-item" href="{{position.url}}" target="_blank">
+      {{position.title}} <small class="text-right" ng-show="position.alternateName">({{position.alternateName}})</small>
+    </a>
+        </div>
+    </div>
+</div>
+<div ng-hide="vm.data" class="jumbotron">
+    <h1>Loading job opportunities.</h1>
+</div>
