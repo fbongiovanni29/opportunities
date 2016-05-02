@@ -1,21 +1,168 @@
 {
   "company": "Medecision",
+  "type": [
+    "product"
+  ],
   "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
   "webSiteUrl": "http://www.medecision.com/",
-  "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
-  "geo": {
-    "latitude": 40.0755407626,
-    "longitude": -75.4241920791
+  "technologies": [],
+  "locations": {
+    "wayne": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0755407626,
+        "longitude": -75.4241920791
+      }
+    }
   },
   "positions": [
     {
-      "title": "Director, Data Management"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development Executive",
+      "alternateName": "Business Development",
+      "url": "https://careers-medecision.icims.com/jobs/1196/business-development-executive/job",
+      "jobLocation": "wayne",
+      "remote": true,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Senior Director, Customer Marketing"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Data Modeler",
+      "alternateName": "Developer, DBA",
+      "url": "https://careers-medecision.icims.com/jobs/1235/senior-data-modeler/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Solution Architect, Senior"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Developer, Senior",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://careers-medecision.icims.com/jobs/1239/application-developer%2c-senior/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://careers-medecision.icims.com/jobs/1240/application-developer/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Director, IT Security and Compliance",
+      "alternateName": "IT, Networking",
+      "url": "https://careers-medecision.icims.com/jobs/1250/senior-director%2c-it-security-and-compliance/job",
+      "jobLocation": "wayne",
+      "remote": true,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Director, Solutions Marketing",
+      "alternateName": "Marketing",
+      "url": "https://careers-medecision.icims.com/jobs/1265/senior-director%2c-solutions-marketing/job",
+      "jobLocation": "wayne",
+      "remote": true,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Product Business Analyst",
+      "alternateName": "Project Manager",
+      "url": "https://careers-medecision.icims.com/jobs/1269/senior-product-business-analyst/job",
+      "jobLocation": "wayne",
+      "remote": true,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Application Architect",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://careers-medecision.icims.com/jobs/1271/senior-application-architect/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Chief Analytics Officer",
+      "alternateName": "Data Scientist",
+      "url": "https://careers-medecision.icims.com/jobs/1275/chief-analytics-officer/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "https://careers-medecision.icims.com/jobs/1276/senior-data-analyst/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Data Manager",
+      "alternateName": "Data Scientist",
+      "url": "https://careers-medecision.icims.com/jobs/1277/senior-data-manager/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "https://careers-medecision.icims.com/jobs/1278/senior-data-scientist/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Product Manager",
+      "alternateName": "Project Manager",
+      "url": "https://careers-medecision.icims.com/jobs/1279/senior-product-manager/job",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

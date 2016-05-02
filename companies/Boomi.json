@@ -1,24 +1,112 @@
 {
   "company": "Boomi",
+  "type": [
+    "Product"
+  ],
   "url": "http://www.boomi.com/company/careers",
   "webSiteUrl": "http://www.boomi.com/",
-  "address": "801 Cassatt Road, Suite 111, Berwyn, PA 19312",
-  "geo": {
-    "latitude": 40.062366,
-    "longitude": -75.456169
+  "technologies": [
+    "Java"
+  ],
+  "locations": {
+    "Berwyn": {
+      "@type": "Place",
+      "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+      "geo": {
+        "latitude": 40.062366,
+        "longitude": -75.456169
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Develoment Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ISV Business Developer SAP",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038153-dell-boomi-isv-business-developer-sap-us-remote-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Software Engineer Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Marketing Manager Dell Boomi",
+      "alternateName": "Marketing",
+      "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10101252-customer-marketing-manager-dell-boomi-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Software Engineer Java"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ISV Business Developer Partner Accounts US Remote",
+      "alternateName": "Business Development",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038169-dell-boomi-isv-business-developer-partner-accounts-us-remote-jobs",
+      "jobLocation": "berwyn",
+      "remote": true,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Software QA Staff Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Development Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5830518-software-development-engineer-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer Java",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5241663-software-engineer-java-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SW Solutions Architect III",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid9772762-sw-solutions-architect-iii-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineering Senior Advisor",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-senior-advisor-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineering Senior Advisor",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

@@ -1,21 +1,45 @@
 {
   "company": "PeopleLinx",
-  "url": "http://peoplelinx.com/careers/",
+  "type": ["product"],
+  "url": "http://peoplelinx.com/jobs",
   "webSiteUrl": "http://peoplelinx.com/",
-  "address": "1835 Market Street, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9532393469,
-    "longitude": -75.1705572449
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1835 Market Street, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9532393469,
+        "longitude": -75.1705572449
+      }
+    }
   },
   "positions": [
     {
-      "title": "Lead Content Designer / Instructional Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development Representative",
+      "alternateName": "Business Development",
+      "url": "https://peoplelinx.workable.com/jobs/229690",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
-      "title": "Client Success Manager"
-    },
-    {
-      "title": "Account Executive"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive",
+      "alternateName": "Business Development",
+      "url": "https://peoplelinx.workable.com/jobs/69686",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

@@ -1,24 +1,102 @@
 {
   "company": "Masterminds",
+  "type": [
+    "agency"
+  ],
   "url": "http://mastermindsagency.com/#gigs",
   "webSiteUrl": "http://mastermindsagency.com/",
-  "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.9493152971,
-    "longitude": -75.1626386191
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9493152971,
+        "longitude": -75.1626386191
+      }
+    }
   },
   "positions": [
     {
-      "title": "Social Media Community Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Media Specialist",
+      "alternateName": "Data Analyst",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Graphic Designer – Full time or Freelance"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Supervisor",
+      "alternateName": "Business Development",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Creative Internships"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "freelance",
+      "title": "Graphic Designer",
+      "alternateName": "Designer, Visual",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Media Internship"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic Designer",
+      "alternateName": "Designer, Visual",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Business Development",
+      "alternateName": "Business Development",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Creative Internships",
+      "alternateName": "Intern",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Media Internship",
+      "alternateName": "Intern",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

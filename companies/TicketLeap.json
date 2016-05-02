@@ -1,15 +1,49 @@
 {
   "company": "Ticketleap",
+  "type": [
+    "internal"
+  ],
   "url": "http://ticketleap.theresumator.com/",
   "webSiteUrl": "http://ticketleap.com/",
-  "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.95124,
-    "longitude": -75.179508
+  "technologies": [
+    "python"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.95124,
+        "longitude": -75.179508
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "http://ticketleap.theresumator.com/",
+      "alternateName": "Developer, Backend",
+      "url": "http://ticketleap.theresumator.com/apply/G5ZW38/Senior-Software-Engineer-Systems-Architect",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://ticketleap.theresumator.com/apply/IJ9KNH/Software-Engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

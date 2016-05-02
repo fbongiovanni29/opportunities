@@ -1,15 +1,69 @@
 {
   "company": "Famehouse",
+  "type": [
+    "agency"
+  ],
   "url": "http://famehouse.net/category/job-listings/",
   "webSiteUrl": "http://famehouse.net/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
   },
   "positions": [
     {
-      "title": "FRONT-END DEVELOPER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "FRONT-END DEVELOPER",
+      "alternateName": "Developer, Frontend",
+      "url": "http://famehouse.net/job-listing-front-end-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Merchandise Operations Director",
+      "alternateName": "Marketing",
+      "url": "http://famehouse.net/job-listing-merchandise-operations-director/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "E-COMMERCE OPERATIONS ASSOCIATE",
+      "alternateName": "Marketing",
+      "url": "http://famehouse.net/category/job-listings/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DATA ANALYST",
+      "alternateName": "Data Analyst",
+      "url": "http://famehouse.net/job-listing-data-analyst/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

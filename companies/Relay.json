@@ -1,33 +1,69 @@
 {
   "company": "Relay",
+  "type": [
+    "product"
+  ],
   "url": "http://www.relaynetwork.com/careers/",
   "webSiteUrl": "http://www.relaynetwork.com/",
-  "address": "201 king of prussia rd, radnor, pa 19087",
-  "geo": {
-    "latitude": 40.081206,
-    "longitude": -75.388683
+  "technologies": [],
+  "locations": {
+    "radnor": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "201 king of prussia rd, radnor, pa 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.081206,
+        "longitude": -75.388683
+      }
+    }
   },
   "positions": [
     {
-      "title": "CLIENT PROJECT MANAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development",
+      "alternateName": "Business Development",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN112",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "DATA ARCHITECT"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-End Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN106",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "DEVOPS MANAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN115",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "FRONT-END DEVELOPER"
-    },
-    {
-      "title": "SCRUM MASTER"
-    },
-    {
-      "title": "SOFTWARE ENGINEER"
-    },
-    {
-      "title": "SR. SALES EXECUTIVE"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Sales Executive",
+      "alternateName": "Business Development",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN113",
+      "jobLocation": "radnor",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

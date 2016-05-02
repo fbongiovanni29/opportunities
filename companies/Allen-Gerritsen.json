@@ -20,6 +20,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Research & Insights Apprentice",
+      "alternateName": "Intern",
+      "url": "http://www.a-g.com/careers/position-details?id=job_20160401131856_TIZQZTVKBKCZKI5H",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Associate Copywriter",
       "alternateName": "Content Strategy",
@@ -35,17 +46,6 @@
       "title": "Digital Art Director",
       "alternateName": "Designer, Visual",
       "url": "http://www.a-g.com/careers/position-details?id=job_20160318152050_TJIE4IWWVPGD4R2Z",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Analyst",
-      "alternateName": "Data Scientist",
-      "url": "http://www.a-g.com/careers/position-details?id=job_20160309144745_VCWMCBRO2WJXQ3X2",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
@@ -71,28 +71,8 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Digital Media Supervisor",
-      "alternateName": "Design, Visual",
-      "url": "http://www.a-g.com/careers/position-details?id=job_20151119215804_8FVZ96OOHMDQKTHP",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Digital Media Planner",
-      "alternateName": "",
-      "url": "http://www.a-g.com/careers/position-details?id=job_20151119215909_7HPQ7WKNW1ZDETAQ",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
+
 }

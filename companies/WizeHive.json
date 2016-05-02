@@ -1,18 +1,58 @@
 {
   "company": "WizeHive",
+  "type": [
+    "product"
+  ],
   "url": "https://review.wizehive.com/voting/posting",
   "webSiteUrl": "http://wizehive.com/",
-  "address": "441 E. Hector Street, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.073628,
-    "longitude": -75.297755
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "441 E. Hector Street, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.073628,
+        "longitude": -75.297755
+      }
+    }
   },
   "positions": [
     {
-      "title": "Implementation Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Implementation Specialist",
+      "alternateName": "Project Manager",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1190539/0",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-21"
     },
     {
-      "title": "Jr. Implementation Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Inside Sales Person",
+      "alternateName": "Business Development",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1193226/0",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1177957/0",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-21"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

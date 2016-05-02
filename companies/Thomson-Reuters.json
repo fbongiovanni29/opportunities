@@ -1,21 +1,48 @@
 {
   "company": "Thomson Reuters",
+  "type": [
+    "internal",
+    "consultancy"
+  ],
   "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
   "webSiteUrl": "http://thomsonreuters.com/",
-  "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
-  "geo": {
-    "latitude": 39.962595,
-    "longitude": -75.163112
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1500 Spring Garen Street, Philadelphia, PA 19130",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.962595,
+        "longitude": -75.163112
+      }
+    }
   },
   "positions": [
     {
-      "title": "QA Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Director, Cloud Operations - JREQ058735",
+      "alternateName": "DevOps",
+      "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Senior Director, Sales Training & Development"
-    },
-    {
-      "title": "Technology Consultant"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - 16000510",
+      "alternateName": "Developer, Backend",
+      "url": "https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

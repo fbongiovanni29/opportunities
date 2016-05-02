@@ -7,7 +7,7 @@
   "webSiteUrl": "http://www.aspect-consulting.com/",
   "technologies": [],
   "locations": {
-    "kingofprussia": {
+    "king of prussia": {
       "@type": "Place",
       "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
       "geo": {
@@ -16,5 +16,18 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.aspect-consulting.com/careers.aspx",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    }
+  ],
+  "updated": "2016-05-01"
 }

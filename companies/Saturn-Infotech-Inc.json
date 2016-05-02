@@ -1,21 +1,36 @@
 {
   "company": "Saturn Infotech Inc",
-  "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.saturninfotech.com/jobs.php",
   "webSiteUrl": "http://www.saturninfotech.com/",
-  "address": "1120 Welsh Road, Suite 110, North Wales, PA 19454",
-  "geo": {
-    "latitude": 40.227722,
-    "longitude": -75.261352
+  "technologies": [],
+  "locations": {
+    "north wales": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1120 Welsh Road, Suite 110, North Wales, PA 19454",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.227722,
+        "longitude": -75.261352
+      }
+    }
   },
   "positions": [
     {
-      "title": "Entry Level Hyperion Developers"
-    },
-    {
-      "title": "Junior C/C++ or MATLAB Developers"
-    },
-    {
-      "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior C/C++ or MATLAB Developers",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.saturninfotech.com/job_details.php?jobid=3",
+      "jobLocation": "north wales",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

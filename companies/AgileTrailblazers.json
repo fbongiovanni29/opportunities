@@ -3,7 +3,7 @@
   "type": [
     "consultancy"
   ],
-  "url": "http://www.agiletrailblazers.com/careers/",
+  "url": "https://agiletrailblazers.workable.com/",
   "webSiteUrl": "http://www.agiletrailblazers.com/",
   "technologies": [],
   "locations": {
@@ -16,5 +16,51 @@
       }
     }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Technical Recruiter",
+      "alternateName": "HR",
+      "url": "https://agiletrailblazers.workable.com/jobs/206419",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Scrum Master",
+      "alternateName": "Project Manager",
+      "url": "https://agiletrailblazers.workable.com/jobs/224708",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Agile Coach",
+      "alternateName": "Project Manager",
+      "url": "https://agiletrailblazers.workable.com/jobs/207579",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI/UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "https://agiletrailblazers.workable.com/jobs/207581",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    }
+  ],
+  "updated": "2016-05-01"
 }

@@ -1,11 +1,25 @@
 {
   "company": "Plan Management Corp.",
+  "type": [
+    "product",
+    "consultancy"
+  ],
   "url": "http://www.optiontrax.com/about-us/working-here/",
   "webSiteUrl": "http://www.optiontrax.com/",
-  "address": "44 W. Lancaster Ave, Suite 145, Ardmore, PA, 19003",
-  "geo": {
-    "latitude": 40.0086664118,
-    "longitude": -75.2925611765
+  "technologies": [],
+  "locations": {
+    "ardmore": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "44 W. Lancaster Ave, Suite 145, Ardmore, PA, 19003",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0086664118,
+        "longitude": -75.2925611765
+      }
+    }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-28"
 }

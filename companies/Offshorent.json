@@ -1,21 +1,67 @@
 {
   "company": "Offshorent",
+  "type": ["consultancy"],
   "url": "http://offshorent.com/careers",
   "webSiteUrl": "http://offshorent.com/",
-  "address": "1000 W. Valley Forge Circle. #110A., King Of Prussia, PA 19406",
-  "geo": {
-    "latitude": 40.1030152727,
-    "longitude": -75.4137162727
+  "technologies": [],
+  "locations": {
+    "king of prussia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1000 W. Valley Forge Circle. #110A., King Of Prussia, PA 19406",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.1030152727,
+        "longitude": -75.4137162727
+      }
+    }
   },
   "positions": [
     {
-      "title": "WordPress developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "WordPress developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://offshorent.com/careers",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
-      "title": "Business Development Lead"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development Lead",
+      "alternateName": "Business Development",
+      "url": "http://offshorent.com/careers",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
-      "title": "Senior Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Frontend Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://offshorent.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://offshorent.com/careers",
+      "jobLocation": "king of prussia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

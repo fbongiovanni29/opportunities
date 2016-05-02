@@ -1,33 +1,91 @@
 {
   "company": "Linode, LLC",
+  "type": [
+    "product"
+  ],
   "url": "https://www.linode.com/careers",
   "webSiteUrl": "https://www.linode.com/",
-  "address": "Kings Hall, 2 Kings Highway West, Haddonfield, NJ 08033",
-  "geo": {
-    "latitude": 39.8958,
-    "longitude": -75.036109
+  "technologies": [],
+  "locations": {
+    "haddonfield": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Kings Hall, 2 Kings Highway West, Haddonfield, NJ 08033",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.8958,
+        "longitude": -75.036109
+      }
+    }
   },
   "positions": [
     {
-      "title": "Linux Technical Support"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Technical Support",
+      "alternateName": "IT, Networking",
+      "url": "https://www.linode.com/careers",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Agile Project Manager (Scrum Master)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.linode.com/careers",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Technical Writer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Systems Engineer",
+      "alternateName": "IT, Networking",
+      "url": "https://www.linode.com/careers",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Linux Network Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Security Engineer",
+      "alternateName": "IT, Networking",
+      "url": "https://www.linode.com/careers",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Network Administrator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Database Administrator (MySQL)",
+      "alternateName": "Developer, DBA",
+      "url": "https://www.linode.com/careers",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Linux Systems Engineer"
-    },
-    {
-      "title": "Security Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Solutions Consultant",
+      "alternateName": "IT, Networking",
+      "url": "https://www.linode.com/careers",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

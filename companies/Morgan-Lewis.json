@@ -1,63 +1,113 @@
 {
   "company": "Morgan Lewis",
+  "type": [
+    "internal"
+  ],
   "url": "https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25936&siteid=5172",
   "webSiteUrl": "https://www.morganlewis.com/",
-  "address": "1701 Market St, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952974,
-    "longitude": -75.168444
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1701 Market St, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952974,
+        "longitude": -75.168444
+      }
+    }
   },
   "positions": [
     {
-      "title": "365BR Business Intelligence Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "429BR Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5esX1%2felorVis2FsU8pC4OYRplpbPdCP5gn5sdCampZ0MNCBiuNi_slp_rhc_wVe4%2fexMjvc8P&jobId=247824&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=247824_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "678BR Network Engineer (Infrastructure)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "678BR Infrastructure Engineer",
+      "alternateName": "DevOps",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=292188&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=292188_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-04"
     },
     {
-      "title": "692BR Manager of Information Governance Compliance"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "715BR Network Automation Engineer (Network Services)",
+      "alternateName": "IT, Networking",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=300229&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=300229_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-29"
     },
     {
-      "title": "585BR New Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "743BR Business Analyst",
+      "alternateName": "Project Manager",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=305107&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=305107_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-08"
     },
     {
-      "title": "687BR Human Resources Coordinator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "671BR Manager of Web Development",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=290968&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=290968_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-10"
     },
     {
-      "title": "683BR Human Resources Coordinator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "710BR Operations Support Engineer eData",
+      "alternateName": "Developer, DBA",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5e_slp_rhc_fbqTLIhLe0AdoYNMKuwFCAttg%2fTsZ4lq1ieBIMDXkxfVV7Hfjq6CmRKES30ehxd&jobId=299415&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=299415_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-01"
     },
     {
-      "title": "647BR SQL DBA Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "788BR Manager, Business Development & Marketing",
+      "alternateName": "Marketing",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5esX1%2felorVis2FsU8pC4OYRplpbPdCP5gn5sdCampZ0MNCBiuNi_slp_rhc_wVe4%2fexMjvc8P&jobId=326150&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=326150_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-18"
     },
     {
-      "title": "682BR Human Resources Manager"
-    },
-    {
-      "title": "415BR Business Operations Analyst"
-    },
-    {
-      "title": "671BR Manager of Web Development"
-    },
-    {
-      "title": "670BR Business Operations Analyst"
-    },
-    {
-      "title": "653BR Communications Specialist"
-    },
-    {
-      "title": "656BR Talent Acquisition Business Partner"
-    },
-    {
-      "title": "610BR Manager of Professional Development"
-    },
-    {
-      "title": "643BR Manager, Business Development & Marketing - Litigation"
-    },
-    {
-      "title": "592BR Director-Business Development and Marketing"
-    },
-    {
-      "title": "371BR Manager - Business Operations"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "  Information Governance Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?SID=%5esX1%2felorVis2FsU8pC4OYRplpbPdCP5gn5sdCampZ0MNCBiuNi_slp_rhc_wVe4%2fexMjvc8P&jobId=334986&type=search&JobReqLang=1&recordstart=1&JobSiteId=5172&JobSiteInfo=334986_5172&GQId=878",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-22"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

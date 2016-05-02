@@ -1,102 +1,234 @@
 {
   "company": "Susquehanna International Group",
+  "type": [
+    "internal"
+  ],
   "url": "https://careers.sig.com/",
   "webSiteUrl": "http://sig.com/",
-  "address": "401 City Avenue, Bala Cynwyd, PA 19004",
-  "geo": {
-    "latitude": 40.008582,
-    "longitude": -75.213322
+  "technologies": [],
+  "locations": {
+    "bala cynwyd": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "401 City Avenue, Bala Cynwyd, PA 19004",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.008582,
+        "longitude": -75.213322
+      }
+    }
   },
   "positions": [
     {
-      "title": "Junior Technical Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - C#",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y81/Software-Developer-C",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "QlikView Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y94/Software-Developer",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Engineering Internship Program"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quantitative Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y118/Quantitative-Developer-Backtesting-and-Research-Computing",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Junior Systems Administrator (Data Center)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Clearing and Positions",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y162/Software-Developer-Clearing-and-Positions",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Systems Administrator",
+      "alternateName": "IT, Networking",
+      "url": "https://careers.sig.com/job/SUSQA004Y185/Junior-Systems-Administrator",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Developer - Middleware"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Trading Systems Support Engineer",
+      "alternateName": "IT, Networking",
+      "url": "https://careers.sig.com/job/SUSQA004Y210/Trading-Systems-Support-Engineer",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Business Analyst/Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Systems & Network Administrator (Data Center)",
+      "alternateName": "IT, Networking",
+      "url": "https://careers.sig.com/job/SUSQA004Y231/Junior-Systems-Network-Administrator-Data-Center",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "FPGA Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - MDCAD",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y251/Software-Developer-MDCAD",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Technical Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Intelligence Developer",
+      "alternateName": "Developer, DBA",
+      "url": "https://careers.sig.com/job/SUSQA004Y29/Business-Intelligence-Developer",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Telecom Client Support Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Software Developer – Proprietary Trading Services",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y61/Junior-Software-Developer-Proprietary-Trading-Services",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Senior VMware Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer - C++",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y111/Software-Engineer-C",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Developer - Clearing and Positions"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Network Engineer",
+      "alternateName": "IT, Networking",
+      "url": "https://careers.sig.com/job/SUSQA004Y215/Junior-Network-Engineer",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Engineer - Production Engineering"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Software Engineer",
+      "alternateName": "Developer, DBA",
+      "url": "https://careers.sig.com/job/SUSQA004Y237/Data-Software-Engineer",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Developer - C++"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Server Side",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y240/Software-Developer-Server-Side",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Messaging Engineer (Middleware)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Middleware",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y103/Software-Developer-Middleware",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Linux Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quantitative Research Analyst",
+      "alternateName": "Data Scientist",
+      "url": "https://careers.sig.com/job/SUSQA004Y163/Quantitative-Research-Analyst",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Technical Support Analyst (Trading Floor)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Developer - Index",
+      "alternateName": "Developer, Backend",
+      "url": "https://careers.sig.com/job/SUSQA004Y236/Software-Developer-Index",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Technology Associate: Software Engineering Development Program"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Engineer",
+      "alternateName": "IT, Networking",
+      "url": "https://careers.sig.com/job/SUSQA004Y239/Linux-Engineer",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Junior FPGA Engineer"
-    },
-    {
-      "title": "Software Developer- Operations"
-    },
-    {
-      "title": "Software Developer - SOT Services"
-    },
-    {
-      "title": "Technology Co-op"
-    },
-    {
-      "title": "Junior Technical Support Engineer"
-    },
-    {
-      "title": "Junior Telecom Client Support Analyst"
-    },
-    {
-      "title": "Systems & Network Administrator (Data Center)"
-    },
-    {
-      "title": "Technical Business Analyst"
-    },
-    {
-      "title": "Software Developer – Proprietary Trading Services"
-    },
-    {
-      "title": "Software Developer - Instruments Team"
-    },
-    {
-      "title": "Software Developer- TORQ"
-    },
-    {
-      "title": "Quantitative Developer - Backtesting and Research Computing "
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Test Engineer - Institutional Brokerage Technology",
+      "alternateName": "Developer, QA",
+      "url": "https://careers.sig.com/job/SUSQA004Y246/Software-Test-Engineer-Institutional-Brokerage-Technology",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

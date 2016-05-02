@@ -1,36 +1,168 @@
 {
   "company": "MeetMe",
-  "url": "http://www.meetme.com/apps/careers#careers-position",
+  "type": [
+    "internal"
+  ],
+  "url": "http://www.meetme.com/apps/careers#careers-about",
   "webSiteUrl": "http://www.meetme.com/",
-  "address": "100 Union Square Drive, New Hope, PA",
-  "geo": {
-    "latitude": 40.314,
-    "longitude": -75.131903
+  "technologies": [],
+  "locations": {
+    "new hope": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "100 Union Square Drive, New Hope, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.314,
+        "longitude": -75.131903
+      }
+    },
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0046684,
+        "longitude": -75.258117
+      }
+    }
   },
   "positions": [
     {
-      "title": "Big Data Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Big Data Engineer",
+      "alternateName": "Developer, DBA",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Software Architect, API"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Sr. Android Engineer / Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DBA",
+      "alternateName": "Developer, DBA",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Sr. iOS Developer / Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Architect, API",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Sr. Software Developer (API)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Android Engineer / Architect",
+      "alternateName": "Developer, Mobile",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "QA Developer (Automation)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Sr. DevOps Engineer (Remote)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. iOS Developer / Architect",
+      "alternateName": "Developer, Mobile",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Website Content Review & Customer Support Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Software Developer (API)",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Automation Engineer",
+      "alternateName": "Developer, QA",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Automation Lead",
+      "alternateName": "Developer, QA",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Website Content Review & Customer Support Specialist",
+      "alternateName": "Content Strategy",
+      "url": "http://www.meetme.com/apps/careers#careers-about",
+      "jobLocation": "new hope",
+      "remote": false,
+      "datePosted": "2016-04-05"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

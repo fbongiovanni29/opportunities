@@ -1,18 +1,47 @@
 {
   "company": "Leadnomics",
+  "type": [
+    "product"
+  ],
   "url": "http://www.leadnomics.com/careers/",
   "webSiteUrl": "http://www.leadnomics.com/",
-  "address": "2929 Arch St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.9568481379,
-    "longitude": -75.1809156207
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2929 Arch St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9568481379,
+        "longitude": -75.1809156207
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Data Scientist Intern",
+      "alternateName": "Intern",
+      "url": "http://www.leadnomics.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Software Engineer (node.js, java, php, aws)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Leadnomics Interns",
+      "alternateName": "Intern",
+      "url": "http://www.leadnomics.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

@@ -1,15 +1,91 @@
 {
   "company": "Stuzo",
+  "type": [
+    "product"
+  ],
   "url": "http://www.stuzo.com/careers/",
   "webSiteUrl": "http://www.stuzo.com/",
-  "address": "211 North 13th Street, Suite 802, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.956513,
-    "longitude": -75.160248
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "211 North 13th Street, Suite 802, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.956513,
+        "longitude": -75.160248
+      }
+    }
   },
   "positions": [
     {
-      "title": "Technical Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Delivery",
+      "alternateName": "Project Manager",
+      "url": "http://www.stuzo.com/careers/director-of-delivery/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Partner Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.stuzo.com/careers/client-partner-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Client Services",
+      "alternateName": "Business Development",
+      "url": "http://www.stuzo.com/careers/director-of-client-service/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Business Development",
+      "alternateName": "Business Development",
+      "url": "http://www.stuzo.com/careers/director-of-business-development/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.stuzo.com/careers/technical-project-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Specialist",
+      "alternateName": "Marketing",
+      "url": "http://www.stuzo.com/careers/marketing-specialist/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

@@ -1,18 +1,34 @@
 {
   "company": "My Mobile ED",
-  "type": [
-    "Startup"
-  ],
+  "type": ["Startup"],
   "url": "https://angel.co/my-mobile-ed/jobs",
   "webSiteUrl": "http://mymobileed.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Mobile",
+      "url": "https://angel.co/my-mobile-ed/jobs/116098-software-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

@@ -1,21 +1,36 @@
 {
   "company": "InstaMed",
+  "type": [
+    "product"
+  ],
   "url": "http://www.instamed.com/about/careers/",
   "webSiteUrl": "http://www.instamed.com/",
-  "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.952896,
-    "longitude": -75.174298
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952896,
+        "longitude": -75.174298
+      }
+    }
   },
   "positions": [
     {
-      "title": "Engagement Lead"
-    },
-    {
-      "title": "User Experience Researcher"
-    },
-    {
-      "title": "Program Delivery Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing – Senior Associate",
+      "alternateName": "Marketing",
+      "url": "http://www.instamed.com/about/careers/marketing-senior-associate/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

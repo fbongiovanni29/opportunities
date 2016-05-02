@@ -1,42 +1,110 @@
 {
   "company": "Elsevier",
+  "type": [
+    "product"
+  ],
   "url": "https://www.elsevier.com/about/careers/tech",
   "webSiteUrl": "https://www.elsevier.com/",
-  "address": "1600 John F Kennedy Blvd #1800, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9537238,
-    "longitude": -75.1671666
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1600 John F Kennedy Blvd #1800, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9537238,
+        "longitude": -75.1671666
+      }
+    }
   },
   "positions": [
     {
-      "title": "Commercial Director, Patient Engagement"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Manager,Digital Strategy",
+      "alternateName": "Marketing",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Director, Cloud/Hosting, Infrastructure & Operations"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Director, Physician Experience",
+      "alternateName": "Project Manager",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Operations Director (End User Infrastructure)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Director, Patient Engagement",
+      "alternateName": "Project Manager",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Product Manager, Assessment"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Development Specialist",
+      "alternateName": "Content Strategy",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Quality Engineering Lead"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Analyst - Customer Analytics",
+      "alternateName": "Data Analyst",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Senior Custom Content Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Quality Test Analyst",
+      "alternateName": "Developer, QA",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Software Engineer - Machine Learning"
-    },
-    {
-      "title": "User Experience Lead"
-    },
-    {
-      "title": "VP Infrastructure & Operations"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Engineering Lead",
+      "alternateName": "Developer, QA",
+      "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

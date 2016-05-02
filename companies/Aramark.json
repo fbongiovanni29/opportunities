@@ -25,56 +25,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Solutions Director, Healthcare Technologies",
-      "alternateName": "Business Development",
-      "url": "https://uscareers-aramark.icims.com/jobs/65919/solutions-director%2c-healthcare-technologies---philadelphia-or-charlotte/job?mobile=false&width=1204&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "title": "Multiple positions available",
+      "alternateName": "",
+      "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-Philadelphia",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-22"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "IT Senior Technical Consultant - Architecture and Design",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://uscareers-aramark.icims.com/jobs/65379/it-senior-technical-consultant---architecture-and-design---corporate/job",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-16"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Associate Technical Analyst",
-      "alternateName": "Developer, QA",
-      "url": "https://uscareers-aramark.icims.com/jobs/64243/associate-technical-analyst/job",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-03"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Associate Technical Analyst",
-      "alternateName": "Developer, QA",
-      "url": "https://uscareers-aramark.icims.com/jobs/63372/associate-technical-analyst/job",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-03"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Associate Technical Analyst",
-      "alternateName": "Developer, QA",
-      "url": "https://uscareers-aramark.icims.com/jobs/60919/associate-technical-analyst/job",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-03"
+      "datePosted": "2016-04-12"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

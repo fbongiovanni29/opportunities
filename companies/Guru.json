@@ -1,11 +1,36 @@
 {
   "company": "Guru",
+  "type": [
+    "product"
+  ],
   "url": "https://www.getguru.com/jobs/",
   "webSiteUrl": "https://www.getguru.com/",
-  "address": "32 S Strawberry Street, 3rd Floor, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.9490966709,
-    "longitude": -75.1446795469
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "32 S Strawberry Street, 3rd Floor, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9490966709,
+        "longitude": -75.1446795469
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Front End Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.getguru.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    }
+  ],
+  "updated": "2016-04-30"
 }

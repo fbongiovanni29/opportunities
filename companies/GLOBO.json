@@ -1,20 +1,58 @@
 {
   "company": "GLOBO",
+  "type": [
+    "internal"
+  ],
   "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
   "webSiteUrl": "http://www.helloglobo.com/",
-  "address": "500 W Office Center Drive, Fort Washington, PA 19034",
-  "geo": {
-    "latitude": 40.141835,
-    "longitude": -75.173581
+  "technologies": [],
+  "locations": {
+    "fort washington": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "500 W Office Center Drive, Fort Washington, PA 19034",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.141835,
+        "longitude": -75.173581
+      }
+    }
   },
   "positions": [
     {
-      "title": "Quantitative Data Analyst",
-      "datePosted": "2016-02-17"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=130506&tzi=Eastern%20Standard%20Time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Senior Software Engineer",
-      "datePosted": "2016-02-01"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Account Manager",
+      "alternateName": "Business Development",
+      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=121841&tzi=Eastern%20Standard%20Time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Translation Project Manager",
+      "alternateName": "Project Manager",
+      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=121843&tzi=Eastern%20Standard%20Time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

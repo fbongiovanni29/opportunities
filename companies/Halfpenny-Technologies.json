@@ -1,18 +1,80 @@
 {
   "company": "Halfpenny Technologies",
+  "type": [
+    "product"
+  ],
   "url": "http://www.halfpenny.com/careers.html",
   "webSiteUrl": "http://www.halfpenny.com/",
-  "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
-  "geo": {
-    "latitude": 40.152771,
-    "longitude": -75.283326
+  "technologies": [],
+  "locations": {
+    "blue bell": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.152771,
+        "longitude": -75.283326
+      }
+    }
   },
   "positions": [
     {
-      "title": "Integration Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Relations Specialist",
+      "alternateName": "Business Development",
+      "url": "http://www.halfpenny.com/client-relationship-specialist.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Quality Assurance (QA) Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Integration Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.halfpenny.com/integration-developer.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Technical Support Tier 1 Analyst",
+      "alternateName": "Developer, Product Support",
+      "url": "http://www.halfpenny.com/client-technical-support.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager - Clinical Data Exchange",
+      "alternateName": "Project Manager",
+      "url": "http://www.halfpenny.com/product-manager.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Assurance (QA) Analyst",
+      "alternateName": "Developer, QA",
+      "url": "http://www.halfpenny.com/quality-assurance-analyst.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

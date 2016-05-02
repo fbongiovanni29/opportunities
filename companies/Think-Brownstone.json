@@ -1,33 +1,102 @@
 {
   "company": "Think Brownstone",
+  "type": [
+    "consultancy"
+  ],
   "url": "https://www.thinkbrownstone.com/careers/",
   "webSiteUrl": "https://www.thinkbrownstone.com/",
-  "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
-  "geo": {
-    "latitude": 39.950745,
-    "longitude": -75.165716
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950745,
+        "longitude": -75.165716
+      }
+    },
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "201 Fayette Street, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0747,
+        "longitude": -75.305437
+      }
+    }
   },
   "positions": [
     {
-      "title": "Content Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "Content Analyst",
+      "alternateName": "Content Strategy",
+      "url": "http://tbi.applytojob.com/apply/HBCgWu/Content-Analyst",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Experience Designer - Contractor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI/UX/Data Visualization Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://tbi.applytojob.com/apply/9XO95r/UIUXData-Visualization-Designer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Senior Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "UI & UX Design Contractors",
+      "alternateName": "Designer, User Experience",
+      "url": "http://tbi.applytojob.com/apply/8wkxT2/UX-Visual-Design-Contractors",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "UX & Visual Design Contractors"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://tbi.applytojob.com/apply/Yu2EYG/UX-Designer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "UX Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://tbi.applytojob.com/apply/FKn4GU/Web-Developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Web Developer"
-    },
-    {
-      "title": "Web Developer (Contract)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "Web Developer ",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://tbi.applytojob.com/apply/ezEwut/Web-Developer-Contract",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

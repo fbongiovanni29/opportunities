@@ -1,21 +1,33 @@
 {
   "company": "DramaFever",
+  "type": [
+    "product"
+  ],
   "url": "http://www.dramafever.com/company/careers.html",
   "webSiteUrl": "http://www.dramafever.com/",
-  "address": "1717 Arch St, Suite 601, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.9546511633,
-    "longitude": -75.1650889796
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1717 Arch St, Suite 601, Philadelphia, PA",
+      "geo": {
+        "latitude": 39.9546511633,
+        "longitude": -75.1650889796
+      }
+    }
   },
   "positions": [
     {
-      "title": "Android Developer"
-    },
-    {
-      "title": "iOS Developer"
-    },
-    {
-      "title": "Network Operations Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "https://careers.jobscore.com/careers/dramafever/jobs/ios-developer-cGpIcCuxCr5B2AdG1ZS6tF?ref=rss&sid=68",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

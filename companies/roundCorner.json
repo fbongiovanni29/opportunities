@@ -1,21 +1,47 @@
 {
   "company": "roundCorner",
+  "type": [
+    "product"
+  ],
   "url": "http://www.roundcorner.com/job-postings/",
   "webSiteUrl": "http://www.roundcorner.com/",
-  "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
-  "geo": {
-    "latitude": 40.0074736667,
-    "longitude": -75.2902143333
+  "technologies": [],
+  "locations": {
+    "ardmore": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0074736667,
+        "longitude": -75.2902143333
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Architect",
+      "alternateName": "Developer, DBA",
+      "url": "http://www.roundcorner.com/data-architect/",
+      "jobLocation": "ardmore",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Data Migration Specialist"
-    },
-    {
-      "title": "Senior Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Migration Specialist",
+      "alternateName": "Developer, DBA",
+      "url": "http://www.roundcorner.com/data-migration-specialist/",
+      "jobLocation": "ardmore",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

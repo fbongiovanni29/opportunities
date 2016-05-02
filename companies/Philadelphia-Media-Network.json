@@ -1,51 +1,89 @@
 {
   "company": "Philadelphia Media Network",
+  "type": [],
   "url": "http://apsweb.philly.com/jobs/",
   "webSiteUrl": "http://www.philly.com/",
-  "address": "801 Market Street, Suite 300, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.951667,
-    "longitude": -75.153737
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "801 Market Street, Suite 300, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.951667,
+        "longitude": -75.153737
+      }
+    }
   },
   "positions": [
     {
-      "title": "Sales Planning Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "National Digital Sales Executive",
+      "alternateName": "Business Development",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Outside Local Sales Representatives"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic Designer",
+      "alternateName": "Design, Visual",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Digital Advertising Sales Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Sales Specialist",
+      "alternateName": "Business Development",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Production Coordinator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interactive Graphic Designer",
+      "alternateName": "Design, Visual",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Digital Audience Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Specialist",
+      "alternateName": "Marketing",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Product Associate"
-    },
-    {
-      "title": "Co-Op Account Executive"
-    },
-    {
-      "title": "Graphic Designer"
-    },
-    {
-      "title": "Interactive Graphic Designer"
-    },
-    {
-      "title": "Digital Reporting and Yield Specialist"
-    },
-    {
-      "title": "Digital Campaign Manager"
-    },
-    {
-      "title": "CRM Database Manager"
-    },
-    {
-      "title": "Senior Market Research Analyst (Digital)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://apsweb.philly.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

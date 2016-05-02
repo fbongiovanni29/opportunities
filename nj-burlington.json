@@ -1,23 +1,57 @@
 [
   {
     "company": "Braxton Science & Technology Group",
-    "url": "http://bstg.hirecentric.com/jobs/",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://jobs.bstgllc.com/",
     "webSiteUrl": "http://bstgllc.com/",
-    "address": "Moorestown, NJ",
-    "geo": {
-      "latitude": 39.968882,
-      "longitude": -74.948886
+    "technologies": [],
+    "locations": {
+      "moorestown": {
+        "@type": "Place",
+        "address": "Moorestown, NJ",
+        "geo": {
+          "latitude": 39.968882,
+          "longitude": -74.948886
+        }
+      }
     },
     "positions": [
       {
-        "title": "Jr. Software Engineer - BMD"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineer, Senior",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2azodi",
+        "jobLocation": "moorestown",
+        "remote": false,
+        "datePosted": "2016-05-01"
       },
       {
-        "title": "Mid Software Engineer - BMD"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineer, Senior Staff",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2jq8ce",
+        "jobLocation": "moorestown",
+        "remote": false,
+        "datePosted": "2016-05-01"
       },
       {
-        "title": "Sr. Software Engineer - BMD"
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Systems Engineer, Staff",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2qm5sl",
+        "jobLocation": "moorestown",
+        "remote": false,
+        "datePosted": "2016-05-01"
       }
-    ]
+    ],
+    "updated": "2016-05-01"
   }
 ]

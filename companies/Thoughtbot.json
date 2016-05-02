@@ -1,15 +1,33 @@
 {
   "company": "Thoughtbot",
+  "type": [],
   "url": "https://thoughtbot.com/jobs",
   "webSiteUrl": "https://thoughtbot.com/",
-  "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.95109,
-    "longitude": -75.179508
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.95109,
+        "longitude": -75.179508
+      }
+    }
   },
   "positions": [
     {
-      "title": "Development Director, Mobile"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Development Director, Mobile",
+      "alternateName": "",
+      "url": "https://thoughtbot.com/jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
   ]
 }

@@ -1,18 +1,58 @@
 {
   "company": "Intuitive Company",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://intuitivecompany.com/careers/",
   "webSiteUrl": "http://intuitivecompany.com/",
-  "address": "3 Rector St #2, Philadelphia, PA 19127",
-  "geo": {
-    "latitude": 40.0240484551,
-    "longitude": -75.22196085
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3 Rector St #2, Philadelphia, PA 19127",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0240484551,
+        "longitude": -75.22196085
+      }
+    }
   },
   "positions": [
     {
-      "title": "User Experience Researcher"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Engagement Lead",
+      "alternateName": "Business Development",
+      "url": "http://intuitivecompany.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Program Delivery Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Experience Researcher",
+      "alternateName": "Designer, User Experience",
+      "url": "http://intuitivecompany.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Program Delivery Manager",
+      "alternateName": "Project Manager",
+      "url": "http://intuitivecompany.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

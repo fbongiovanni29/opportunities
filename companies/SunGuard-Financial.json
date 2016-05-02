@@ -1,21 +1,124 @@
 {
   "company": "SunGuard Financial",
+  "type": [
+    "internal"
+  ],
   "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
   "webSiteUrl": "https://www.sungard.com/",
-  "address": "601 Walnut St, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.94827,
-    "longitude": -75.151171
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "601 Walnut St, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.94827,
+        "longitude": -75.151171
+      }
+    },
+    "wayne": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "680-650 E. Swedesford Road, Wayne, PA 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0778877,
+        "longitude": -75.416152
+      }
+    }
   },
   "positions": [
     {
-      "title": "Sr. Android developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer/1682/1509415",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-19"
     },
     {
-      "title": "Sr. Java developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Developer - Fulltime",
+      "alternateName": "Developer, Frontend",
+      "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/front-end-developer-fulltime/1682/1509416",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-19"
     },
     {
-      "title": "Ruby on Rails Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Java developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/sr-java-developer/1682/208235",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-01-27"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby on Rails Web Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://financialsystemsjobs.sungard.com/job/philadelphia/ruby-on-rails-web-developer/1682/1295844",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-01-07"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "FT Front End Developer-2",
+      "alternateName": "Developer, Frontend",
+      "url": "https://financialsystemsjobs.sungard.com/job/wayne/ft-front-end-developer-2/1682/2036611",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front end Javascript Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-javascript-engineer/1682/1955175",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Java Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://financialsystemsjobs.sungard.com/job/wayne/java-developer/1682/1955184",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Information Security Engineer-Sr.",
+      "alternateName": "IT, Networking",
+      "url": "https://financialsystemsjobs.sungard.com/job/wayne/information-security-engineer-sr/1682/738416",
+      "jobLocation": "wayne",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

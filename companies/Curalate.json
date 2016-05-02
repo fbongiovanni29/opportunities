@@ -1,30 +1,187 @@
 {
   "company": "Curalate",
+  "type": [
+    "product"
+  ],
   "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
   "webSiteUrl": "http://www.curalate.com/",
-  "address": "2401 Walnut St #502, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.95109,
-    "longitude": -75.179508
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "2401 Walnut St #502, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.95109,
+        "longitude": -75.179508
+      }
+    }
   },
   "positions": [
     {
-      "title": "Product Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Success Manager",
+      "alternateName": "Business Development",
+      "url": "https://boards.greenhouse.io/curalate/jobs/181530#.VvdC8hIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "UX Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Graphic Designer",
+      "alternateName": "Designer, Visual",
+      "url": "https://boards.greenhouse.io/curalate/jobs/183844#.VvdC9xIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Information Security Analyst",
+      "alternateName": "Developer, Security",
+      "url": "https://boards.greenhouse.io/curalate/jobs/184097#.VvdC-xIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Front End (Solutions) Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Recruiting Coordinator",
+      "alternateName": "HR",
+      "url": "https://boards.greenhouse.io/curalate/jobs/59386#.VyYM3xMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Lead Support Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://boards.greenhouse.io/curalate/jobs/186892#.VyYNRRMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Product Design Intern",
+      "alternateName": "Intern",
+      "url": "https://boards.greenhouse.io/curalate/jobs/194187#.VyYNhBMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "Project Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/186887#.VvdDAhIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Enterprise Account Executive",
+      "alternateName": "Business Development",
+      "url": "https://boards.greenhouse.io/curalate/jobs/188574#.VvdDCBIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Enterprise Account Manager",
+      "alternateName": "Business Development",
+      "url": "https://boards.greenhouse.io/curalate/jobs/199549#.VyYNtxMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sales Development Representative",
+      "alternateName": "Business Development",
+      "url": "https://boards.greenhouse.io/curalate/jobs/186900#.VvdDCRIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Support Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://boards.greenhouse.io/curalate/jobs/138260#.VyYN7BMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "https://boards.greenhouse.io/curalate/jobs/195971#.VyYN7RMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "https://boards.greenhouse.io/curalate/jobs/71955#.VyYN8BMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://boards.greenhouse.io/curalate/jobs/144573#.VvdDDhIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://boards.greenhouse.io/curalate/jobs/62381#.VyYOVBMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

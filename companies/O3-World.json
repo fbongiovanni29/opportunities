@@ -1,6 +1,6 @@
 {
   "company": "O3 World",
-  "type": [],
+  "type": ["consultancy"],
   "url": "http://o3world.com/careers/",
   "webSiteUrl": "http://o3world.com/",
   "technologies": [
@@ -92,5 +92,6 @@
       "remote": false,
       "datePosted": "2016-03-28"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

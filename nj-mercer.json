@@ -1,0 +1,71 @@
+[
+  {
+    "company": "IntegriChain",
+    "type": [
+      "product"
+    ],
+    "url": "https://integrichain-orspartners.icims.com/jobs/search?ss=1",
+    "webSiteUrl": "http://www.integrichain.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1628 JFK Boulevard, Suite 300, Philadelphia, PA 19103",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.953705,
+          "longitude": -75.167953
+        }
+      },
+      "princeton": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Canal Pointe Boulevard, Princeton, NJ",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.321437,
+          "longitude": -74.658373
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2653/software-engineer/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Release/DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2548/release-devops-engineer/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Analyst",
+        "alternateName": "Data Analyst",
+        "url": "https://integrichain-orspartners.icims.com/jobs/1795/data-analyst/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ],
+    "updated": "2016-04-30"
+  }
+]

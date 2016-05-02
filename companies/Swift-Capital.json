@@ -1,21 +1,168 @@
 {
   "company": "Swift Capital",
+  "type": [
+    "internal"
+  ],
   "url": "https://www.swiftcapital.com/Careers",
   "webSiteUrl": "http://www.swiftcapital.com/",
-  "address": "501 Carr Rd #301, Wilmington, DE 19809",
-  "geo": {
-    "latitude": 39.776617,
-    "longitude": -75.513209
+  "technologies": [],
+  "locations": {
+    "wilmington": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "501 Carr Rd #301, Wilmington, DE 19809",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.776617,
+        "longitude": -75.513209
+      }
+    },
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "625 Ridge Pike, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0965061,
+        "longitude": -75.2986249
+      }
+    }
   },
   "positions": [
     {
-      "title": "UX/UI Designer/Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX/UI Designer/Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.swiftcapital.com/Careers#op-116925-uxui-designerdeveloper",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Software Quality Assurance (QA) Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Systems Engineer",
+      "alternateName": "DevOps",
+      "url": "https://www.swiftcapital.com/Careers#op-116915-senior-systems-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
     },
     {
-      "title": "Senior C#.Net Software Development Engineer "
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "https://www.swiftcapital.com/Careers#op-116913-senior-marketing-coordinator",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior C#.Net Software Development Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.swiftcapital.com/Careers#op-116912-senior-cnet-software-development-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Operations Analyst",
+      "alternateName": "Marketing",
+      "url": "https://www.swiftcapital.com/Careers#op-116908-marketing-operations-analyst",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "https://www.swiftcapital.com/Careers#op-116905-marketing-data-analyst",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "https://www.swiftcapital.com/Careers#op-116903-devops-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "B2B Sales Representative",
+      "alternateName": "Business Development",
+      "url": "https://www.swiftcapital.com/Careers#op-116900--b2b-sales-representative",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "B2B Account Executive",
+      "alternateName": "Business Development",
+      "url": "https://www.swiftcapital.com/Careers#op-116895-b2b-account-executive",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Quality Assurance (QA) Engineer",
+      "alternateName": "Developer, QA",
+      "url": "https://www.swiftcapital.com/Careers#op-115354--software-quality-assurance-qa-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Internships available",
+      "alternateName": "Intern",
+      "url": "https://www.swiftcapital.com/Careers",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist – Credit Risk Strategies",
+      "alternateName": "Data Scientist",
+      "url": "https://www.swiftcapital.com/Careers#op-116902-data-scientist--credit-risk-strategies",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

@@ -5,17 +5,54 @@
   ],
   "url": "https://angel.co/regdesk/jobs",
   "webSiteUrl": "http://www.regdesk.co/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
   },
   "positions": [
     {
-      "title": "Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://angel.co/regdesk/jobs/30788-developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Front-End Intern"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Front-End Intern",
+      "alternateName": "Intern",
+      "url": "https://angel.co/regdesk/jobs/104503-front-end-intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Manager",
+      "alternateName": "Marketing",
+      "url": "https://angel.co/regdesk/jobs/43012-marketing-manager",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

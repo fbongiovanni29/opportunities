@@ -1,21 +1,69 @@
 {
   "company": "Lamps.com Inc",
+  "type": [
+    "internal"
+  ],
   "url": "http://jobs.interactivecommercegroup.com/",
   "webSiteUrl": "http://www.lamps.com/",
-  "address": "1217 Sansom St, Floor 8, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.949923,
-    "longitude": -75.161334
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1217 Sansom St, Floor 8, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.949923,
+        "longitude": -75.161334
+      }
+    }
   },
   "positions": [
     {
-      "title": "eCommerce Merchandiser"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Relations",
+      "alternateName": "Business Development",
+      "url": "http://jobs.interactivecommercegroup.com/apply/6n0Rd7/Client-Relations",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Full Stack Magento Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "eCommerce Merchandiser",
+      "alternateName": "Marketing",
+      "url": "http://jobs.interactivecommercegroup.com/apply/X2maRI/ECommerce-Merchandiser",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     },
     {
-      "title": "Product Data Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Magento Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.interactivecommercegroup.com/apply/26wj0Q/Full-Stack-Magento-Developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Data Specialist",
+      "alternateName": "Marketing",
+      "url": "http://jobs.interactivecommercegroup.com/apply/MzsREP/Product-Data-Specialist",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

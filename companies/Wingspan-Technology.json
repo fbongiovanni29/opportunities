@@ -1,21 +1,69 @@
 {
   "company": "Wingspan Technology",
-  "url": "http://www.wingspan.com/career_open_positions/",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.wingspan.com/careers/",
   "webSiteUrl": "http://www.wingspan.com/",
-  "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
-  "geo": {
-    "latitude": 40.133626,
-    "longitude": -75.255467
+  "technologies": [],
+  "locations": {
+    "blue bell": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.133626,
+        "longitude": -75.255467
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.wingspan.com/project/software-engineer/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "updated": "2016-04-21"
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.wingspan.com/project/project-manager/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "updated": "2016-04-21"
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "http://www.wingspan.com/project/devops-engineer/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "updated": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Analyst",
+      "alternateName": "Project Manager",
+      "url": "http://www.wingspan.com/project/business-analyst/",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-04-21"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

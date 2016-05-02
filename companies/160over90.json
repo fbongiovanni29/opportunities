@@ -3,7 +3,7 @@
   "type": [
     "agency"
   ],
-  "url": "http://www.160over90.com/careers/",
+  "url": "http://160over90.com/careers/",
   "webSiteUrl": "http://www.160over90.com/",
   "technologies": [
     "php",
@@ -27,31 +27,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Drupal Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://160over90.com/career/drupal-developer/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Information Architect",
-      "alternateName": "Designer, Information Architect",
-      "url": "http://160over90.com/career/information-architect/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Motion Graphics Designer",
-      "alternateName": "Designer, Motion Graphics",
-      "url": "http://160over90.com/career/motion-graphics-designer/",
+      "title": "Creative Director",
+      "alternateName": "Designer, Visual",
+      "url": "http://160over90.com/careers/?job_id=1067",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
@@ -71,12 +49,46 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Creative Director",
-      "alternateName": "Designer, Visual",
-      "url": "",
+      "title": "Director of Public Relations",
+      "alternateName": "Marketing",
+      "url": "http://160over90.com/careers/?job_id=1077",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Drupal Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://160over90.com/career/drupal-developer/",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interactive Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://160over90.com/careers/?job_id=1072",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Experience Designer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://160over90.com/careers/?job_id=1074",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

@@ -1,11 +1,190 @@
 {
   "company": "University of Pennsylvania Human Resources Department",
-  "url": "https://www.hr.upenn.edu/career",
+  "type": [
+    "internal"
+  ],
+  "url": "https://jobs.hr.upenn.edu/postings/search",
   "webSiteUrl": "https://www.hr.upenn.edu/",
-  "address": "3624 Market Street, Suite 1SD, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.955912,
-    "longitude": -75.195443
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3624 Market Street, Suite 1SD, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.955912,
+        "longitude": -75.195443
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "WEB DESIGNER SR",
+      "alternateName": "Design, Visual",
+      "url": "https://jobs.hr.upenn.edu/postings/18017",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "WEB DESIGNER, MARKETING AND COMMUNICATIONS",
+      "alternateName": "Developer, Frontend",
+      "url": "https://jobs.hr.upenn.edu/postings/17441",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "MULTIMEDIA DESIGNER",
+      "alternateName": "Developer, Frontend",
+      "url": "https://jobs.hr.upenn.edu/postings/16917",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION DEVELOPER SR",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://jobs.hr.upenn.edu/postings/18119",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DATA AND PROGRAMMING SPECIALIST",
+      "alternateName": "Developer, Backend",
+      "url": "https://jobs.hr.upenn.edu/postings/17947",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "TEACHING & LEARNING APPLICATION DEVELOPER",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://jobs.hr.upenn.edu/postings/17880",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION DEVELOPER SR",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://jobs.hr.upenn.edu/postings/17670",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SOFTWARE DEVELOPER",
+      "alternateName": "Developer, Backend",
+      "url": "https://jobs.hr.upenn.edu/postings/17613",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "BIG DATA RESEARCH ANALYST",
+      "alternateName": "Data Analyst",
+      "url": "https://jobs.hr.upenn.edu/postings/17599",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR APPLICATION DEVELOPER",
+      "alternateName": "Developer, Backend",
+      "url": "https://jobs.hr.upenn.edu/postings/17573",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "EDITOR, WHARTON MAGAZINE",
+      "alternateName": "Content Strategy",
+      "url": "https://jobs.hr.upenn.edu/postings/17165",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATIONS DEVELOPER SR",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://jobs.hr.upenn.edu/postings/16242",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION DEVELOPER",
+      "alternateName": "Developer, Backend",
+      "url": "https://jobs.hr.upenn.edu/postings/16233",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION DEVELOPER",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://jobs.hr.upenn.edu/postings/16124",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION DEVELOPER JR/SR",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://jobs.hr.upenn.edu/postings/15705",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    }
+  ],
+  "updated": "2016-04-25"
 }

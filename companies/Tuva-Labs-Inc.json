@@ -1,11 +1,58 @@
 {
   "company": "Tuva Labs Inc",
+  "type": [
+    "consultancy"
+  ],
   "url": "https://tuvalabs.com/jobs/",
   "webSiteUrl": "https://tuvalabs.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "part-time",
+      "title": "Data & Statistics – Cross-Disciplinary Curriculum Designer",
+      "alternateName": "Content Strategy",
+      "url": "https://tuvalabs.com/jobs/curriculum_designer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "part-time",
+      "title": "Content Specialist – K-12 STEM Education",
+      "alternateName": "Content Strategy",
+      "url": "https://tuvalabs.com/jobs/content_specialist_k12/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "part-time",
+      "title": "UI/UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "https://tuvalabs.com/jobs/ui_ux_designer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    }
+  ],
+  "updated": "2016-04-25"
 }

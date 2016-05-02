@@ -1,24 +1,113 @@
 {
   "company": "Red Tettemer O'Connell + Partners",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.rtop.com/contact/",
   "webSiteUrl": "http://www.rtop.com/",
-  "address": "1 S. Broad, 24th Floor, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.951199,
-    "longitude": -75.163487
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1 S. Broad, 24th Floor, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.951199,
+        "longitude": -75.163487
+      }
+    }
   },
   "positions": [
     {
-      "title": "COPYWRITER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "JUNIOR STRATEGIST",
+      "alternateName": "Content Strategy",
+      "url": "http://www.rtop.com/jobs/32",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "ART DIRECTOR"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ACCOUNT COORDINATOR",
+      "alternateName": "Business Development",
+      "url": "http://www.rtop.com/jobs/20",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "APP DEVELOPER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR FRONT END DEVELOPER",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.rtop.com/jobs/28",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "WEB DEV INTERN"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "COPYWRITER",
+      "alternateName": "Content Strategy",
+      "url": "http://www.rtop.com/jobs/7",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APP DEVELOPER",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.rtop.com/jobs/17",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR ACCOUNT MANAGER",
+      "alternateName": "Business Development",
+      "url": "http://www.rtop.com/jobs/5",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ART DIRECTOR",
+      "alternateName": "Design, Visual",
+      "url": "http://www.rtop.com/jobs/12",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Intern (multiple)",
+      "alternateName": "Intern",
+      "url": "http://www.rtop.com/contact/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

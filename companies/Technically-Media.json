@@ -1,11 +1,36 @@
 {
   "company": "Technically Media",
+  "type": [
+    "internal"
+  ],
   "url": "http://technicallymedia.com/careers",
   "webSiteUrl": "http://technicallymedia.com/",
-  "address": "4040 Locust Street, Philadelphia, PA",
-  "geo": {
-    "latitude": 39.9531008333,
-    "longitude": -75.2038928333
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4040 Locust Street, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9531008333,
+        "longitude": -75.2038928333
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Operations Manager",
+      "alternateName": "HR",
+      "url": "http://technical.ly/job/technically-media-hr-finance-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    }
+  ],
+  "updated": "2016-04-26"
 }

@@ -1,18 +1,91 @@
 {
   "company": "MaassMedia, LLC",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.maassmedia.com/about-our-careers.php",
   "webSiteUrl": "http://www.maassmedia.com/",
-  "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.954096,
-    "longitude": -75.171007
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.954096,
+        "longitude": -75.171007
+      }
+    }
   },
   "positions": [
     {
-      "title": "Analytics Solutions Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Analytics Solutions Engineer",
+      "alternateName": "Data Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=3",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Consultant - Data Science/Reporting"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Consultant - Data Science/Reporting",
+      "alternateName": "Data Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Specialist",
+      "alternateName": "Marketing",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=6",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Digital Analyst - Social Media",
+      "alternateName": "Data Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=7",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Measurement & Reporting Analyst",
+      "alternateName": "Data Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=8",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR DIGITAL ANALYST",
+      "alternateName": "Data Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=9",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

@@ -1,18 +1,44 @@
 {
   "company": "eCity Interactive",
+  "type": [
+    "agency"
+  ],
   "url": "http://ecityinteractive.com/us/careers/",
   "webSiteUrl": "http://ecityinteractive.com/",
-  "address": "136 S 15th St, Philadelphia, PA 19102",
-  "geo": {
-    "latitude": 39.949955,
-    "longitude": -75.165874
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "136 S 15th St, Philadelphia, PA 19102",
+      "geo": {
+        "latitude": 39.949955,
+        "longitude": -75.165874
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Developer w/Sys Ops Experience"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://ecityinteractive.com/us/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Junior Interactive Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PHP/.NET Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://ecityinteractive.com/us/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

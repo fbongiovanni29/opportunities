@@ -1,16 +1,47 @@
 {
   "company": "Tamman Technologies",
+  "type": [
+    "consultancy"
+  ],
   "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
   "webSiteUrl": "http://www.tammantech.com/",
-  "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.950812,
-    "longitude": -75.145607
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "20 North 3rd Street, Suite 301, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950812,
+        "longitude": -75.145607
+      }
+    }
   },
   "positions": [
     {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Apple Macintosh System Administrato",
+      "alternateName": "IT, Networking",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/apple-macintosh-system-administrator-74cd5157?source=ziprecruiter-jobs-site",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Front-End & Full Stack Developers",
-      "datePosted": "2016-03-14"
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/front-end-full-stack-developers-9a3497f4?source=ziprecruiter-jobs-site",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
     }
-  ]
+  ],
+  "updated": "2016-04-26"
 }

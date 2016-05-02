@@ -1,19 +1,25 @@
 {
   "company": "IntroNet",
   "type": [
-    "Startup"
+    "Startup",
+    "product"
   ],
-  "url": "https://angel.co/intronet/jobs",
+  "url": "https://secure.intro.net/jobs",
   "webSiteUrl": "https://secure.intro.net/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
-  },
-  "positions": [
-    {
-      "title": "Chief Technical Officer",
-      "datePosted": "2016-03-08"
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
     }
-  ]
+  },
+  "positions": [],
+  "updated": "2016-04-30"
 }

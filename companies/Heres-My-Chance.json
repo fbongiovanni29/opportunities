@@ -1,18 +1,113 @@
 {
   "company": "Here's My Chance",
+  "type": [
+    "agency"
+  ],
   "url": "http://heresmychance.com/careers/",
   "webSiteUrl": "http://heresmychance.com/",
-  "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.949836,
-    "longitude": -75.161949
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.949836,
+        "longitude": -75.161949
+      }
+    }
   },
   "positions": [
     {
-      "title": "Copywriter"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Accounting & Finance Intern – Summer 2016",
+      "alternateName": "Intern",
+      "url": "",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Freelance Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Business Development Intern – Summer 2016",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/88444248-business-development-intern-summer-16",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/84413980-copy-writer-ghost-writer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Design Intern – Summer 2016",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/89859279-creative-design-intern-summer-16",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Freelance Designer - Illustration, Web, etc.",
+      "alternateName": "Designer, Visual",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/77947425-full-time-design-",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Marketing & Events Intern – Summer 2016",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/88062487-social-media-and-marketing-intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Project Management Intern – Summer 2016",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/88371323-project-management-intern-summer-16",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Research Intern – Summer 2016",
+      "alternateName": "Intern",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/88446321-research-intern-summer-16",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

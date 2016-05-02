@@ -1,18 +1,69 @@
 {
   "company": "Greenlane Search Marketing, LLC",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.greenlaneseo.com/jobs/",
   "webSiteUrl": "http://www.greenlaneseo.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 39.952584,
-    "longitude": -75.165222
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952584,
+        "longitude": -75.165222
+      }
+    }
   },
   "positions": [
     {
-      "title": "Graphic / Web Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Marketing Account Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.greenlaneseo.com/jobs/digital-marketing-account-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Web Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SEO Associate",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://www.greenlaneseo.com/jobs/seo-associate/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Internship",
+      "alternateName": "Intern",
+      "url": "http://www.greenlaneseo.com/jobs/internship/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PPC Specialist",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://www.greenlaneseo.com/jobs/ppc-specialist/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

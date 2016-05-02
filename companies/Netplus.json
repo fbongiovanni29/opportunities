@@ -1,30 +1,111 @@
 {
   "company": "Netplus",
+  "type": ["agency"],
   "url": "http://thinknetplus.com/contact/#netplus-jobs",
   "webSiteUrl": "http://thinknetplus.com/",
-  "address": "718 Arch Street, Suite 400S, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.952624,
-    "longitude": -75.152505
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "718 Arch Street, Suite 400S, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952624,
+        "longitude": -75.152505
+      }
+    }
   },
   "positions": [
     {
-      "title": "Interactive Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interactive Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://thinknetplus.com/contact/interactive-designer-2/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-18"
     },
     {
-      "title": "Social Media Community Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Social Media Community Manager",
+      "alternateName": "Marketing",
+      "url": "http://thinknetplus.com/contact/social-media-community-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-22"
     },
     {
-      "title": "Search and Social Advertising Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Search and Social Advertising Manager",
+      "alternateName": "Marketing",
+      "url": "http://thinknetplus.com/contact/search-and-social-advertising-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-24"
     },
     {
-      "title": "Web Developer Full-Stack"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Art Director",
+      "alternateName": "Developer, Frontend",
+      "url": "http://thinknetplus.com/contact/art-director/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-22"
     },
     {
-      "title": "Interactive Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer Full-Stack",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://thinknetplus.com/contact/web-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-02"
     },
     {
-      "title": "Digital Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interactive Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://thinknetplus.com/contact/interactive-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-16"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://thinknetplus.com/contact/digital-project-manager/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-10"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Internships available",
+      "alternateName": "Intern",
+      "url": "http://thinknetplus.com/contact/internships-at-netplus/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

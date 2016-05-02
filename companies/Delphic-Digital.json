@@ -1,18 +1,91 @@
 {
   "company": "Delphic Digital",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.delphicdigital.com/about/careers/open-positions",
   "webSiteUrl": "http://www.delphicdigital.com/",
-  "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
-  "geo": {
-    "latitude": 40.022712,
-    "longitude": -75.217571
+  "technologies": [
+    ".net",
+    "Sitecore"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
+      "geo": {
+        "latitude": 40.022712,
+        "longitude": -75.217571
+      }
+    }
   },
   "positions": [
     {
-      "title": "Sitecore Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=170305",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Systems Admin / DevOps Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Director",
+      "alternateName": "Business Development",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=180377",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director, Content Strategy",
+      "alternateName": "Content Strategy",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=200611",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Digital Production Internship",
+      "alternateName": "Intern",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=192419",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "IT / Help Desk Intern ",
+      "alternateName": "Intern",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=189349",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sitecore Web Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=111708",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

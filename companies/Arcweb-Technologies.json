@@ -31,28 +31,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Senior Android Developer",
-      "alternateName": "Developer, Mobile",
-      "url": "http://arcweb.applytojob.com/apply/gryl5z/Senior-Android-Developer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Business Development Associate",
-      "alternateName": "Business Development",
-      "url": "http://arcweb.applytojob.com/apply/5sqzqF/Senior-Business-Development-Associate",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Architect",
       "alternateName": "Developer, Backend",
       "url": "http://arcweb.applytojob.com/apply/LSNbFt/Software-Architect",
@@ -71,5 +49,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

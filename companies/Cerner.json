@@ -1,11 +1,22 @@
 {
   "company": "Cerner",
+  "type": [
+    "product",
+    "consultancy"
+  ],
   "url": "http://cerner.com/About_Cerner/Careers/",
   "webSiteUrl": "http://cerner.com/",
-  "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
-  "geo": {
-    "latitude": 40.060103,
-    "longitude": -75.522087
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@type": "Place",
+      "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
+      "geo": {
+        "latitude": 40.060103,
+        "longitude": -75.522087
+      }
+    }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-05-01"
 }

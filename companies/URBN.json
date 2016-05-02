@@ -1,51 +1,278 @@
 {
   "company": "URBN",
-  "url": "http://urbn.com/career/",
+  "type": [
+    "internal"
+  ],
+  "url": "https://career4.successfactors.com/career?company=URBN",
   "webSiteUrl": "http://urbn.com/",
-  "address": "5000 South Broad St, Philadelphia, PA 19112-1495",
-  "geo": {
-    "latitude": 39.889369,
-    "longitude": -75.176112
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "5000 South Broad St, Philadelphia, PA 19112-1495",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.889369,
+        "longitude": -75.176112
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Network Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SalesForce Solution Architect",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=43423&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "DevOps Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Insights Analyst (43301)",
+      "alternateName": "Data Analyst",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=43301&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Production Support Manager - Ecommerce"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "Temporary QA Engineer (43021)",
+      "alternateName": "Developer, QA",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=43021&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Microsoft Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Engineer (36721)",
+      "alternateName": "Developer, QA",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=36721&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Store Systems Operations Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Quality Assurance Engineer (42061)",
+      "alternateName": "Developer, QA",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42061&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Project Manager - Reporting Systems"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Jr. Product Manager (42568)",
+      "alternateName": "Developer, Frontend",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42568&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "IT CRM Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Java/Python Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=31661&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42721&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Linux Administration Store Technology"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Network Engineer SAN",
+      "alternateName": "IT, Networking",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42522&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "ETL Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Java Developer POS Systems (39501)",
+      "alternateName": "Developer, Backend",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=39501&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "OMS Business Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "AngularJS Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=41012&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Front End Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=41011&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Experience Designer (40741)",
+      "alternateName": "Developer, Frontend",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=40741&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ETL Engineer (35542)",
+      "alternateName": "Data Analyst",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=35542&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Enterprise Reporting Project Manager (40262)",
+      "alternateName": "Project Manager",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=40262&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=39242&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Network Engineer (39241)",
+      "alternateName": "IT, Networking",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=39241&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Microsoft Engineer",
+      "alternateName": "IT, Networking",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=38026&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager - Reporting Systems (37201)",
+      "alternateName": "Project Manager",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=37201&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager (36481)",
+      "alternateName": "Project Manager",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=36481&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager (33762)",
+      "alternateName": "Project Manager",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=33762&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist (33161)",
+      "alternateName": "Data Scientist",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=33161&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "iOS Engineer (30551)",
+      "alternateName": "Developer, Mobile",
+      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=URBN&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=30551&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=eCXs6tho7BisQh1zaQdbTikCGjw%3d",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-25"
 }

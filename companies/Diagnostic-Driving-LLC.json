@@ -1,16 +1,21 @@
 {
   "company": "Diagnostic Driving, LLC",
+  "type": [
+    "product"
+  ],
   "url": "http://www.diagnosticdriving.com/careers/",
   "webSiteUrl": "http://www.diagnosticdriving.com/",
-  "address": "3401 Market Street, 2nd Floor, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.956175,
-    "longitude": -75.191729
-  },
-  "positions": [
-    {
-      "title": "Game Developer",
-      "datePosted": "2016-02-11"
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "3401 Market Street, 2nd Floor, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.956175,
+        "longitude": -75.191729
+      }
     }
-  ]
+  },
+  "positions": [],
+  "updated": "2016-04-30"
 }

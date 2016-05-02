@@ -1,33 +1,48 @@
 {
   "company": "WebLinc Corp.",
-  "url": "http://www.weblinc.com/company/careers/",
+  "type": [
+    "agency",
+    "product"
+  ],
+  "url": "https://weblinc.workable.com/",
   "webSiteUrl": "http://www.weblinc.com/",
-  "address": "22 South 3rd Street, Second Floor, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.9497525,
-    "longitude": -75.1457715
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "22 South 3rd Street, Second Floor, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9497525,
+        "longitude": -75.1457715
+      }
+    }
   },
   "positions": [
     {
-      "title": ".NET Lead Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby On Rails Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://weblinc.workable.com/jobs/17597",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Sr. Visual Designer"
-    },
-    {
-      "title": "Ruby On Rails Developer"
-    },
-    {
-      "title": "Front-End Developer"
-    },
-    {
-      "title": "User Experience Designer"
-    },
-    {
-      "title": "Sr. Project Manager"
-    },
-    {
-      "title": "Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Visual Designer",
+      "alternateName": "Designer, Visual",
+      "url": "https://weblinc.workable.com/jobs/17629",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

@@ -1,21 +1,47 @@
 {
   "company": "Plum Analytics",
+  "type": [
+    "product"
+  ],
   "url": "http://plumanalytics.com/about/careers/",
   "webSiteUrl": "http://plumanalytics.com/",
-  "address": "808 Firethorn Circle, Dresher, PA 19025",
-  "geo": {
-    "latitude": 40.1518441224,
-    "longitude": -75.1554711633
+  "technologies": [],
+  "locations": {
+    "dresher": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "808 Firethorn Circle, Dresher, PA 19025",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.1518441224,
+        "longitude": -75.1554711633
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Engineer / Architect (Big Data)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Engineer / Architect (Big Data)",
+      "alternateName": "Developer, Backend",
+      "url": "http://plumanalytics.com/about/careers/senior-engineer-architect-big-data/",
+      "jobLocation": "dresher",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Mid-Level Engineer (Data Acquisition)"
-    },
-    {
-      "title": "Mid-level Java Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Mid-level Java Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://plumanalytics.com/about/careers/mid-level-java-engineer/",
+      "jobLocation": "dresher",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

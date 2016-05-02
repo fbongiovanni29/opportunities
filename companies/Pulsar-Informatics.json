@@ -1,15 +1,36 @@
 {
   "company": "Pulsar Informatics",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
   "webSiteUrl": "http://www.pulsarinformatics.com/",
-  "address": "3401 Market Street, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.955843,
-    "longitude": -75.191464
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3401 Market Street, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.955843,
+        "longitude": -75.191464
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Software Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.pulsarinformatics.com/about.html#anchor_positions",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

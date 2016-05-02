@@ -1,21 +1,36 @@
 {
   "company": "Graphene Frontiers",
+  "type": [
+    "internal"
+  ],
   "url": "http://graphenefrontiers.com/careers/",
   "webSiteUrl": "http://graphenefrontiers.com/",
-  "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.9562402245,
-    "longitude": -75.1946339592
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "3624 Market St. FL 5th, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9562402245,
+        "longitude": -75.1946339592
+      }
+    }
   },
   "positions": [
     {
-      "title": "Biosensor Research and Development Technician"
-    },
-    {
-      "title": "Database Developer / Programmer"
-    },
-    {
-      "title": "Senior Semiconductor Device Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Mfg. Data Guru: Data Management",
+      "alternateName": "Data Scientist",
+      "url": "https://theapplicantmanager.com/jobs?pos=GF115",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": ""
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

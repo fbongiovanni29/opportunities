@@ -1,18 +1,47 @@
 {
   "company": "RightAction",
+  "type": [
+    "product"
+  ],
   "url": "http://rightaction.theresumator.com/",
   "webSiteUrl": "https://www.rightaction.com/",
-  "address": "2929 Arch St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.9568481379,
-    "longitude": -75.1809156207
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2929 Arch St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9568481379,
+        "longitude": -75.1809156207
+      }
+    }
   },
   "positions": [
     {
-      "title": "Software Engineer, Java"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer, Java",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://rightaction.theresumator.com/apply/mHmQDw/Software-Engineer-Java",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     },
     {
-      "title": "Software Engineer, Java + Ruby"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer, Java + Ruby",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://rightaction.theresumator.com/apply/dnS8F6/Software-Engineer-Java-Ruby",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }

@@ -1,24 +1,67 @@
 {
   "company": "Oncora Medical",
-  "url": "https://oncoramedical.recruiterbox.com/",
+  "type": ["product", "startup"],
+  "url": "http://oncoramedical.com/careers",
   "webSiteUrl": "http://oncoramedical.com/",
-  "address": "4040 Locust St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.952883,
-    "longitude": -75.204789
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4040 Locust St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952883,
+        "longitude": -75.204789
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://oncoramedical.com/careers#op-96042-data-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
-      "title": "Cloud Ops Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Ops Engineer",
+      "alternateName": "DevOps",
+      "url": "http://oncoramedical.com/careers#op-96045-cloud-ops-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "http://oncoramedical.com/careers#op-96043-data-scientist",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     },
     {
-      "title": "UX and Data Visualization Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX and Data Visualization Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://oncoramedical.com/careers#op-96046-ux-and-data-visualization-developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

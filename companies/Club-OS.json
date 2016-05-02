@@ -1,24 +1,57 @@
 {
   "company": "Club OS",
   "type": [
-    "Startup"
+    "Startup",
+    "Product"
   ],
   "url": "https://angel.co/club-os/jobs",
   "webSiteUrl": "https://www.club-os.com/",
-  "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9549139592,
-    "longitude": -75.1671930612
+  "technologies": [
+    "Java"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9549139592,
+        "longitude": -75.1671930612
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Java Sofware Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Jr. Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/club-os/jobs/30410-jr-software-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Front End Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Web Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://angel.co/club-os/jobs/82642-front-end-web-developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/club-os/jobs/98081-software-engineer-multiple-positions",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

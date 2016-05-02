@@ -1,15 +1,25 @@
 {
   "company": "Zoomi",
+  "type": [
+    "product",
+    "startup"
+  ],
   "url": "http://www.zoomiinc.com/jobs/",
   "webSiteUrl": "http://www.zoomiinc.com/",
-  "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
-  "geo": {
-    "latitude": 40.050203,
-    "longitude": -75.527085
-  },
-  "positions": [
-    {
-      "title": "ALGORITHM ENGINEER"
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.050203,
+        "longitude": -75.527085
+      }
     }
-  ]
+  },
+  "positions": [],
+  "updated": "2016-04-21"
 }

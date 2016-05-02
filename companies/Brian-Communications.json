@@ -1,42 +1,43 @@
 {
   "company": "Brian Communications",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.briancom.com/careers",
   "webSiteUrl": "http://www.briancom.com/",
-  "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.066641,
-    "longitude": -75.306219
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.066641,
+        "longitude": -75.306219
+      }
+    }
   },
   "positions": [
     {
-      "title": "Digital Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/91400388-full-stack-application-developer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
-      "title": "Frontend Developer"
-    },
-    {
-      "title": "Director of Web Development"
-    },
-    {
-      "title": "Summer 2016 Intern- Strategy and Business Development"
-    },
-    {
-      "title": "Summer 2016 Creative Intern"
-    },
-    {
-      "title": "Summer 2016 Intern- Project Management"
-    },
-    {
-      "title": "Summer 2016 Intern- Integrated Marketing"
-    },
-    {
-      "title": "Summer 2016 Intern- Analytics"
-    },
-    {
-      "title": "Summer 2016 Public Relations Intern"
-    },
-    {
-      "title": "Creative Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "Designer, Visual",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88497763-creative-director",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
   ]
 }

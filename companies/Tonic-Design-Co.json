@@ -1,24 +1,80 @@
 {
   "company": "Tonic Design Co",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.tonicdesign.com/jobs/",
   "webSiteUrl": "http://www.tonicdesign.com/",
-  "address": "201 S State St, Suite 2B, Newtown, PA 18940",
-  "geo": {
-    "latitude": 40.226642,
-    "longitude": -74.937063
+  "technologies": [],
+  "locations": {
+    "newtown": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "201 S State St, Suite 2B, Newtown, PA 18940",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.226642,
+        "longitude": -74.937063
+      }
+    }
   },
   "positions": [
     {
-      "title": ".NET/C# Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "2016 Summer Interns",
+      "alternateName": "Intern",
+      "url": "http://www.tonicdesign.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Experience Design Lead"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Education",
+      "alternateName": "Content Strategy",
+      "url": "http://www.tonicdesign.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Mobile Developers - Android & iOS"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "http://www.tonicdesign.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     },
     {
-      "title": "Senior User Experience Designer (UX)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Mobile Developers - Android & iOS",
+      "alternateName": "Developer, Mobile",
+      "url": "http://www.tonicdesign.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Experience Design Lead (UXDL)",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.tonicdesign.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
     }
-  ]
+  ],
+  "updated": "2016-04-25"
 }

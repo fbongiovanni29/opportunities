@@ -1,11 +1,24 @@
 {
   "company": "YIKES Inc",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.yikesinc.com/company/join-team/",
   "webSiteUrl": "http://www.yikesinc.com/",
-  "address": "204 East Girard Avenue, Philadelphia, PA, 19125",
-  "geo": {
-    "latitude": 39.968964,
-    "longitude": -75.133331
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "204 East Girard Avenue, Philadelphia, PA, 19125",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.968964,
+        "longitude": -75.133331
+      }
+    }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-21"
 }

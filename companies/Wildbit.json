@@ -1,15 +1,24 @@
 {
   "company": "Wildbit",
+  "type": [
+    "product"
+  ],
   "url": "http://wildbit.com/jobs",
   "webSiteUrl": "http://wildbit.com/",
-  "address": "22 N 3rd St, Philadelphia, PA 19106",
-  "geo": {
-    "latitude": 39.9508689,
-    "longitude": -75.1457279
-  },
-  "positions": [
-    {
-      "title": "Quality Assurance Engineer"
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "22 N 3rd St, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9508689,
+        "longitude": -75.1457279
+      }
     }
-  ]
+  },
+  "positions": [],
+  "updated": "2016-04-21"
 }

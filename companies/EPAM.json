@@ -1,18 +1,184 @@
 {
   "company": "EPAM",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://www.epam.com/careers",
   "webSiteUrl": "http://www.epam.com/",
-  "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.079189,
-    "longitude": -75.299617
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.079189,
+        "longitude": -75.299617
+      }
+    },
+    "philadelphia": {
+      "@type": "Place",
+      "address": "777 Appletree Street, Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.9536097,
+        "longitude": -75.1548568
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Associate Project Manager",
+      "alternateName": "Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.13658",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
-      "title": "Senior Visual Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Copywriter Intern",
+      "alternateName": "Intern",
+      "url": "https://www.epam.com/careers/job-listings/job.11597#apply",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.epam.com/careers/job-listings/job.11105#apply",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Engagement Presales Project Manager",
+      "alternateName": "Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.11336#apply",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Email Marketing Manager",
+      "alternateName": "Marketing",
+      "url": "https://www.epam.com/careers/job-listings/job.14767",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Recruiter (Healthcare/Pharmacy)",
+      "alternateName": "HR",
+      "url": "https://www.epam.com/careers/job-listings/job.11620#apply",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "https://www.epam.com/careers/job-listings/job.10797#apply",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Adobe Solution Architect",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.epam.com/careers/job-listings/job.8753#apply",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data & MDM Architect",
+      "alternateName": "Developer, DevOps",
+      "url": "https://www.epam.com/careers/job-listings/job.11489#apply",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Solution Architect",
+      "alternateName": "Developer, DevOps",
+      "url": "https://www.epam.com/careers/job-listings/job.11304#apply",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Project Management",
+      "alternateName": "Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.13659",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Enterprise Solution Architect",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.epam.com/careers/job-listings/job.11119#apply",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-end Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.epam.com/careers/job-listings/job.11592#apply",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "Rally Administrator",
+      "alternateName": "Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.11391#apply",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

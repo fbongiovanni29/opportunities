@@ -1,17 +1,42 @@
 {
   "company": "VertMarkets",
+  "type": [
+    "agency"
+  ],
   "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
   "webSiteUrl": "http://www.vertmarkets.com/",
-  "address": "101 Gibraltar Road, Suite 100, Horsham, PA 19044",
-  "geo": {
-    "latitude": 40.170056,
-    "longitude": -75.13106
+  "technologies": [
+    "mongodb",
+    "elasticsearch",
+    "angularjs",
+    "javascript",
+    "asp.net-mvc"
+  ],
+  "locations": {
+    "horsham": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "101 Gibraltar Road, Suite 100, Horsham, PA 19044",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.170056,
+        "longitude": -75.13106
+      }
+    }
   },
   "positions": [
     {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Mid or Senior Full Stack Developer",
-      "datePosted": "2016-02-26",
-      "skills": "mongodb, elasticsearch, angularjs, javascript, asp.net-mvc"
+      "alternateName": "Developer, Full Stack",
+      "url": "http://stackoverflow.com/jobs/107551/mid-or-senior-full-stack-developer-vertmarkets-inc",
+      "jobLocation": "horsham",
+      "remote": false,
+      "datePosted": "2016-02-26"
     }
-  ]
+  ],
+  "updated": "2016-04-21"
 }

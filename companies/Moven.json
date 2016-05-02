@@ -1,33 +1,91 @@
 {
   "company": "Moven",
   "type": [
-    "Startup"
+    "Startup",
+    "product"
   ],
   "url": "https://angel.co/moven/jobs",
   "webSiteUrl": "https://www.moven.com/",
-  "address": "Philadelphia, PA",
-  "geo": {
-    "latitude": 40.07231,
-    "longitude": -75.203371
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
   },
   "positions": [
     {
-      "title": "Full Stack Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Scientist",
+      "alternateName": "Data Scientist",
+      "url": "https://angel.co/moven/jobs/90838-data-scientist",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Service Delivery Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Analyst",
+      "alternateName": "Data Analyst",
+      "url": "https://angel.co/moven/jobs/90845-data-analyst",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Senior UX Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "https://angel.co/moven/jobs/90833-senior-ux-designer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Data Scientist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://angel.co/moven/jobs/78958-full-stack-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Data Analyst"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Service Delivery Engineer",
+      "alternateName": "",
+      "url": "https://angel.co/moven/jobs/90828-service-delivery-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     },
     {
-      "title": "Senior Mobile Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Mobile Engineer",
+      "alternateName": "Developer, Mobile",
+      "url": "https://angel.co/moven/jobs/91945-senior-mobile-engineer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
     }
   ]
 }
