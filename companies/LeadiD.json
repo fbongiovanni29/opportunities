@@ -107,7 +107,8 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-30"
-    },    {
+    },
+    {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",

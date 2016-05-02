@@ -1,6 +1,8 @@
 {
   "company": "Pedrera Philadelphia Web Development",
-  "type": ["consultancy"],
+  "type": [
+    "consultancy"
+  ],
   "url": "http://pedrera.com/about-us/careers",
   "webSiteUrl": "http://pedrera.com/",
   "technologies": [],

@@ -1,6 +1,8 @@
 {
   "company": "PeopleLinx",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://peoplelinx.com/jobs",
   "webSiteUrl": "http://peoplelinx.com/",
   "technologies": [],

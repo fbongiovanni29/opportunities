@@ -1,6 +1,8 @@
 {
   "company": "Radial",
-  "type": ["product"],
+  "type": [
+    "product"
+  ],
   "url": "http://radialcareers.force.com/careers",
   "webSiteUrl": "http://www.radial.com/",
   "technologies": [],

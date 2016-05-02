@@ -1,6 +1,8 @@
 {
   "company": "Netplus",
-  "type": ["agency"],
+  "type": [
+    "agency"
+  ],
   "url": "http://thinknetplus.com/contact/#netplus-jobs",
   "webSiteUrl": "http://thinknetplus.com/",
   "technologies": [],
