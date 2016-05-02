@@ -3,7 +3,7 @@
   "type": [
     "product"
   ],
-  "url": "https://careers.smartrecruiters.com/ClinicalInk",
+  "url": "http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee",
   "webSiteUrl": "http://www.clinicalink.com/",
   "technologies": [],
   "locations": {
@@ -21,23 +21,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Content Manager",
+      "alternateName": "Content Strategy",
+      "url": "http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee",
+      "jobLocation": "horsham",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Sr. Director Business Development",
       "alternateName": "Business Development",
       "url": "https://www.smartrecruiters.com/ClinicalInk/89160427-sr-director-business-development",
       "jobLocation": "horsham",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Data Management Intern",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/ClinicalInk/89163444-data-management-intern",
-      "jobLocation": "horsham",
-      "remote": false,
-      "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

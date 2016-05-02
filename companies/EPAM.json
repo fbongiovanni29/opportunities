@@ -28,6 +28,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Associate Project Manager",
+      "alternateName": "Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.13658",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
       "employmentType": "intern",
       "title": "Copywriter Intern",
       "alternateName": "Intern",
@@ -57,6 +68,17 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Email Marketing Manager",
+      "alternateName": "Marketing",
+      "url": "https://www.epam.com/careers/job-listings/job.14767",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
@@ -117,6 +139,17 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Director of Project Management",
+      "alternateName": "Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.13659",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Enterprise Solution Architect",
       "alternateName": "Developer, Backend",
       "url": "https://www.epam.com/careers/job-listings/job.11119#apply",
@@ -138,17 +171,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Global Travel Manager",
-      "alternateName": "Project Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.11282#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "employmentType": "contract",
       "title": "Rally Administrator",
       "alternateName": "Project Manager",
@@ -157,5 +179,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

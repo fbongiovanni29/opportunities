@@ -1,7 +1,7 @@
 {
   "company": "PeopleLinx",
-  "type": [],
-  "url": "http://peoplelinx.com/careers/",
+  "type": ["product"],
+  "url": "http://peoplelinx.com/jobs",
   "webSiteUrl": "http://peoplelinx.com/",
   "technologies": [],
   "locations": {
@@ -22,34 +22,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Lead Content Designer / Instructional Designer",
-      "alternateName": "",
-      "url": "http://peoplelinx.com/careers/",
+      "title": "Business Development Representative",
+      "alternateName": "Business Development",
+      "url": "https://peoplelinx.workable.com/jobs/229690",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Client Success Manager",
-      "alternateName": "",
-      "url": "http://peoplelinx.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Account Executive",
-      "alternateName": "",
-      "url": "http://peoplelinx.com/careers/",
+      "alternateName": "Business Development",
+      "url": "https://peoplelinx.workable.com/jobs/69686",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

@@ -1,9 +1,7 @@
 {
   "company": "New York Code + Design Academy",
-  "type": [
-    "Startup"
-  ],
-  "url": "https://angel.co/new-york-code-design-academy-1/jobs",
+  "type": ["internal"],
+  "url": "https://nycda.com/careers#openings",
   "webSiteUrl": "https://nycda.com/",
   "technologies": [],
   "locations": {
@@ -19,17 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Web Development Instructor",
-      "alternateName": "",
-      "url": "https://angel.co/new-york-code-design-academy-1/jobs",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-30"
 }

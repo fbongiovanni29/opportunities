@@ -23,24 +23,13 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Human Resource Coordinator",
-      "alternateName": "HR",
+      "employmentType": "intern",
+      "title": "Data Scientist Intern",
+      "alternateName": "Intern",
       "url": "http://www.leadnomics.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Director of Product",
-      "alternateName": "Project Manager",
-      "url": "http://www.leadnomics.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-30"
     },
     {
       "@context": "http://schema.org",
@@ -53,5 +42,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

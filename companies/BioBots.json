@@ -28,6 +28,18 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Sales",
+      "alternateName": "Business Development",
+      "url": "https://angel.co/biobots/jobs/129353-technical-sales",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

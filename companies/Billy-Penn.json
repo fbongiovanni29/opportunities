@@ -16,17 +16,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Manager, Sales & Events",
-      "alternateName": "Business Development",
-      "url": "http://billypenn.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    }
-  ]
+  "positions": [],
+  "updated": "2016-05-01"
 }

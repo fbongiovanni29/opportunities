@@ -21,17 +21,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Android Developer",
-      "alternateName": "Developer, Mobile",
-      "url": "https://careers.jobscore.com/careers/dramafever/jobs/android-developer-ceQIU2S8Cr5BzxdG1ZS6tF?ref=rss&sid=68",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "iOS Developer",
       "alternateName": "Developer, Mobile",
       "url": "https://careers.jobscore.com/careers/dramafever/jobs/ios-developer-cGpIcCuxCr5B2AdG1ZS6tF?ref=rss&sid=68",
@@ -39,5 +28,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

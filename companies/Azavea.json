@@ -50,17 +50,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Software Engineer - Civic Apps Team",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://jobs.azavea.com/opening/software-developer-civic-apps/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-02-16"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Engineer - Geospatial Insights Team",
       "alternateName": "Developer, Full Stack",
       "url": "http://jobs.azavea.com/opening/software-engineer-geospatial-insights-team/",
@@ -72,23 +61,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Software Engineer - GeoTrellis Team",
+      "title": "Software Engineer - Urban Ecosystems Team",
       "alternateName": "Developer, Full Stack",
-      "url": "http://jobs.azavea.com/opening/software-developer-geotrellis/",
+      "url": "http://jobs.azavea.com/opening/software-engineer-urban-ecosystems/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-02-16"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "UI/UX Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://jobs.azavea.com/opening/ui-ux-designer/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-02-16"
+      "datePosted": "2016-05-01"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

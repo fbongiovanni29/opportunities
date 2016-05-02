@@ -1,6 +1,6 @@
 {
   "company": "National Constitution Center",
-  "type": [],
+  "type": ["internal"],
   "url": "http://constitutioncenter.org/about/careers/paid-positions/",
   "webSiteUrl": "http://constitutioncenter.org/",
   "technologies": [],
@@ -17,5 +17,6 @@
       }
     }
   },
-  "positions": []
+  "positions": [],
+  "updated": "2016-04-30"
 }

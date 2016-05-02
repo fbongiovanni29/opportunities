@@ -3,7 +3,7 @@
   "type": [
     "product"
   ],
-  "url": "https://ipipeline-orspartners.icims.com/jobs/intro?hashed=-435738742&mobile=false&width=889&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+  "url": "https://ipipeline-orspartners.icims.com/jobs/search?ss=1&searchLocation=12781-12822-Exton",
   "webSiteUrl": "http://www.ipipeline.com/",
   "technologies": [],
   "locations": {
@@ -68,28 +68,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Tier 1 Technical Support Analyst",
-      "alternateName": "Developer, Product Support",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2637/tier-1-technical-support-analyst/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "3/11/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Business Analyst-Life Insurance/Illustrations",
-      "alternateName": "Project Manager",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2570/senior-business-analyst-life-insurance-illustrations/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2/18/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Application Support Engineer",
       "alternateName": "Developer, Product Support",
       "url": "https://ipipeline-orspartners.icims.com/jobs/2383/application-support-engineer/job",
@@ -123,28 +101,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Application Developer",
-      "alternateName": "Developer, Backend",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2198/application-developer/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2/5/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Application Support Analyst",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2095/application-support-analyst/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "3/31/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Sales Account Director",
       "alternateName": "Business Development",
       "url": "https://ipipeline-orspartners.icims.com/jobs/2035/software-sales-account-director/job",
@@ -163,5 +119,6 @@
       "remote": false,
       "datePosted": "2/5/2016"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

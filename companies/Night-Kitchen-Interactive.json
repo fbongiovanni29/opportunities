@@ -1,6 +1,6 @@
 {
   "company": "Night Kitchen Interactive",
-  "type": [],
+  "type": ["internal"],
   "url": "http://www.whatscookin.com/about/careers",
   "webSiteUrl": "http://www.whatscookin.com/",
   "technologies": [],
@@ -17,28 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Creative Lead",
-      "alternateName": "",
-      "url": "http://www.whatscookin.com/about/careers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2015-07-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Interactive Web Developer",
-      "alternateName": "",
-      "url": "http://www.whatscookin.com/about/careers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2015-07-28"
-    }
-  ]
+  "positions": [],
+  "updated": "2016-04-29"
 }

@@ -80,6 +80,17 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Small Business Account Manager",
+      "alternateName": "Business Development",
+      "url": "http://www.inspireenergy.com/join-our-team#powers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Web Developer",
       "alternateName": "Developer, Full Stack",
       "url": "http://www.inspireenergy.com/join-our-team#powers",
@@ -87,5 +98,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

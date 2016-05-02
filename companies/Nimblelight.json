@@ -1,6 +1,6 @@
 {
   "company": "Nimblelight",
-  "type": [],
+  "type": ["agency"],
   "url": "http://nimblelight.com/jobs/",
   "webSiteUrl": "http://nimblelight.com/",
   "technologies": [],
@@ -23,11 +23,12 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Developer",
-      "alternateName": "",
+      "alternateName": "Developer, Full Stack",
       "url": "http://nimblelight.com/jobs/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

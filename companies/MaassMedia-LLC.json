@@ -74,6 +74,18 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SENIOR DIGITAL ANALYST",
+      "alternateName": "Data Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=9",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

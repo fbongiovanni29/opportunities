@@ -24,12 +24,35 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=130506&tzi=Eastern%20Standard%20Time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Client Account Manager",
       "alternateName": "Business Development",
       "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=121841&tzi=Eastern%20Standard%20Time",
       "jobLocation": "fort washington",
       "remote": false,
-      "datePosted": "2016-02-17"
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Translation Project Manager",
+      "alternateName": "Project Manager",
+      "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepPositionDetails.aspx?TemplateId=121843&tzi=Eastern%20Standard%20Time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

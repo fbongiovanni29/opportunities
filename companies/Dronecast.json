@@ -76,7 +76,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Sales Specialist ",
+      "title": "Sales Specialist",
       "alternateName": "Business Development",
       "url": "http://www.dronecast.com/careers/",
       "jobLocation": "philadelphia",
@@ -116,5 +116,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

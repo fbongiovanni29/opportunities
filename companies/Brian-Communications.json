@@ -21,78 +21,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Frontend Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/90622383-frontend-developer",
+      "title": "Full Stack Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/91400388-full-stack-application-developer",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Assistant Account Executive",
-      "alternateName": "Business Development",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/90588007-assistant-account-executive",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Summer 2016 Intern- Strategy and Business Development",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/88966014-summer-2016-intern-strategy-and-business-development",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Summer 2016 Creative Intern",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/88965996-summer-2016-creative-intern",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Summer 2016 Intern- Project Management",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/88965943-summer-2016-intern-project-management",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Summer 2016 Intern- Integrated Marketing",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/88965904-summer-2016-intern-integrated-marketing",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Summer 2016 Public Relations Intern",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/88965870-summer-2016-public-relations-intern",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-05-01"
     },
     {
       "@context": "http://schema.org",

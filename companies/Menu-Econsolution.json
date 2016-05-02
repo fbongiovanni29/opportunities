@@ -27,11 +27,34 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Technological Director",
-      "alternateName": "",
-      "url": "https://angel.co/menu-econsolution/jobs",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/menu-econsolution/jobs/129213-technological-director",
       "jobLocation": "philadelphia",
       "remote": true,
       "datePosted": "2016-04-06"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Operations Manager",
+      "alternateName": "Project Manager",
+      "url": "https://angel.co/menu-econsolution/jobs/129208-operations-manager",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sales Executive",
+      "alternateName": "Business Development",
+      "url": "https://angel.co/menu-econsolution/jobs/129212-sales-executive",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

@@ -19,39 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer, Front End",
-      "alternateName": "Developer, Frontend",
-      "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=AK569015211&rpid=14477&ref=",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Account Manager, Publisher Technology Group",
-      "alternateName": "Business Development",
-      "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=CH9434061120&rpid=13746&ref=",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Product Support Specialist",
-      "alternateName": "Developer, Product Support",
-      "url": "http://www.appnexus.com/en/company/careers/open-roles?cjobid=appnexus43699&rpid=13293&ref=",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    }
-  ]
+  "positions": [],
+  "updated": "2016-05-01"
 }

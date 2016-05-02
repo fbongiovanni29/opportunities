@@ -1,9 +1,7 @@
 {
   "company": "Oncora Medical",
-  "type": [
-    "startup"
-  ],
-  "url": "https://oncoramedical.recruiterbox.com/",
+  "type": ["product", "startup"],
+  "url": "http://oncoramedical.com/careers",
   "webSiteUrl": "http://oncoramedical.com/",
   "technologies": [],
   "locations": {
@@ -25,44 +23,45 @@
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Data Engineer",
-      "alternateName": "",
-      "url": "https://oncoramedical.recruiterbox.com/",
+      "alternateName": "Developer, Backend",
+      "url": "http://oncoramedical.com/careers#op-96042-data-engineer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Cloud Ops Engineer",
-      "alternateName": "",
-      "url": "https://oncoramedical.recruiterbox.com/",
+      "alternateName": "DevOps",
+      "url": "http://oncoramedical.com/careers#op-96045-cloud-ops-engineer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Data Scientist",
-      "alternateName": "",
-      "url": "https://oncoramedical.recruiterbox.com/",
+      "alternateName": "Data Scientist",
+      "url": "http://oncoramedical.com/careers#op-96043-data-scientist",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "UX and Data Visualization Developer",
-      "alternateName": "",
-      "url": "https://oncoramedical.recruiterbox.com/",
+      "alternateName": "Developer, Frontend",
+      "url": "http://oncoramedical.com/careers#op-96046-ux-and-data-visualization-developer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "datePosted": "2016-04-29"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

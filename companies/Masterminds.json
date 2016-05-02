@@ -45,6 +45,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "employmentType": "freelance",
+      "title": "Graphic Designer",
+      "alternateName": "Designer, Visual",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Graphic Designer",
       "alternateName": "Designer, Visual",
@@ -86,5 +97,6 @@
       "remote": false,
       "datePosted": "2016-04-05"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

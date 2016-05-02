@@ -21,12 +21,23 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Human Resources Coordinator",
-      "alternateName": "HR",
+      "title": "Account Manager",
+      "alternateName": "Business Development",
       "url": "http://www.bresslergroup.com/about/#jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Design and Innovation Strategist",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.bresslergroup.com/about/#jobs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
     },
     {
       "@context": "http://schema.org",
@@ -76,28 +87,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Junior Interaction Designer",
-      "alternateName": "Designer, User Experience",
-      "url": "http://www.bresslergroup.com/about/#jobs",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Interaction Designer",
-      "alternateName": "Designer, User Experience",
-      "url": "http://www.bresslergroup.com/about/#jobs",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Electrical Engineer",
       "alternateName": "Engineer",
       "url": "http://www.bresslergroup.com/about/#jobs",
@@ -127,5 +116,6 @@
       "remote": false,
       "datePosted": "2016-03-13"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

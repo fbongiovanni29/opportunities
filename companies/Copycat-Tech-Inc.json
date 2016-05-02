@@ -16,17 +16,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "iOS Engineer",
-      "alternateName": "Developer, Mobile",
-      "url": "https://stackoverflow.com/jobs/105481/ios-engineer-at-pioneering-edtech-startup-copycat?offset=0&company=Copycat&r=redirect&t=c",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    }
-  ]
+  "positions": [],
+  "updated": "2016-05-01"
 }
