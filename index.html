@@ -11,23 +11,23 @@
     <nav class="navbar navbar-default navbar-fixed-top">
       <p class="navbar-header navbar-brand">Philly Dev Jobs</p>
       <form class="navbar-form navbar-right" role="search">
-	<div class="form-group">
-	  <input type="text" ng-model="search" class="form-control" placeholder="Search">
-	</div>
+      	<div class="form-group">
+      	  <input type="text" ng-model="search" class="form-control" placeholder="Search">
+      	</div>
       </form>
-    </nav>  
+    </nav>
     <div ng-controller="mycontroller" id="content" class="container">
       <br/>
       <div ng-repeat="listing in listings | filter : search" class="panel panel-default" ng-show="listing.positions != ''">
-	<div class="panel-heading">
-	  <h1><a href="{{listing.url}}" target="_blank">{{listing.company}}</a></h1>
-	  <p>{{listing.address}}</p>
-	</div>
-	<div class="list-group">
-	  <a ng-repeat="position in listing.positions" class="list-group-item" href="{{listing.url}}" target="_blank">
-	    {{position.title}}
-	  </a>
-	</div>
+      	<div class="panel-heading">
+      	  <h1><a href="{{listing.url}}" target="_blank">{{listing.company}}</a></h1>
+      	  <p>{{listing.address}}</p>
+      	</div>
+      	<div class="list-group">
+      	  <a ng-repeat="position in listing.positions" class="list-group-item" href="{{position.url}}" target="_blank">
+      	    {{position.title}}
+      	  </a>
+      	</div>
       </div>
     </div>
   </body>
