@@ -1,10 +1,10 @@
 {
-  "company": "SunGuard Financial",
+  "company": "FIS Advanced Technology Services (formerly SunGard Consulting)",
   "type": [
     "internal"
   ],
-  "url": "http://financialsystemsjobs.sungard.com/search/advanced-search/ASCategory/-1/SPostedDate/-1/ASCountry/-1/ASState/-1/ASCity/Philadelphia/ASLocation/-1/ASCompanyName/-1/ASCustom1/-1/ASCustom2/-1/ASCustom3/-1/ASCustom4/-1/ASCustom5/-1/SIsRadius/false/ASCityStateZipcode/-1/ASDistance/-1/ASLatitude/-1/ASLongitude/-1/ASDistanceType/-1",
-  "webSiteUrl": "https://www.sungard.com/",
+  "url": "https://financialsystemsjobs.sungard.com/search-jobs",
+  "webSiteUrl": "https://www.sungard.com/services/advanced-technology",
   "technologies": [],
   "locations": {
     "philadelphia": {
@@ -82,7 +82,7 @@
       "title": "FT Front End Developer-2",
       "alternateName": "Developer, Frontend",
       "url": "https://financialsystemsjobs.sungard.com/job/wayne/ft-front-end-developer-2/1682/2036611",
-      "jobLocation": "wayne",
+      "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-26"
     },
@@ -93,7 +93,7 @@
       "title": "Front end Javascript Engineer",
       "alternateName": "Developer, Frontend",
       "url": "https://financialsystemsjobs.sungard.com/job/new-york/front-end-javascript-engineer/1682/1955175",
-      "jobLocation": "wayne",
+      "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-26"
     },
@@ -104,7 +104,7 @@
       "title": "Java Developer",
       "alternateName": "Developer, Backend",
       "url": "https://financialsystemsjobs.sungard.com/job/wayne/java-developer/1682/1955184",
-      "jobLocation": "wayne",
+      "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-26"
     },
