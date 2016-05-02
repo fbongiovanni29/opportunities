@@ -36,17 +36,6 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "AWS Architect",
-        "alternateName": "DevOps",
-        "url": "https://integrichain-orspartners.icims.com/jobs/2624/aws-architect/job",
-        "jobLocation": "princeton",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Software Engineer",
         "alternateName": "Developer, Full Stack",
         "url": "https://integrichain-orspartners.icims.com/jobs/2653/software-engineer/job",
@@ -69,17 +58,6 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Development Manager",
-        "alternateName": "Developer, Full Stack",
-        "url": "https://integrichain-orspartners.icims.com/jobs/2257/software-development-manager/job",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Data Analyst",
         "alternateName": "Data Analyst",
         "url": "https://integrichain-orspartners.icims.com/jobs/1795/data-analyst/job",
@@ -87,6 +65,7 @@
         "remote": false,
         "datePosted": "2016-03-13"
       }
-    ]
+    ],
+    "updated": "2016-04-30"
   }
 ]

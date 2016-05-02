@@ -170,7 +170,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    }
+    },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
@@ -181,7 +181,7 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-05-01"
-    },
+    }
   ],
   "updated": "2016-05-01"
 }
