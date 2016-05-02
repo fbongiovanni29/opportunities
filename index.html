@@ -15,7 +15,7 @@
 	  <input type="text" ng-model="search" class="form-control" placeholder="Search">
 	</div>
       </form>
-    </nav>  
+    </nav>
     <div ng-controller="mycontroller" id="content" class="container">
       <br/>
       <div ng-repeat="listing in listings | filter : search" class="panel panel-default" ng-show="listing.positions != ''">
@@ -24,7 +24,7 @@
 	  <p>{{listing.address}}</p>
 	</div>
 	<div class="list-group">
-	  <a ng-repeat="position in listing.positions" class="list-group-item" href="{{listing.url}}" target="_blank">
+	  <a ng-repeat="position in listing.positions" class="list-group-item" href="{{position.url}}" target="_blank">
 	    {{position.title}}
 	  </a>
 	</div>
