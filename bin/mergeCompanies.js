@@ -28,8 +28,7 @@ if (fileName && dirName) {
       files.forEach(addCompany);
 
       function addCompany(fileName) {
-        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-        var company = JSON.parse(text);
+        var company = readCompany(dirName + "/" + fileName);
 
         companies.push(company);
       }
@@ -70,8 +69,7 @@ if (fileName && dirName) {
       files.forEach(checkCompany);
 
       function checkCompany(fileName) {
-        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-        var company = JSON.parse(text);
+        var company = readCompany(dirName + "/" + fileName);
 
         if ('geo' in company) {
           if (isPointInRegion(countyLimits, company.geo)) {
@@ -120,6 +118,15 @@ if (fileName && dirName) {
     return c;
   }
 
+  function readCompany(fileName) {
+    var text = fs.readFileSync(fileName, "utf8");
+    var company = JSON.parse(text);
+    var locations = JSON.stringify(company.locations, null, 2);
+    locations = locations.replace(/"([\w]+)":/g,function($0,$1){return ('"'+$1.toLowerCase()+'":');});
+    company.locations = JSON.parse(locations);
+
+    return company;
+  }
 
   function writeCompanyMerge(fileName, companies) {
     var out = fs.createWriteStream(fileName, {
