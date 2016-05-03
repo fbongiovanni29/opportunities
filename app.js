@@ -81,6 +81,7 @@
 
   function rootController($routeParams, Opportunity) {
     var vm = this;
+    vm.data = null;
 
     vm.countyName = $routeParams.countyname ? $routeParams.countyname : "all";
 

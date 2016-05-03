@@ -1514,7 +1514,7 @@
       "Java"
     ],
     "locations": {
-      "Berwyn": {
+      "berwyn": {
         "@type": "Place",
         "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
         "geo": {
