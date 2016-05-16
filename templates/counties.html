@@ -14,6 +14,7 @@
                 {{::location.address}}
               </a>
             </p>
+
             <p>
                 <span ng-repeat="type in opportunity.type">
                   <span class="label label-primary">{{::type | lowercase}}</span>
@@ -21,6 +22,9 @@
                 <span ng-repeat="technology in opportunity.technologies">
                   <span class="label label-default">{{::technology}}</span>
                 </span>
+            </p>
+            <p>
+              <a class="btn btn-primary" href={{::opportunity.webSiteUrl}}>{{::opportunity.webSiteUrl}}</a>
             </p>
             <p ng-show="opportunity.updated">
                 Last Updated: {{::opportunity.updated | date : mediumDate}}
