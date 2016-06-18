@@ -49,7 +49,7 @@
         "datePosted": "2016-03-12"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "160over90",
@@ -91,17 +91,6 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Copywriter",
-        "alternateName": "Content Strategy",
-        "url": "http://160over90.com/career/senior-copywriter/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
         "title": "Director of Public Relations",
         "alternateName": "Marketing",
         "url": "http://160over90.com/careers/?job_id=1077",
@@ -115,7 +104,7 @@
         "employmentType": "full-time",
         "title": "Drupal Developer",
         "alternateName": "Developer, Full Stack",
-        "url": "http://160over90.com/career/drupal-developer/",
+        "url": "http://160over90.com/careers/?job_id=1063",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-03-13"
@@ -124,26 +113,15 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Interactive Designer",
-        "alternateName": "Developer, Frontend",
-        "url": "http://160over90.com/careers/?job_id=1072",
+        "title": "Digital Media Manager",
+        "alternateName": "Marketing",
+        "url": "http://160over90.com/careers/?job_id=1092",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-05-01"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "User Experience Designer",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://160over90.com/careers/?job_id=1074",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "50onRed",
@@ -174,13 +152,24 @@
         "employmentType": "full-time",
         "title": "Senior Software Engineer",
         "alternateName": "Developer, Backend",
-        "url": "http://50onred.theresumator.com/apply/cFMeje/Senior-Software-Engineer",
+        "url": "http://50onred.theresumator.com/apply/job_20160310221700_EOG5NK2XREPLY24A",
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director, Client Services",
+        "alternateName": "Business Development",
+        "url": "http://50onred.theresumator.com/apply/job_20160511143436_WKX6S8BUDDLB4PAT",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "AboutOne",
@@ -246,7 +235,7 @@
         "datePosted": "2016-03-13"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "AgileTrailblazers",
@@ -266,53 +255,8 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Sr. Technical Recruiter",
-        "alternateName": "HR",
-        "url": "https://agiletrailblazers.workable.com/jobs/206419",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Scrum Master",
-        "alternateName": "Project Manager",
-        "url": "https://agiletrailblazers.workable.com/jobs/224708",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Agile Coach",
-        "alternateName": "Project Manager",
-        "url": "https://agiletrailblazers.workable.com/jobs/207579",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "UI/UX Designer",
-        "alternateName": "Designer, User Experience",
-        "url": "https://agiletrailblazers.workable.com/jobs/207581",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
-      }
-    ],
-    "updated": "2016-05-01"
+    "positions": [],
+    "updated": "2016-06-17"
   },
   {
     "company": "Al Día",
@@ -400,7 +344,7 @@
         "datePosted": "2016-05-01"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Allen & Gerritsen",
@@ -424,28 +368,6 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "intern",
-        "title": "Research & Insights Apprentice",
-        "alternateName": "Intern",
-        "url": "http://www.a-g.com/careers/position-details?id=job_20160401131856_TIZQZTVKBKCZKI5H",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Associate Copywriter",
-        "alternateName": "Content Strategy",
-        "url": "http://www.a-g.com/careers/position-details?id=job_20160318141922_KZDPMU3NZSRGZPZS",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
         "employmentType": "full-time",
         "title": "Digital Art Director",
         "alternateName": "Designer, Visual",
@@ -453,31 +375,9 @@
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "PR & Social Strategy Intern",
-        "alternateName": "Intern",
-        "url": "http://www.a-g.com/careers/position-details?id=job_20160229154259_Q9H5DPWN1EOURKPY",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Creative Intern",
-        "alternateName": "Intern",
-        "url": "http://www.a-g.com/careers/position-details?id=job_20160229164100_FBVM4AVZW39AO6YR",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-03-13"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Alura Business Solutions",
@@ -510,7 +410,7 @@
         "datePosted": "2015-03-06"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "AppNexus Inc",
@@ -533,8 +433,20 @@
         }
       }
     },
-    "positions": [],
-    "updated": "2016-05-01"
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Full Stack",
+        "url": "https://www.appnexus.com/en/company/careers/open-roles?cjobid=CM786306510&rpid=18631&ref=",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-06-17"
+      }
+    ],
+    "updated": "2016-06-17"
   },
   {
     "company": "ApprenNet",
@@ -559,37 +471,15 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Director of Corporate Sales",
-        "alternateName": "Business Development",
-        "url": "http://info.apprennet.com/jobs/#op-80867-director-of-corporate-sales",
+        "title": "Node.js Engineer",
+        "alternateName": "Full Stack",
+        "url": "http://info.apprennet.com/jobs/#op-119835-nodejs-engineer",
         "jobLocation": "wyndmoor",
         "remote": true,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Account Representative, Corporate",
-        "alternateName": "Business Development",
-        "url": "http://info.apprennet.com/jobs/#op-71800-account-representative-corporate",
-        "jobLocation": "wyndmoor",
-        "remote": true,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Account Representative, Higher Education",
-        "alternateName": "Business Development",
-        "url": "http://info.apprennet.com/jobs/#op-71799-account-representative-higher-education",
-        "jobLocation": "wyndmoor",
-        "remote": true,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Aramark",
@@ -618,15 +508,37 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Multiple positions available",
-        "alternateName": "",
-        "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-Philadelphia",
+        "title": "Senior IT Director, Network and Communications",
+        "alternateName": "DevOps",
+        "url": "https://uscareers-aramark.icims.com/jobs/74388/senior-it-director%2c-network-and-communications/job?mobile=false&width=1325&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-12"
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Microsoft .NET Developer - Associate Technical Analyst - Corporate",
+        "alternateName": "Developer, Backend",
+        "url": "https://uscareers-aramark.icims.com/jobs/73362/microsoft-.net-developer---associate-technical-analyst---corporate/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Technical Analyst - Corporate Database Administration- Data Warehouse",
+        "alternateName": "Developer, DBA",
+        "url": "https://uscareers-aramark.icims.com/jobs/71494/sr.-technical-analyst---corporate-database-administration--data-warehouse/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Arc Intermedia",
@@ -654,12 +566,12 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Entry/Mid-Level Inbound Marketing Manager Position",
+        "title": "Inbound Marketing Manager Position",
         "alternateName": "Marketing",
-        "url": "http://www.arcintermedia.com/company/careers/entrymid-level-inbound-marketing-manager-position/",
+        "url": "http://www.arcintermedia.com/company/careers/inbound-marketing-manager/",
         "jobLocation": "king of prussia",
         "remote": true,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
@@ -717,7 +629,7 @@
         "datePosted": "2016-03-13"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Archer Group",
@@ -808,7 +720,7 @@
         "datePosted": "2016-03-13"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Arcisphere Technologies",
@@ -829,7 +741,7 @@
       }
     },
     "positions": [],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Arcweb Technologies",
@@ -864,12 +776,34 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Architect",
-        "alternateName": "Developer, Backend",
-        "url": "http://arcweb.applytojob.com/apply/LSNbFt/Software-Architect",
+        "title": "Cloud Operations Engineer",
+        "alternateName": "DevOps",
+        "url": "http://arcweb.applytojob.com/apply/iagHgR/Cloud-Operations-Engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Project Manager: Mobile and Web Applications",
+        "alternateName": "Project Manager",
+        "url": "http://arcweb.applytojob.com/apply/ytgHja/Software-Project-Manager",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Architect",
+        "alternateName": "Developer, Backend",
+        "url": "http://arcweb.applytojob.com/apply/nnnmLg/Software-Architect",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "updated": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
@@ -877,46 +811,24 @@
         "employmentType": "full-time",
         "title": "Senior Software Engineer",
         "alternateName": "Developer, Backend",
-        "url": "http://arcweb.applytojob.com/apply/cY9DSu/Senior-Software-Engineer",
+        "url": "http://arcweb.applytojob.com/apply/rfDTKU/Senior-Software-Engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-03-13"
-      }
-    ],
-    "updated": "2016-05-01"
-  },
-  {
-    "company": "Aspect Consulting",
-    "type": [
-      "staffing"
-    ],
-    "url": "http://www.aspect-consulting.com/careers.aspx",
-    "webSiteUrl": "http://www.aspect-consulting.com/",
-    "technologies": [],
-    "locations": {
-      "king of prussia": {
-        "@type": "Place",
-        "address": "20140 Valley Forge Circle, King of Prussia, PA 19406",
-        "geo": {
-          "latitude": 40.105065,
-          "longitude": -75.412618
-        }
-      }
-    },
-    "positions": [
+        "updated": "2016-06-17"
+      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Web Developer",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://www.aspect-consulting.com/careers.aspx",
-        "jobLocation": "king of prussia",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://arcweb.applytojob.com/apply/o7zhXx/Software-Engineer",
+        "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-05-01"
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "AWeber Communications",
@@ -949,10 +861,21 @@
         "employmentType": "full-time",
         "title": "Customer Solutions Specialist",
         "alternateName": "Business Development",
-        "url": "http://www.aweber.jobs/apply/M3bv04/Customer-Solutions-Specialist-Best-Places-To-Work-Winner",
+        "url": "http://www.aweber.jobs/apply/BaNldT/Customer-Solutions-Specialist",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Solutions Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.aweber.jobs/apply/g22NQy/Customer-Solutions-Specialist",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
@@ -960,10 +883,32 @@
         "employmentType": "full-time",
         "title": "UI Designer",
         "alternateName": "Developer, Frontend",
-        "url": "http://www.aweber.jobs/apply/Vhc2o6/UI-Designer-Best-Places-To-Work-Winner",
+        "url": "http://www.aweber.jobs/apply/zFOUbg/UI-Designer",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Designer",
+        "alternateName": "Developer, Frontend",
+        "url": "http://www.aweber.jobs/apply/Mu5XZT/Web-Designer",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Back End Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.aweber.jobs/apply/IlRUFd/Back-End-Software-Engineer",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
@@ -971,43 +916,43 @@
         "employmentType": "full-time",
         "title": "Front End Software Engineer",
         "alternateName": "Developer, Frontend",
-        "url": "http://www.aweber.jobs/apply/6weUew/Front-End-Software-Engineer-Best-Places-To-Work-Winner",
+        "url": "http://www.aweber.jobs/apply/MsLWLP/Front-End-Software-Engineer",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-05-01"
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Senior Software Engineer",
+        "title": "Full Stack Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.aweber.jobs/apply/WneEK9/Full-Stack-Software-Engineer",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "datePosted": "2016-06-17"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Back-End Software Engineer",
         "alternateName": "Developer, Backend",
-        "url": "http://www.aweber.jobs/apply/d1Rrf6/Senior-Software-Engineer-Best-Places-To-Work-Winner",
+        "url": "http://www.aweber.jobs/apply/jDVMUD/Senior-BackEnd-Software-Engineer",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Engineer",
-        "alternateName": "Developer, Backend",
-        "url": "http://www.aweber.jobs/apply/AgXsxX/Software-Engineer-Best-Places-To-Work-Winner",
-        "jobLocation": "chalfont",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Technical Operations Team Lead",
+        "title": "Technical Operations Manager",
         "alternateName": "DevOps",
-        "url": "http://www.aweber.jobs/apply/h64Ga2/Technical-Operations-Team-Lead-Best-Places-To-Work-Winner",
+        "url": "http://www.aweber.jobs/apply/w67e9x/Technical-Operations-Manager",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
@@ -1015,35 +960,24 @@
         "employmentType": "full-time",
         "title": "Web Development Manager",
         "alternateName": "Developer, Full Stack",
-        "url": "http://www.aweber.jobs/apply/5xbgZo/Web-Development-Manager-Best-Places-To-Work-Winner",
+        "url": "http://www.aweber.jobs/apply/DBeEva/Web-Development-Manager",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-05-01"
+        "datePosted": "2016-06-17"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Recruiter",
-        "alternateName": "HR",
-        "url": "http://www.aweber.jobs/apply/nfTmK0/Recruiter-Best-Places-To-Work-Winner",
+        "title": "Technical Product Manager - Public API",
+        "alternateName": "Project Manager",
+        "url": "http://www.aweber.jobs/apply/AeG1OL/Technical-Product-Manager-Public-API",
         "jobLocation": "chalfont",
         "remote": false,
-        "datePosted": "2016-05-01"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "intern",
-        "title": "Co-Op/Intern: Mobile Software Engineer",
-        "alternateName": "Intern",
-        "url": "http://www.aweber.jobs/apply/LTO0K4/CoOpIntern-Mobile-Software-Engineer",
-        "jobLocation": "chalfont",
-        "remote": false,
-        "datePosted": "2016-03-13"
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Azavea",
@@ -1097,26 +1031,15 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Engineer - Geospatial Insights Team",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://jobs.azavea.com/opening/software-engineer-geospatial-insights-team/",
+        "title": "Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://jobs.azavea.com/opening/project-manager-geotrellis/",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-02-16"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Engineer - Urban Ecosystems Team",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://jobs.azavea.com/opening/software-engineer-urban-ecosystems/",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "datePosted": "2016-05-01"
+        "datePosted": "2016-06-17"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "baseklas",

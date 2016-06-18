@@ -19,6 +19,18 @@
       }
     }
   },
-  "positions": [],
-  "updated": "2016-05-01"
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Full Stack",
+      "url": "https://www.appnexus.com/en/company/careers/open-roles?cjobid=CM786306510&rpid=18631&ref=",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-06-17"
+    }
+  ],
+  "updated": "2016-06-17"
 }
