@@ -7,13 +7,19 @@
   "webSiteUrl": "https://www.yellowdig.com/",
   "technologies": [
     "PHP",
+    "Node.js",
     "Javascript",
     "HTML5",
     "CSS3",
     "iOS",
     "Android",
     "Ruby on Rails",
-    "Cordova"
+    "Cordova",
+    "AWS",
+    "EC2",
+    "ELB",
+    "S3",
+    "DynamoDB"
   ],
   "locations": {
     "philadelphia": {
@@ -30,24 +36,25 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
+      "employmentType": "part-time",
       "title": "Web Designer",
-      "alternateName": "",
-      "url": "https://angel.co/yellowdig/jobs",
+      "alternateName": "Design, Visual",
+      "url": "https://angel.co/yellowdig/jobs/87630-web-designer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-05"
+      "datePosted": "2016-06-01"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Software Developer",
-      "alternateName": "",
-      "url": "https://angel.co/yellowdig/jobs",
+      "title": "Lead Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://angel.co/yellowdig/jobs/136746-lead-software-engineer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-05"
+      "datePosted": "2016-06-01"
     }
-  ]
+  ],
+  "updated": "2016-06-01"
 }
