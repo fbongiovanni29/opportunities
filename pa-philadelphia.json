@@ -1595,6 +1595,55 @@
     "updated": "2016-05-01"
   },
   {
+    "company": "Curadora",
+    "type": [
+      "product"
+    ],
+    "url": "https://curadora.workable.com/",
+    "webSiteUrl": "https://curadora.com/",
+    "technologies": [
+      "Elixir",
+      "Phoenix",
+      "React",
+      "Redux",
+      "JavaScript",
+      "Ruby on Rails",
+      "Elasticsearch",
+      "Redis",
+      "Docker",
+      "Slack"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1 South Broad, Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "GeoCoordinates",
+          "latitude": 39.951199,
+          "longitude": -75.163487
+        },
+        "telephone": "1-888-544-9992"
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://curadora.workable.com/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-07-28",
+        "responsibilities": "You’ll have the opportunity to contribute from design, to code, to test, to deployment. That includes working collaboratively with like-minded teammates to plan development cycles, break down feature requests into a series of tasks, and remove blocks. You’ll be integrating with multiple third parties to build a robust and scalable web application for consumers. You’ll play a critical role in the direction of our product by prioritizing needs, analyzing usage data and researching new technologies. You’ll need to face complex problems and turn them into sophisticated solutions.",
+        "skills": "Elixir, Phoenix, Ruby, Rails, React/Redux, HTML5, CSS3, JavaScript, Git, Docker"
+      }
+    ]
+  },
+  {
     "company": "Curalate",
     "type": [
       "product"
