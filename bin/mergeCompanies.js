@@ -43,18 +43,7 @@ if (fileName && dirName) {
     if (Object.keys(geoPoints).length == 1) {
       geoPoints = geoPoints[0];
     }
-    var countyLimits = [];
     var insideCounty = [];
-
-    // Convert county boundary data into the array/object structure we need.
-    for (var index in geoPoints) {
-      countyLimits[index] = {
-        "longitude": null,
-        "latitude": null
-      };
-      countyLimits[index].longitude = geoPoints[index][0];
-      countyLimits[index].latitude = geoPoints[index][1];
-    }
 
     fs.readdir(dirName, processCompanies);
 
@@ -72,13 +61,13 @@ if (fileName && dirName) {
         var company = readCompany(dirName + "/" + fileName);
 
         if ('geo' in company) {
-          if (isPointInRegion(countyLimits, company.geo)) {
+          if (isPointInRegion(geoPoints, company.geo)) {
             insideCounty.push(company);
           }
         } else if ('locations' in company) {
           for (var locationName in company.locations) {
             var location = company.locations[locationName];
-            if (('geo' in location) && isPointInRegion(countyLimits, location.geo)) {
+            if (('geo' in location) && isPointInRegion(geoPoints, location.geo)) {
               insideCounty.push(company);
             }
           }
@@ -106,12 +95,13 @@ if (fileName && dirName) {
   }
 
   // converted c code from this page http://www.codeproject.com/Tips/84226/Is-a-Point-inside-a-Polygon
+  // 0 = longitude and 1 = latitude
   function isPointInRegion(region, point) {
     var c = false;
     var i, j;
     for (i = 0, j = region.length - 1; i < region.length; j = i++) {
-      if (((region[i].longitude > point.longitude) != (region[j].longitude > point.longitude)) &&
-        (point.latitude < (region[j].latitude - region[i].latitude) * (point.longitude - region[i].longitude) / (region[j].longitude - region[i].longitude) + region[i].latitude)) {
+      if (((region[i][0] > point.longitude) != (region[j][0] > point.longitude)) &&
+        (point.latitude < (region[j][1] - region[i][1]) * (point.longitude - region[i][0]) / (region[j][0] - region[i][0]) + region[i][1])) {
         c = !c;
       }
     }
