@@ -45,7 +45,7 @@ function formatFile(fileName) {
     var re1 = /([\}\]])\s+([\{\[])/gm;
     text = text.replace(re1, "$1,$2");
 
-    var re2 = /([\}\]]),(\s+)?([\}\]])/gm;
+    var re2 = /([\}\]\"]),(\s+)?([\}\]])/gm;
     text = text.replace(re2, "$1 $3");
 
     var opportunties = JSON.parse(text);

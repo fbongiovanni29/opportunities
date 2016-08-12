@@ -1595,6 +1595,55 @@
     "updated": "2016-05-01"
   },
   {
+    "company": "Curadora",
+    "type": [
+      "product"
+    ],
+    "url": "https://curadora.workable.com/",
+    "webSiteUrl": "https://curadora.com/",
+    "technologies": [
+      "Elixir",
+      "Phoenix",
+      "React",
+      "Redux",
+      "JavaScript",
+      "Ruby on Rails",
+      "Elasticsearch",
+      "Redis",
+      "Docker",
+      "Slack"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1 South Broad, Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "GeoCoordinates",
+          "latitude": 39.951199,
+          "longitude": -75.163487
+        },
+        "telephone": "1-888-544-9992"
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://curadora.workable.com/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-07-28",
+        "responsibilities": "You’ll have the opportunity to contribute from design, to code, to test, to deployment. That includes working collaboratively with like-minded teammates to plan development cycles, break down feature requests into a series of tasks, and remove blocks. You’ll be integrating with multiple third parties to build a robust and scalable web application for consumers. You’ll play a critical role in the direction of our product by prioritizing needs, analyzing usage data and researching new technologies. You’ll need to face complex problems and turn them into sophisticated solutions.",
+        "skills": "Elixir, Phoenix, Ruby, Rails, React/Redux, HTML5, CSS3, JavaScript, Git, Docker"
+      }
+    ]
+  },
+  {
     "company": "Curalate",
     "type": [
       "product"
@@ -6748,12 +6797,12 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "http://ticketleap.theresumator.com/",
-        "alternateName": "Developer, Backend",
-        "url": "http://ticketleap.theresumator.com/apply/G5ZW38/Senior-Software-Engineer-Systems-Architect",
+        "title": "Senior Software Engineer / Lead",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://ticketleap.theresumator.com/apply/ji9y0s/Senior-Software-Engineer-Lead",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-25"
+        "datePosted": "2016-06-01"
       },
       {
         "@context": "http://schema.org",
@@ -6767,7 +6816,7 @@
         "datePosted": ""
       }
     ],
-    "updated": "2016-04-26"
+    "updated": "2016-06-01"
   },
   {
     "company": "Tuva Labs Inc",
@@ -7517,13 +7566,19 @@
     "webSiteUrl": "https://www.yellowdig.com/",
     "technologies": [
       "PHP",
+      "Node.js",
       "Javascript",
       "HTML5",
       "CSS3",
       "iOS",
       "Android",
       "Ruby on Rails",
-      "Cordova"
+      "Cordova",
+      "AWS",
+      "EC2",
+      "ELB",
+      "S3",
+      "DynamoDB"
     ],
     "locations": {
       "philadelphia": {
@@ -7540,26 +7595,27 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
+        "employmentType": "part-time",
         "title": "Web Designer",
-        "alternateName": "",
-        "url": "https://angel.co/yellowdig/jobs",
+        "alternateName": "Design, Visual",
+        "url": "https://angel.co/yellowdig/jobs/87630-web-designer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-05"
+        "datePosted": "2016-06-01"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "employmentType": "full-time",
-        "title": "Software Developer",
-        "alternateName": "",
-        "url": "https://angel.co/yellowdig/jobs",
+        "title": "Lead Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://angel.co/yellowdig/jobs/136746-lead-software-engineer",
         "jobLocation": "philadelphia",
         "remote": false,
-        "datePosted": "2016-04-05"
+        "datePosted": "2016-06-01"
       }
-    ]
+    ],
+    "updated": "2016-06-01"
   },
   {
     "company": "YIKES Inc",
