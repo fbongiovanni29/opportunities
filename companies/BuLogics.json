@@ -49,6 +49,22 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "",
+      "url": "http://bulogics.com/wp-content/uploads/2013/05/IMG_0241.jpg"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Integration Engineer",
+      "url": "http://bulogics.com/about-us/jobs/integration-engineer/"
     }
   ],
   "updated": "2016-05-01"

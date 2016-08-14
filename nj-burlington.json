@@ -21,35 +21,42 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Systems Engineer, Senior",
-        "alternateName": "Developer, Backend",
-        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2azodi",
-        "jobLocation": "moorestown",
+        "location": "Warminster, PA",
         "remote": false,
-        "datePosted": "2016-05-01"
+        "title": "Mid-Level UI/UX Developer",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz22oci9"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Systems Engineer, Senior Staff",
-        "alternateName": "Developer, Backend",
-        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2jq8ce",
-        "jobLocation": "moorestown",
+        "location": "Warminster, PA and / or Marlton, NJ",
         "remote": false,
-        "datePosted": "2016-05-01"
+        "title": "Software Engineer",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2u29nm"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Systems Engineer, Staff",
-        "alternateName": "Developer, Backend",
-        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2qm5sl",
-        "jobLocation": "moorestown",
+        "location": "Moorestown, NJ",
         "remote": false,
-        "datePosted": "2016-05-01"
+        "title": "Cyber Software Engineer II",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2lwdrk"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "location": "Moorestown, NJ",
+        "remote": false,
+        "title": "Cyber Software Engineer III",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2o1y8z"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "location": "Marlton, NJ",
+        "remote": false,
+        "title": "Systems Engineer",
+        "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2l9u4s"
       }
     ],
     "updated": "2016-05-01"

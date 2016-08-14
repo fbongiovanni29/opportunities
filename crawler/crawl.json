@@ -1,0 +1,242 @@
+[
+  {
+    "filename": "Curadora",
+    "url": "https://curadora.workable.com/",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "parseRemote": "TELECOMMUTE",
+    "remote": ".meta",
+    "query": "#jobs a",
+    "link": "#jobs a"
+  },
+  {
+    "filename": "1-Trick-Pony",
+    "url": "http://1trickpony.com/jobs/",
+    "jobLocation": "hammonton",
+    "query": "div.job-listings>dt a",
+    "link": "div.job-listings>dt a"
+  },
+  {
+    "filename": "160over90",
+    "url": "http://160over90.com/careers/",
+    "jobLocation": "philadelphia",
+    "query": ".clearfix~ .col-sm-6+ .col-sm-6 a , .col-sm-6:nth-child(4) a",
+    "link": ".clearfix~ .col-sm-6+ .col-sm-6 a , .col-sm-6:nth-child(4) a"
+  },
+  {
+    "filename": "AWeber-Communications",
+    "url": "http://www.aweber.jobs/",
+    "jobLocation": "Chalfont",
+    "query": "td a",
+    "link": "td a"
+  },
+  {
+    "filename": "AgileTrailblazers",
+    "url": "https://agiletrailblazers.workable.com/",
+    "parseLocation": "Pennsylvania",
+    "locations": "li p",
+    "jobLocation": "King of Prussia",
+    "query": "#jobs a",
+    "link": "#jobs a"
+  },
+  {
+    "filename": "50onRed",
+    "url": "http://50onred.com/careers/",
+    "jobLocation": "philadelphia",
+    "query": "div#engineering h3",
+    "link": "div#engineering a"
+  },
+  {
+    "filename": "Al-Dia",
+    "url": "http://aldianews.com/pages/careers/34548",
+    "jobLocation": "philadelphia",
+    "query": ".ng-binding a",
+    "link": ".ng-binding a"
+  },
+  {
+    "filename": "Alura-Business-Solutions",
+    "url": "https://www.alura.com/about.php",
+    "jobLocation": "plymouth",
+    "query": "#careers .thin-header",
+    "link": "#careers .btn"
+  },
+  {
+    "filename": "Arc-Intermedia",
+    "url": "http://www.arcintermedia.com/company/careers/",
+    "jobLocation": "King of Prussia",
+    "remote": true,
+    "query": ".push_one a",
+    "link": ".push_one a"
+  },
+  {
+    "filename": "Archer-Group",
+    "url": "http://www.archer-group.com/careers.html",
+    "jobLocation": "Wilmington",
+    "query": "h4>a",
+    "link": "div>small>div:nth-child(3)>a"
+  },
+  {
+    "filename": "baseklas",
+    "url": "http://baseklas.com/jobs/",
+    "jobLocation": "Philadelphia",
+    "query": "span strong",
+    "link": null
+  },
+  {
+    "filename": "Biomeme-Inc",
+    "url": "http://www.biomeme.com/careers",
+    "jobLocation": "Philadelphia",
+    "query": "a h3",
+    "link": null
+  },
+  {
+    "filename": "Blackfynn",
+    "url": "http://www.blackfynn.com/careers/",
+    "jobLocation": "Philadelphia",
+    "query": "h2 strong",
+    "link": "h2 a strong"
+  },
+  {
+    "filename": "Bluecadet",
+    "url": "http://www.bluecadet.com/contact/careers/",
+    "jobLocation": "Philadelphia",
+    "query": ".col-left .title",
+    "link": "a.btn"
+  },
+  {
+    "filename": "BOLT-ON-TECHNOLOGY",
+    "url": "http://boltontechnology.com/category/careers/",
+    "jobLocation": "South Hampton",
+    "query": ".dslc-blog-post-title a",
+    "link": ".dslc-blog-post-title a"
+  },
+  {
+    "filename": "Boomi",
+    "url": "http://www.boomi.com/company/careers",
+    "jobLocation": "Berwyn",
+    "parseLocation": "Berwyn",
+    "locations": ".location+ .location",
+    "parseRemote": "Remote",
+    "remote": "#available-jobs a",
+    "query": "#available-jobs a",
+    "link": "#available-jobs a"
+  },
+  {
+    "filename": "BresslerGroup",
+    "url": "http://www.bresslergroup.com/about/#jobs",
+    "jobLocation": "Philadelphia",
+    "query": ".job-title",
+    "link": null
+  },
+  {
+    "filename": "Brian-Communications",
+    "url": "https://www.briancom.com/careers",
+    "parseLocation": "Conshohocken",
+    "locations": "td.srJobListLocation",
+    "query": "td.srJobListJobTitle",
+    "link": null
+  },
+  {
+    "filename": "Brio-Solutions",
+    "url": "http://www.briosolutions.com/About/Careers.aspx",
+    "jobLocation": "Fort Washington",
+    "query": ".Content-row h2",
+    "link": ".bttn-1c"
+  },
+  {
+    "filename": "Brolik",
+    "jobLocation": "Philadelphia",
+    "url": "http://brolik.com/careers",
+    "query": ".centered-small h2",
+    "link": null
+  },
+  {
+    "filename": "Brownstein-Group",
+    "url": "http://www.brownsteingroup.com/careers/",
+    "jobLocation": "Philadelphia",
+    "query": ".careers-list a",
+    "link": ".careers-list a"
+  },
+  {
+    "filename": "BTB-Security",
+    "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".pi-link-dark",
+    "query": ".pi-link-dark",
+    "link": ".pi-link-dark"
+  },
+  {
+    "filename": "BuLogics",
+    "url": "http://bulogics.com/about-us/jobs/",
+    "jobLocation": "Philadelphia",
+    "query": "#content a",
+    "link": "#content a",
+    "amtExtraElements": 1
+  },
+  {
+    "filename": "CardConnect",
+    "url": "https://www.cardconnect.com/company/careers/Technology",
+    "jobLocation": "Philadelphia",
+    "query": "a h4",
+    "link": "a h4"
+  },
+  {
+    "filename": "Chariot-Solutions",
+    "url": "http://chariotsolutions.com/who-we-are/careers/",
+    "jobLocation": "Philadelphia",
+    "query": "strong a",
+    "link": "strong a"
+  },
+  {
+    "filename": "ChatterBlast-Media",
+    "url": "http://chatterblast.com/careers/",
+    "jobLocation": "Philadelphia",
+    "query": ".job-toggle",
+    "link": ".job-toggle"
+  },
+  {
+    "filename": "Circulate",
+    "url": "http://www.circulate.com/jobs/index.html",
+    "jobLocation": "Philadelphia",
+    "query": "h4",
+    "link": "p a"
+  },
+  {
+    "filename": "Clinical-Ink",
+    "url": "http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee",
+    "jobLocation": "Horsham",
+    "query": ".gnewtonCareerGroupJobTitleClass a",
+    "link": ".gnewtonCareerGroupJobTitleClass a"
+  },
+  {
+    "filename": "CloudMine",
+    "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
+    "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
+    "parseLocation": "Philadelphia",
+    "locations": "#panels a",
+    "query": "#panels a",
+    "link": "#panels a"
+  },
+  {
+    "filename": "Cloudamize",
+    "url": "http://www.cloudamize.com/careers",
+    "jobLocation": "Philadelphia",
+    "query": "h3 a",
+    "link": "h3 a"
+  },
+  {
+    "filename": "Clutch",
+    "url": "https://www.clutch.com/careers/",
+    "jobLocation": "Ambler",
+    "query": "h3 b",
+    "link": null
+  },
+  {
+    "filename": "Conigent",
+    "url": "http://www.conigent.com/contact/#openings-list",
+    "jobLocation": "Cherry Hil",
+    "query": ".rbox-opening-li-title",
+    "link": ".rbox-opening-li-title"
+  }
+]

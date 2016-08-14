@@ -32,31 +32,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Digital Editor",
-      "alternateName": "Content Strategy",
-      "url": "http://aldianews.com/pages/digital-editor/34550",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Multimedia Account Executive",
       "alternateName": "Business Development",
       "url": "http://aldianews.com/pages/multimedia-account-executive/34575",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Intern",
-      "alternateName": "Intern",
-      "url": "http://aldianews.com/pages/internships/34585",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
@@ -82,7 +60,23 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Digital Editor",
+      "url": "http://aldianews.com/pages/editor/34550"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Internships",
+      "url": "http://aldianews.com/pages/internships/34585"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2016-05-01"
 }

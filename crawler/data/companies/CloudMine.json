@@ -1,0 +1,67 @@
+{
+  "company": "Cloudmine Inc.",
+  "type": [
+    "consultancy",
+    "product"
+  ],
+  "url": "https://cloudmineinc.com/about-us/careers/#accordion",
+  "webSiteUrl": "https://cloudmine.me/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1315 Walnut Street, Philadelphia PA, 19107",
+      "geo": {
+        "latitude": 39.9491672,
+        "longitude": -75.1628294
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Interaction Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Systems Engineer",
+      "alternateName": "DevOps",
+      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director, Business Development",
+      "alternateName": "Business Development",
+      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Marketing Coordinator",
+      "alternateName": "Marketing",
+      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-05-01"
+}

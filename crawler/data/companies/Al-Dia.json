@@ -1,0 +1,88 @@
+{
+  "company": "Al Día",
+  "type": [
+    "internal"
+  ],
+  "url": "http://aldianews.com/pages/careers/34548",
+  "webSiteUrl": "http://aldianews.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1835 Market St, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9532393469,
+        "longitude": -75.1705572449
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Entrepreneurial Journalism Training Program",
+      "alternateName": "Intern",
+      "url": "http://aldianews.com/pages/entrepreneurial-journalism-training-program/41144",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Editor",
+      "alternateName": "Content Strategy",
+      "url": "http://aldianews.com/pages/digital-editor/34550",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Multimedia Account Executive",
+      "alternateName": "Business Development",
+      "url": "http://aldianews.com/pages/multimedia-account-executive/34575",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Intern",
+      "alternateName": "Intern",
+      "url": "http://aldianews.com/pages/internships/34585",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Content Producer",
+      "alternateName": "Content Strategy",
+      "url": "http://aldianews.com/pages/content-producer/34937",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://aldianews.com/pages/web-developer/43039",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    }
+  ],
+  "updated": "2016-05-01"
+}

@@ -1,0 +1,38 @@
+{
+  "company": "Blackfynn",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.blackfynn.com/careers/",
+  "webSiteUrl": "http://www.blackfynn.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "123 N 3rd St 2nd Floor Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.952821,
+        "longitude": -75.145047
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-7-13",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "FRONT END ENGINEER"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-7-13",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "FULL STACK ENGINEER"
+    }
+  ],
+  "updated": "2016-05-01"
+}

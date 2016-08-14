@@ -1,0 +1,33 @@
+{
+  "company": "Circulate",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.circulate.com/jobs/index.html",
+  "webSiteUrl": "http://www.circulate.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1628 JFK Boulevard, Suite 1001, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.949345,
+        "longitude": -75.164338
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Business Development",
+      "alternateName": "Business Development",
+      "url": "http://www.circulate.com/jobs-business-development/index.html",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-05-01"
+}

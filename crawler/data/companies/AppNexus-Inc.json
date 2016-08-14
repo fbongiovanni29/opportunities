@@ -1,0 +1,24 @@
+{
+  "company": "AppNexus Inc",
+  "type": [
+    "product",
+    "consultancy"
+  ],
+  "url": "http://www.appnexus.com/en/company/careers/open-roles",
+  "webSiteUrl": "http://www.appnexus.com/",
+  "technologies": [
+    "Python"
+  ],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "625 Ridge Pike, Building A Suite 200, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.09644,
+        "longitude": -75.29872
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-05-01"
+}

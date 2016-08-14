@@ -20,24 +20,19 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Content Manager",
-      "alternateName": "Content Strategy",
-      "url": "http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee",
-      "jobLocation": "horsham",
+      "jobLocation": "Horsham",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": "Clinical Data Monitor",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sr. Director Business Development",
-      "alternateName": "Business Development",
-      "url": "https://www.smartrecruiters.com/ClinicalInk/89160427-sr-director-business-development",
-      "jobLocation": "horsham",
+      "datePosted": "2016-7-14",
+      "jobLocation": "Horsham",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "General Accountant",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78824756203f9b01562d60821716ed&source="
     }
   ],
   "updated": "2016-05-01"

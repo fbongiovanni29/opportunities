@@ -1,0 +1,33 @@
+{
+  "company": "Alura Business Solutions",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.alura.com/about.php",
+  "webSiteUrl": "http://www.alura.com/",
+  "technologies": [],
+  "locations": {
+    "plymouth": {
+      "@type": "Place",
+      "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+      "geo": {
+        "latitude": 40.129261,
+        "longitude": -75.297043
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Network Administrator",
+      "alternateName": "IT, Networking",
+      "url": "http://www.alura.com/job/network-administrator.php",
+      "jobLocation": "plymouth",
+      "remote": false,
+      "datePosted": "2015-03-06"
+    }
+  ],
+  "updated": "2016-05-01"
+}

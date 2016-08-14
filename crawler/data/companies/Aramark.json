@@ -1,0 +1,37 @@
+{
+  "company": "Aramark",
+  "type": [
+    "consultancy"
+  ],
+  "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-",
+  "webSiteUrl": "http://www.aramark.com/",
+  "technologies": [
+    ".NET",
+    "Java",
+    "PowerShell"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "990 Spring Garden Street",
+      "geo": {
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Multiple positions available",
+      "alternateName": "",
+      "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-Philadelphia",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-12"
+    }
+  ],
+  "updated": "2016-05-01"
+}

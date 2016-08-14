@@ -1,0 +1,43 @@
+{
+  "company": "Brian Communications",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.briancom.com/careers",
+  "webSiteUrl": "http://www.briancom.com/",
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@type": "Place",
+      "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
+      "geo": {
+        "latitude": 40.066641,
+        "longitude": -75.306219
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/91400388-full-stack-application-developer",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Director",
+      "alternateName": "Designer, Visual",
+      "url": "https://www.smartrecruiters.com/BrianCommunications/88497763-creative-director",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ]
+}

@@ -39,14 +39,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SR. COPYWRITER / CONCEPT LEAD",
-      "alternateName": "Content Strategy",
-      "url": "http://1trickpony.com/jobs/",
+      "datePosted": "2016-7-14",
       "jobLocation": "hammonton",
       "remote": false,
-      "datePosted": "2016-03-12"
+      "title": "SR. COPYWRITER / CONCEPT LEAD",
+      "url": "http://1trickpony.com/jobs//jobs/sr-copywriter-concept-lead"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2016-05-01"
 }

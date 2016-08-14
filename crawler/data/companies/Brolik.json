@@ -1,0 +1,33 @@
+{
+  "company": "Brolik",
+  "type": [
+    "agency"
+  ],
+  "url": "http://brolik.com/careers",
+  "webSiteUrl": "http://brolik.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "421 N. 7th St., Suite 701, Philadelphia PA 19123",
+      "geo": {
+        "latitude": 39.9591977619,
+        "longitude": -75.1502415238
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://brolik.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-05-01"
+}

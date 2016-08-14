@@ -21,23 +21,60 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Full Stack Application Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/91400388-full-stack-application-developer",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Creative Director",
       "alternateName": "Designer, Visual",
       "url": "https://www.smartrecruiters.com/BrianCommunications/88497763-creative-director",
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "location": "Conshohocken, PA",
+      "remote": false,
+      "title": "Associate Project Manager",
+      "url": "https://www.briancom.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "location": "Conshohocken, PA",
+      "remote": false,
+      "title": "Fall 2016 Intern- Creative",
+      "url": "https://www.briancom.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "location": "Conshohocken, PA",
+      "remote": false,
+      "title": "Fall 2016 Intern- Strategy and Business Development",
+      "url": "https://www.briancom.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "location": "Conshohocken, PA",
+      "remote": false,
+      "title": "Fall 2016 Intern- Integrated Marketing",
+      "url": "https://www.briancom.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "location": "Conshohocken, PA",
+      "remote": false,
+      "title": "Fall 2016 Intern- Project Management",
+      "url": "https://www.briancom.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "location": "Conshohocken, PA",
+      "remote": false,
+      "title": "Fall 2016 Public Relations Intern",
+      "url": "https://www.briancom.com/careers"
     }
   ]
 }

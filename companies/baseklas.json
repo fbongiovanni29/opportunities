@@ -20,13 +20,11 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://baseklas.com/jobs/",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-7-14",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Groovy designer needed!",
+      "url": "http://baseklas.com/jobs/"
     }
   ],
   "updated": "2016-05-01"

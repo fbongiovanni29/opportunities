@@ -1,0 +1,88 @@
+{
+  "company": "Blackfynn",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.blackfynn.com/careers/",
+  "webSiteUrl": "http://www.blackfynn.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "123 N 3rd St 2nd Floor Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.952821,
+        "longitude": -75.145047
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front-end Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.blackfynn.com/front-end-developers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX DESIGN DIRECTOR",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.blackfynn.com/director-ux-design",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.blackfynn.com/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SCIENTIFIC SOFTWARE ENGINEERS",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.blackfynn.com/scientific-software-engineers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "LEAD ENGINEER FOR SECURITY AND PRIVACY",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.blackfynn.com/lead-engineer-for-security-privacy",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "VP ENGINEERING",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.blackfynn.com/vp-engineering",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    }
+  ],
+  "updated": "2016-05-01"
+}

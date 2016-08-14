@@ -1,0 +1,356 @@
+-----------------------------------------------
+Allen & Gerritsen
+Cannot read property 'innerText' of undefined
+08/12/2016 09:56:06
+-----------------------------------------------
+BrickSimple LLC
+Error: .wait() timed out after 30000msec
+08/12/2016 09:56:06
+-----------------------------------------------
+Allen & Gerritsen
+Cannot read property 'innerText' of undefined
+08/12/2016 10:06:43
+-----------------------------------------------
+BrickSimple LLC
+Error: .wait() timed out after 30000msec
+08/12/2016 10:06:43
+-----------------------------------------------
+Allen & Gerritsen
+Cannot read property 'innerText' of undefined
+08/12/2016 10:14:33
+-----------------------------------------------
+BrickSimple LLC
+Error: .wait() timed out after 30000msec
+08/12/2016 10:14:33
+-----------------------------------------------
+Allen & Gerritsen
+Cannot read property 'innerText' of undefined
+08/12/2016 10:20:49
+-----------------------------------------------
+BrickSimple LLC
+Error: .wait() timed out after 30000msec
+08/12/2016 10:20:49
+-----------------------------------------------
+Allen & Gerritsen
+Cannot read property 'innerText' of undefined
+08/12/2016 10:26:00
+-----------------------------------------------
+BrickSimple LLC
+Error: .wait() timed out after 30000msec
+08/12/2016 10:26:00
+-----------------------------------------------
+Allen & Gerritsen
+Cannot read property 'innerText' of undefined
+08/12/2016 10:28:39
+-----------------------------------------------
+BrickSimple LLC
+Error: .wait() timed out after 30000msec
+08/12/2016 10:28:39
+-----------------------------------------------
+Boomi
+remote is not defined
+08/12/2016 11:52:50
+-----------------------------------------------
+1 Trick Pony
+Cannot read property 'innerText' of undefined
+08/12/2016 12:07:31
+-----------------------------------------------
+1 Trick Pony
+Cannot read property 'innerText' of undefined
+08/12/2016 12:19:42
+-----------------------------------------------
+1 Trick Pony
+Cannot read property 'innerText' of undefined
+08/12/2016 12:20:28
+-----------------------------------------------
+Boomi
+Cannot read property 'trim' of undefined
+08/12/2016 12:41:38
+-----------------------------------------------
+Boomi
+Cannot read property 'trim' of undefined
+08/12/2016 12:41:59
+-----------------------------------------------
+Boomi
+True is not defined
+08/12/2016 12:46:06
+-----------------------------------------------
+Boomi
+Cannot read property 'trim' of undefined
+08/12/2016 12:51:44
+-----------------------------------------------
+Boomi
+Cannot read property 'trim' of undefined
+08/12/2016 12:52:17
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 13:09:07
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 13:10:46
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 13:14:25
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 14:20:40
+-----------------------------------------------
+Boomi
+chalk is not defined
+08/12/2016 14:29:33
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 14:34:00
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 14:35:15
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 14:35:48
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 14:36:23
+-----------------------------------------------
+Arc Intermedia
+Cannot read property 'innerText' of undefined
+08/12/2016 14:36:47
+-----------------------------------------------
+1 Trick Pony
+datePosted is not defined
+08/12/2016 16:53:33
+-----------------------------------------------
+1 Trick Pony
+dateTime is not defined
+08/12/2016 16:54:51
+-----------------------------------------------
+1 Trick Pony
+require is not defined
+08/12/2016 16:55:31
+-----------------------------------------------
+1 Trick Pony
+year is not defined
+08/12/2016 16:56:31
+-----------------------------------------------
+1 Trick Pony
+Year is not defined
+08/12/2016 16:58:22
+-----------------------------------------------
+1 Trick Pony
+Year is not defined
+08/12/2016 16:58:42
+-----------------------------------------------
+1 Trick Pony
+Year is not defined
+08/12/2016 17:00:08
+-----------------------------------------------
+1 Trick Pony
+dt.format is not a function
+08/12/2016 17:00:18
+-----------------------------------------------
+1 Trick Pony
+dt.format is not a function
+08/12/2016 17:04:38
+-----------------------------------------------
+1 Trick Pony
+date is not defined
+08/12/2016 17:10:47
+-----------------------------------------------
+1 Trick Pony
+Date.getDate is not a function
+08/12/2016 17:13:00
+-----------------------------------------------
+1 Trick Pony
+this is not a Date object.
+08/12/2016 17:13:16
+-----------------------------------------------
+1 Trick Pony
+date is not defined
+08/12/2016 17:15:00
+-----------------------------------------------
+1 Trick Pony
+date is not defined
+08/12/2016 17:18:40
+-----------------------------------------------
+1 Trick Pony
+dt.getDt is not a function
+08/12/2016 17:19:29
+-----------------------------------------------
+AgileTrailblazers
+Cannot read property 'innerText' of undefined
+08/12/2016 17:43:48
+-----------------------------------------------
+1-Trick-Pony
+ReferenceError: filname is not defined
+08/13/2016 15:33:02
+-----------------------------------------------
+1-Trick-Pony
+ReferenceError: filename is not defined
+08/13/2016 15:33:17
+-----------------------------------------------
+1-Trick-Pony
+TypeError: fs.readfile is not a function
+08/13/2016 15:42:41
+-----------------------------------------------
+1-Trick-Pony
+TypeError: path must be a string
+08/13/2016 15:46:09
+-----------------------------------------------
+1-Trick-Pony
+TypeError: path must be a string
+08/13/2016 15:46:37
+-----------------------------------------------
+1-Trick-Pony
+TypeError: path must be a string
+08/13/2016 15:46:59
+-----------------------------------------------
+1-Trick-Pony
+TypeError: path must be a string
+08/13/2016 15:47:24
+-----------------------------------------------
+50onRed
+Error: Cannot find module './data/companies/Al-Día'
+08/13/2016 16:09:40
+-----------------------------------------------
+50onRed
+Error: Cannot find module './data/companies/Al-Día'
+08/13/2016 16:10:32
+-----------------------------------------------
+Boomi
+Error: Cannot find module './data/companies/Braxton-Science-&-Technology-Group-PA'
+08/13/2016 16:11:56
+-----------------------------------------------
+Boomi
+Error: Cannot find module './data/companies/Braxton-Science-&-Technology-Group-PA'
+08/13/2016 16:51:48
+-----------------------------------------------
+Boomi
+Error: Cannot find module './data/companies/Braxton-Science-&-Technology-Group-PA'
+08/13/2016 17:06:10
+-----------------------------------------------
+Boomi
+Error: Cannot find module './data/companies/Braxton-Science-&-Technology-Group-PA'
+08/13/2016 17:11:56
+-----------------------------------------------
+CardConnect
+Error: .wait() timed out after 30000msec
+08/13/2016 17:20:39
+-----------------------------------------------
+Chariot-Solutions
+Cannot read property 'innerText' of undefined
+08/13/2016 17:33:23
+-----------------------------------------------
+Chariot-Solutions
+Cannot read property 'innerText' of undefined
+08/13/2016 17:33:34
+-----------------------------------------------
+Chariot-Solutions
+Cannot read property 'innerText' of undefined
+08/13/2016 17:33:48
+-----------------------------------------------
+ChatterBlast-Media
+Error: .wait() timed out after 30000msec
+08/13/2016 17:39:12
+-----------------------------------------------
+ChatterBlast-Media
+Cannot read property 'href' of undefined
+08/13/2016 17:40:26
+-----------------------------------------------
+Circulate
+Error: .wait() timed out after 30000msec
+08/13/2016 17:45:05
+-----------------------------------------------
+Circulate
+Error: .wait() timed out after 30000msec
+08/13/2016 17:46:06
+-----------------------------------------------
+Circulate
+Cannot read property 'href' of undefined
+08/13/2016 17:47:14
+-----------------------------------------------
+Circulate
+Cannot read property 'href' of undefined
+08/13/2016 17:50:33
+-----------------------------------------------
+Braxton-Science-Technology-Group
+data.parseLocation.forEac is not a function
+08/14/2016 11:49:25
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 11:49:34
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 11:49:51
+-----------------------------------------------
+Braxton-Science-Technology-Group
+Cannot read property 'includes' of undefined
+08/14/2016 11:56:38
+-----------------------------------------------
+Braxton-Science-Technology-Group
+locations[i].innerText.trim(...).some is not a function
+08/14/2016 11:57:03
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 12:00:18
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 12:12:50
+-----------------------------------------------
+Braxton-Science-Technology-Group
+data.parseLocation.values is not a function
+08/14/2016 12:23:05
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 12:23:40
+-----------------------------------------------
+Braxton-Science-Technology-Group
+false is not a function
+08/14/2016 12:26:52
+-----------------------------------------------
+Braxton-Science-Technology-Group
+locations[i].innerText.trim(...).includes(...).some is not a function
+08/14/2016 12:50:37
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 12:51:35
+-----------------------------------------------
+Braxton-Science-Technology-Group
+undefined is not a function
+08/14/2016 12:52:03
+-----------------------------------------------
+1-Trick-Pony
+Cannot read property 'length' of undefined
+08/14/2016 13:28:27
+-----------------------------------------------
+1-Trick-Pony
+z is not defined
+08/14/2016 13:41:03
+-----------------------------------------------
+Clinical-Ink
+Cannot read property 'innerText' of undefined
+08/14/2016 14:25:29
+-----------------------------------------------
+Clinical-Ink
+Cannot read property 'innerText' of undefined
+08/14/2016 14:26:22
+-----------------------------------------------
+Clinical-Ink
+Cannot read property 'innerText' of undefined
+08/14/2016 14:26:52
+-----------------------------------------------
+Conigent
+Cannot read property 'href' of undefined
+08/14/2016 14:43:36

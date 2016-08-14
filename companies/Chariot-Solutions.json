@@ -23,35 +23,35 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Scala Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/",
-      "jobLocation": "fort washington",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Scala Developers",
+      "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Java/Spring Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/",
-      "jobLocation": "fort washington",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Senior Java/Spring Engineers",
+      "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Mobile Developer",
-      "alternateName": "Developer, Mobile",
-      "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/",
-      "jobLocation": "fort washington",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Mobile Developers",
+      "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-7-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "AngularJS Developers",
+      "url": "http://chariotsolutions.com/who-we-are/careers/chariot-careers-angular-js-developers/"
     }
   ],
   "updated": "2016-05-01"

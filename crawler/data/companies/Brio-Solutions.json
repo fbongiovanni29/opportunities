@@ -1,0 +1,35 @@
+{
+  "company": "Brio Solutions",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.briosolutions.com/About/Careers.aspx",
+  "webSiteUrl": "http://www.briosolutions.com/",
+  "technologies": [
+    ".NET"
+  ],
+  "locations": {
+    "fort washington": {
+      "@type": "Place",
+      "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+      "geo": {
+        "latitude": 40.135976,
+        "longitude": -75.20793
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Software Development Intern (Part-time)",
+      "alternateName": "Intern",
+      "url": "http://philadelphia.craigslist.org/web/5525035000.html",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    }
+  ],
+  "updated": "2016-05-01"
+}

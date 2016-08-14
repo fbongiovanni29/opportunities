@@ -24,17 +24,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Director of Marketing",
-      "alternateName": "Marketing",
-      "url": "http://www.cloudamize.com/careers/director-of-marketing/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Junior Technical Support Specialist",
       "alternateName": "Helpdesk",
       "url": "http://www.cloudamize.com/careers/junior-technical-support-specialist/",
@@ -49,17 +38,6 @@
       "title": "DevOps Engineer",
       "alternateName": "Devops",
       "url": "http://www.cloudamize.com/careers/devops-engineer/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sales Development Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.cloudamize.com/careers/sales-development-manager/",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
@@ -96,6 +74,14 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Sales Development Rep",
+      "url": "http://www.cloudamize.com/careers/sales-development-rep"
     }
   ],
   "updated": "2016-05-01"

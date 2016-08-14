@@ -1,0 +1,10 @@
+[
+  {
+    "company": "Practice",
+    "url": "http://www.practice.xyz/careers/",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "query": ".inner-body :nth-child(1) a",
+    "link": "a"
+  }
+]

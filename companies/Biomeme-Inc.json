@@ -38,13 +38,11 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SOFTWARE DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.biomeme.com/careers",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-7-14",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": "SENIOR MOLECULAR BIOLOGIST",
+      "url": "http://www.biomeme.com/careers"
     }
   ],
   "updated": "2016-05-01"

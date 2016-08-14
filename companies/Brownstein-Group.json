@@ -20,35 +20,27 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Public Relations & Social Media Account Executive",
-      "alternateName": "Marketing",
-      "url": "http://www.brownsteingroup.com/careers/",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": "Senior Copywriter »",
+      "url": "http://www.brownsteingroup.com/careers/#senior-copywriter"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Director of Client Services",
-      "alternateName": "Business Development",
-      "url": "http://www.brownsteingroup.com/careers/",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Director of Client Services »",
+      "url": "http://www.brownsteingroup.com/careers/#director-client-services"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Human Resources Manager",
-      "alternateName": "HR",
-      "url": "http://www.brownsteingroup.com/careers/",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-7-14",
+      "jobLocation": "Philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Internships »",
+      "url": "http://www.brownsteingroup.com/careers/#internships"
     }
   ],
   "updated": "2016-05-01"

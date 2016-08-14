@@ -1,0 +1,77 @@
+{
+  "company": "Allen & Gerritsen",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.a-g.com/careers/",
+  "webSiteUrl": "http://www.a-g.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1619 Walnut St., Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9499277431,
+        "longitude": -75.1677158144
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Research & Insights Apprentice",
+      "alternateName": "Intern",
+      "url": "http://www.a-g.com/careers/position-details?id=job_20160401131856_TIZQZTVKBKCZKI5H",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Associate Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "http://www.a-g.com/careers/position-details?id=job_20160318141922_KZDPMU3NZSRGZPZS",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Art Director",
+      "alternateName": "Designer, Visual",
+      "url": "http://www.a-g.com/careers/position-details?id=job_20160318152050_TJIE4IWWVPGD4R2Z",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PR & Social Strategy Intern",
+      "alternateName": "Intern",
+      "url": "http://www.a-g.com/careers/position-details?id=job_20160229154259_Q9H5DPWN1EOURKPY",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Creative Intern",
+      "alternateName": "Intern",
+      "url": "http://www.a-g.com/careers/position-details?id=job_20160229164100_FBVM4AVZW39AO6YR",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-05-01"
+}

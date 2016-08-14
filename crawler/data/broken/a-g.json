@@ -1,0 +1,8 @@
+  {
+    "company": "Allen & Gerritsen",
+    "url": "http://www.a-g.com/careers/",
+    "parseLocation": "Philadelphia",
+    "locations": ".columns+ .columns h2",
+    "query": ".columns+ .columns h4",
+    "link": ".columns+ .columns .dark"
+  },

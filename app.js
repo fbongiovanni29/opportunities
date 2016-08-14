@@ -55,7 +55,7 @@
       };
 
       if (fileNames[countyName]) {
-        var url = 'https://raw.githubusercontent.com/mcelaney/opportunities/master/' + fileNames[countyName];
+        var url = './' + fileNames[countyName];
         return $http.get(url)
           .then(getCountyComplete)
           .catch(getCountyFailed);

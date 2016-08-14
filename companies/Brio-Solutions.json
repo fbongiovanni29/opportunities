@@ -22,13 +22,27 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Software Development Intern (Part-time)",
-      "alternateName": "Intern",
-      "url": "http://philadelphia.craigslist.org/web/5525035000.html",
-      "jobLocation": "fort washington",
+      "jobLocation": "Fort Washington",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
+      "url": "https://www.linkedin.com/jobs2/cap/view/176368496?pathWildcard=176368496&trk=job_capjs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "Fort Washington",
+      "remote": false,
+      "title": "SOFTWARE DEVELOPMENT INTERN",
+      "url": "http://philadelphia.craigslist.org/sof/5704689439.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-7-14",
+      "jobLocation": "Fort Washington",
+      "remote": false,
+      "title": ".NET SOFTWARE DEVELOPER",
+      "url": "https://www.ziprecruiter.com/job/ddb0e371"
     }
   ],
   "updated": "2016-05-01"

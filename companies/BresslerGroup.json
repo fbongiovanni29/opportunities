@@ -21,34 +21,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Account Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.bresslergroup.com/about/#jobs",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Design and Innovation Strategist",
       "alternateName": "Designer, User Experience",
       "url": "http://www.bresslergroup.com/about/#jobs",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Junior Design Researcher",
-      "alternateName": "Design, Research",
-      "url": "http://www.bresslergroup.com/about/#jobs",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
@@ -115,6 +93,22 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Junior Interaction Designer",
+      "url": "http://www.bresslergroup.com/about/#jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Mobile Applications Developer",
+      "url": "http://www.bresslergroup.com/about/#jobs"
     }
   ],
   "updated": "2016-05-01"

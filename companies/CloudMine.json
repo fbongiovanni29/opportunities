@@ -21,46 +21,19 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Interaction Designer",
-      "alternateName": "Designer, User Experience",
-      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
-      "jobLocation": "philadelphia",
+      "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Director, Business Development - Direct (Full-time position in Philadelphia, PA)",
+      "url": "https://jobs.lever.co/cloudmineinc/276d4785-d072-4c12-80f6-1743176bb3ce"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Cloud Systems Engineer",
-      "alternateName": "DevOps",
-      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-7-14",
+      "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Director, Business Development",
-      "alternateName": "Business Development",
-      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Marketing Coordinator",
-      "alternateName": "Marketing",
-      "url": "https://cloudmineinc.com/about-us/careers/#accordion",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Senior Platform Engineer (Full-time position in Philadelphia, PA)",
+      "url": "https://jobs.lever.co/cloudmineinc/b10d6138-c470-4577-914e-b00b0671c285"
     }
   ],
   "updated": "2016-05-01"
