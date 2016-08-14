@@ -1,0 +1,51 @@
+{
+  "company": "Club OS",
+  "type": [
+    "Startup",
+    "Product"
+  ],
+  "url": "https://angel.co/club-os/jobs",
+  "webSiteUrl": "https://www.club-os.com/",
+  "technologies": [
+    "Java"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9549139592,
+        "longitude": -75.1671930612
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Junior Software Engineer",
+      "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Lead Software Engineer",
+      "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Front-end Application Engineer",
+      "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
+    }
+  ]
+}

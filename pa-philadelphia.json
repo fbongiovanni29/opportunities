@@ -234,6 +234,56 @@
     "updated": "2016-05-01"
   },
   {
+    "company": "BioBots",
+    "type": [
+      "Product",
+      "Startup"
+    ],
+    "url": "https://angel.co/biobots/jobs",
+    "webSiteUrl": "https://www.biobots.io/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "3711 Market St #891, Philadelphia, PA 19104",
+        "geo": {
+          "latitude": 39.9567794,
+          "longitude": -75.1969127
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Software Engineer - Philadelphia",
+        "url": "https://angel.co/biobots/jobs/116521-software-engineer-philadelphia"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Robotics Engineer - Philadelphia",
+        "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Bioengineer - Philadelphia",
+        "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
+      }
+    ],
+    "updated": "2016-05-01"
+  },
+  {
     "company": "Biomeme, Inc.",
     "type": [
       "Product",
@@ -900,6 +950,57 @@
       }
     ],
     "updated": "2016-05-01"
+  },
+  {
+    "company": "Club OS",
+    "type": [
+      "Startup",
+      "Product"
+    ],
+    "url": "https://angel.co/club-os/jobs",
+    "webSiteUrl": "https://www.club-os.com/",
+    "technologies": [
+      "Java"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+        "geo": {
+          "latitude": 39.9549139592,
+          "longitude": -75.1671930612
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Junior Software Engineer",
+        "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Lead Software Engineer",
+        "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Front-end Application Engineer",
+        "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
+      }
+    ]
   },
   {
     "company": "Conigent",

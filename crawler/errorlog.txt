@@ -354,3 +354,15 @@ Cannot read property 'innerText' of undefined
 Conigent
 Cannot read property 'href' of undefined
 08/14/2016 14:43:36
+-----------------------------------------------
+BioBots
+Error: .wait() timed out after 30000msec
+08/14/2016 16:32:25
+-----------------------------------------------
+BioBots
+Error: .wait() timed out after 30000msec
+08/14/2016 16:38:21
+-----------------------------------------------
+Drakontas
+Cannot read property 'innerText' of undefined
+08/14/2016 16:48:34

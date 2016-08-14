@@ -66,6 +66,15 @@
     "link": null
   },
   {
+    "filename": "BioBots",
+    "url": "https://angel.co/biobots/jobs",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
+  },
+  {
     "filename": "Biomeme-Inc",
     "url": "http://www.biomeme.com/careers",
     "jobLocation": "Philadelphia",
@@ -200,6 +209,15 @@
     "locations": "#panels a",
     "query": "#panels a",
     "link": "#panels a"
+  },
+  {
+    "filename": "Club-OS",
+    "url": "https://angel.co/club-os/jobs",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
   },
   {
     "filename": "Cloudamize",
