@@ -1,0 +1,99 @@
+{
+  "company": "Evoke Health",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.evokehealth.com/Careers",
+  "webSiteUrl": "http://www.evokehealth.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1 South Broad St., 13th Floor, Philadelphia, PA",
+      "geo": {
+        "latitude": 39.951591,
+        "longitude": -75.163514
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "User Experience (UX) Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=189&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Manager / Sr Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=262&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=249&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Art Director",
+      "alternateName": "Designer, Visual",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=255&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Supervisor",
+      "alternateName": "Business Development",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=266&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive",
+      "alternateName": "Business Development",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=263&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Director",
+      "alternateName": "Business Development",
+      "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=204&org=DORLAND",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-04-30"
+}

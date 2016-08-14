@@ -1,0 +1,40 @@
+{
+  "company": "Economy League of Greater Philadelphia",
+  "type": [
+    "internal"
+  ],
+  "url": "http://economyleague.org/about-us/join-our-team",
+  "webSiteUrl": "http://economyleague.org/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "230 S Broad St, Philadelphia PA 19102",
+      "geo": {
+        "latitude": 39.94878,
+        "longitude": -75.1644585
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Policy & Initiatives Intern",
+      "url": "http://economyleague.org/uploads/files/21359859630450156-economy-league-policy-initiatives-internship-description-7-1-15.pdf"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Communications Intern",
+      "url": "http://economyleague.org/uploads/files/396761357700689249-economy-league-communications-internship-description-7-1-15.pdf"
+    }
+  ],
+  "updated": "2016-04-30"
+}

@@ -203,6 +203,55 @@
     "updated": "2016-06-17"
   },
   {
+    "company": "Allen & Gerritsen",
+    "type": [
+      "agency"
+    ],
+    "url": "http://www.a-g.com/careers/",
+    "webSiteUrl": "http://www.a-g.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1619 Walnut St., Philadelphia, PA 19103",
+        "geo": {
+          "latitude": 39.9499277431,
+          "longitude": -75.1677158144
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Engagement Strategist",
+        "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812131233_GEOF6QO4CRSA3AMX"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Associate Creative Director, Copy",
+        "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812144756_GRVEVGDQPEHO4NYU"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "VP, Business Leadership",
+        "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160705170323_FLCMARUCXZTKAYTC"
+      }
+    ],
+    "updated": "2016-06-17"
+  },
+  {
     "company": "baseklas",
     "type": [
       "consultancy"
@@ -945,6 +994,15 @@
         "datePosted": "2016-07-14",
         "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
         "remote": false,
+        "title": "Senior Platform Engineer (Full-time position in Boston, MA)",
+        "url": "https://jobs.lever.co/cloudmineinc/491c3350-1d9c-4ce4-ba3b-a664c7aea488"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
+        "remote": false,
         "title": "Senior Platform Engineer (Full-time position in Philadelphia, PA)",
         "url": "https://jobs.lever.co/cloudmineinc/b10d6138-c470-4577-914e-b00b0671c285"
       }
@@ -1299,6 +1357,15 @@
         "remote": false,
         "title": "Project Manager",
         "url": "https://boards.greenhouse.io/curalate/jobs/167258"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "location": "New York, Philadelphia, Seattle",
+        "remote": false,
+        "title": "General Applicants",
+        "url": "https://boards.greenhouse.io/curalate/jobs/136707"
       }
     ],
     "updated": "2016-05-01"
@@ -1422,6 +1489,432 @@
         "remote": false,
         "title": "Software Engineer",
         "url": "https://docs.google.com/document/d/16H4E08Trub5uc1MlZ_rZptFb0llwGHVKmFuhR-hqa80/edit?usp=sharing"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "DramaFever",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.dramafever.com/company/careers.html",
+    "webSiteUrl": "http://www.dramafever.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1717 Arch St, Suite 601, Philadelphia, PA",
+        "geo": {
+          "latitude": 39.9546511633,
+          "longitude": -75.1650889796
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Android Developer",
+        "url": "https://www.jobscore.com/careers/dramafever/jobs/android-developer-b0E4IKcUSr5OxVdG1ZS6tF?ref=rss&sid=68"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Platform Operations Engineer",
+        "url": "https://www.jobscore.com/careers/dramafever/jobs/platform-operations-engineer-ciqtOurtGr5PCVdG1ZS6tF?ref=rss&sid=68"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Software Engineer - Payments Focus",
+        "url": "https://www.jobscore.com/careers/dramafever/jobs/senior-software-engineer-payments-focus-aoLYPAllir5PgHdG1ZS6tF?ref=rss&sid=68"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Dronecast",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://www.dronecast.com/careers/",
+    "webSiteUrl": "http://www.dronecast.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1700 Market Street, Suite 1005, Philadelphia PA",
+        "geo": {
+          "latitude": 39.952974,
+          "longitude": -75.168444
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Graphic Designer",
+        "alternateName": "Designer, Visual",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "iOS Developer",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Event Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Social Media Manager",
+        "alternateName": "Content Strategist",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Copy Writer",
+        "alternateName": "Content Strategist",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Brand ambassador",
+        "alternateName": "Marketing",
+        "url": "http://www.dronecast.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "R&D Engineer",
+        "url": "http://www.dronecast.com/careers/"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Economy League of Greater Philadelphia",
+    "type": [
+      "internal"
+    ],
+    "url": "http://economyleague.org/about-us/join-our-team",
+    "webSiteUrl": "http://economyleague.org/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "230 S Broad St, Philadelphia PA 19102",
+        "geo": {
+          "latitude": 39.94878,
+          "longitude": -75.1644585
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Policy & Initiatives Intern",
+        "url": "http://economyleague.org/uploads/files/21359859630450156-economy-league-policy-initiatives-internship-description-7-1-15.pdf"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Communications Intern",
+        "url": "http://economyleague.org/uploads/files/396761357700689249-economy-league-communications-internship-description-7-1-15.pdf"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "EPAM",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://www.epam.com/",
+    "technologies": [],
+    "locations": {
+      "conshohocken": {
+        "@type": "Place",
+        "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
+        "geo": {
+          "latitude": 40.079189,
+          "longitude": -75.299617
+        }
+      },
+      "philadelphia": {
+        "@type": "Place",
+        "address": "777 Appletree Street, Philadelphia, PA 19106",
+        "geo": {
+          "latitude": 39.9536097,
+          "longitude": -75.1548568
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Adobe Solution Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://www.epam.com/careers/job-listings/job.8753#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data & MDM Architect",
+        "alternateName": "Developer, DevOps",
+        "url": "https://www.epam.com/careers/job-listings/job.11489#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Solution Architect",
+        "alternateName": "Developer, DevOps",
+        "url": "https://www.epam.com/careers/job-listings/job.11304#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front-end Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://www.epam.com/careers/job-listings/job.11592#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Director of Analytics",
+        "url": "https://www.epam.com/careers/job-listings/job.15876#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Hybris Solution Architect",
+        "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Content Strategist",
+        "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Director of User Experience Design",
+        "url": "https://www.epam.com/careers/job-listings/job.16051#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Web Analyst",
+        "url": "https://www.epam.com/careers/job-listings/job.15882#apply"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Evoke Health",
+    "type": [
+      "agency"
+    ],
+    "url": "http://www.evokehealth.com/Careers",
+    "webSiteUrl": "http://www.evokehealth.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@type": "Place",
+        "address": "1 South Broad St., 13th Floor, Philadelphia, PA",
+        "geo": {
+          "latitude": 39.951591,
+          "longitude": -75.163514
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "User Experience (UX) Designer",
+        "alternateName": "Designer, User Experience",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=189&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Project Manager / Sr Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=262&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Copywriter",
+        "alternateName": "Content Strategy",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=249&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Art Director",
+        "alternateName": "Designer, Visual",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=255&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Supervisor",
+        "alternateName": "Business Development",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=266&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive",
+        "alternateName": "Business Development",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=263&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Director",
+        "alternateName": "Business Development",
+        "url": "http://chp.tbe.taleo.net/chp01/ats/careers/requisition.jsp?org=DORLAND&cws=43&rid=204&org=DORLAND",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ],
     "updated": "2016-04-30"

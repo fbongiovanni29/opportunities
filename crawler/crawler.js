@@ -30,17 +30,24 @@ function crawl(data, cb) {
       with job url to obj*/
       // If last element(s) with same query are not jobs
       if ("amtExtraElements" in data === false) {
-	  var x = 0
+	var x = 0
       } else {
-	  var x = data.amtExtraElements
+	var x = data.amtExtraElements
       }
       var i
       for (i = 0; i < query.length - x; i++) {
 	var obj = new Object()
 	obj["@context"] = "http://schema.org"
 	obj["@type"] = "JobPosting"
-	  // if location is static or locations attribute contains correct location (e.g string locations contains "Philadelphia" not "San Francisco")
-	  if ("locations" in data === false || locations[i].innerText.trim() !== undefined && locations[i].innerText.trim().includes(data.parseLocation)){
+	// if multiple locations need parsing parseLocation may be array
+	if (data.parseLocation instanceof Array) {
+	  z = data.parseLocation.length
+	} else {
+	  z = 1
+	}
+	for (y = 0; y < z; y++) {
+	// if location is static or locations attribute contains correct location (e.g string locations contains "Philadelphia" not "San Francisco")
+	  if ("locations" in data === false || locations[i].innerText.trim() !== undefined && locations[i].innerText.trim().includes(data.parseLocation[y])){
 	    obj.title =  query[i].innerText.trim()
 	  // If jobLocation is static (created in input JSON) else add location based on HTML element that contains location
 	  if (data.link !== null) {
@@ -51,7 +58,7 @@ function crawl(data, cb) {
 	  if ("jobLocation" in data === true) {
 	    obj.jobLocation = data.jobLocation
 	  } else {
-	    obj.location = locations[i].innerText.trim()
+	    obj.jobLocation = locations[i].innerText.trim()
 	  }
 	  // Default remote to false, true if if JSON val is true, if string includes parser true otherwise false
 	  if ("remote" in data === false) {
@@ -65,9 +72,10 @@ function crawl(data, cb) {
 	  arr.push(obj)
 	}
 	var dt = new Date()
-	var dt = dt.getFullYear() + '-' + ("0" + dt.getMonth()).slice(-2) + '-' + ("0" + dt.getDate()).slice(-2)
+	var dt = dt.getFullYear() + '-' + ("0" + dt.getMonth() ).slice(-2) + '-' + ("0" + dt.getDate()).slice(-2)
 	obj.datePosted = dt
       }
+    }
       return arr
     }, data)
   .end()

@@ -366,3 +366,19 @@ Error: .wait() timed out after 30000msec
 Drakontas
 Cannot read property 'innerText' of undefined
 08/14/2016 16:48:34
+-----------------------------------------------
+EPAM
+Cannot read property 'href' of undefined
+08/14/2016 17:13:04
+-----------------------------------------------
+EPAM
+Cannot read property 'href' of undefined
+08/14/2016 17:30:03
+-----------------------------------------------
+Entech-Consulting
+Failed to execute 'querySelectorAll' on 'Document': 'http://entech.com/Careers' is not a valid selector.
+08/14/2016 17:47:28
+-----------------------------------------------
+Braxton-Science-Technology-Group
+Cannot read property 'innerText' of undefined
+08/14/2016 18:41:45

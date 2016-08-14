@@ -1,0 +1,68 @@
+{
+  "company": "Braxton Science & Technology Group",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://jobs.bstgllc.com/",
+  "webSiteUrl": "http://bstgllc.com/",
+  "technologies": [],
+  "locations": {
+    "moorestown": {
+      "@type": "Place",
+      "address": "Moorestown, NJ",
+      "geo": {
+        "latitude": 39.968882,
+        "longitude": -74.948886
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Moorestown, NJ",
+      "remote": false,
+      "title": "Cyber Software Engineer II",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2lwdrk"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Moorestown, NJ",
+      "remote": false,
+      "title": "Cyber Software Engineer III",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2o1y8z"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Warminster, PA",
+      "remote": false,
+      "title": "Mid-Level UI/UX Developer",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz22oci9"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Warminster, PA and / or Marlton, NJ",
+      "remote": false,
+      "title": "Software Engineer",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2u29nm"
+    },
+    null,
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Marlton, NJ",
+      "remote": false,
+      "title": "Systems Engineer",
+      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2l9u4s"
+    }
+  ],
+  "updated": "2016-05-01"
+}

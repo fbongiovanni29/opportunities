@@ -1,0 +1,51 @@
+{
+  "company": "Eastern Standard",
+  "type": [
+    "agency"
+  ],
+  "url": "http://easternstandard.com/pages/careers",
+  "webSiteUrl": "http://easternstandard.com/",
+  "technologies": [
+    "Drupal"
+  ],
+  "locations": {
+    "jenkintown": {
+      "@type": "Place",
+      "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+      "geo": {
+        "latitude": 40.093339,
+        "longitude": -75.125276
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "DIGITAL PROJECT MANAGER",
+      "url": "http://easternstandard.com/pages/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "DRUPAL FRONT END WEB DEVELOPER",
+      "url": "http://easternstandard.com/pages/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "DRUPAL FULL STACK DEVELOPER",
+      "url": "http://easternstandard.com/pages/careers"
+    }
+  ],
+  "updated": "2016-04-30"
+}

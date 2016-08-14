@@ -78,6 +78,24 @@
       "datePosted": "2016-07-14",
       "jobLocation": "Berwyn",
       "remote": false,
+      "title": "Boomi Business and Sales Ops Consultant",
+      "url": "http://jobs.dell.com/united-kingdom/united-kingdom/consulting/jobid10355426-boomi-business-and-sales-ops-consultant-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Berwyn",
+      "remote": false,
+      "title": "Boomi Integration Consultant\\Architect",
+      "url": "http://jobs.dell.com/au/sydney/consulting/jobid10273392-boomi-integration-consultant_architect-sydney-or-melbourne-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Berwyn",
+      "remote": false,
       "title": "Business Developer Systems Integrators\\NetSuite",
       "url": "http://jobs.dell.com/us/san-francisco/engineering/jobid10124090-dell-boomi-business-developer-systems-integrators_netsuite-us-remote-west-coast-referred-jobs"
     },
@@ -141,6 +159,15 @@
       "datePosted": "2016-07-14",
       "jobLocation": "Berwyn",
       "remote": false,
+      "title": "Dell Boomi Partner Technical Enablement Solution Engineer",
+      "url": "http://jobs.dell.com/in/india/engineering/jobid9935863-dell-boomi-partner-technical-enablement-solution-engineer-bangalore-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Berwyn",
+      "remote": false,
       "title": "Dell Boomi Pre Sales Engineer Global System Integrators",
       "url": "http://jobs.dell.com/us/san-jose/engineering/jobid10145995-dell-boomi-pre-sales-engineer-global-system-integrators-remote-us-based-jobs"
     },
@@ -152,6 +179,24 @@
       "remote": false,
       "title": "Dell Boomi Sr. Graphic Designer",
       "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid10346981-dell-boomi-sr.-graphic-designer-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Berwyn",
+      "remote": false,
+      "title": "Dell Boomi Systems Integration Professional",
+      "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9935854-dell-boomi-systems-integration-professional-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Berwyn",
+      "remote": false,
+      "title": "Dell Boomi Technical Trainer GSI Partner Enablement",
+      "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9924502-dell-boomi-technical-trainer-gsi-partner-enablement-jobs"
     },
     {
       "@context": "http://schema.org",
@@ -251,6 +296,15 @@
       "remote": false,
       "title": "Systems Engineering Sr. Advisor",
       "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Berwyn",
+      "remote": false,
+      "title": "Systems Integration Architect Dell Boomi",
+      "url": "http://jobs.dell.com/in/india/information-technology/jobid10103074-systems-integration-architect-dell-boomi-jobs"
     }
   ],
   "updated": "2016-05-01"

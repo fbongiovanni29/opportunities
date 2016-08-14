@@ -1,10 +1,2 @@
 [
-  {
-    "filename": "Braxton-Science-Technology-Group",
-    "url": "http://jobs.bstgllc.com/",
-    "parseLocation": ["PA", "NJ"],
-    "locations": "td:nth-child(4)",
-    "query": "td a",
-    "link": "td a"
-  }
 ]

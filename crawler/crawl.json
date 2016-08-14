@@ -1,5 +1,12 @@
 [
   {
+    "filename": "1-Trick-Pony",
+    "url": "http://1trickpony.com/jobs/",
+    "jobLocation": "hammonton",
+    "query": "div.job-listings>dt a",
+    "link": "div.job-listings>dt a"
+  },
+  {
     "filename": "160over90",
     "url": "http://160over90.com/careers/",
     "jobLocation": "philadelphia",
@@ -35,6 +42,13 @@
     "jobLocation": "philadelphia",
     "query": ".ng-binding a",
     "link": ".ng-binding a"
+  },
+  {
+    "filename": "Allen-Gerritsen",
+    "url": "http://www.a-g.com/careers/",
+    "jobLocation": "Philadelphia",
+    "query": ".columns+ .columns h4",
+    "link": ".columns+ .columns .dark"
   },
   {
     "filename": "Alura-Business-Solutions",
@@ -114,6 +128,14 @@
     "link": "#available-jobs a"
   },
   {
+    "filename": "Braxton-Science-Technology-Group",
+    "url": "http://jobs.bstgllc.com/",
+    "parseLocation": ["NJ", "PA"],
+    "locations": "td:nth-child(4)",
+    "query": "td a",
+    "link": "td a"
+  },
+  {
     "filename": "BresslerGroup",
     "url": "http://www.bresslergroup.com/about/#jobs",
     "jobLocation": "Philadelphia",
@@ -126,6 +148,13 @@
     "parseLocation": "Conshohocken",
     "locations": "td.srJobListLocation",
     "query": "td.srJobListJobTitle",
+    "link": null
+  },
+  {
+    "filename": "BrickSimple-LLC",
+    "url": "http://bricksimple.com/",
+    "jobLocation": "Doylestown",
+    "query": ".job-position",
     "link": null
   },
   {
@@ -285,5 +314,76 @@
     "jobLocation": "philadelphia",
     "query": "#content a",
     "link": "#content a"
+  },
+  {
+    "filename": "DramaFever",
+    "url": "https://widgets.jobscore.com/jobs/dramafever/widget_iframe?text_color=%232D2424&font_family=Verdana%2C%20Geneva%2C%20sans-serif&link_text_color=%235DA4F5&header_bg_color=%23FFFFFF&group_by=department&show_searchbar_count=50&show_talent_network=false&parent_url=https%3A%2F%2Fwww.dramafever.com%2Fcompany%2Fcareers.html&widget_id=js_widget_iframe_1",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".location",
+    "query": ".job-detail-link",
+    "link": ".job-detail-link"
+  },
+  {
+    "filename": "Dronecast",
+    "url": "http://www.dronecast.com/careers/",
+    "jobLocation": "philadelphia",
+    "query": ".mk-accordion-tab span",
+    "link": null
+  },
+  {
+    "filename": "EPAM",
+    "url": "https://www.epam.com/careers/job-listings?query=&department%5B%5D=Data+Analysis+%26+Digital+Strategy&department%5B%5D=Software+Architecture&department%5B%5D=Software+Engineering&department%5B%5D=Software+Test+Engineering&department%5B%5D=User+Experience+%26+Design&city=Philadelphia%2C+PA&country=USA",
+    "jobLocation": "Philadelphia",
+    "query": ".position-name",
+    "link": ".button-apply a"
+  },
+  {
+    "filename": "Eastern-Standard",
+    "url": "http://easternstandard.com/pages/careers",
+    "jobLocation": "Philadelphia",
+    "query": "h3",
+    "link": null
+  },
+  {
+    "filename": "Economy-League-of-Greater-Philadelphia",
+    "url": "http://economyleague.org/about-us/join-our-team",
+    "jobLocation": "Philadelphia",
+    "query": "p+ p a",
+    "link": "p+ p a"
+  },
+  {
+    "filename": "Entech-Consulting",
+    "url": "http://entech.com/Careers",
+    "jobLocation": "Malvern",
+    "remote": "h3",
+    "parseRemote": "REMOTE",
+    "query": "h3",
+    "link": ".btn-black"
+  },
+  {
+    "filename": "Evoke-Health",
+    "url": "http://www.evokehealth.com/Careers",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".list_location",
+    "query": ".list_title",
+    "link": null
+  },
+  {
+    "filename": "Evolve-IP",
+    "url": "http://www.evolveip.net/about/careers#wayne-pennsylvania",
+    "jobLocation": "Wayne",
+    "query": "#wayne-pennsylvania a",
+    "link": "#wayne-pennsylvania a"
+  },
+  {
+    "filename": "Practice",
+    "url": "http://www.practice.xyz/careers/",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".inner-body",
+    "query": ".inner-head h4",
+    "link": ".btn-secondary"
   }
 ]

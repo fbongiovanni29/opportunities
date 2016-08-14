@@ -79,6 +79,24 @@
         "datePosted": "2016-07-14",
         "jobLocation": "Berwyn",
         "remote": false,
+        "title": "Boomi Business and Sales Ops Consultant",
+        "url": "http://jobs.dell.com/united-kingdom/united-kingdom/consulting/jobid10355426-boomi-business-and-sales-ops-consultant-jobs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Berwyn",
+        "remote": false,
+        "title": "Boomi Integration Consultant\\Architect",
+        "url": "http://jobs.dell.com/au/sydney/consulting/jobid10273392-boomi-integration-consultant_architect-sydney-or-melbourne-jobs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Berwyn",
+        "remote": false,
         "title": "Business Developer Systems Integrators\\NetSuite",
         "url": "http://jobs.dell.com/us/san-francisco/engineering/jobid10124090-dell-boomi-business-developer-systems-integrators_netsuite-us-remote-west-coast-referred-jobs"
       },
@@ -142,6 +160,15 @@
         "datePosted": "2016-07-14",
         "jobLocation": "Berwyn",
         "remote": false,
+        "title": "Dell Boomi Partner Technical Enablement Solution Engineer",
+        "url": "http://jobs.dell.com/in/india/engineering/jobid9935863-dell-boomi-partner-technical-enablement-solution-engineer-bangalore-jobs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Berwyn",
+        "remote": false,
         "title": "Dell Boomi Pre Sales Engineer Global System Integrators",
         "url": "http://jobs.dell.com/us/san-jose/engineering/jobid10145995-dell-boomi-pre-sales-engineer-global-system-integrators-remote-us-based-jobs"
       },
@@ -153,6 +180,24 @@
         "remote": false,
         "title": "Dell Boomi Sr. Graphic Designer",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid10346981-dell-boomi-sr.-graphic-designer-jobs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Berwyn",
+        "remote": false,
+        "title": "Dell Boomi Systems Integration Professional",
+        "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9935854-dell-boomi-systems-integration-professional-jobs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Berwyn",
+        "remote": false,
+        "title": "Dell Boomi Technical Trainer GSI Partner Enablement",
+        "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9924502-dell-boomi-technical-trainer-gsi-partner-enablement-jobs"
       },
       {
         "@context": "http://schema.org",
@@ -252,6 +297,15 @@
         "remote": false,
         "title": "Systems Engineering Sr. Advisor",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Berwyn",
+        "remote": false,
+        "title": "Systems Integration Architect Dell Boomi",
+        "url": "http://jobs.dell.com/in/india/information-technology/jobid10103074-systems-integration-architect-dell-boomi-jobs"
       }
     ],
     "updated": "2016-05-01"
@@ -337,6 +391,219 @@
         "remote": false,
         "title": "Technical Specialist (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Entech Consulting",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://entech.com/Careers",
+    "webSiteUrl": "http://entech.com/",
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1200 Atwater Dr., Suite 140, Malvern, PA 19355",
+        "geo": {
+          "latitude": 40.072126,
+          "longitude": -75.52588
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Malvern",
+        "remote": false,
+        "title": ".NET DEVELOPER",
+        "url": "http://entech.com/Careers/Req/10000"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Malvern",
+        "remote": false,
+        "title": "JAVA DEVELOPER",
+        "url": "http://entech.com/Careers/Req/10001"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Malvern",
+        "remote": true,
+        "title": "DEVOPS ENGINEER (REMOTE)",
+        "url": "http://entech.com/Careers/Req/10002"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Evolve IP",
+    "type": [
+      "agency"
+    ],
+    "url": "http://www.evolveip.net/about/careers",
+    "webSiteUrl": "http://www.evolveip.net/",
+    "technologies": [],
+    "locations": {
+      "wayne": {
+        "@type": "Place",
+        "address": "989 Old Eagle School Rd, Wayne, PA 19087",
+        "geo": {
+          "latitude": 40.076770625,
+          "longitude": -75.41092975
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Technical Support Specialist",
+        "alternateName": "IT, Networking",
+        "url": "http://www.evolveip.net/about/careers/network-security-operations-center-nsoc-technician",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Cloud Computing Sales Engineer",
+        "alternateName": "Business Development",
+        "url": "http://www.evolveip.net/about/careers/cloud-computing-sales-engineer",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Technology Advisor",
+        "alternateName": "Business Development",
+        "url": "http://www.evolveip.net/about/careers/technology-advisor",
+        "jobLocation": "wayne",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Wayne, Pennsylvania",
+        "url": "http://www.evolveip.net/about/careers#wayne-pennsylvania"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Get Directions & View Larger Map",
+        "url": "http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Evolve+IP&sll=37.0625,-95.677068&sspn=57.641503,53.613281&ie=UTF8&cid=11976602197763737324&ll=40.078334,-75.40638&spn=0.039405,0.137329&z=12"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Corporate Development Analyst",
+        "url": "http://www.evolveip.net/about/careers/corporate-development-analyst"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "VP Finance/Corporate Controller",
+        "url": "http://www.evolveip.net/about/careers/vp-financecorporate-controller"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Event Coordinator",
+        "url": "http://www.evolveip.net/about/careers/event-coordinator"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Virtualization Support Engineer, Level 1",
+        "url": "http://www.evolveip.net/about/careers/l1-virtualization-support-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Platform Project Manager",
+        "url": "http://www.evolveip.net/about/careers/platform-project-manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Business Systems Analyst",
+        "url": "http://www.evolveip.net/about/careers/business-systems-analyst"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Account Manager",
+        "url": "http://www.evolveip.net/about/careers/account-manager-2"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Business Development Associate",
+        "url": "http://www.evolveip.net/about/careers/business-development-associate"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Training Coordinator",
+        "url": "http://www.evolveip.net/about/careers/evolve-ip-training-coordinator"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Wayne",
+        "remote": false,
+        "title": "Customer Service Compliance Associate",
+        "url": "http://www.evolveip.net/about/careers/customer-service-compliance-associate"
       }
     ],
     "updated": "2016-04-30"

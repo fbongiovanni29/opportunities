@@ -1,0 +1,49 @@
+{
+  "company": "Allen & Gerritsen",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.a-g.com/careers/",
+  "webSiteUrl": "http://www.a-g.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1619 Walnut St., Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9499277431,
+        "longitude": -75.1677158144
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Senior Engagement Strategist",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812131233_GEOF6QO4CRSA3AMX"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Associate Creative Director, Copy",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812144756_GRVEVGDQPEHO4NYU"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "VP, Business Leadership",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160705170323_FLCMARUCXZTKAYTC"
+    }
+  ],
+  "updated": "2016-06-17"
+}

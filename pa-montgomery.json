@@ -525,5 +525,251 @@
       }
     ],
     "updated": "2016-05-01"
+  },
+  {
+    "company": "Eastern Standard",
+    "type": [
+      "agency"
+    ],
+    "url": "http://easternstandard.com/pages/careers",
+    "webSiteUrl": "http://easternstandard.com/",
+    "technologies": [
+      "Drupal"
+    ],
+    "locations": {
+      "jenkintown": {
+        "@type": "Place",
+        "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
+        "geo": {
+          "latitude": 40.093339,
+          "longitude": -75.125276
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "DIGITAL PROJECT MANAGER",
+        "url": "http://easternstandard.com/pages/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "DRUPAL FRONT END WEB DEVELOPER",
+        "url": "http://easternstandard.com/pages/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "DRUPAL FULL STACK DEVELOPER",
+        "url": "http://easternstandard.com/pages/careers"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "EPAM",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://www.epam.com/",
+    "technologies": [],
+    "locations": {
+      "conshohocken": {
+        "@type": "Place",
+        "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
+        "geo": {
+          "latitude": 40.079189,
+          "longitude": -75.299617
+        }
+      },
+      "philadelphia": {
+        "@type": "Place",
+        "address": "777 Appletree Street, Philadelphia, PA 19106",
+        "geo": {
+          "latitude": 39.9536097,
+          "longitude": -75.1548568
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Adobe Solution Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://www.epam.com/careers/job-listings/job.8753#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data & MDM Architect",
+        "alternateName": "Developer, DevOps",
+        "url": "https://www.epam.com/careers/job-listings/job.11489#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "DevOps Solution Architect",
+        "alternateName": "Developer, DevOps",
+        "url": "https://www.epam.com/careers/job-listings/job.11304#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Front-end Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://www.epam.com/careers/job-listings/job.11592#apply",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Director of Analytics",
+        "url": "https://www.epam.com/careers/job-listings/job.15876#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Hybris Solution Architect",
+        "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Content Strategist",
+        "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Director of User Experience Design",
+        "url": "https://www.epam.com/careers/job-listings/job.16051#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Senior Web Analyst",
+        "url": "https://www.epam.com/careers/job-listings/job.15882#apply"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "ApprenNet",
+    "type": [
+      "product"
+    ],
+    "url": "http://info.apprennet.com/jobs/",
+    "webSiteUrl": "http://info.apprennet.com/",
+    "technologies": [],
+    "locations": {
+      "wyndmoor": {
+        "@type": "Place",
+        "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
+        "geo": {
+          "latitude": 40.0839338571,
+          "longitude": -75.191686898
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Solutions Engineer",
+        "url": "https://www.practice.xyz/position/solutions-engineer/"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Implementation Specialist",
+        "url": "https://www.practice.xyz/position/implementation-specialist/"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Full Stack Software Engineer",
+        "url": "https://www.practice.xyz/position/full-stack-software-engineer/"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Account Development Representative",
+        "url": "https://www.practice.xyz/position/account-development-representative/"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Customer Success Representative",
+        "url": "https://www.practice.xyz/position/customer-success-representative/"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Learning Specialist",
+        "url": "https://www.practice.xyz/position/learning-specialist/"
+      }
+    ],
+    "updated": "2016-06-17"
   }
 ]
