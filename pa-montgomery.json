@@ -18,7 +18,7 @@
       }
     },
     "positions": [],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Alura Business Solutions",
@@ -53,14 +53,14 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-7-14",
+        "datePosted": "2016-07-14",
         "jobLocation": "plymouth",
         "remote": false,
         "title": "Business Development Manager",
         "url": "https://www.alura.com/job/business-development-manager.php"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Arc Intermedia",
@@ -84,6 +84,17 @@
       }
     },
     "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Inbound Marketing Manager Position",
+        "alternateName": "Marketing",
+        "url": "http://www.arcintermedia.com/company/careers/inbound-marketing-manager/",
+        "jobLocation": "king of prussia",
+        "remote": true,
+        "datePosted": "2016-06-17"
+      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
@@ -138,17 +149,9 @@
         "jobLocation": "king of prussia",
         "remote": true,
         "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "jobLocation": "King of Prussia",
-        "remote": true,
-        "title": "Inbound Marketing Manager Position",
-        "url": "http://www.arcintermedia.com/company/careers/inbound-marketing-manager/"
       }
     ],
-    "updated": "2016-05-01"
+    "updated": "2016-06-17"
   },
   {
     "company": "Brian Communications",
@@ -183,6 +186,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "location": "Conshohocken, PA",
         "remote": false,
         "title": "Associate Project Manager",
@@ -191,6 +195,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "location": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Creative",
@@ -199,6 +204,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "location": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Strategy and Business Development",
@@ -207,6 +213,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "location": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Integrated Marketing",
@@ -215,6 +222,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "location": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Project Management",
@@ -223,6 +231,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "location": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Public Relations Intern",
@@ -254,6 +263,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Fort Washington",
         "remote": false,
         "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
@@ -262,6 +272,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Fort Washington",
         "remote": false,
         "title": "SOFTWARE DEVELOPMENT INTERN",
@@ -270,7 +281,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-7-14",
+        "datePosted": "2016-07-14",
         "jobLocation": "Fort Washington",
         "remote": false,
         "title": ".NET SOFTWARE DEVELOPER",
@@ -301,6 +312,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "Sales Consultant - Philadelphia, PA",
@@ -356,6 +368,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "Linux Systems Administrator"
@@ -363,6 +376,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "Jr. Software Integration and Support Engineer"
@@ -370,7 +384,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-7-14",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "ISV Sales Specialist"
@@ -403,6 +417,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "Scala Developers",
@@ -411,6 +426,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "Senior Java/Spring Engineers",
@@ -419,6 +435,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "Mobile Developers",
@@ -427,11 +444,84 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-7-14",
+        "datePosted": "2016-07-14",
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "AngularJS Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/chariot-careers-angular-js-developers/"
+      }
+    ],
+    "updated": "2016-05-01"
+  },
+  {
+    "company": "Clinical Ink",
+    "type": [
+      "product"
+    ],
+    "url": "http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee",
+    "webSiteUrl": "http://www.clinicalink.com/",
+    "technologies": [],
+    "locations": {
+      "horsham": {
+        "@type": "Place",
+        "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+        "geo": {
+          "latitude": 40.171473,
+          "longitude": -75.130956
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Horsham",
+        "remote": false,
+        "title": "Clinical Data Monitor",
+        "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-14",
+        "jobLocation": "Horsham",
+        "remote": false,
+        "title": "General Accountant",
+        "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78824756203f9b01562d60821716ed&source="
+      }
+    ],
+    "updated": "2016-05-01"
+  },
+  {
+    "company": "Clutch",
+    "type": [
+      "product"
+    ],
+    "url": "https://www.clutch.com/careers/",
+    "webSiteUrl": "https://www.clutch.com/",
+    "technologies": [],
+    "locations": {
+      "ambler": {
+        "@type": "Place",
+        "address": "201 S Maple St #250, Ambler, PA 19002",
+        "geo": {
+          "latitude": 40.1561585849,
+          "longitude": -75.2278333396
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "SENIOR DATA SCIENTIST",
+        "alternateName": "Data Scientist",
+        "url": "https://www.clutch.com/careers/",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-13"
       }
     ],
     "updated": "2016-05-01"

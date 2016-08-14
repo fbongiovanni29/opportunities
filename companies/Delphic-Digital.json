@@ -1,0 +1,52 @@
+{
+  "company": "Delphic Digital",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.delphicdigital.com/about/careers/open-positions",
+  "webSiteUrl": "http://www.delphicdigital.com/",
+  "technologies": [
+    ".net",
+    "Sitecore"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
+      "geo": {
+        "latitude": 40.022712,
+        "longitude": -75.217571
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Web Project Manager",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/225608"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Marketing Communications Manager",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/257117"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Technical Lead - Web Development",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/174453"
+    }
+  ],
+  "updated": "2016-04-30"
+}

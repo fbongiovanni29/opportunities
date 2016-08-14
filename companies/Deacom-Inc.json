@@ -1,0 +1,85 @@
+{
+  "company": "Deacom, Inc",
+  "type": [
+    "product"
+  ],
+  "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+  "webSiteUrl": "http://deacom.com/",
+  "technologies": [],
+  "locations": {
+    "wayne": {
+      "@type": "Place",
+      "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
+      "geo": {
+        "latitude": 40.067907,
+        "longitude": -75.427966
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "Business Development Representative (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "Customer Success Manager (One Opening)",
+      "url": "http://www.deacom.com/ViewPage/184/deacom-inc-customer-success-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "Data Conversion Specialist (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/185/deacom-inc-data-conversion-specialist"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "Implementation Consultant (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/186/deacom-inc-implementation-consultant"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "Project Manager (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "C# / .NET Software Engineer (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Chesterbrook",
+      "remote": false,
+      "title": "Technical Specialist (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist"
+    }
+  ],
+  "updated": "2016-04-30"
+}

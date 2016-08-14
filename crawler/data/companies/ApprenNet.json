@@ -21,35 +21,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Director of Corporate Sales",
-      "alternateName": "Business Development",
-      "url": "http://info.apprennet.com/jobs/#op-80867-director-of-corporate-sales",
+      "title": "Node.js Engineer",
+      "alternateName": "Full Stack",
+      "url": "http://info.apprennet.com/jobs/#op-119835-nodejs-engineer",
       "jobLocation": "wyndmoor",
       "remote": true,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Account Representative, Corporate",
-      "alternateName": "Business Development",
-      "url": "http://info.apprennet.com/jobs/#op-71800-account-representative-corporate",
-      "jobLocation": "wyndmoor",
-      "remote": true,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Account Representative, Higher Education",
-      "alternateName": "Business Development",
-      "url": "http://info.apprennet.com/jobs/#op-71799-account-representative-higher-education",
-      "jobLocation": "wyndmoor",
-      "remote": true,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-06-17"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-06-17"
 }

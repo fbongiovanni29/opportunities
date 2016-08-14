@@ -64,6 +64,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Business Development Manager",
@@ -72,6 +73,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Account Management",
@@ -80,6 +82,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Research & Reporting Specialist",

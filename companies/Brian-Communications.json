@@ -31,6 +31,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "location": "Conshohocken, PA",
       "remote": false,
       "title": "Associate Project Manager",
@@ -39,6 +40,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "location": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Creative",
@@ -47,6 +49,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "location": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Strategy and Business Development",
@@ -55,6 +58,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "location": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Integrated Marketing",
@@ -63,6 +67,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "location": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Project Management",
@@ -71,6 +76,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "location": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Public Relations Intern",

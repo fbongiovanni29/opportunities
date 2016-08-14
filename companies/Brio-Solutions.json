@@ -22,6 +22,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Fort Washington",
       "remote": false,
       "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
@@ -30,6 +31,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Fort Washington",
       "remote": false,
       "title": "SOFTWARE DEVELOPMENT INTERN",
@@ -38,7 +40,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-7-14",
+      "datePosted": "2016-07-14",
       "jobLocation": "Fort Washington",
       "remote": false,
       "title": ".NET SOFTWARE DEVELOPER",

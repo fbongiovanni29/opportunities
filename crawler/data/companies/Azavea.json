@@ -50,24 +50,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Software Engineer - Geospatial Insights Team",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://jobs.azavea.com/opening/software-engineer-geospatial-insights-team/",
+      "title": "Project Manager",
+      "alternateName": "Project Manager",
+      "url": "http://jobs.azavea.com/opening/project-manager-geotrellis/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-02-16"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer - Urban Ecosystems Team",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://jobs.azavea.com/opening/software-engineer-urban-ecosystems/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
+      "datePosted": "2016-06-17"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-06-17"
 }

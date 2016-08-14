@@ -31,12 +31,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-7-14",
+      "datePosted": "2016-07-14",
       "jobLocation": "plymouth",
       "remote": false,
       "title": "Business Development Manager",
       "url": "https://www.alura.com/job/business-development-manager.php"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-06-17"
 }

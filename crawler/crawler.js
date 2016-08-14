@@ -63,11 +63,11 @@ function crawl(data, cb) {
 	  }
 	  // if url is picked up by HTML element or is declared in JSON
 	  arr.push(obj)
-	  }
 	}
-      var dt = new Date()
-      var dt = dt.getFullYear() + '-' + dt.getMonth() + '-' + dt.getDate()
-      obj.datePosted = dt
+	var dt = new Date()
+	var dt = dt.getFullYear() + '-' + ("0" + dt.getMonth()).slice(-2) + '-' + ("0" + dt.getDate()).slice(-2)
+	obj.datePosted = dt
+      }
       return arr
     }, data)
   .end()

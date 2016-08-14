@@ -1,0 +1,144 @@
+{
+  "company": "Curalate",
+  "type": [
+    "product"
+  ],
+  "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
+  "webSiteUrl": "http://www.curalate.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "2401 Walnut St #502, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.95109,
+        "longitude": -75.179508
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Information Security Analyst",
+      "alternateName": "Developer, Security",
+      "url": "https://boards.greenhouse.io/curalate/jobs/184097#.VvdC-xIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://boards.greenhouse.io/curalate/jobs/186892#.VyYNRRMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Product Design Intern",
+      "alternateName": "Intern",
+      "url": "https://boards.greenhouse.io/curalate/jobs/194187#.VyYNhBMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "Project Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/186887#.VvdDAhIrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Enterprise Account Manager",
+      "alternateName": "Business Development",
+      "url": "https://boards.greenhouse.io/curalate/jobs/199549#.VyYNtxMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Support Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://boards.greenhouse.io/curalate/jobs/138260#.VyYN7BMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://boards.greenhouse.io/curalate/jobs/62381#.VyYOVBMrJE4",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "location": "Philadelphia, PA",
+      "remote": false,
+      "title": "Senior Client Success Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/181530"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "location": "Philadelphia, PA",
+      "remote": false,
+      "title": "Marketing Operations Analyst",
+      "url": "https://boards.greenhouse.io/curalate/jobs/257490"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "location": "Philadelphia, PA",
+      "remote": false,
+      "title": "Product Marketing Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/99221"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "location": "Philadelphia, PA",
+      "remote": false,
+      "title": "Director of Sales Development",
+      "url": "https://boards.greenhouse.io/curalate/jobs/217713"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "location": "Philadelphia, PA",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/167258"
+    }
+  ],
+  "updated": "2016-05-01"
+}

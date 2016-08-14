@@ -24,6 +24,17 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
+      "title": "Inbound Marketing Manager Position",
+      "alternateName": "Marketing",
+      "url": "http://www.arcintermedia.com/company/careers/inbound-marketing-manager/",
+      "jobLocation": "king of prussia",
+      "remote": true,
+      "datePosted": "2016-06-17"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
       "title": "Junior Front-end Web Developer/Web Designer",
       "alternateName": "Developer, Frontend",
       "url": "http://www.arcintermedia.com/company/careers/entry-level-htmlweb-designer/",
@@ -74,15 +85,7 @@
       "jobLocation": "king of prussia",
       "remote": true,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "jobLocation": "King of Prussia",
-      "remote": true,
-      "title": "Inbound Marketing Manager Position",
-      "url": "http://www.arcintermedia.com/company/careers/inbound-marketing-manager/"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-06-17"
 }

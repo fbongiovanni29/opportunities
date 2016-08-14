@@ -20,6 +20,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Horsham",
       "remote": false,
       "title": "Clinical Data Monitor",
@@ -28,7 +29,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-7-14",
+      "datePosted": "2016-07-14",
       "jobLocation": "Horsham",
       "remote": false,
       "title": "General Accountant",

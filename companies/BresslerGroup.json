@@ -97,6 +97,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Junior Interaction Designer",
@@ -105,6 +106,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Mobile Applications Developer",

@@ -38,17 +38,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Senior Copywriter",
-      "alternateName": "Content Strategy",
-      "url": "http://160over90.com/career/senior-copywriter/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Director of Public Relations",
       "alternateName": "Marketing",
       "url": "http://160over90.com/careers/?job_id=1077",
@@ -62,7 +51,7 @@
       "employmentType": "full-time",
       "title": "Drupal Developer",
       "alternateName": "Developer, Full Stack",
-      "url": "http://160over90.com/career/drupal-developer/",
+      "url": "http://160over90.com/careers/?job_id=1063",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
@@ -71,24 +60,13 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Interactive Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://160over90.com/careers/?job_id=1072",
+      "title": "Digital Media Manager",
+      "alternateName": "Marketing",
+      "url": "http://160over90.com/careers/?job_id=1092",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "User Experience Designer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://160over90.com/careers/?job_id=1074",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
+      "datePosted": "2016-06-17"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-06-17"
 }

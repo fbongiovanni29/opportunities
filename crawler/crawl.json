@@ -1,22 +1,5 @@
 [
   {
-    "filename": "Curadora",
-    "url": "https://curadora.workable.com/",
-    "jobLocation": "Philadelphia",
-    "parseLocation": "Philadelphia",
-    "parseRemote": "TELECOMMUTE",
-    "remote": ".meta",
-    "query": "#jobs a",
-    "link": "#jobs a"
-  },
-  {
-    "filename": "1-Trick-Pony",
-    "url": "http://1trickpony.com/jobs/",
-    "jobLocation": "hammonton",
-    "query": "div.job-listings>dt a",
-    "link": "div.job-listings>dt a"
-  },
-  {
     "filename": "160over90",
     "url": "http://160over90.com/careers/",
     "jobLocation": "philadelphia",
@@ -238,5 +221,51 @@
     "jobLocation": "Cherry Hil",
     "query": ".rbox-opening-li-title",
     "link": ".rbox-opening-li-title"
+  },
+  {
+    "filename": "Curadora",
+    "url": "https://curadora.workable.com/",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "parseRemote": "TELECOMMUTE",
+    "remote": ".meta",
+    "query": "#jobs a",
+    "link": "#jobs a"
+  },
+  {
+    "filename": "Curalate",
+    "url": "https://boards.greenhouse.io/curalate#.V7DCDZODGkq",
+    "parseLocation": "PA",
+    "locations": ".location",
+    "query": ".opening a",
+    "link": ".opening a"
+  },
+  {
+    "filename": "D4-Creative-Group",
+    "url": "http://www.d4creative.com/careers",
+    "jobLocation": "Philadelphia",
+    "query": "#current-openings li",
+    "link": "#current-openings li"
+  },
+  {
+    "filename": "Deacom-Inc",
+    "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+    "jobLocation": "Chesterbrook",
+    "query": "h2 a",
+    "link": "h2 a"
+  },
+  {
+    "filename": "Delphic-Digital",
+    "url": "http://www.delphicdigital.com/about/careers#jobs-at-delphic",
+    "jobLocation": "Philadelphia",
+    "query": ".jobs-list-link",
+    "link": ".jobs-list-link"
+  },
+  {
+    "filename": "Diagnostic-Driving-LLC",
+    "url": "http://www.diagnosticdriving.com/careers/",
+    "jobLocation": "philadelphia",
+    "query": "#content a",
+    "link": "#content a"
   }
 ]

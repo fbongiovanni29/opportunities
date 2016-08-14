@@ -64,6 +64,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Digital Editor",
@@ -72,11 +73,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-14",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Internships",
       "url": "http://aldianews.com/pages/internships/34585"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-06-17"
 }

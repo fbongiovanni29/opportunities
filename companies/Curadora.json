@@ -1,0 +1,63 @@
+{
+  "company": "Curadora",
+  "type": [
+    "product"
+  ],
+  "url": "https://curadora.workable.com/",
+  "webSiteUrl": "https://curadora.com/",
+  "technologies": [
+    "Elixir",
+    "Phoenix",
+    "React",
+    "Redux",
+    "JavaScript",
+    "Ruby on Rails",
+    "Elasticsearch",
+    "Redis",
+    "Docker",
+    "Slack"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1 South Broad, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "GeoCoordinates",
+        "latitude": 39.951199,
+        "longitude": -75.163487
+      },
+      "telephone": "1-888-544-9992"
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": true,
+      "title": "Senior Software Developer - Elixir, React, Rails",
+      "url": "https://curadora.workable.com/jobs/308843"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": true,
+      "title": "Web Developer - React, Rails, APIs",
+      "url": "https://curadora.workable.com/jobs/248814"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-14",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Inside Sales Associate",
+      "url": "https://curadora.workable.com/jobs/251784"
+    }
+  ]
+}
