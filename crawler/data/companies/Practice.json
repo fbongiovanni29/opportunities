@@ -1,10 +1,10 @@
 {
-  "company": "ApprenNet",
+  "company": "Practice",
   "type": [
     "product"
   ],
-  "url": "http://info.apprennet.com/jobs/",
-  "webSiteUrl": "http://info.apprennet.com/",
+  "url": "http://www.practice.xyz/careers/",
+  "webSiteUrl": "https://www.practice.xyz/",
   "technologies": [],
   "locations": {
     "wyndmoor": {
@@ -23,7 +23,7 @@
       "employmentType": "full-time",
       "title": "Node.js Engineer",
       "alternateName": "Full Stack",
-      "url": "http://info.apprennet.com/jobs/#op-119835-nodejs-engineer",
+      "url": "https://www.practice.xyz/position/full-stack-software-engineer/",
       "jobLocation": "wyndmoor",
       "remote": true,
       "datePosted": "2016-06-17"

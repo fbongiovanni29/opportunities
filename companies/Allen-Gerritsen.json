@@ -20,7 +20,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Senior Engagement Strategist",
@@ -29,7 +29,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Associate Creative Director, Copy",
@@ -38,7 +38,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "VP, Business Leadership",

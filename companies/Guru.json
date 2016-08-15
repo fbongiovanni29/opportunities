@@ -1,0 +1,34 @@
+{
+  "company": "Guru",
+  "type": [
+    "product"
+  ],
+  "url": "https://www.getguru.com/jobs/",
+  "webSiteUrl": "https://www.getguru.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "32 S Strawberry Street, 3rd Floor, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9490966709,
+        "longitude": -75.1446795469
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Sales Representative",
+      "url": "https://www.getguru.com/jobs/"
+    }
+  ],
+  "updated": "2016-04-30"
+}

@@ -382,3 +382,27 @@ Failed to execute 'querySelectorAll' on 'Document': 'http://entech.com/Careers' 
 Braxton-Science-Technology-Group
 Cannot read property 'innerText' of undefined
 08/14/2016 18:41:45
+-----------------------------------------------
+Cerner
+Error: .wait() timed out after 30000msec
+08/15/2016 09:50:37
+-----------------------------------------------
+Cerner
+Error: .wait() timed out after 30000msec
+08/15/2016 09:56:14
+-----------------------------------------------
+Cerner
+Error: .wait() timed out after 30000msec
+08/15/2016 10:01:05
+-----------------------------------------------
+Cerner
+Error: .wait() timed out after 30000msec
+08/15/2016 10:16:45
+-----------------------------------------------
+Cerner
+Error: .wait() timed out after 30000msec
+08/15/2016 10:19:33
+-----------------------------------------------
+Cerner
+Error: .wait() timed out after 30000msec
+08/15/2016 10:32:38

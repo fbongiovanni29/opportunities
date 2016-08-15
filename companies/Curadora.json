@@ -35,7 +35,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": true,
       "title": "Senior Software Developer - Elixir, React, Rails",
@@ -44,7 +44,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": true,
       "title": "Web Developer - React, Rails, APIs",
@@ -53,7 +53,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Inside Sales Associate",

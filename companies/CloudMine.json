@@ -21,7 +21,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
       "remote": false,
       "title": "Director, Business Development - Direct (Full-time position in Philadelphia, PA)",
@@ -30,7 +30,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
       "remote": false,
       "title": "Senior Platform Engineer (Full-time position in Boston, MA)",
@@ -39,7 +39,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
       "remote": false,
       "title": "Senior Platform Engineer (Full-time position in Philadelphia, PA)",

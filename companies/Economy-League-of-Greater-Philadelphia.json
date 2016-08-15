@@ -20,7 +20,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Policy & Initiatives Intern",
@@ -29,7 +29,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Communications Intern",

@@ -1,0 +1,51 @@
+{
+  "company": "Fynydd",
+  "type": [
+    "consultancy"
+  ],
+  "url": "https://fynydd.com/careers/",
+  "webSiteUrl": "https://fynydd.com/",
+  "technologies": [],
+  "locations": {
+    "kingofprussia": {
+      "@type": "Place",
+      "address": "630 Freedom Business Center Drive, King of Prussia, PA 19406",
+      "geo": {
+        "latitude": 40.0922677347,
+        "longitude": -75.4162122857
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://fynydd.com/careers/jp1937/",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "King of Prussia",
+      "remote": false,
+      "title": "Freelance Umbraco CMS Developer",
+      "url": "https://fynydd.com/careers/jp2002/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "King of Prussia",
+      "remote": false,
+      "title": "Freelance WordPress Multisite Developer",
+      "url": "https://fynydd.com/careers/jp2001/"
+    }
+  ],
+  "updated": "2016-04-30"
+}

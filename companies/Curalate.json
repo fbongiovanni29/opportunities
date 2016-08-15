@@ -97,8 +97,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
-      "location": "Philadelphia, PA",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia, PA",
       "remote": false,
       "title": "Senior Client Success Manager",
       "url": "https://boards.greenhouse.io/curalate/jobs/181530"
@@ -106,8 +106,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
-      "location": "Philadelphia, PA",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia, PA",
       "remote": false,
       "title": "Marketing Operations Analyst",
       "url": "https://boards.greenhouse.io/curalate/jobs/257490"
@@ -115,8 +115,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
-      "location": "Philadelphia, PA",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia, PA",
       "remote": false,
       "title": "Product Marketing Manager",
       "url": "https://boards.greenhouse.io/curalate/jobs/99221"
@@ -124,8 +124,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
-      "location": "Philadelphia, PA",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia, PA",
       "remote": false,
       "title": "Director of Sales Development",
       "url": "https://boards.greenhouse.io/curalate/jobs/217713"
@@ -133,8 +133,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
-      "location": "Philadelphia, PA",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia, PA",
       "remote": false,
       "title": "Project Manager",
       "url": "https://boards.greenhouse.io/curalate/jobs/167258"
@@ -142,8 +142,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
-      "location": "New York, Philadelphia, Seattle",
+      "datePosted": "2016-07-15",
+      "jobLocation": "New York, Philadelphia, Seattle",
       "remote": false,
       "title": "General Applicants",
       "url": "https://boards.greenhouse.io/curalate/jobs/136707"

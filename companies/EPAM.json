@@ -72,7 +72,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Director of Analytics",
@@ -81,7 +81,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Hybris Solution Architect",
@@ -90,7 +90,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Senior Content Strategist",
@@ -99,7 +99,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Senior Director of User Experience Design",
@@ -108,7 +108,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-14",
+      "datePosted": "2016-07-15",
       "jobLocation": "Philadelphia",
       "remote": false,
       "title": "Senior Web Analyst",

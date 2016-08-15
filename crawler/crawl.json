@@ -73,6 +73,13 @@
     "link": "div>small>div:nth-child(3)>a"
   },
   {
+    "filename": "Arcweb-Technologies",
+    "url": "https://arcweb.co/careers/",
+    "jobLocation": "Philadelphia",
+    "query": "#primary li a",
+    "link": "#primary li a"
+  },
+  {
     "filename": "baseklas",
     "url": "http://baseklas.com/jobs/",
     "jobLocation": "Philadelphia",
@@ -376,6 +383,58 @@
     "jobLocation": "Wayne",
     "query": "#wayne-pennsylvania a",
     "link": "#wayne-pennsylvania a"
+  },
+  {
+    "filename": "Famehouse",
+    "url": "http://famehouse.net/category/job-listings/",
+    "jobLocation": "Philadelphia",
+    "query": "h2 a",
+    "link": "h2 a"
+  },
+  {
+    "filename": "FastFig",
+    "url": "https://angel.co/fastfig/jobs",
+    "jobLocation": "Philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
+  },
+  {
+    "filename": "Fynydd",
+    "url": "https://fynydd.com/careers/",
+    "jobLocation": "King of Prussia",
+    "query": "h4",
+    "link": "#careers-sidebar a"
+  },
+  {
+    "filename": "Garfield-Group",
+    "url": "http://garfieldgroup.com/careers",
+    "jobLocation": "Newtown",
+    "query": ".ui-accordion-icons",
+    "link": ".ui-accordion-icons a"
+  },
+  {
+    "filename": "GatherDocs",
+    "url": "http://jobs.gatherdocs.com/",
+    "parseLocation": ["New Jersey", "Pennsylvania"],
+    "locations": ".job-listing",
+    "query": ".job-title a",
+    "link": ".job-title a"
+  },
+  {
+    "filename": "Greenlane-Search-Marketing-LLC",
+    "url": "http://www.greenlaneseo.com/jobs/",
+    "jobLocation": "Phoenixville",
+    "query": "#sjb_job-heading a",
+    "link": "#sjb_job-heading a"
+  },
+  {
+    "filename": "Guru",
+    "url": "https://www.getguru.com/jobs/",
+    "jobLocation": "Philadelphia",
+    "query": "h3+ p",
+    "link": null
   },
   {
     "filename": "Practice",

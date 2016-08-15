@@ -8,7 +8,7 @@ var chalk = require('chalk')
 var async = require ('async')
 var _ = require('lodash')
 var Nightmare = require('nightmare');
-var nightmare = Nightmare({ show: false }) // true displays popup electron window showing results must remove line #17
+var nightmare = Nightmare({ show: true }) // true displays popup electron window showing results must remove line #17
 
 function crawl(data, cb) {
   // Visual output

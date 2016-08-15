@@ -1,0 +1,36 @@
+{
+  "company": "FastFig",
+  "type": [
+    "Product"
+  ],
+  "url": "https://angel.co/fastfig/jobs",
+  "webSiteUrl": "https://www.fastfig.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://angel.co/fastfig/jobs/39166-front-end-developer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-04-30"
+}

@@ -1,0 +1,138 @@
+{
+  "company": "Garfield Group",
+  "type": [
+    "agency"
+  ],
+  "url": "http://garfieldgroup.com/careers",
+  "webSiteUrl": "http://garfieldgroup.com/",
+  "technologies": [],
+  "locations": {
+    "newtown": {
+      "@type": "Place",
+      "address": "60 Blacksmith Road, Newtown, PA 18940",
+      "geo": {
+        "latitude": 40.222709625,
+        "longitude": -74.915183875
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "intern",
+      "title": "Copywriter Intern",
+      "alternateName": "Intern",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": "2015-12-14"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Junior Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UX Designer",
+      "alternateName": "Designer, User Experience",
+      "url": "http://garfieldgroup.com/careers",
+      "jobLocation": "newtown",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Account Executive",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-4"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Account Supervisor",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-5"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Art Director",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-6"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Associate Account Executive",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-7"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Graphic Design Intern",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-8"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "New Business Development Manager",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-9"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Strategy/Account Intern",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-10"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Newtown",
+      "remote": false,
+      "title": "Web Developer",
+      "url": "http://garfieldgroup.com/careers#job_postings-block-11"
+    }
+  ],
+  "updated": "2016-04-30"
+}
