@@ -24,7 +24,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Junior Software Engineer",
       "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
@@ -33,7 +33,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Lead Software Engineer",
       "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
@@ -42,7 +42,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Front-end Application Engineer",
       "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"

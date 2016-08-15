@@ -65,7 +65,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Business Development Manager",
       "url": "http://chatterblast.com/careers/#"
@@ -74,7 +74,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Account Management",
       "url": "http://chatterblast.com/careers/#"
@@ -83,7 +83,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Research & Reporting Specialist",
       "url": "http://chatterblast.com/careers/#"

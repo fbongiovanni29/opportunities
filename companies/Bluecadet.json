@@ -34,7 +34,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Drupal Developer – PHL",
       "url": "http://www.bluecadet.com/careers/drupal-developer/"
@@ -43,7 +43,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Creative Director – PHL",
       "url": "http://www.bluecadet.com/careers/creative-director/"

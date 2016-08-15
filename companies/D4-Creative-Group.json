@@ -23,7 +23,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Account Director"
     },
@@ -31,7 +31,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Digital Marketing Manager"
     }

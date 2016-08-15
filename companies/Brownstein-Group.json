@@ -21,7 +21,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Senior Copywriter »",
       "url": "http://www.brownsteingroup.com/careers/#senior-copywriter"
@@ -30,7 +30,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Director of Client Services »",
       "url": "http://www.brownsteingroup.com/careers/#director-client-services"
@@ -39,7 +39,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Internships »",
       "url": "http://www.brownsteingroup.com/careers/#internships"

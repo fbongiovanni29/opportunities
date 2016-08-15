@@ -45,7 +45,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "South Hampton",
+      "jobLocation": "southampton",
       "remote": false,
       "title": "Customer Experience / Retention Specialist",
       "url": "http://boltontechnology.com/customer-experience-retention-specialist/"

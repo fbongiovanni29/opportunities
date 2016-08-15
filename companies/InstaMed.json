@@ -24,7 +24,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Account Manager (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/account-manager"
@@ -33,7 +33,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Marketing – Associate (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/marketing-associate"
@@ -42,7 +42,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Marketing – Senior Manager (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/marketing-senior-manager"
@@ -51,7 +51,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Payer Implementations Manager (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/payer-implementations-manager"
@@ -60,7 +60,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Product Management – Senior Manager (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/product-management-senior-manager"
@@ -69,7 +69,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Provider Implementations Manager (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/provider-implementations-manager"
@@ -78,7 +78,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Salesforce Administrator/Business Analyst (Philadelphia, PA)",
       "url": "http://www.instamed.com/about/careers/salesforce-administrator-business-analyst"

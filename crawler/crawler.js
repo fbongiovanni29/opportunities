@@ -8,6 +8,7 @@ var chalk = require('chalk')
 var async = require ('async')
 var _ = require('lodash')
 var Nightmare = require('nightmare');
+require('nightmare-iframe-manager')(Nightmare)
 var nightmare = Nightmare({ show: true }) // true displays popup electron window showing results must remove line #17
 
 function crawl(data, cb) {
@@ -15,6 +16,9 @@ function crawl(data, cb) {
   console.log(chalk.blue("Starting: " + data.filename))
   var currentData = require('./data/companies/' + data.filename + '.json')
   var nightmare = new Nightmare()
+  if ("iFrame" in data === true) {
+    nightmare.enterIFrame(data.iFrame)
+  }
   nightmare
     .goto(data.url) // go to JSON specified url
     .wait(data.query) // wait until CSS selector loads

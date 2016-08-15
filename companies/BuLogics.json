@@ -54,7 +54,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "",
       "url": "http://bulogics.com/wp-content/uploads/2013/05/IMG_0241.jpg"
@@ -63,7 +63,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Integration Engineer",
       "url": "http://bulogics.com/about-us/jobs/integration-engineer/"

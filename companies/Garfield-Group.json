@@ -65,7 +65,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Account Executive",
       "url": "http://garfieldgroup.com/careers#job_postings-block-4"
@@ -74,7 +74,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Account Supervisor",
       "url": "http://garfieldgroup.com/careers#job_postings-block-5"
@@ -83,7 +83,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Art Director",
       "url": "http://garfieldgroup.com/careers#job_postings-block-6"
@@ -92,7 +92,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Associate Account Executive",
       "url": "http://garfieldgroup.com/careers#job_postings-block-7"
@@ -101,7 +101,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Graphic Design Intern",
       "url": "http://garfieldgroup.com/careers#job_postings-block-8"
@@ -110,7 +110,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "New Business Development Manager",
       "url": "http://garfieldgroup.com/careers#job_postings-block-9"
@@ -119,7 +119,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Strategy/Account Intern",
       "url": "http://garfieldgroup.com/careers#job_postings-block-10"
@@ -128,7 +128,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Newtown",
+      "jobLocation": "newtown",
       "remote": false,
       "title": "Web Developer",
       "url": "http://garfieldgroup.com/careers#job_postings-block-11"

@@ -35,7 +35,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Blue Bell",
+      "jobLocation": "blue bell",
       "remote": false,
       "title": "",
       "url": "http://www.halfpenny.com/client-relationship-specialist.html"
@@ -44,7 +44,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Blue Bell",
+      "jobLocation": "blue bell",
       "remote": false,
       "title": "Senior Software Developer",
       "url": "http://www.halfpenny.com/senior-software-developer.html"
@@ -53,7 +53,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Blue Bell",
+      "jobLocation": "blue bell",
       "remote": false,
       "title": "Design Specification Specialist",
       "url": "http://www.halfpenny.com/design-specification-specialist.html"
@@ -62,7 +62,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Blue Bell",
+      "jobLocation": "blue bell",
       "remote": false,
       "title": "Project Coordinator",
       "url": "http://www.halfpenny.com/project-coordinator.html"
@@ -71,7 +71,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Blue Bell",
+      "jobLocation": "blue bell",
       "remote": false,
       "title": "Sales Internal Account Manager",
       "url": "http://www.halfpenny.com/sales-internal-account-manager.html"

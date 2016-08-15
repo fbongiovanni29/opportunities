@@ -298,7 +298,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Engagement Strategist",
         "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812131233_GEOF6QO4CRSA3AMX"
@@ -307,7 +307,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Associate Creative Director, Copy",
         "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812144756_GRVEVGDQPEHO4NYU"
@@ -316,7 +316,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "VP, Business Leadership",
         "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160705170323_FLCMARUCXZTKAYTC"
@@ -708,7 +708,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Director of Business Development",
         "url": "http://www.aweber.jobs/apply/8jqfYg/Director-Of-Business-Development"
@@ -717,7 +717,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Senior DevOps Engineer",
         "url": "http://www.aweber.jobs/apply/mF6UCn/Senior-DevOps-Engineer"
@@ -726,7 +726,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Senior Operations Engineer",
         "url": "http://www.aweber.jobs/apply/JF1lVZ/Senior-Operations-Engineer"
@@ -735,7 +735,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Technical Operations - Engineering Team Lead",
         "url": "http://www.aweber.jobs/apply/RweExV/Technical-Operations-Engineering-Team-Lead"
@@ -766,7 +766,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Groovy designer needed!",
         "url": "http://baseklas.com/jobs/"
@@ -798,7 +798,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Software Engineer - Philadelphia",
         "url": "https://angel.co/biobots/jobs/116521-software-engineer-philadelphia"
@@ -807,7 +807,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Robotics Engineer - Philadelphia",
         "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
@@ -816,7 +816,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Bioengineer - Philadelphia",
         "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
@@ -865,7 +865,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "SENIOR MOLECULAR BIOLOGIST",
         "url": "http://www.biomeme.com/careers"
@@ -896,7 +896,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "FRONT END ENGINEER"
       },
@@ -904,7 +904,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "FULL STACK ENGINEER"
       }
@@ -947,7 +947,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Drupal Developer – PHL",
         "url": "http://www.bluecadet.com/careers/drupal-developer/"
@@ -956,7 +956,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Creative Director – PHL",
         "url": "http://www.bluecadet.com/careers/creative-director/"
@@ -1011,7 +1011,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "South Hampton",
+        "jobLocation": "southampton",
         "remote": false,
         "title": "Customer Experience / Retention Specialist",
         "url": "http://boltontechnology.com/customer-experience-retention-specialist/"
@@ -1088,7 +1088,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": true,
         "title": "ISV Business Developer SAP US Remote",
         "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038153-dell-boomi-isv-business-developer-sap-us-remote-jobs"
@@ -1097,7 +1097,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Boomi Business and Sales Ops Consultant",
         "url": "http://jobs.dell.com/united-kingdom/united-kingdom/consulting/jobid10355426-boomi-business-and-sales-ops-consultant-jobs"
@@ -1106,7 +1106,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Boomi Integration Consultant\\Architect",
         "url": "http://jobs.dell.com/au/sydney/consulting/jobid10273392-boomi-integration-consultant_architect-sydney-or-melbourne-jobs"
@@ -1115,7 +1115,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Business Developer Systems Integrators\\NetSuite",
         "url": "http://jobs.dell.com/us/san-francisco/engineering/jobid10124090-dell-boomi-business-developer-systems-integrators_netsuite-us-remote-west-coast-referred-jobs"
@@ -1124,7 +1124,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Business Developer Systems Integrators\\Salesforce",
         "url": "http://jobs.dell.com/us/san-francisco/engineering/jobid10124079-dell-boomi-business-developer-systems-integrators_salesforce-us-remote-west-coast-referred-jobs"
@@ -1133,7 +1133,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Campaign Manager Dell Boomi",
         "url": "http://jobs.dell.com/us/san-francisco/campaign-management/jobid10346978-campaign-manager-dell-boomi-jobs"
@@ -1142,7 +1142,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Business Intelligence Analyst",
         "url": "http://jobs.dell.com/us/pennsylvania/business-intelligence-support-services/jobid10348808-dell-boomi-business-intelligence-analyst-berwyn-pa-jobs"
@@ -1151,7 +1151,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Content Marketing Manager",
         "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10348807-dell-boomi-content-marketing-manager-san-francisco-ca-or-berwyn-pa-jobs"
@@ -1160,7 +1160,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Enterprise Software Sales Account Manager",
         "url": "http://jobs.dell.com/us/pennsylvania/account-management/jobid10188585-dell-boomi-enterprise-software-sales-account-manager-northeastern-us-remote-based-jobs"
@@ -1169,7 +1169,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Front End Developer",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid10354221-dell-boomi-front-end-developer-berwyn-pa-jobs"
@@ -1178,7 +1178,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Partner Technical Enablement Solution Engineer",
         "url": "http://jobs.dell.com/in/india/engineering/jobid9935863-dell-boomi-partner-technical-enablement-solution-engineer-bangalore-jobs"
@@ -1187,7 +1187,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Pre Sales Engineer Global System Integrators",
         "url": "http://jobs.dell.com/us/san-jose/engineering/jobid10145995-dell-boomi-pre-sales-engineer-global-system-integrators-remote-us-based-jobs"
@@ -1196,7 +1196,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Sr. Graphic Designer",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid10346981-dell-boomi-sr.-graphic-designer-jobs"
@@ -1205,7 +1205,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Systems Integration Professional",
         "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9935854-dell-boomi-systems-integration-professional-jobs"
@@ -1214,7 +1214,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Technical Trainer GSI Partner Enablement",
         "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9924502-dell-boomi-technical-trainer-gsi-partner-enablement-jobs"
@@ -1223,7 +1223,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Marketing Analytics and Database Manager Dell Boomi",
         "url": "http://jobs.dell.com/us/san-francisco/marketing-marketing-operations/jobid10346976-marketing-analytics-and-database-manager-dell-boomi-san-francisco-ca-or-berwyn-pa-jobs"
@@ -1232,7 +1232,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Project Program Management Consultant",
         "url": "http://jobs.dell.com/us/pennsylvania/information-technology/jobid9772752-project-program-management-consultant-jobs"
@@ -1241,7 +1241,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Senior Analyst Relations Manager",
         "url": "http://jobs.dell.com/us/san-francisco/marketing-corporate-communications/jobid10148829-senior-analyst-relations-manager-dell-boomi-(san-francisco-ca)-jobs"
@@ -1250,7 +1250,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Senior Product Marketing Manager – API Management – Dell Boomi",
         "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10182828-dell-boomi-senior-product-marketing-manager-%E2%80%93-api-management-jobs"
@@ -1259,7 +1259,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "SFDC Business Applications and Data Analyst",
         "url": "http://jobs.dell.com/us/philadelphia/services-it-business-systems-analysis/jobid9712946-sfdc-business-applications-and-data-analyst-jobs"
@@ -1268,7 +1268,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Software QA Sr. Engineer",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid9838584-software-qa-sr.-engineer-jobs"
@@ -1277,7 +1277,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Software Solutions Architect",
         "url": "http://jobs.dell.com/us/north-america/engineering/jobid9772762-sw-solutions-architect-iii-jobs"
@@ -1286,7 +1286,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Sr. Accountant for Dell Boomi",
         "url": "http://jobs.dell.com/us/pennsylvania/accounting/jobid10194933-sr.-accountant-for-dell-boomi-jobs"
@@ -1295,7 +1295,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Sr. Software Engineer Java",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid6186484-sr.-software-engineer-java-jobs"
@@ -1304,7 +1304,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Sr. Technical Writer",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering-operations-technical-writer/jobid8546860-sr.-technical-writer-jobs"
@@ -1313,7 +1313,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Systems Engineering Sr. Advisor",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs"
@@ -1322,7 +1322,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Berwyn",
+        "jobLocation": "berwyn",
         "remote": false,
         "title": "Systems Integration Architect Dell Boomi",
         "url": "http://jobs.dell.com/in/india/information-technology/jobid10103074-systems-integration-architect-dell-boomi-jobs"
@@ -1498,7 +1498,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Junior Interaction Designer",
         "url": "http://www.bresslergroup.com/about/#jobs"
@@ -1507,7 +1507,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Mobile Applications Developer",
         "url": "http://www.bresslergroup.com/about/#jobs"
@@ -1664,7 +1664,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Fort Washington",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
         "url": "https://www.linkedin.com/jobs2/cap/view/176368496?pathWildcard=176368496&trk=job_capjs"
@@ -1673,7 +1673,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Fort Washington",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": "SOFTWARE DEVELOPMENT INTERN",
         "url": "http://philadelphia.craigslist.org/sof/5704689439.html"
@@ -1682,7 +1682,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Fort Washington",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": ".NET SOFTWARE DEVELOPER",
         "url": "https://www.ziprecruiter.com/job/ddb0e371"
@@ -1746,7 +1746,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Copywriter »",
         "url": "http://www.brownsteingroup.com/careers/#senior-copywriter"
@@ -1755,7 +1755,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Client Services »",
         "url": "http://www.brownsteingroup.com/careers/#director-client-services"
@@ -1764,7 +1764,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Internships »",
         "url": "http://www.brownsteingroup.com/careers/#internships"
@@ -1795,7 +1795,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Sales Consultant - Philadelphia, PA",
         "url": "http://www.btbsecurity.com/component/k2/item/36-sales-consultant-phl"
@@ -1859,7 +1859,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "",
         "url": "http://bulogics.com/wp-content/uploads/2013/05/IMG_0241.jpg"
@@ -1868,7 +1868,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Integration Engineer",
         "url": "http://bulogics.com/about-us/jobs/integration-engineer/"
@@ -1924,7 +1924,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Linux Systems Administrator"
       },
@@ -1932,7 +1932,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Jr. Software Integration and Support Engineer"
       },
@@ -1940,7 +1940,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "ISV Sales Specialist"
       }
@@ -1973,7 +1973,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Scala Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/"
@@ -1982,7 +1982,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Java/Spring Engineers",
         "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/"
@@ -1991,7 +1991,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Mobile Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/"
@@ -2000,7 +2000,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "AngularJS Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/chariot-careers-angular-js-developers/"
@@ -2075,7 +2075,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Business Development Manager",
         "url": "http://chatterblast.com/careers/#"
@@ -2084,7 +2084,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Management",
         "url": "http://chatterblast.com/careers/#"
@@ -2093,7 +2093,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Research & Reporting Specialist",
         "url": "http://chatterblast.com/careers/#"
@@ -2157,7 +2157,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Horsham",
+        "jobLocation": "horsham",
         "remote": false,
         "title": "Clinical Data Monitor",
         "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
@@ -2166,7 +2166,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Horsham",
+        "jobLocation": "horsham",
         "remote": false,
         "title": "General Accountant",
         "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78824756203f9b01562d60821716ed&source="
@@ -2255,7 +2255,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Sales Development Rep",
         "url": "http://www.cloudamize.com/careers/sales-development-rep"
@@ -2339,7 +2339,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Junior Software Engineer",
         "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
@@ -2348,7 +2348,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Lead Software Engineer",
         "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
@@ -2357,7 +2357,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Front-end Application Engineer",
         "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
@@ -2420,7 +2420,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Project Manager",
         "url": "http://www.conigent.com/contact/#op-44924-infor-m3-project-manager"
@@ -2429,7 +2429,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Procurement Warehousing & Logistics",
         "url": "http://www.conigent.com/contact/#op-44150-infor-m3-functional-consultant-procurement-warehousing--logistics"
@@ -2438,7 +2438,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Financial Management Implementation",
         "url": "http://www.conigent.com/contact/#op-44149-infor-m3-functional-consultant-financial-management-implementation"
@@ -2447,7 +2447,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Technical Consultant - Integration (MEC/ION/EDI)",
         "url": "http://www.conigent.com/contact/#op-44148-infor-m3-technical-consultant-integration-mecionedi"
@@ -2456,7 +2456,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)",
         "url": "http://www.conigent.com/contact/#op-44147-infor-m3-technical-consultant-development-javamakmashupssmart-office-sdk"
@@ -2465,7 +2465,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Equipment Service Management & Rental",
         "url": "http://www.conigent.com/contact/#op-44146-infor-m3-functional-consultant-equipment-service-management--rental"
@@ -2474,7 +2474,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Customer Sales Management",
         "url": "http://www.conigent.com/contact/#op-44145-infor-m3-functional-consultant-customer-sales-management"
@@ -2483,7 +2483,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Cherry Hil",
+        "jobLocation": "cherry Hil",
         "remote": false,
         "title": "M3 Functional Consultant - Planning & Manufacturing Operations",
         "url": "http://www.conigent.com/contact/#op-43919-m3-functional-consultant-planning--manufacturing-operations"
@@ -2529,16 +2529,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
-        "remote": true,
-        "title": "Senior Software Developer - Elixir, React, Rails",
-        "url": "https://curadora.workable.com/jobs/308843"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": true,
         "title": "Web Developer - React, Rails, APIs",
         "url": "https://curadora.workable.com/jobs/248814"
@@ -2547,7 +2538,16 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
+        "remote": true,
+        "title": "Senior Software Developer - Elixir, React, Rails",
+        "url": "https://curadora.workable.com/jobs/308843"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Inside Sales Associate",
         "url": "https://curadora.workable.com/jobs/251784"
@@ -2732,7 +2732,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Director"
       },
@@ -2740,7 +2740,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Digital Marketing Manager"
       }
@@ -2770,7 +2770,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Business Development Representative (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative"
@@ -2779,7 +2779,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Customer Success Manager (One Opening)",
         "url": "http://www.deacom.com/ViewPage/184/deacom-inc-customer-success-manager"
@@ -2788,7 +2788,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Data Conversion Specialist (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/185/deacom-inc-data-conversion-specialist"
@@ -2797,7 +2797,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Implementation Consultant (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/186/deacom-inc-implementation-consultant"
@@ -2806,7 +2806,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Project Manager (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager"
@@ -2815,7 +2815,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "C# / .NET Software Engineer (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer"
@@ -2824,7 +2824,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chesterbrook",
+        "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Technical Specialist (Multiple Openings)",
         "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist"
@@ -2858,7 +2858,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Web Project Manager",
         "url": "https://boards.greenhouse.io/delphicdigital/jobs/225608"
@@ -2867,7 +2867,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing Communications Manager",
         "url": "https://boards.greenhouse.io/delphicdigital/jobs/257117"
@@ -2876,7 +2876,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Technical Lead - Web Development",
         "url": "https://boards.greenhouse.io/delphicdigital/jobs/174453"
@@ -2938,7 +2938,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Android Developer",
         "url": "https://www.jobscore.com/careers/dramafever/jobs/android-developer-b0E4IKcUSr5OxVdG1ZS6tF?ref=rss&sid=68"
@@ -2947,7 +2947,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Platform Operations Engineer",
         "url": "https://www.jobscore.com/careers/dramafever/jobs/platform-operations-engineer-ciqtOurtGr5PCVdG1ZS6tF?ref=rss&sid=68"
@@ -2956,7 +2956,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Software Engineer - Payments Focus",
         "url": "https://www.jobscore.com/careers/dramafever/jobs/senior-software-engineer-payments-focus-aoLYPAllir5PgHdG1ZS6tF?ref=rss&sid=68"
@@ -3108,7 +3108,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "DIGITAL PROJECT MANAGER",
         "url": "http://easternstandard.com/pages/careers"
@@ -3117,7 +3117,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "DRUPAL FRONT END WEB DEVELOPER",
         "url": "http://easternstandard.com/pages/careers"
@@ -3126,7 +3126,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "DRUPAL FULL STACK DEVELOPER",
         "url": "http://easternstandard.com/pages/careers"
@@ -3157,7 +3157,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Policy & Initiatives Intern",
         "url": "http://economyleague.org/uploads/files/21359859630450156-economy-league-policy-initiatives-internship-description-7-1-15.pdf"
@@ -3166,7 +3166,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Communications Intern",
         "url": "http://economyleague.org/uploads/files/396761357700689249-economy-league-communications-internship-description-7-1-15.pdf"
@@ -3198,7 +3198,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Malvern",
+        "jobLocation": "malvern",
         "remote": false,
         "title": ".NET DEVELOPER",
         "url": "http://entech.com/Careers/Req/10000"
@@ -3207,7 +3207,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Malvern",
+        "jobLocation": "malvern",
         "remote": false,
         "title": "JAVA DEVELOPER",
         "url": "http://entech.com/Careers/Req/10001"
@@ -3216,7 +3216,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Malvern",
+        "jobLocation": "malvern",
         "remote": true,
         "title": "DEVOPS ENGINEER (REMOTE)",
         "url": "http://entech.com/Careers/Req/10002"
@@ -3299,7 +3299,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Analytics",
         "url": "https://www.epam.com/careers/job-listings/job.15876#apply"
@@ -3308,7 +3308,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Hybris Solution Architect",
         "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
@@ -3317,7 +3317,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Content Strategist",
         "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
@@ -3326,7 +3326,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Director of User Experience Design",
         "url": "https://www.epam.com/careers/job-listings/job.16051#apply"
@@ -3335,7 +3335,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Web Analyst",
         "url": "https://www.epam.com/careers/job-listings/job.15882#apply"
@@ -3498,7 +3498,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Wayne, Pennsylvania",
         "url": "http://www.evolveip.net/about/careers#wayne-pennsylvania"
@@ -3507,7 +3507,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Get Directions & View Larger Map",
         "url": "http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Evolve+IP&sll=37.0625,-95.677068&sspn=57.641503,53.613281&ie=UTF8&cid=11976602197763737324&ll=40.078334,-75.40638&spn=0.039405,0.137329&z=12"
@@ -3516,7 +3516,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Corporate Development Analyst",
         "url": "http://www.evolveip.net/about/careers/corporate-development-analyst"
@@ -3525,7 +3525,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "VP Finance/Corporate Controller",
         "url": "http://www.evolveip.net/about/careers/vp-financecorporate-controller"
@@ -3534,7 +3534,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Event Coordinator",
         "url": "http://www.evolveip.net/about/careers/event-coordinator"
@@ -3543,7 +3543,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Virtualization Support Engineer, Level 1",
         "url": "http://www.evolveip.net/about/careers/l1-virtualization-support-engineer"
@@ -3552,7 +3552,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Platform Project Manager",
         "url": "http://www.evolveip.net/about/careers/platform-project-manager"
@@ -3561,7 +3561,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Business Systems Analyst",
         "url": "http://www.evolveip.net/about/careers/business-systems-analyst"
@@ -3570,7 +3570,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Account Manager",
         "url": "http://www.evolveip.net/about/careers/account-manager-2"
@@ -3579,7 +3579,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Business Development Associate",
         "url": "http://www.evolveip.net/about/careers/business-development-associate"
@@ -3588,7 +3588,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Training Coordinator",
         "url": "http://www.evolveip.net/about/careers/evolve-ip-training-coordinator"
@@ -3597,7 +3597,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Wayne",
+        "jobLocation": "wayne",
         "remote": false,
         "title": "Customer Service Compliance Associate",
         "url": "http://www.evolveip.net/about/careers/customer-service-compliance-associate"
@@ -3631,7 +3631,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: DIGITAL MARKETER",
         "url": "http://famehouse.net/job-listing-digital-marketer/"
@@ -3640,7 +3640,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: SENIOR MANAGER, BRAND PARTNERSHIPS",
         "url": "http://famehouse.net/job-listing-senior-manager-brand-partnerships/"
@@ -3649,7 +3649,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: D2C ACCOUNTS COORDINATOR",
         "url": "http://famehouse.net/job-listing-d2c-accounts-coordinator/"
@@ -3658,7 +3658,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: EMAIL MARKETING MANAGER",
         "url": "http://famehouse.net/job-listing-email-marketing-manager-2/"
@@ -3667,7 +3667,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: DIGITAL MARKETING ASSISTANT",
         "url": "http://famehouse.net/job-listing-digital-marketing-assistant/"
@@ -3676,7 +3676,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: PAID MEDIA ASSISTANT",
         "url": "http://famehouse.net/job-listing-paid-media-assistant/"
@@ -3685,7 +3685,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: DIGITAL PROJECT MANAGER",
         "url": "http://famehouse.net/job-listing-digital-project-manager/"
@@ -3763,7 +3763,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "King of Prussia",
+        "jobLocation": "king of prussia",
         "remote": false,
         "title": "Freelance Umbraco CMS Developer",
         "url": "https://fynydd.com/careers/jp2002/"
@@ -3772,7 +3772,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "King of Prussia",
+        "jobLocation": "king of prussia",
         "remote": false,
         "title": "Freelance WordPress Multisite Developer",
         "url": "https://fynydd.com/careers/jp2001/"
@@ -3847,7 +3847,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Account Executive",
         "url": "http://garfieldgroup.com/careers#job_postings-block-4"
@@ -3856,7 +3856,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Account Supervisor",
         "url": "http://garfieldgroup.com/careers#job_postings-block-5"
@@ -3865,7 +3865,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Art Director",
         "url": "http://garfieldgroup.com/careers#job_postings-block-6"
@@ -3874,7 +3874,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Associate Account Executive",
         "url": "http://garfieldgroup.com/careers#job_postings-block-7"
@@ -3883,7 +3883,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Graphic Design Intern",
         "url": "http://garfieldgroup.com/careers#job_postings-block-8"
@@ -3892,7 +3892,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "New Business Development Manager",
         "url": "http://garfieldgroup.com/careers#job_postings-block-9"
@@ -3901,7 +3901,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Strategy/Account Intern",
         "url": "http://garfieldgroup.com/careers#job_postings-block-10"
@@ -3910,7 +3910,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Web Developer",
         "url": "http://garfieldgroup.com/careers#job_postings-block-11"
@@ -4061,7 +4061,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Sales Representative",
         "url": "https://www.getguru.com/jobs/"
@@ -4106,7 +4106,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Blue Bell",
+        "jobLocation": "blue bell",
         "remote": false,
         "title": "",
         "url": "http://www.halfpenny.com/client-relationship-specialist.html"
@@ -4115,7 +4115,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Blue Bell",
+        "jobLocation": "blue bell",
         "remote": false,
         "title": "Senior Software Developer",
         "url": "http://www.halfpenny.com/senior-software-developer.html"
@@ -4124,7 +4124,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Blue Bell",
+        "jobLocation": "blue bell",
         "remote": false,
         "title": "Design Specification Specialist",
         "url": "http://www.halfpenny.com/design-specification-specialist.html"
@@ -4133,7 +4133,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Blue Bell",
+        "jobLocation": "blue bell",
         "remote": false,
         "title": "Project Coordinator",
         "url": "http://www.halfpenny.com/project-coordinator.html"
@@ -4142,7 +4142,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Blue Bell",
+        "jobLocation": "blue bell",
         "remote": false,
         "title": "Sales Internal Account Manager",
         "url": "http://www.halfpenny.com/sales-internal-account-manager.html"
@@ -4187,7 +4187,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Business Development Intern – Fall 2016",
         "url": "http://smrtr.io/7VaWDg"
@@ -4196,7 +4196,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Creative Intern – Fall 2016",
         "url": "http://smrtr.io/HNSM1A"
@@ -4205,7 +4205,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Freelance Designer",
         "url": "http://smrtr.co/1sAUxya"
@@ -4214,7 +4214,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing & Events Intern – Fall 2016",
         "url": "http://smrtr.io/FDydjw"
@@ -4223,7 +4223,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Project Management Intern – Fall 2016",
         "url": "http://smrtr.io/Hv-P6g"
@@ -4232,7 +4232,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Research Intern – Fall 2016",
         "url": "http://smrtr.io/hnY5-w"
@@ -4300,7 +4300,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Product",
         "url": "https://www.inspireenergy.com/join-our-team#"
@@ -4309,7 +4309,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Event Sales Specialist",
         "url": "https://www.inspireenergy.com/join-our-team#"
@@ -4318,7 +4318,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Field Sales Quality Analyst",
         "url": "https://www.inspireenergy.com/join-our-team#"
@@ -4327,7 +4327,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Member Experience Manager",
         "url": "https://www.inspireenergy.com/join-our-team#"
@@ -4361,7 +4361,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Manager (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/account-manager"
@@ -4370,7 +4370,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing – Associate (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/marketing-associate"
@@ -4379,7 +4379,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing – Senior Manager (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/marketing-senior-manager"
@@ -4388,7 +4388,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Payer Implementations Manager (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/payer-implementations-manager"
@@ -4397,7 +4397,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Product Management – Senior Manager (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/product-management-senior-manager"
@@ -4406,7 +4406,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Provider Implementations Manager (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/provider-implementations-manager"
@@ -4415,7 +4415,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Salesforce Administrator/Business Analyst (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/salesforce-administrator-business-analyst"
@@ -4653,7 +4653,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Solutions Engineer",
         "url": "https://www.practice.xyz/position/solutions-engineer/"
@@ -4662,7 +4662,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Implementation Specialist",
         "url": "https://www.practice.xyz/position/implementation-specialist/"
@@ -4671,7 +4671,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Full Stack Software Engineer",
         "url": "https://www.practice.xyz/position/full-stack-software-engineer/"
@@ -4680,7 +4680,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Development Representative",
         "url": "https://www.practice.xyz/position/account-development-representative/"
@@ -4689,7 +4689,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Customer Success Representative",
         "url": "https://www.practice.xyz/position/customer-success-representative/"
@@ -4698,7 +4698,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Learning Specialist",
         "url": "https://www.practice.xyz/position/learning-specialist/"

@@ -21,7 +21,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Horsham",
+      "jobLocation": "horsham",
       "remote": false,
       "title": "Clinical Data Monitor",
       "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
@@ -30,7 +30,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Horsham",
+      "jobLocation": "horsham",
       "remote": false,
       "title": "General Accountant",
       "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78824756203f9b01562d60821716ed&source="

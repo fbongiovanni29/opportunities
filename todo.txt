@@ -2,13 +2,13 @@ Find employment type
 
 Blocked by robots.txt - AppNexus, Aramark
 Page not loading properly - Cerner (most likely Angular issue)
-No positions currently - AboutOne, Azavea, Compliance-Implementation-Services, CopyCat, Drakontas, Globo, GlobeTopper, GoEmerchant, IntroNet
+No positions currently - AboutOne, Azavea, Compliance-Implementation-Services, CopyCat, Drakontas, Globo, GlobeTopper, GoEmerchant, IntroNet, KPIinterface
 iFrame - CoreDial, HealthVerity, integrichain
 No tech positions - Billy Penn
-Requires navigation - CHOP
+Requires navigation - CHOP, LEMMA
 
 Extra blank item - Braxton
-Job location to lowercase
+CloudMine parse fix location
 
 
 Famehouse - remove “JOB LISTING: “

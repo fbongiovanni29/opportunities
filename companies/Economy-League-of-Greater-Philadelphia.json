@@ -21,7 +21,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Policy & Initiatives Intern",
       "url": "http://economyleague.org/uploads/files/21359859630450156-economy-league-policy-initiatives-internship-description-7-1-15.pdf"
@@ -30,7 +30,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Communications Intern",
       "url": "http://economyleague.org/uploads/files/396761357700689249-economy-league-communications-internship-description-7-1-15.pdf"

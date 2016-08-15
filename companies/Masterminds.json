@@ -1,25 +1,21 @@
 {
-  "company": "Biomeme, Inc.",
+  "company": "Masterminds",
   "type": [
-    "Product",
-    "Startup"
+    "agency"
   ],
-  "url": "http://www.biomeme.com/careers",
-  "webSiteUrl": "http://www.biomeme.com/",
-  "technologies": [
-    "C",
-    "C++"
-  ],
+  "url": "http://mastermindsagency.com/#gigs",
+  "webSiteUrl": "http://mastermindsagency.com/",
+  "technologies": [],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
       "@type": "Place",
-      "address": "20 N 3rd St., Philadelphia, PA 19106",
+      "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
       "geo": {
         "@context": "http://schema.org",
         "@type": "Place",
-        "latitude": 39.950812,
-        "longitude": -75.145607
+        "latitude": 39.9493152971,
+        "longitude": -75.1626386191
       }
     }
   },
@@ -28,12 +24,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "SENIOR ELECTRICAL ENGINEER",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.biomeme.com/careers",
+      "title": "Director of Business Development",
+      "alternateName": "Business Development",
+      "url": "http://mastermindsagency.com/#gigs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
@@ -41,9 +37,9 @@
       "datePosted": "2016-07-15",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "SENIOR MOLECULAR BIOLOGIST",
-      "url": "http://www.biomeme.com/careers"
+      "title": "Account Management Assistant",
+      "url": ""
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-04-30"
 }

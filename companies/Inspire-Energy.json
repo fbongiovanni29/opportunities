@@ -58,7 +58,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Director of Product",
       "url": "https://www.inspireenergy.com/join-our-team#"
@@ -67,7 +67,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Event Sales Specialist",
       "url": "https://www.inspireenergy.com/join-our-team#"
@@ -76,7 +76,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Field Sales Quality Analyst",
       "url": "https://www.inspireenergy.com/join-our-team#"
@@ -85,7 +85,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Member Experience Manager",
       "url": "https://www.inspireenergy.com/join-our-team#"

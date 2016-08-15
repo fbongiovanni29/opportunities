@@ -418,3 +418,55 @@ Cannot read property 'href' of undefined
 Intuitive-Company
 Cannot read property 'href' of undefined
 08/15/2016 12:27:39
+-----------------------------------------------
+Kepler-Group
+Cannot read property 'innerText' of undefined
+08/15/2016 16:43:39
+-----------------------------------------------
+Kepler-Group
+Cannot read property 'innerText' of undefined
+08/15/2016 16:44:11
+-----------------------------------------------
+Kepler-Group
+Cannot read property 'innerText' of undefined
+08/15/2016 16:44:34
+-----------------------------------------------
+Kepler-Group
+Cannot read property 'innerText' of undefined
+08/15/2016 16:45:05
+-----------------------------------------------
+Kepler-Group
+Cannot read property 'innerText' of undefined
+08/15/2016 16:47:01
+-----------------------------------------------
+Lampscom-Inc
+Cannot read property 'innerText' of undefined
+08/15/2016 17:22:36
+-----------------------------------------------
+Linode-LLC
+[object Object]
+08/15/2016 17:32:40
+-----------------------------------------------
+Medecision
+Cannot read property 'innerText' of undefined
+08/15/2016 19:18:34
+-----------------------------------------------
+1-Trick-Pony
+Error: .wait() timed out after 30000msec
+08/15/2016 19:24:08
+-----------------------------------------------
+160over90
+Error: .wait() timed out after 30000msec
+08/15/2016 19:24:08
+-----------------------------------------------
+AWeber-Communications
+Error: .wait() timed out after 30000msec
+08/15/2016 19:24:08
+-----------------------------------------------
+AgileTrailblazers
+Error: .wait() timed out after 30000msec
+08/15/2016 19:24:08
+-----------------------------------------------
+50onRed
+Error: .wait() timed out after 30000msec
+08/15/2016 19:24:08

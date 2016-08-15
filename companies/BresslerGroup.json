@@ -98,7 +98,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Junior Interaction Designer",
       "url": "http://www.bresslergroup.com/about/#jobs"
@@ -107,7 +107,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Mobile Applications Developer",
       "url": "http://www.bresslergroup.com/about/#jobs"

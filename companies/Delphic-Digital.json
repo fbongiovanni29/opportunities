@@ -24,7 +24,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Web Project Manager",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/225608"
@@ -33,7 +33,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Marketing Communications Manager",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/257117"
@@ -42,7 +42,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Technical Lead - Web Development",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/174453"

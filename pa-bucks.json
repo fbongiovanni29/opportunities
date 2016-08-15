@@ -83,7 +83,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Director of Business Development",
         "url": "http://www.aweber.jobs/apply/8jqfYg/Director-Of-Business-Development"
@@ -92,7 +92,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Senior DevOps Engineer",
         "url": "http://www.aweber.jobs/apply/mF6UCn/Senior-DevOps-Engineer"
@@ -101,7 +101,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Senior Operations Engineer",
         "url": "http://www.aweber.jobs/apply/JF1lVZ/Senior-Operations-Engineer"
@@ -110,7 +110,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Chalfont",
+        "jobLocation": "chalfont",
         "remote": false,
         "title": "Technical Operations - Engineering Team Lead",
         "url": "http://www.aweber.jobs/apply/RweExV/Technical-Operations-Engineering-Team-Lead"
@@ -165,7 +165,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "South Hampton",
+        "jobLocation": "southampton",
         "remote": false,
         "title": "Customer Experience / Retention Specialist",
         "url": "http://boltontechnology.com/customer-experience-retention-specialist/"
@@ -287,7 +287,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Account Executive",
         "url": "http://garfieldgroup.com/careers#job_postings-block-4"
@@ -296,7 +296,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Account Supervisor",
         "url": "http://garfieldgroup.com/careers#job_postings-block-5"
@@ -305,7 +305,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Art Director",
         "url": "http://garfieldgroup.com/careers#job_postings-block-6"
@@ -314,7 +314,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Associate Account Executive",
         "url": "http://garfieldgroup.com/careers#job_postings-block-7"
@@ -323,7 +323,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Graphic Design Intern",
         "url": "http://garfieldgroup.com/careers#job_postings-block-8"
@@ -332,7 +332,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "New Business Development Manager",
         "url": "http://garfieldgroup.com/careers#job_postings-block-9"
@@ -341,7 +341,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Strategy/Account Intern",
         "url": "http://garfieldgroup.com/careers#job_postings-block-10"
@@ -350,7 +350,7 @@
         "@context": "http://schema.org",
         "@type": "JobPosting",
         "datePosted": "2016-07-15",
-        "jobLocation": "Newtown",
+        "jobLocation": "newtown",
         "remote": false,
         "title": "Web Developer",
         "url": "http://garfieldgroup.com/careers#job_postings-block-11"

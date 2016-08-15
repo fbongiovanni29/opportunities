@@ -82,7 +82,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chalfont",
+      "jobLocation": "chalfont",
       "remote": false,
       "title": "Director of Business Development",
       "url": "http://www.aweber.jobs/apply/8jqfYg/Director-Of-Business-Development"
@@ -91,7 +91,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chalfont",
+      "jobLocation": "chalfont",
       "remote": false,
       "title": "Senior DevOps Engineer",
       "url": "http://www.aweber.jobs/apply/mF6UCn/Senior-DevOps-Engineer"
@@ -100,7 +100,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chalfont",
+      "jobLocation": "chalfont",
       "remote": false,
       "title": "Senior Operations Engineer",
       "url": "http://www.aweber.jobs/apply/JF1lVZ/Senior-Operations-Engineer"
@@ -109,7 +109,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chalfont",
+      "jobLocation": "chalfont",
       "remote": false,
       "title": "Technical Operations - Engineering Team Lead",
       "url": "http://www.aweber.jobs/apply/RweExV/Technical-Operations-Engineering-Team-Lead"

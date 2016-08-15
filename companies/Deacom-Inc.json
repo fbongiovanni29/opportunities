@@ -21,7 +21,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Business Development Representative (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative"
@@ -30,7 +30,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Customer Success Manager (One Opening)",
       "url": "http://www.deacom.com/ViewPage/184/deacom-inc-customer-success-manager"
@@ -39,7 +39,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Data Conversion Specialist (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/185/deacom-inc-data-conversion-specialist"
@@ -48,7 +48,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Implementation Consultant (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/186/deacom-inc-implementation-consultant"
@@ -57,7 +57,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Project Manager (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager"
@@ -66,7 +66,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "C# / .NET Software Engineer (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer"
@@ -75,7 +75,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Chesterbrook",
+      "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Technical Specialist (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist"

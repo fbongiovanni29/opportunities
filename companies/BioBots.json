@@ -22,7 +22,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Software Engineer - Philadelphia",
       "url": "https://angel.co/biobots/jobs/116521-software-engineer-philadelphia"
@@ -31,7 +31,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Robotics Engineer - Philadelphia",
       "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
@@ -40,7 +40,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "Philadelphia",
+      "jobLocation": "philadelphia",
       "remote": false,
       "title": "Bioengineer - Philadelphia",
       "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
