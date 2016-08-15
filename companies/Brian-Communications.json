@@ -61,15 +61,6 @@
       "datePosted": "2016-07-15",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
-      "title": "Fall 2016 Intern- Integrated Marketing",
-      "url": "https://www.briancom.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "Conshohocken, PA",
-      "remote": false,
       "title": "Fall 2016 Intern- Project Management",
       "url": "https://www.briancom.com/careers"
     },

@@ -216,15 +216,6 @@
         "datePosted": "2016-07-15",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
-        "title": "Fall 2016 Intern- Integrated Marketing",
-        "url": "https://www.briancom.com/careers"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Conshohocken, PA",
-        "remote": false,
         "title": "Fall 2016 Intern- Project Management",
         "url": "https://www.briancom.com/careers"
       },
@@ -746,6 +737,189 @@
       }
     ],
     "updated": "2016-04-30"
+  },
+  {
+    "company": "Halfpenny Technologies",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.halfpenny.com/careers.html",
+    "webSiteUrl": "http://www.halfpenny.com/",
+    "technologies": [],
+    "locations": {
+      "blue bell": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.152771,
+          "longitude": -75.283326
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Relations Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.halfpenny.com/client-relationship-specialist.html",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "",
+        "url": "http://www.halfpenny.com/client-relationship-specialist.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Senior Software Developer",
+        "url": "http://www.halfpenny.com/senior-software-developer.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Design Specification Specialist",
+        "url": "http://www.halfpenny.com/design-specification-specialist.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Project Coordinator",
+        "url": "http://www.halfpenny.com/project-coordinator.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Sales Internal Account Manager",
+        "url": "http://www.halfpenny.com/sales-internal-account-manager.html"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Jornaya",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.jornaya.com/about/careers",
+    "webSiteUrl": "http://www.jornaya.com/",
+    "technologies": [
+      "Javascript",
+      "PHP",
+      "Python",
+      "Scala",
+      "C",
+      "AngularJS",
+      "CakePHP",
+      "Laravel",
+      "Spray",
+      "Amazon Web Services",
+      "Kafka",
+      "Akka"
+    ],
+    "locations": {
+      "ambler": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "201 S Maple St, Ambler, PA, 19002",
+        "geo": {
+          "latitude": 40.151248,
+          "longitude": -75.223791
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/113843",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, QA",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/132522",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sustaining Engineer",
+        "alternateName": "Developer, QA",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/262587",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-08-10"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Direct Sales, Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/154788",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Development Representative",
+        "alternateName": "Business Development",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/218704",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Support Specialist",
+        "alternateName": "Support Operations",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/262565",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-08-10"
+      }
+    ],
+    "updated": "2016-08-10"
   },
   {
     "company": "Practice",

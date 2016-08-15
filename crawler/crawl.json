@@ -437,6 +437,59 @@
     "link": null
   },
   {
+    "filename": "Halfpenny-Technologies",
+    "url": "http://www.halfpenny.com/careers.html",
+    "jobLocation": "Blue Bell",
+    "query": ".crs-div-block a",
+    "link": ".crs-div-block a"
+  },
+  {
+    "filename": "Heres-My-Chance",
+    "url": "http://heresmychance.com/careers/",
+    "jobLocation": "Philadelphia",
+    "query": "#hmc-content a",
+    "link": "#hmc-content a"
+  },
+  {
+    "filename": "Inspire-Energy",
+    "url": "https://www.inspireenergy.com/join-our-team#powers",
+    "parseLocation": "Philadelphia",
+    "locations": ".resumator-job-info",
+    "jobLocation": "Philadelphia",
+    "query": ".resumator-job-title",
+    "link": ".resumator-job-link"
+  },
+  {
+    "filename": "InstaMed",
+    "url": "http://www.instamed.com/about/careers/",
+    "parseLocation": "Philadelphia",
+    "locations": "#value li a",
+    "jobLocation": "Philadelphia",
+    "query": "#value li a",
+    "link": "#value li a"
+  },
+  {
+    "filename": "Intuitive-Company",
+    "url": "http://intuitivecompany.com/careers/",
+    "jobLocation": "Philadelphia",
+      "query": ".intuitive-career-title",
+    "link": null
+  },
+  {
+    "filename": "Inverse-Paradox",
+    "url": "https://www.inverseparadox.com/careers/",
+    "jobLocation": "penndel",
+    "query": ".openings a",
+    "link": ".openings a"
+  },
+  {
+    "filename": "Jornaya",
+    "url": "https://boards.greenhouse.io/jornaya?__hssc=&__hstc=&__hsfp=2321422632&hsCtaTracking=a7c67fee-8bd6-47b4-b037-aca778dfdbc6%7C24510259-454a-49ad-a0c4-9f4192485c95#.V7HufpODGkp",
+    "jobLocation": "Ambler",
+    "query": ".opening a",
+    "link": ".opening a"
+  },
+  {
     "filename": "Practice",
     "url": "http://www.practice.xyz/careers/",
     "jobLocation": "Philadelphia",

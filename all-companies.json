@@ -719,7 +719,7 @@
         "datePosted": "2016-07-15",
         "jobLocation": "Chalfont",
         "remote": false,
-        "title": "Senior Dev/Ops Engineer",
+        "title": "Senior DevOps Engineer",
         "url": "http://www.aweber.jobs/apply/mF6UCn/Senior-DevOps-Engineer"
       },
       {
@@ -1578,15 +1578,6 @@
         "datePosted": "2016-07-15",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
-        "title": "Fall 2016 Intern- Integrated Marketing",
-        "url": "https://www.briancom.com/careers"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Conshohocken, PA",
-        "remote": false,
         "title": "Fall 2016 Intern- Project Management",
         "url": "https://www.briancom.com/careers"
       },
@@ -1952,38 +1943,6 @@
         "jobLocation": "Philadelphia",
         "remote": false,
         "title": "ISV Sales Specialist"
-      }
-    ],
-    "updated": "2016-05-01"
-  },
-  {
-    "company": "Cerner",
-    "type": [
-      "product",
-      "consultancy"
-    ],
-    "url": "http://cerner.com/About_Cerner/Careers/",
-    "webSiteUrl": "http://cerner.com/",
-    "technologies": [],
-    "locations": {
-      "malvern": {
-        "@type": "Place",
-        "address": "51 Valley Stream Parkway, Malvern, PA 19355-1406",
-        "geo": {
-          "latitude": 40.060103,
-          "longitude": -75.522087
-        }
-      }
-    },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "California",
-        "remote": false,
-        "title": "↑ Scroll to top",
-        "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=25754&siteid=5095&PageType=searchResults&SearchType=linkquery#"
       }
     ],
     "updated": "2016-05-01"
@@ -4109,6 +4068,567 @@
       }
     ],
     "updated": "2016-04-30"
+  },
+  {
+    "company": "Halfpenny Technologies",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.halfpenny.com/careers.html",
+    "webSiteUrl": "http://www.halfpenny.com/",
+    "technologies": [],
+    "locations": {
+      "blue bell": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.152771,
+          "longitude": -75.283326
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Relations Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.halfpenny.com/client-relationship-specialist.html",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "",
+        "url": "http://www.halfpenny.com/client-relationship-specialist.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Senior Software Developer",
+        "url": "http://www.halfpenny.com/senior-software-developer.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Design Specification Specialist",
+        "url": "http://www.halfpenny.com/design-specification-specialist.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Project Coordinator",
+        "url": "http://www.halfpenny.com/project-coordinator.html"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Blue Bell",
+        "remote": false,
+        "title": "Sales Internal Account Manager",
+        "url": "http://www.halfpenny.com/sales-internal-account-manager.html"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Here's My Chance",
+    "type": [
+      "agency"
+    ],
+    "url": "http://heresmychance.com/careers/",
+    "webSiteUrl": "http://heresmychance.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.949836,
+          "longitude": -75.161949
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Copywriter",
+        "alternateName": "Content Strategy",
+        "url": "https://www.smartrecruiters.com/HeresMyChance/84413980-copy-writer-ghost-writer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Business Development Intern – Fall 2016",
+        "url": "http://smrtr.io/7VaWDg"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Creative Intern – Fall 2016",
+        "url": "http://smrtr.io/HNSM1A"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Freelance Designer",
+        "url": "http://smrtr.co/1sAUxya"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Marketing & Events Intern – Fall 2016",
+        "url": "http://smrtr.io/FDydjw"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Project Management Intern – Fall 2016",
+        "url": "http://smrtr.io/Hv-P6g"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Research Intern – Fall 2016",
+        "url": "http://smrtr.io/hnY5-w"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Inspire Energy",
+    "type": [
+      "internal",
+      "Startup"
+    ],
+    "url": "http://www.inspireenergy.com/join-our-team#powers",
+    "webSiteUrl": "http://www.inspireenergy.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.952584,
+          "longitude": -75.165222
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Clean Power Sales Specialist",
+        "alternateName": "Business Development",
+        "url": "http://www.inspireenergy.com/join-our-team#powers",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Outside Sales Representative",
+        "alternateName": "Business Development",
+        "url": "http://www.inspireenergy.com/join-our-team#powers",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Small Business Account Manager",
+        "alternateName": "Business Development",
+        "url": "http://www.inspireenergy.com/join-our-team#powers",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Director of Product",
+        "url": "https://www.inspireenergy.com/join-our-team#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Event Sales Specialist",
+        "url": "https://www.inspireenergy.com/join-our-team#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Field Sales Quality Analyst",
+        "url": "https://www.inspireenergy.com/join-our-team#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Member Experience Manager",
+        "url": "https://www.inspireenergy.com/join-our-team#"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "InstaMed",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.instamed.com/about/careers/",
+    "webSiteUrl": "http://www.instamed.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.952896,
+          "longitude": -75.174298
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Account Manager (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/account-manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Marketing – Associate (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/marketing-associate"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Marketing – Senior Manager (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/marketing-senior-manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Payer Implementations Manager (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/payer-implementations-manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Product Management – Senior Manager (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/product-management-senior-manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Provider Implementations Manager (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/provider-implementations-manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-15",
+        "jobLocation": "Philadelphia",
+        "remote": false,
+        "title": "Salesforce Administrator/Business Analyst (Philadelphia, PA)",
+        "url": "http://www.instamed.com/about/careers/salesforce-administrator-business-analyst"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Intuitive Company",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://intuitivecompany.com/careers/",
+    "webSiteUrl": "http://intuitivecompany.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "3 Rector St #2, Philadelphia, PA 19127",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0240484551,
+          "longitude": -75.22196085
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Engagement Lead",
+        "alternateName": "Business Development",
+        "url": "http://intuitivecompany.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "User Experience Researcher",
+        "alternateName": "Designer, User Experience",
+        "url": "http://intuitivecompany.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Program Delivery Manager",
+        "alternateName": "Project Manager",
+        "url": "http://intuitivecompany.com/careers/",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Inverse Paradox",
+    "type": [
+      "agency"
+    ],
+    "url": "https://www.inverseparadox.com/careers/",
+    "webSiteUrl": "https://www.inverseparadox.com/",
+    "technologies": [],
+    "locations": {
+      "penndel": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "133 Bellevue Ave., Penndel, PA 19047",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.1584053469,
+          "longitude": -74.9120337959
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "PHP Developer – Magento",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.inverseparadox.com/jobs/php-developer-magento/",
+        "jobLocation": "penndel",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "WordPress Developer",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.inverseparadox.com/jobs/wordpress-developer/",
+        "jobLocation": "penndel",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Jornaya",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.jornaya.com/about/careers",
+    "webSiteUrl": "http://www.jornaya.com/",
+    "technologies": [
+      "Javascript",
+      "PHP",
+      "Python",
+      "Scala",
+      "C",
+      "AngularJS",
+      "CakePHP",
+      "Laravel",
+      "Spray",
+      "Amazon Web Services",
+      "Kafka",
+      "Akka"
+    ],
+    "locations": {
+      "ambler": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "201 S Maple St, Ambler, PA, 19002",
+        "geo": {
+          "latitude": 40.151248,
+          "longitude": -75.223791
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Scientist",
+        "alternateName": "Data Scientist",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/113843",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, QA",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/132522",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-03-25"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sustaining Engineer",
+        "alternateName": "Developer, QA",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/262587",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-08-10"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Direct Sales, Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/154788",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sales Development Representative",
+        "alternateName": "Business Development",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/218704",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-04-30"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Support Specialist",
+        "alternateName": "Support Operations",
+        "url": "https://boards.greenhouse.io/jornaya/jobs/262565",
+        "jobLocation": "ambler",
+        "remote": false,
+        "datePosted": "2016-08-10"
+      }
+    ],
+    "updated": "2016-08-10"
   },
   {
     "company": "Practice",

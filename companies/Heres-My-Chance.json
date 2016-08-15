@@ -1,0 +1,90 @@
+{
+  "company": "Here's My Chance",
+  "type": [
+    "agency"
+  ],
+  "url": "http://heresmychance.com/careers/",
+  "webSiteUrl": "http://heresmychance.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "121 S. 13th Street 4th Floor, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.949836,
+        "longitude": -75.161949
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Copywriter",
+      "alternateName": "Content Strategy",
+      "url": "https://www.smartrecruiters.com/HeresMyChance/84413980-copy-writer-ghost-writer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Business Development Intern – Fall 2016",
+      "url": "http://smrtr.io/7VaWDg"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Creative Intern – Fall 2016",
+      "url": "http://smrtr.io/HNSM1A"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Freelance Designer",
+      "url": "http://smrtr.co/1sAUxya"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Marketing & Events Intern – Fall 2016",
+      "url": "http://smrtr.io/FDydjw"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Project Management Intern – Fall 2016",
+      "url": "http://smrtr.io/Hv-P6g"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Philadelphia",
+      "remote": false,
+      "title": "Research Intern – Fall 2016",
+      "url": "http://smrtr.io/hnY5-w"
+    }
+  ],
+  "updated": "2016-04-30"
+}

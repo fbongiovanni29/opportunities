@@ -1,0 +1,81 @@
+{
+  "company": "Halfpenny Technologies",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.halfpenny.com/careers.html",
+  "webSiteUrl": "http://www.halfpenny.com/",
+  "technologies": [],
+  "locations": {
+    "blue bell": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.152771,
+        "longitude": -75.283326
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Client Relations Specialist",
+      "alternateName": "Business Development",
+      "url": "http://www.halfpenny.com/client-relationship-specialist.html",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Blue Bell",
+      "remote": false,
+      "title": "",
+      "url": "http://www.halfpenny.com/client-relationship-specialist.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Blue Bell",
+      "remote": false,
+      "title": "Senior Software Developer",
+      "url": "http://www.halfpenny.com/senior-software-developer.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Blue Bell",
+      "remote": false,
+      "title": "Design Specification Specialist",
+      "url": "http://www.halfpenny.com/design-specification-specialist.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Blue Bell",
+      "remote": false,
+      "title": "Project Coordinator",
+      "url": "http://www.halfpenny.com/project-coordinator.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "Blue Bell",
+      "remote": false,
+      "title": "Sales Internal Account Manager",
+      "url": "http://www.halfpenny.com/sales-internal-account-manager.html"
+    }
+  ],
+  "updated": "2016-04-30"
+}

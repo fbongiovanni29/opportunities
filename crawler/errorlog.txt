@@ -406,3 +406,15 @@ Error: .wait() timed out after 30000msec
 Cerner
 Error: .wait() timed out after 30000msec
 08/15/2016 10:32:38
+-----------------------------------------------
+Intuitive-Company
+Cannot read property 'href' of undefined
+08/15/2016 12:25:43
+-----------------------------------------------
+Intuitive-Company
+Cannot read property 'href' of undefined
+08/15/2016 12:26:23
+-----------------------------------------------
+Intuitive-Company
+Cannot read property 'href' of undefined
+08/15/2016 12:27:39
