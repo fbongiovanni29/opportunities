@@ -24,7 +24,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "jobLocation": "fort washington",
       "remote": false,
       "title": "Scala Developers",
       "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/"
@@ -33,7 +33,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "jobLocation": "fort washington",
       "remote": false,
       "title": "Senior Java/Spring Engineers",
       "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/"
@@ -42,7 +42,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "jobLocation": "fort washington",
       "remote": false,
       "title": "Mobile Developers",
       "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/"
@@ -51,7 +51,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "jobLocation": "fort washington",
       "remote": false,
       "title": "AngularJS Developers",
       "url": "http://chariotsolutions.com/who-we-are/careers/chariot-careers-angular-js-developers/"

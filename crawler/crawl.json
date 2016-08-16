@@ -277,6 +277,16 @@
     "link": ".rbox-opening-li-title"
   },
   {
+    "filename": "CoreDial",
+    "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+    "jobLocation": "blue bell",
+    "parseLocation": "Blue Bell",
+    "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
+    "query": "a.iCIMS_Anchor",
+    "link": "a.iCIMS_Anchor",
+    "iFrame": "#icims_content_iframe"
+  },
+  {
     "filename": "Curadora",
     "url": "https://curadora.workable.com/",
     "jobLocation": "philadelphia",
@@ -445,6 +455,15 @@
     "link": ".crs-div-block a"
   },
   {
+    "filename": "HealthVerity",
+    "url": "http://jobs.jobvite.com/healthverity/?nl=1",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Pennsylvania",
+    "locations": ".jv-job-list-location",
+    "query": ".jv-job-list-name a",
+    "link": ".jv-job-list-name a"
+  },
+  {
     "filename": "Heres-My-Chance",
     "url": "http://heresmychance.com/careers/",
     "jobLocation": "philadelphia",
@@ -468,6 +487,16 @@
     "jobLocation": "philadelphia",
     "query": "#value li a",
     "link": "#value li a"
+  },
+  {
+    "filename": "IntegriChain",
+    "url": "https://integrichain-orspartners.icims.com/jobs/search?ss=1",
+    "jobLocation": "philadephia",
+    "parseLocation": "Pennsylvania",
+    "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
+    "query": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
+    "link": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
+    "iFrame": "#icims_content_iframe"
   },
   {
     "filename": "Intuitive-Company",

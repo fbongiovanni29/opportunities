@@ -1,0 +1,108 @@
+{
+  "company": "HealthVerity",
+  "type": [
+    "startup"
+  ],
+  "url": "http://healthverity.com/careers-2",
+  "webSiteUrl": "http://healthverity.com/",
+  "technologies": [
+    "Python",
+    "Django",
+    "Amazon Web Services",
+    "Javascript",
+    "Perl",
+    "docker"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.95591,
+        "longitude": -75.17309
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Operations Engineer / DevOps",
+      "alternateName": "DevOps",
+      "url": "http://jobs.jobvite.com/healthverity/job/oqrX0fwy",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Project Management Lead",
+      "alternateName": "Project Manager",
+      "url": "http://jobs.jobvite.com/healthverity/job/oLaE2fwl",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "VP, Strategic Partnerships in Healthcare Data",
+      "url": "http://jobs.jobvite.com/healthverity/job/oB5x3fw0"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Product Manager - Healthcare Data Software Platform",
+      "url": "http://jobs.jobvite.com/healthverity/job/oCYw3fwT"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Software Engineer (Healthcare Data)",
+      "url": "http://jobs.jobvite.com/healthverity/job/ot5x3fwS"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "UI/UX Designer",
+      "url": "http://jobs.jobvite.com/healthverity/job/oleu3fwQ"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Healthcare Data Privacy Research Scientist",
+      "url": "http://jobs.jobvite.com/healthverity/job/op1r3fwE"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "VP Sales - Life Sciences (Healthcare Data)",
+      "url": "http://jobs.jobvite.com/healthverity/job/o62u3fwp"
+    }
+  ],
+  "updated": "2016-04-30"
+}

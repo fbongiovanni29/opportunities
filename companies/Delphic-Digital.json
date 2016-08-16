@@ -35,6 +35,15 @@
       "datePosted": "2016-07-15",
       "jobLocation": "philadelphia",
       "remote": false,
+      "title": "Associate Digital Media Buyer",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/249584"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-15",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Marketing Communications Manager",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/257117"
     },

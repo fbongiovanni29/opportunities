@@ -470,3 +470,47 @@ Error: .wait() timed out after 30000msec
 50onRed
 Error: .wait() timed out after 30000msec
 08/15/2016 19:24:08
+-----------------------------------------------
+CoreDial
+Error: .wait() timed out after 30000msec
+08/15/2016 19:46:14
+-----------------------------------------------
+CoreDial
+Error: .wait() timed out after 30000msec
+08/15/2016 19:47:18
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:54:11
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:55:04
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:55:16
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:56:27
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:57:11
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:59:12
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 19:59:39
+-----------------------------------------------
+IntegriChain
+Cannot read property 'innerText' of undefined
+08/15/2016 20:00:11
+-----------------------------------------------
+Practice
+Error: .wait() timed out after 30000msec
+08/15/2016 20:07:22
