@@ -1,0 +1,58 @@
+{
+  "company": "NRG Edge, LLC",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://nrg-edge.com/careers.html",
+  "webSiteUrl": "http://nrg-edge.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.064788,
+        "longitude": -75.533473
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Web Development Architect",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://nrg-edge.com/careers.html",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-29"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "UI Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://nrg-edge.com/careers.html",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-29"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Web Analyst / Tester",
+      "alternateName": "Developer, QA",
+      "url": "http://nrg-edge.com/careers.html",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-29"
+    }
+  ],
+  "updated": "2016-04-29"
+}

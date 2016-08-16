@@ -1,10 +1,11 @@
 Find employment type
 
-Blocked by robots.txt - AppNexus, Aramark
+Blocked by robots.txt - AppNexus, Aramark, Nasdaq-OMX
 Page not loading properly - Cerner (most likely Angular issue)
-No positions currently - AboutOne, Azavea, Compliance-Implementation-Services, CopyCat, Drakontas, Globo, GlobeTopper, GoEmerchant, IntroNet, KPIinterface
-No tech positions - Billy Penn
+No positions currently - AboutOne, Azavea, Compliance-Implementation-Services, CopyCat, Drakontas, Globo, GlobeTopper, GoEmerchant, IntroNet, KPIinterface, Municibid, Nightkitchen 
+No tech positions - Billy Penn, Constitution Center
 Requires navigation - CHOP
+Located in India - Offshorent
 
 epam - add newtown
 chatter blast - parse for internships
@@ -14,5 +15,7 @@ CloudMine parse fix location
 
 Famehouse - remove “JOB LISTING: “
 I-SITE - contains different strings before job title, positions from 2011
+
+check for new angel.co sites
 
 errorlog broken

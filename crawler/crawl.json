@@ -638,6 +638,63 @@
     "link": null
   },
   {
+    "filename": "My-Mobile-ED",
+    "url": "https://angel.co/my-mobile-ed/jobs",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
+  },
+  {
+    "filename": "NRG-Edge-LLC",
+    "url": "http://nrg-edge.com/careers.html",
+    "jobLocation": "malvern",
+    "query": ".position h3",
+    "link": null
+  },
+  {
+    "filename": "Netplus",
+    "url": "http://thinknetplus.com/contact/#netplus-jobs",
+    "jobLocation": "philadelphia",
+    "query": "#careers h3",
+    "link": "#careers h3"
+  },
+  {
+    "filename": "New-York-Code-Design-Academy",
+    "url": "https://nycda.com/careers#openings",
+    "parseLocation": "Philadelphia",
+    "locations": ".job-titles+ td",
+    "jobLocation": "philadelphia",
+    "query": ".job-titles a",
+    "link": ".job-titles a"
+  },
+  {
+    "filename": "Nimblelight",
+    "url": "http://nimblelight.com/jobs/",
+    "parseLocation": "Philadelphia",
+    "locations": ".positions-location",
+    "jobLocation": "philadelphia",
+    "query": ".positions-title",
+    "link": ".positions-application"
+  },
+  {
+    "filename": "O3-World",
+    "url": "http://o3world.com/careers/",
+    "jobLocation": "philadelphia",
+    "query": "a h3",
+    "link": "a h3"
+  },
+  {
+    "filename": "Oncora-Medical",
+    "url": "https://oncoramedical.com/careers/",
+    "parseLocation": "Philadelphia",
+    "locations": ".subheader",
+    "jobLocation": "philadelphia",
+    "query": "h5",
+    "link": null
+  },
+  {
     "filename": "Practice",
     "url": "http://learn.practice.xyz/careers",
     "jobLocation": "wyndmoor",
