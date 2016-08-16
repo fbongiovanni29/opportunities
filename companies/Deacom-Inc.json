@@ -20,7 +20,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Business Development Representative (Multiple Openings)",
@@ -29,7 +30,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Customer Success Manager (One Opening)",
@@ -38,7 +40,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Data Conversion Specialist (Multiple Openings)",
@@ -47,7 +50,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Implementation Consultant (Multiple Openings)",
@@ -56,7 +60,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Project Manager (Multiple Openings)",
@@ -65,7 +70,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "C# / .NET Software Engineer (Multiple Openings)",
@@ -74,7 +80,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
       "title": "Technical Specialist (Multiple Openings)",

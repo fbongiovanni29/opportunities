@@ -21,7 +21,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "malvern",
       "remote": false,
       "title": ".NET DEVELOPER",
@@ -30,7 +31,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "malvern",
       "remote": false,
       "title": "JAVA DEVELOPER",
@@ -39,7 +41,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "malvern",
       "remote": true,
       "title": "DEVOPS ENGINEER (REMOTE)",

@@ -67,7 +67,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": true,
         "title": "ISV Business Developer SAP US Remote",
@@ -76,7 +77,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Boomi Business and Sales Ops Consultant",
@@ -85,7 +87,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Boomi Integration Consultant\\Architect",
@@ -94,7 +97,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Business Developer Systems Integrators\\NetSuite",
@@ -103,7 +107,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Business Developer Systems Integrators\\Salesforce",
@@ -112,7 +117,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Campaign Manager Dell Boomi",
@@ -121,7 +127,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Business Intelligence Analyst",
@@ -130,7 +137,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Content Marketing Manager",
@@ -139,7 +147,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Enterprise Software Sales Account Manager",
@@ -148,7 +157,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Front End Developer",
@@ -157,7 +167,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Partner Technical Enablement Solution Engineer",
@@ -166,7 +177,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Pre Sales Engineer Global System Integrators",
@@ -175,7 +187,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Sr. Graphic Designer",
@@ -184,7 +197,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Systems Integration Professional",
@@ -193,7 +207,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Dell Boomi Technical Trainer GSI Partner Enablement",
@@ -202,7 +217,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Marketing Analytics and Database Manager Dell Boomi",
@@ -211,7 +227,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Project Program Management Consultant",
@@ -220,7 +237,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Senior Analyst Relations Manager",
@@ -229,7 +247,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Senior Product Marketing Manager – API Management – Dell Boomi",
@@ -238,7 +257,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "SFDC Business Applications and Data Analyst",
@@ -247,7 +267,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Software QA Sr. Engineer",
@@ -256,7 +277,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Software Solutions Architect",
@@ -265,7 +287,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Sr. Accountant for Dell Boomi",
@@ -274,7 +297,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Sr. Software Engineer Java",
@@ -283,7 +307,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Sr. Technical Writer",
@@ -292,7 +317,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Systems Engineering Sr. Advisor",
@@ -301,7 +327,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Systems Integration Architect Dell Boomi",
@@ -332,7 +359,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Business Development Representative (Multiple Openings)",
@@ -341,7 +369,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Customer Success Manager (One Opening)",
@@ -350,7 +379,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Data Conversion Specialist (Multiple Openings)",
@@ -359,7 +389,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Implementation Consultant (Multiple Openings)",
@@ -368,7 +399,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Project Manager (Multiple Openings)",
@@ -377,7 +409,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "C# / .NET Software Engineer (Multiple Openings)",
@@ -386,7 +419,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
         "title": "Technical Specialist (Multiple Openings)",
@@ -418,7 +452,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "malvern",
         "remote": false,
         "title": ".NET DEVELOPER",
@@ -427,7 +462,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "malvern",
         "remote": false,
         "title": "JAVA DEVELOPER",
@@ -436,7 +472,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "malvern",
         "remote": true,
         "title": "DEVOPS ENGINEER (REMOTE)",
@@ -500,7 +537,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Wayne, Pennsylvania",
@@ -509,7 +547,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Get Directions & View Larger Map",
@@ -518,7 +557,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Corporate Development Analyst",
@@ -527,7 +567,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "VP Finance/Corporate Controller",
@@ -536,7 +577,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Event Coordinator",
@@ -545,7 +587,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Virtualization Support Engineer, Level 1",
@@ -554,7 +597,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Platform Project Manager",
@@ -563,7 +607,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Business Systems Analyst",
@@ -572,7 +617,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Account Manager",
@@ -581,7 +627,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Business Development Associate",
@@ -590,7 +637,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Training Coordinator",
@@ -599,11 +647,67 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
         "title": "Customer Service Compliance Associate",
         "url": "http://www.evolveip.net/about/careers/customer-service-compliance-associate"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Medecision",
+    "type": [
+      "product"
+    ],
+    "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+    "webSiteUrl": "http://www.medecision.com/",
+    "technologies": [],
+    "locations": {
+      "wayne": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0755407626,
+          "longitude": -75.4241920791
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Senior Manager, Technical Services",
+        "url": "https://careers-medecision.icims.com/jobs/1301/senior-manager%2c-technical-services/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": true,
+        "title": "Director, Client Support & Services",
+        "url": "https://careers-medecision.icims.com/jobs/1286/director%2c-client-support-%26-services/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": true,
+        "title": "VP, Security",
+        "url": "https://careers-medecision.icims.com/jobs/1250/vp%2c-security/job?in_iframe=1"
       }
     ],
     "updated": "2016-04-30"

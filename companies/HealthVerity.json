@@ -52,7 +52,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "VP, Strategic Partnerships in Healthcare Data",
@@ -61,7 +62,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Product Manager - Healthcare Data Software Platform",
@@ -70,7 +72,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Software Engineer (Healthcare Data)",
@@ -79,7 +82,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "UI/UX Designer",
@@ -88,7 +92,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Healthcare Data Privacy Research Scientist",
@@ -97,7 +102,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "VP Sales - Life Sciences (Healthcare Data)",

@@ -514,3 +514,199 @@ Cannot read property 'innerText' of undefined
 Practice
 Error: .wait() timed out after 30000msec
 08/15/2016 20:07:22
+-----------------------------------------------
+Lemma
+Unable to find element by selector: html body section div.home-section-main-container div.home-welcome button.animated.fadeInLeft.visible
+08/15/2016 21:52:51
+-----------------------------------------------
+Lemma
+Unable to find element by selector: html body section div.home-section-main-container div.home-welcome button.animated.fadeInLeft.visible
+08/15/2016 21:53:25
+-----------------------------------------------
+Lemma
+Unable to find element by selector: html body section div.home-section-main-container div.home-welcome button.animated.fadeInLeft.visible
+08/15/2016 21:53:39
+-----------------------------------------------
+Lemma
+Cannot read property 'href' of undefined
+08/15/2016 21:55:01
+-----------------------------------------------
+AppNexus-Inc
+Error: .wait() timed out after 30000msec
+08/15/2016 22:12:05
+-----------------------------------------------
+MeetMe
+goto: `url` must be a non-empty string
+08/16/2016 07:57:58
+-----------------------------------------------
+MeetMe
+[object Object]
+08/16/2016 07:58:18
+-----------------------------------------------
+MeetMe
+goto: `url` must be a non-empty string
+08/16/2016 07:59:16
+-----------------------------------------------
+Morgan-Lewis
+Error: .wait() timed out after 30000msec
+08/16/2016 08:31:36
+-----------------------------------------------
+Morgan-Lewis
+Error: .wait() timed out after 30000msec
+08/16/2016 08:32:44
+-----------------------------------------------
+1-trick-pony
+Cannot read property 'innerText' of undefined
+08/16/2016 08:32:44
+-----------------------------------------------
+1-trick-pony
+Cannot read property 'innerText' of undefined
+08/16/2016 08:33:45
+-----------------------------------------------
+Masterminds
+Cannot read property 'href' of undefined
+08/16/2016 08:40:49
+-----------------------------------------------
+Al-Dia
+employmentType.inlcudes is not a function
+08/16/2016 11:16:39
+-----------------------------------------------
+Al-Dia
+Cannot read property 'trim' of undefined
+08/16/2016 11:17:01
+-----------------------------------------------
+Al-Dia
+employmentType[i].innerText.trim(...).inlcudes is not a function
+08/16/2016 11:17:59
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).inlcudes is not a function
+08/16/2016 11:18:18
+-----------------------------------------------
+Al-Dia
+query[i].innerText.inlcudes is not a function
+08/16/2016 11:18:37
+-----------------------------------------------
+Al-Dia
+query[i].innerText.inlcudes is not a function
+08/16/2016 11:19:34
+-----------------------------------------------
+Al-Dia
+query[i].innerText.inlcudes is not a function
+08/16/2016 11:20:12
+-----------------------------------------------
+1-Trick-Pony
+Cannot read property 'length' of undefined
+08/16/2016 11:29:54
+-----------------------------------------------
+1-Trick-Pony
+Cannot read property 'length' of undefined
+08/16/2016 11:49:26
+-----------------------------------------------
+Al-Dia
+k is not defined
+08/16/2016 12:04:29
+-----------------------------------------------
+BresslerGroup
+goto: `url` must be a non-empty string
+08/16/2016 12:12:05
+-----------------------------------------------
+Garfield-Group
+Cannot read property 'innerText' of undefined
+08/16/2016 12:56:32
+-----------------------------------------------
+Garfield-Group
+Cannot read property 'innerText' of undefined
+08/16/2016 12:57:30
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:14:24
+-----------------------------------------------
+1-Trick-Pony
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:14:24
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:15:01
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:15:11
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:15:52
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:16:12
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:16:48
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:16:55
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:19:53
+-----------------------------------------------
+Al-Dia
+query[i].innerText.trim(...).toUpperCase.includes is not a function
+08/16/2016 13:20:38
+-----------------------------------------------
+Al-Dia
+Cannot read property 'toLowerCase' of undefined
+08/16/2016 14:20:21
+-----------------------------------------------
+Al-Dia
+Cannot read property 'toLowerCase' of undefined
+08/16/2016 14:20:39
+-----------------------------------------------
+Al-Dia
+Cannot read property 'toLowerCase' of undefined
+08/16/2016 14:41:35
+-----------------------------------------------
+Al-Dia
+Cannot read property 'toLowerCase' of undefined
+08/16/2016 14:43:32
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:00:30
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:00:40
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:01:25
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:01:58
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:02:08
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:02:17
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:02:47
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:03:26
+-----------------------------------------------
+Moven
+Cannot read property 'href' of undefined
+08/16/2016 16:04:10

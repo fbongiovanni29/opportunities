@@ -20,7 +20,18 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "Scrum Master",
+      "url": "https://careers-coredial.icims.com/jobs/1067/scrum-master/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Business Development Representative",
@@ -29,7 +40,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Network Engineer",
@@ -38,7 +50,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Sr Mobile Application Developer",

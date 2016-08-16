@@ -1,26 +1,22 @@
 {
-  "company": "EPAM",
+  "company": "Moven",
   "type": [
-    "consultancy"
+    "Startup",
+    "product"
   ],
-  "url": "http://www.epam.com/careers",
-  "webSiteUrl": "http://www.epam.com/",
+  "url": "https://www.moven.com/about/index.html",
+  "webSiteUrl": "https://www.moven.com/",
   "technologies": [],
   "locations": {
-    "conshohocken": {
-      "@type": "Place",
-      "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
-      "geo": {
-        "latitude": 40.079189,
-        "longitude": -75.299617
-      }
-    },
     "philadelphia": {
+      "@context": "http://schema.org",
       "@type": "Place",
-      "address": "777 Appletree Street, Philadelphia, PA 19106",
+      "address": "Philadelphia, PA",
       "geo": {
-        "latitude": 39.9536097,
-        "longitude": -75.1548568
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
       }
     }
   },
@@ -28,46 +24,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-16",
       "employmentType": "full-time",
-      "title": "Adobe Solution Architect",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://www.epam.com/careers/job-listings/job.8753#apply",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Data & MDM Architect",
-      "alternateName": "Developer, DevOps",
-      "url": "https://www.epam.com/careers/job-listings/job.11489#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "DevOps Solution Architect",
-      "alternateName": "Developer, DevOps",
-      "url": "https://www.epam.com/careers/job-listings/job.11304#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front-end Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://www.epam.com/careers/job-listings/job.11592#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "QA Engineer, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
     },
     {
       "@context": "http://schema.org",
@@ -76,8 +38,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Director of Analytics",
-      "url": "https://www.epam.com/careers/job-listings/job.15876#apply"
+      "title": "Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
     },
     {
       "@context": "http://schema.org",
@@ -86,8 +48,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Hybris Solution Architect",
-      "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
+      "title": "Global Solutions Architect, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
     },
     {
       "@context": "http://schema.org",
@@ -96,8 +58,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Content Strategist",
-      "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
+      "title": "Digital Business Analyst, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
     },
     {
       "@context": "http://schema.org",
@@ -106,8 +68,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Director of User Experience Design",
-      "url": "https://www.epam.com/careers/job-listings/job.16051#apply"
+      "title": "Office Manager, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
     },
     {
       "@context": "http://schema.org",
@@ -116,9 +78,48 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Web Analyst",
-      "url": "https://www.epam.com/careers/job-listings/job.15882#apply"
+      "title": "Software Architect, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of Professional Services, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Full Stack Engineer - Product Integration, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Mobile Engineer, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Service Delivery Manager, Philadelphia, PA",
+      "url": "https://www.moven.com/about/index.html"
     }
-  ],
-  "updated": "2016-04-30"
+  ]
 }

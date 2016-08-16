@@ -20,7 +20,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "Moorestown, NJ",
       "remote": false,
       "title": "Cyber Software Engineer II",
@@ -29,7 +30,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "Moorestown, NJ",
       "remote": false,
       "title": "Cyber Software Engineer III",
@@ -38,7 +40,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "Warminster, PA",
       "remote": false,
       "title": "Mid-Level UI/UX Developer",
@@ -47,7 +50,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "Warminster, PA and / or Marlton, NJ",
       "remote": false,
       "title": "Software Engineer",
@@ -57,7 +61,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "Marlton, NJ",
       "remote": false,
       "title": "Systems Engineer",

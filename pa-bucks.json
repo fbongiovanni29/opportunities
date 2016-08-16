@@ -82,7 +82,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
         "title": "Director of Business Development",
@@ -91,7 +92,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
         "title": "Senior DevOps Engineer",
@@ -100,7 +102,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
         "title": "Senior Operations Engineer",
@@ -109,7 +112,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
         "title": "Technical Operations - Engineering Team Lead",
@@ -164,7 +168,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "southampton",
         "remote": false,
         "title": "Customer Experience / Retention Specialist",
@@ -286,7 +291,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Account Executive",
@@ -295,7 +301,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Account Supervisor",
@@ -304,7 +311,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Art Director",
@@ -313,7 +321,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Associate Account Executive",
@@ -322,7 +331,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Graphic Design Intern",
@@ -331,7 +341,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
         "title": "New Business Development Manager",
@@ -340,7 +351,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Strategy/Account Intern",
@@ -349,7 +361,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
         "title": "Web Developer",
@@ -401,6 +414,149 @@
         "jobLocation": "penndel",
         "remote": false,
         "datePosted": "2016-03-13"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "MeetMe",
+    "type": [
+      "internal"
+    ],
+    "url": "http://www.meetme.com/apps/careers#careers-about",
+    "webSiteUrl": "http://www.meetme.com/",
+    "technologies": [],
+    "locations": {
+      "new hope": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "100 Union Square Drive, New Hope, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.314,
+          "longitude": -75.131903
+        }
+      },
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0046684,
+          "longitude": -75.258117
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Architect, API",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Android Engineer / Architect",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. iOS Developer / Architect",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Software Developer (API)",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Website Content Review & Customer Support Specialist",
+        "alternateName": "Content Strategy",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "New Hope, PA, United States",
+        "remote": false,
+        "title": "QA Lead",
+        "url": "http://app.jobvite.com/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "Philadelphia or New Hope, PA, United States",
+        "remote": false,
+        "title": "Data Pipeline Engineer",
+        "url": "http://app.jobvite.com/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "New Hope, PA, United States",
+        "remote": false,
+        "title": "Mobile Software Architect",
+        "url": "http://app.jobvite.com/#"
       }
     ],
     "updated": "2016-04-30"

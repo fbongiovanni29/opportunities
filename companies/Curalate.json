@@ -97,7 +97,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Senior Client Success Manager",
@@ -106,7 +107,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Marketing Operations Analyst",
@@ -115,7 +117,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Product Marketing Manager",
@@ -124,7 +127,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Director of Sales Development",
@@ -133,7 +137,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Project Manager",
@@ -142,7 +147,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "General Applicants",

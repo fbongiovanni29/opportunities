@@ -20,7 +20,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Supervisor, Public Relations",
@@ -29,16 +30,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Engagement Strategist",
-      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812131233_GEOF6QO4CRSA3AMX"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Associate Creative Director, Copy",
@@ -47,7 +40,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "VP, Business Leadership",

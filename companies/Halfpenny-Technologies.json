@@ -34,7 +34,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "",
@@ -43,7 +44,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Senior Software Developer",
@@ -52,7 +54,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Design Specification Specialist",
@@ -61,7 +64,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Project Coordinator",
@@ -70,7 +74,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
       "jobLocation": "blue bell",
       "remote": false,
       "title": "Sales Internal Account Manager",

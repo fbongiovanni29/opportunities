@@ -78,7 +78,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "haddonfield",
       "remote": false,
       "title": "Front-End Engineer",
@@ -87,7 +88,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "haddonfield",
       "remote": false,
       "title": "Manager, Software Engineering",
@@ -96,7 +98,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "haddonfield",
       "remote": false,
       "title": "UI/UX Designer",
@@ -105,7 +108,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "haddonfield",
       "remote": false,
       "title": "Manager, System Engineering",
@@ -114,7 +118,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "haddonfield",
       "remote": false,
       "title": "Account Executive",

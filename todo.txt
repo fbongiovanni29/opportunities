@@ -4,10 +4,15 @@ Blocked by robots.txt - AppNexus, Aramark
 Page not loading properly - Cerner (most likely Angular issue)
 No positions currently - AboutOne, Azavea, Compliance-Implementation-Services, CopyCat, Drakontas, Globo, GlobeTopper, GoEmerchant, IntroNet, KPIinterface
 No tech positions - Billy Penn
-Requires navigation - CHOP, LEMMA
+Requires navigation - CHOP
+
+epam - add newtown
+chatter blast - parse for internships
+morgan lewis - mix of tech/non-tech jobs
 
 CloudMine parse fix location
-Practice crashed
 
 Famehouse - remove “JOB LISTING: “
 I-SITE - contains different strings before job title, positions from 2011
+
+errorlog broken

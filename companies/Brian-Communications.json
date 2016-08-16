@@ -31,7 +31,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Creative",
@@ -40,7 +41,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Strategy and Business Development",
@@ -49,7 +51,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Intern- Project Management",
@@ -58,7 +61,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
       "title": "Fall 2016 Public Relations Intern",

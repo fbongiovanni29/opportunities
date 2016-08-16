@@ -53,7 +53,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "plymouth",
         "remote": false,
         "title": "Business Development Manager",
@@ -186,16 +187,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Conshohocken, PA",
-        "remote": false,
-        "title": "Associate Project Manager",
-        "url": "https://www.briancom.com/careers"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Creative",
@@ -204,7 +197,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Strategy and Business Development",
@@ -213,7 +207,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Intern- Project Management",
@@ -222,7 +217,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
         "title": "Fall 2016 Public Relations Intern",
@@ -254,7 +250,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
         "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
@@ -263,7 +260,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "fort washington",
         "remote": false,
         "title": "SOFTWARE DEVELOPMENT INTERN",
@@ -272,7 +270,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
         "title": ".NET SOFTWARE DEVELOPER",
@@ -303,7 +302,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Sales Consultant - Philadelphia, PA",
@@ -359,7 +359,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Linux Systems Administrator"
@@ -367,7 +368,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Jr. Software Integration and Support Engineer"
@@ -375,7 +377,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "ISV Sales Specialist"
@@ -408,8 +411,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": "Scala Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-scala-developers/"
@@ -417,8 +421,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": "Senior Java/Spring Engineers",
         "url": "http://chariotsolutions.com/who-we-are/careers/job-posting-senior-javaspring-engineers/"
@@ -426,8 +431,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": "Mobile Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/chariot-hiring-mobile-developers/"
@@ -435,8 +441,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "fort washington",
         "remote": false,
         "title": "AngularJS Developers",
         "url": "http://chariotsolutions.com/who-we-are/careers/chariot-careers-angular-js-developers/"
@@ -466,20 +473,12 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "horsham",
         "remote": false,
         "title": "Clinical Data Monitor",
         "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "horsham",
-        "remote": false,
-        "title": "General Accountant",
-        "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78824756203f9b01562d60821716ed&source="
       }
     ],
     "updated": "2016-05-01"
@@ -518,6 +517,68 @@
     "updated": "2016-05-01"
   },
   {
+    "company": "CoreDial",
+    "type": [
+      "product"
+    ],
+    "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
+    "webSiteUrl": "http://coredial.com/",
+    "technologies": [],
+    "locations": {
+      "blue bell": {
+        "@type": "Place",
+        "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
+        "geo": {
+          "latitude": 40.140902,
+          "longitude": -75.285697
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "title": "Scrum Master",
+        "url": "https://careers-coredial.icims.com/jobs/1067/scrum-master/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "title": "Business Development Representative",
+        "url": "https://careers-coredial.icims.com/jobs/1066/business-development-representative/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "title": "Network Engineer",
+        "url": "https://careers-coredial.icims.com/jobs/1064/network-engineer/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "blue bell",
+        "remote": false,
+        "title": "Sr Mobile Application Developer",
+        "url": "https://careers-coredial.icims.com/jobs/1063/sr-mobile-application-developer/job?in_iframe=1"
+      }
+    ],
+    "updated": "2016-05-01"
+  },
+  {
     "company": "Eastern Standard",
     "type": [
       "agency"
@@ -541,7 +602,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "DIGITAL PROJECT MANAGER",
@@ -550,7 +612,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "DRUPAL FRONT END WEB DEVELOPER",
@@ -559,7 +622,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "DRUPAL FULL STACK DEVELOPER",
@@ -642,7 +706,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Analytics",
@@ -651,7 +716,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Hybris Solution Architect",
@@ -660,7 +726,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Content Strategist",
@@ -669,7 +736,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Director of User Experience Design",
@@ -678,7 +746,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Web Analyst",
@@ -720,8 +789,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "king of prussia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "kingofprussia",
         "remote": false,
         "title": "Freelance Umbraco CMS Developer",
         "url": "https://fynydd.com/careers/jp2002/"
@@ -729,8 +799,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "king of prussia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "kingofprussia",
         "remote": false,
         "title": "Freelance WordPress Multisite Developer",
         "url": "https://fynydd.com/careers/jp2001/"
@@ -774,7 +845,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
         "title": "",
@@ -783,7 +855,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
         "title": "Senior Software Developer",
@@ -792,7 +865,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
         "title": "Design Specification Specialist",
@@ -801,7 +875,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
         "title": "Project Coordinator",
@@ -810,7 +885,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "blue bell",
         "remote": false,
         "title": "Sales Internal Account Manager",
@@ -922,6 +998,255 @@
     "updated": "2016-08-10"
   },
   {
+    "company": "MeetMe",
+    "type": [
+      "internal"
+    ],
+    "url": "http://www.meetme.com/apps/careers#careers-about",
+    "webSiteUrl": "http://www.meetme.com/",
+    "technologies": [],
+    "locations": {
+      "new hope": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "100 Union Square Drive, New Hope, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.314,
+          "longitude": -75.131903
+        }
+      },
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0046684,
+          "longitude": -75.258117
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Architect, API",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Android Engineer / Architect",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. DevOps Engineer",
+        "alternateName": "DevOps",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. iOS Developer / Architect",
+        "alternateName": "Developer, Mobile",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Sr. Software Developer (API)",
+        "alternateName": "Developer, Backend",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Website Content Review & Customer Support Specialist",
+        "alternateName": "Content Strategy",
+        "url": "http://www.meetme.com/apps/careers#careers-about",
+        "jobLocation": "new hope",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "New Hope, PA, United States",
+        "remote": false,
+        "title": "QA Lead",
+        "url": "http://app.jobvite.com/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "Philadelphia or New Hope, PA, United States",
+        "remote": false,
+        "title": "Data Pipeline Engineer",
+        "url": "http://app.jobvite.com/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "New Hope, PA, United States",
+        "remote": false,
+        "title": "Mobile Software Architect",
+        "url": "http://app.jobvite.com/#"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Monetate, Inc.",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.monetate.com/about/careers/#open-positions",
+    "webSiteUrl": "http://www.monetate.com/",
+    "technologies": [],
+    "locations": {
+      "conshohocken": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "951 E. Hector Street, Conshohocken, PA 19428",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0750470612,
+          "longitude": -75.2904890204
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.monetate.com/about/careers/#open-positions",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "General Application",
+        "url": "http://www.monetate.com/about/careers/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Client Success Account Manager - West",
+        "url": "http://www.monetate.com/about/careers/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Digital Marketing Consultant - West",
+        "url": "http://www.monetate.com/about/careers/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Product Owner",
+        "url": "http://www.monetate.com/about/careers/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Director of Market Development",
+        "url": "http://www.monetate.com/about/careers/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Sales Director - West",
+        "url": "http://www.monetate.com/about/careers/#"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Senior Product Marketing Manager",
+        "url": "http://www.monetate.com/about/careers/#"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
     "company": "Practice",
     "type": [
       "product"
@@ -943,56 +1268,62 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "wyndmoor",
         "remote": false,
         "title": "Solutions Engineer",
-        "url": "https://www.practice.xyz/position/solutions-engineer/"
+        "url": "http://learn.practice.xyz/careers#op-131759-solutions-engineer"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "wyndmoor",
         "remote": false,
         "title": "Implementation Specialist",
-        "url": "https://www.practice.xyz/position/implementation-specialist/"
+        "url": "http://learn.practice.xyz/careers#op-131756-implementation-specialist"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "title": "Full Stack Software Engineer",
-        "url": "https://www.practice.xyz/position/full-stack-software-engineer/"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "title": "Account Development Representative",
-        "url": "https://www.practice.xyz/position/account-development-representative/"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "title": "Customer Success Representative",
-        "url": "https://www.practice.xyz/position/customer-success-representative/"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "wyndmoor",
         "remote": false,
         "title": "Learning Specialist",
-        "url": "https://www.practice.xyz/position/learning-specialist/"
+        "url": "http://learn.practice.xyz/careers#op-131142-learning-specialist"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "wyndmoor",
+        "remote": false,
+        "title": "Full Stack Software Engineer",
+        "url": "http://learn.practice.xyz/careers#op-131140-full-stack-software-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "wyndmoor",
+        "remote": false,
+        "title": "Customer Success Representative",
+        "url": "http://learn.practice.xyz/careers#op-131138-customer-success-representative"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "wyndmoor",
+        "remote": false,
+        "title": "Account Development Representative",
+        "url": "http://learn.practice.xyz/careers#op-130955-account-development-representative"
       }
     ],
     "updated": "2016-06-17"

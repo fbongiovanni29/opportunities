@@ -14,6 +14,13 @@
     "link": ".clearfix~ .col-sm-6+ .col-sm-6 a , .col-sm-6:nth-child(4) a"
   },
   {
+    "filename": "50onRed",
+    "url": "http://50onred.com/careers/",
+    "jobLocation": "philadelphia",
+    "query": "div#engineering h3",
+    "link": "div#engineering a"
+  },
+  {
     "filename": "AWeber-Communications",
     "url": "http://www.aweber.jobs/",
     "jobLocation": "chalfont",
@@ -28,13 +35,6 @@
     "jobLocation": "king of prussia",
     "query": "#jobs a",
     "link": "#jobs a"
-  },
-  {
-    "filename": "50onRed",
-    "url": "http://50onred.com/careers/",
-    "jobLocation": "philadelphia",
-    "query": "div#engineering h3",
-    "link": "div#engineering a"
   },
   {
     "filename": "Al-Dia",
@@ -240,8 +240,8 @@
   {
     "filename": "CloudMine",
     "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
-    "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
-    "parseLocation": "philadelphia",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
     "locations": "#panels a",
     "query": "#panels a",
     "link": "#panels a"
@@ -556,6 +556,13 @@
     "link": ".resumator-job-link"
   },
   {
+    "filename": "Lemma",
+    "url": "https://www.lem.ma/home/",
+    "jobLocation": "philadelphia",
+    "query": ".collapsed",
+    "link": null
+  },
+  {
     "filename": "Linode-LLC",
     "url": "https://www.linode.com/careers",
     "jobLocation": "haddonfield",
@@ -581,7 +588,7 @@
     "url": "http://mastermindsagency.com/#gigs",
     "jobLocation": "philadelphia",
     "query": "#positionJobs ul li a",
-    "link": "#positionJobs  ul li a"
+    "link": null
   },
   {
     "filename": "Medecision",
@@ -589,17 +596,54 @@
     "jobLocation": "philadephia",
     "parseLocation": "Wayne",
     "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
+    "parseRemote": "Remote",
+    "remote": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
     "query": "a.iCIMS_Anchor",
     "link": "a.iCIMS_Anchor",
     "iFrame": "#icims_content_iframe"
   },
   {
+    "filename": "MeetMe",
+    "url": "http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qU19VfwJ&jvresize=jobvite.html",
+    "parseLocation": "PA,",
+    "locations": ".joblocation",
+    "query": ".joblist a",
+    "link": ".joblist a"
+  },
+  {
+    "filename": "Menu-Econsolution",
+    "url": "https://angel.co/biobots/jobs",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
+  },
+  {
+    "filename": "Monetate-Inc",
+    "url": "http://www.monetate.com/about/careers/#open-positions",
+    "parseLocation": ["Conshohocken", "Multiple"],
+    "locations": ".resumator-job-info",
+    "jobLocation": "conshohocken",
+    "query": ".resumator-job-title",
+    "link": ".resumator-job-link"
+  },
+  {
+    "filename": "Moven",
+    "url": "https://www.moven.com/about/index.html",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": "#careers span",
+    "query": "#careers span",
+    "link": null
+  },
+  {
     "filename": "Practice",
-    "url": "http://www.practice.xyz/careers/",
+    "url": "http://learn.practice.xyz/careers",
     "jobLocation": "wyndmoor",
     "parseLocation": "Philadelphia",
-    "locations": ".inner-body",
-    "query": ".inner-head h4",
-    "link": ".btn-secondary"
+    "locations": ".rbox-job-shortdesc",
+    "query": ".rbox-opening-li-title",
+    "link": ".rbox-opening-li-title"
   }
 ]

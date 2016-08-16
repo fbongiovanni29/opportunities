@@ -1,0 +1,132 @@
+[
+  {
+    "company": "Linode, LLC",
+    "type": [
+      "product"
+    ],
+    "url": "https://www.linode.com/careers",
+    "webSiteUrl": "https://www.linode.com/",
+    "technologies": [],
+    "locations": {
+      "haddonfield": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Kings Hall, 2 Kings Highway West, Haddonfield, NJ 08033",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.8958,
+          "longitude": -75.036109
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Linux Technical Support",
+        "alternateName": "IT, Networking",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Linux Systems Engineer",
+        "alternateName": "IT, Networking",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Security Engineer",
+        "alternateName": "IT, Networking",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Database Administrator (MySQL)",
+        "alternateName": "Developer, DBA",
+        "url": "https://www.linode.com/careers",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "title": "Front-End Engineer",
+        "url": "https://www.linode.com/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "title": "Manager, Software Engineering",
+        "url": "https://www.linode.com/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "title": "UI/UX Designer",
+        "url": "https://www.linode.com/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "title": "Manager, System Engineering",
+        "url": "https://www.linode.com/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "haddonfield",
+        "remote": false,
+        "title": "Account Executive",
+        "url": "https://www.linode.com/careers"
+      }
+    ],
+    "updated": "2016-04-30"
+  }
+]

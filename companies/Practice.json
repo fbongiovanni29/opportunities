@@ -20,56 +20,62 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "wyndmoor",
       "remote": false,
       "title": "Solutions Engineer",
-      "url": "https://www.practice.xyz/position/solutions-engineer/"
+      "url": "http://learn.practice.xyz/careers#op-131759-solutions-engineer"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "wyndmoor",
       "remote": false,
       "title": "Implementation Specialist",
-      "url": "https://www.practice.xyz/position/implementation-specialist/"
+      "url": "http://learn.practice.xyz/careers#op-131756-implementation-specialist"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Full Stack Software Engineer",
-      "url": "https://www.practice.xyz/position/full-stack-software-engineer/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Account Development Representative",
-      "url": "https://www.practice.xyz/position/account-development-representative/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Customer Success Representative",
-      "url": "https://www.practice.xyz/position/customer-success-representative/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "wyndmoor",
       "remote": false,
       "title": "Learning Specialist",
-      "url": "https://www.practice.xyz/position/learning-specialist/"
+      "url": "http://learn.practice.xyz/careers#op-131142-learning-specialist"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "wyndmoor",
+      "remote": false,
+      "title": "Full Stack Software Engineer",
+      "url": "http://learn.practice.xyz/careers#op-131140-full-stack-software-engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "wyndmoor",
+      "remote": false,
+      "title": "Customer Success Representative",
+      "url": "http://learn.practice.xyz/careers#op-131138-customer-success-representative"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
+      "jobLocation": "wyndmoor",
+      "remote": false,
+      "title": "Account Development Representative",
+      "url": "http://learn.practice.xyz/careers#op-130955-account-development-representative"
     }
   ],
   "updated": "2016-06-17"

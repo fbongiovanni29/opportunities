@@ -23,6 +23,7 @@ function crawl(data, cb) {
     .goto(data.url) // go to JSON specified url
     .wait(data.query) // wait until CSS selector loads
     .evaluate(function (data, dt) {
+      employmentType = ["INTERN", "PART-TIME", "PART TIME", "CONTRACT"]
       arr = []
       // returns text in queried CSS selector
       query = document.querySelectorAll(data.query) // Job title query
@@ -63,6 +64,12 @@ function crawl(data, cb) {
 	    obj.jobLocation = data.jobLocation
 	  } else {
 	    obj.jobLocation = locations[i].innerText.trim()
+	  }
+	  obj.employmentType = "full-time"
+	  for (k = 0; k < employmentType.length; k++) {
+	    if (query[i].innerText.toUpperCase().trim().includes(employmentType[k])) {
+	      obj.employmentType = employmentType[k].toLowerCase()
+	    }
 	  }
 	  // Default remote to false, true if if JSON val is true, if string includes parser true otherwise false
 	  if ("remote" in data === false) {

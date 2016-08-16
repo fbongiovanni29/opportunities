@@ -34,11 +34,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Account Management Assistant",
-      "url": ""
+      "url": "http://mastermindsagency.com/#gigs"
     }
   ],
   "updated": "2016-04-30"

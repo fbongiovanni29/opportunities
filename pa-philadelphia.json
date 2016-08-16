@@ -27,7 +27,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Interactive Project Manager",
@@ -36,7 +37,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Web Developer",
@@ -45,7 +47,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Associate Media Director",
@@ -54,7 +57,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Business Intelligence Manager",
@@ -63,7 +67,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Project Manager",
@@ -72,7 +77,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Producer",
@@ -184,7 +190,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Digital Editor",
@@ -193,7 +200,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Internships",
@@ -224,16 +232,18 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
-        "title": "Senior Engagement Strategist",
-        "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160812131233_GEOF6QO4CRSA3AMX"
+        "title": "Supervisor, Public Relations",
+        "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160815204054_WCLVAOFFE7P6BQ99"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Associate Creative Director, Copy",
@@ -242,7 +252,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "VP, Business Leadership",
@@ -349,7 +360,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Groovy designer needed!",
@@ -381,7 +393,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Software Engineer - Philadelphia",
@@ -390,7 +403,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Robotics Engineer - Philadelphia",
@@ -399,7 +413,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Bioengineer - Philadelphia",
@@ -448,7 +463,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "SENIOR MOLECULAR BIOLOGIST",
@@ -479,7 +495,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "FRONT END ENGINEER"
@@ -487,7 +504,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "FULL STACK ENGINEER"
@@ -530,7 +548,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Drupal Developer – PHL",
@@ -539,7 +558,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Creative Director – PHL",
@@ -647,7 +667,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Junior Interaction Designer",
@@ -656,7 +677,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Mobile Applications Developer",
@@ -720,7 +742,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Copywriter »",
@@ -729,7 +752,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Client Services »",
@@ -738,7 +762,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Internships »",
@@ -802,7 +827,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "",
@@ -811,7 +837,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Integration Engineer",
@@ -886,7 +913,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Business Development Manager",
@@ -895,7 +923,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Management",
@@ -904,7 +933,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Research & Reporting Specialist",
@@ -1026,7 +1056,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Sales Development Rep",
@@ -1058,8 +1089,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director, Business Development - Direct (Full-time position in Philadelphia, PA)",
         "url": "https://jobs.lever.co/cloudmineinc/276d4785-d072-4c12-80f6-1743176bb3ce"
@@ -1067,8 +1099,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Platform Engineer (Full-time position in Boston, MA)",
         "url": "https://jobs.lever.co/cloudmineinc/491c3350-1d9c-4ce4-ba3b-a664c7aea488"
@@ -1076,8 +1109,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "https://cloudmineinc.com/about-us/careers/#accordion",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Platform Engineer (Full-time position in Philadelphia, PA)",
         "url": "https://jobs.lever.co/cloudmineinc/b10d6138-c470-4577-914e-b00b0671c285"
@@ -1110,7 +1144,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Junior Software Engineer",
@@ -1119,7 +1154,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Lead Software Engineer",
@@ -1128,7 +1164,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Front-end Application Engineer",
@@ -1158,8 +1195,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Project Manager",
         "url": "http://www.conigent.com/contact/#op-44924-infor-m3-project-manager"
@@ -1167,8 +1205,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Procurement Warehousing & Logistics",
         "url": "http://www.conigent.com/contact/#op-44150-infor-m3-functional-consultant-procurement-warehousing--logistics"
@@ -1176,8 +1215,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Financial Management Implementation",
         "url": "http://www.conigent.com/contact/#op-44149-infor-m3-functional-consultant-financial-management-implementation"
@@ -1185,8 +1225,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Technical Consultant - Integration (MEC/ION/EDI)",
         "url": "http://www.conigent.com/contact/#op-44148-infor-m3-technical-consultant-integration-mecionedi"
@@ -1194,8 +1235,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Technical Consultant - Development (Java/MAK/Mashups/Smart Office SDK)",
         "url": "http://www.conigent.com/contact/#op-44147-infor-m3-technical-consultant-development-javamakmashupssmart-office-sdk"
@@ -1203,8 +1245,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Equipment Service Management & Rental",
         "url": "http://www.conigent.com/contact/#op-44146-infor-m3-functional-consultant-equipment-service-management--rental"
@@ -1212,8 +1255,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "Infor M3 Functional Consultant - Customer Sales Management",
         "url": "http://www.conigent.com/contact/#op-44145-infor-m3-functional-consultant-customer-sales-management"
@@ -1221,8 +1265,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "cherry Hil",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "cherryhill",
         "remote": false,
         "title": "M3 Functional Consultant - Planning & Manufacturing Operations",
         "url": "http://www.conigent.com/contact/#op-43919-m3-functional-consultant-planning--manufacturing-operations"
@@ -1267,16 +1312,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
-        "remote": true,
-        "title": "Web Developer - React, Rails, APIs",
-        "url": "https://curadora.workable.com/jobs/248814"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": true,
         "title": "Senior Software Developer - Elixir, React, Rails",
@@ -1285,7 +1322,18 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": true,
+        "title": "Web Developer - React, Rails, APIs",
+        "url": "https://curadora.workable.com/jobs/248814"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Inside Sales Associate",
@@ -1392,8 +1440,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia, PA",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Client Success Manager",
         "url": "https://boards.greenhouse.io/curalate/jobs/181530"
@@ -1401,8 +1450,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia, PA",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing Operations Analyst",
         "url": "https://boards.greenhouse.io/curalate/jobs/257490"
@@ -1410,8 +1460,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia, PA",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Product Marketing Manager",
         "url": "https://boards.greenhouse.io/curalate/jobs/99221"
@@ -1419,8 +1470,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia, PA",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Sales Development",
         "url": "https://boards.greenhouse.io/curalate/jobs/217713"
@@ -1428,8 +1480,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "Philadelphia, PA",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "Project Manager",
         "url": "https://boards.greenhouse.io/curalate/jobs/167258"
@@ -1437,8 +1490,9 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "New York, Philadelphia, Seattle",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
         "remote": false,
         "title": "General Applicants",
         "url": "https://boards.greenhouse.io/curalate/jobs/136707"
@@ -1470,7 +1524,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Director"
@@ -1478,7 +1533,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Digital Marketing Manager"
@@ -1511,7 +1567,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Web Project Manager",
@@ -1520,7 +1577,18 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Associate Digital Media Buyer",
+        "url": "https://boards.greenhouse.io/delphicdigital/jobs/249584"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing Communications Manager",
@@ -1529,7 +1597,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Technical Lead - Web Development",
@@ -1560,7 +1629,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Software Engineer",
@@ -1591,7 +1661,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Android Developer",
@@ -1600,7 +1671,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Platform Operations Engineer",
@@ -1609,7 +1681,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Software Engineer - Payments Focus",
@@ -1728,7 +1801,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "R&D Engineer",
@@ -1759,7 +1833,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Policy & Initiatives Intern",
@@ -1768,7 +1843,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Communications Intern",
@@ -1851,7 +1927,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Analytics",
@@ -1860,7 +1937,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Hybris Solution Architect",
@@ -1869,7 +1947,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Content Strategist",
@@ -1878,7 +1957,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Director of User Experience Design",
@@ -1887,7 +1967,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Senior Web Analyst",
@@ -2020,7 +2101,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: DIGITAL MARKETER",
@@ -2029,7 +2111,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: SENIOR MANAGER, BRAND PARTNERSHIPS",
@@ -2038,7 +2121,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: D2C ACCOUNTS COORDINATOR",
@@ -2047,7 +2131,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: EMAIL MARKETING MANAGER",
@@ -2056,7 +2141,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: DIGITAL MARKETING ASSISTANT",
@@ -2065,20 +2151,12 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "JOB LISTING: PAID MEDIA ASSISTANT",
         "url": "http://famehouse.net/job-listing-paid-media-assistant/"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-15",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "title": "JOB LISTING: DIGITAL PROJECT MANAGER",
-        "url": "http://famehouse.net/job-listing-digital-project-manager/"
       }
     ],
     "updated": "2016-04-30"
@@ -2261,11 +2339,126 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Sales Representative",
         "url": "https://www.getguru.com/jobs/"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "HealthVerity",
+    "type": [
+      "startup"
+    ],
+    "url": "http://healthverity.com/careers-2",
+    "webSiteUrl": "http://healthverity.com/",
+    "technologies": [
+      "Python",
+      "Django",
+      "Amazon Web Services",
+      "Javascript",
+      "Perl",
+      "docker"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.95591,
+          "longitude": -75.17309
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Operations Engineer / DevOps",
+        "alternateName": "DevOps",
+        "url": "http://jobs.jobvite.com/healthverity/job/oqrX0fwy",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Project Management Lead",
+        "alternateName": "Project Manager",
+        "url": "http://jobs.jobvite.com/healthverity/job/oLaE2fwl",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "VP, Strategic Partnerships in Healthcare Data",
+        "url": "http://jobs.jobvite.com/healthverity/job/oB5x3fw0"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Product Manager - Healthcare Data Software Platform",
+        "url": "http://jobs.jobvite.com/healthverity/job/oCYw3fwT"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Software Engineer (Healthcare Data)",
+        "url": "http://jobs.jobvite.com/healthverity/job/ot5x3fwS"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "UI/UX Designer",
+        "url": "http://jobs.jobvite.com/healthverity/job/oleu3fwQ"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Healthcare Data Privacy Research Scientist",
+        "url": "http://jobs.jobvite.com/healthverity/job/op1r3fwE"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "VP Sales - Life Sciences (Healthcare Data)",
+        "url": "http://jobs.jobvite.com/healthverity/job/o62u3fwp"
       }
     ],
     "updated": "2016-04-30"
@@ -2306,7 +2499,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Business Development Intern – Fall 2016",
@@ -2315,7 +2509,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Creative Intern – Fall 2016",
@@ -2324,7 +2519,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Freelance Designer",
@@ -2333,7 +2529,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing & Events Intern – Fall 2016",
@@ -2342,7 +2539,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Project Management Intern – Fall 2016",
@@ -2351,7 +2549,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Research Intern – Fall 2016",
@@ -2419,7 +2618,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Director of Product",
@@ -2428,7 +2628,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Event Sales Specialist",
@@ -2437,7 +2638,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Field Sales Quality Analyst",
@@ -2446,7 +2648,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Member Experience Manager",
@@ -2480,7 +2683,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Account Manager (Philadelphia, PA)",
@@ -2489,7 +2693,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing – Associate (Philadelphia, PA)",
@@ -2498,7 +2703,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Marketing – Senior Manager (Philadelphia, PA)",
@@ -2507,7 +2713,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Payer Implementations Manager (Philadelphia, PA)",
@@ -2516,7 +2723,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Product Management – Senior Manager (Philadelphia, PA)",
@@ -2525,7 +2733,8 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Provider Implementations Manager (Philadelphia, PA)",
@@ -2534,11 +2743,109 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-15",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
         "title": "Salesforce Administrator/Business Analyst (Philadelphia, PA)",
         "url": "http://www.instamed.com/about/careers/salesforce-administrator-business-analyst"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "IntegriChain",
+    "type": [
+      "product"
+    ],
+    "url": "https://integrichain-orspartners.icims.com/jobs/search?ss=1",
+    "webSiteUrl": "http://www.integrichain.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1628 JFK Boulevard, Suite 300, Philadelphia, PA 19103",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.953705,
+          "longitude": -75.167953
+        }
+      },
+      "princeton": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Canal Pointe Boulevard, Princeton, NJ",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.321437,
+          "longitude": -74.658373
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Software Engineer",
+        "alternateName": "Developer, Full Stack",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2653/software-engineer/job",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Senior Business Analyst, Customer Operations",
+        "url": "https://integrichain-orspartners.icims.com/jobs/3092/senior-business-analyst%2c-customer-operations/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Software Engineer in Test",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2980/software-engineer-in-test/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "EDI Analyst",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2911/edi-analyst/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Product Marketing Manager",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2811/product-marketing-manager/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Data Analyst, Master Data Management",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2808/data-analyst%2c-master-data-management/job?in_iframe=1"
       }
     ],
     "updated": "2016-04-30"
@@ -2597,6 +2904,480 @@
         "jobLocation": "philadelphia",
         "remote": false,
         "datePosted": "2016-03-13"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Kepler Group",
+    "type": [
+      "agency"
+    ],
+    "url": "http://www.keplergrp.com/careers/",
+    "webSiteUrl": "http://www.keplergrp.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "230 South Broad Street, 17th Floor, Philadelphia, PA, 19102",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.9483761,
+          "longitude": -75.1670123
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Client Solutions Manager",
+        "alternateName": "Business Development",
+        "url": "http://www.keplergrp.com/careers/?gh_jid=111131",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-03-13"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Optimization & Innovation Manager",
+        "url": "http://keplergrp.com/careers/?gh_jid=111136"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "KickUp",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/kickup-1/jobs",
+    "webSiteUrl": "http://kickup.co/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.07231,
+          "longitude": -75.203371
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Full-Stack JavaScript Engineer",
+        "url": "https://angel.co/kickup-1/jobs/163263-full-stack-javascript-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Marketing and Design Specialist",
+        "url": "https://angel.co/kickup-1/jobs/156175-marketing-and-design-specialist"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Lamps.com Inc",
+    "type": [
+      "internal"
+    ],
+    "url": "http://jobs.interactivecommercegroup.com/",
+    "webSiteUrl": "http://www.lamps.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1217 Sansom St, Floor 8, Philadelphia, PA 19107",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.949923,
+          "longitude": -75.161334
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Full Stack Magento Developer",
+        "alternateName": "Developer, Backend",
+        "url": "http://jobs.interactivecommercegroup.com/apply/26wj0Q/Full-Stack-Magento-Developer",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": ""
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Financial Analyst",
+        "url": "http://jobs.interactivecommercegroup.com/apply/VldbgC/Financial-Analyst"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Operations Specialist",
+        "url": "http://jobs.interactivecommercegroup.com/apply/ZaoMKh/Operations-Specialist"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Leadnomics",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.leadnomics.com/careers/",
+    "webSiteUrl": "http://www.leadnomics.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "2929 Arch St, Philadelphia, PA 19104",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.9568481379,
+          "longitude": -75.1809156207
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Chief Revenue Officer",
+        "url": "http://www.leadnomics.com/careers/#"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Lemma",
+    "type": [
+      "product"
+    ],
+    "url": "https://www.lem.ma/home/?page_id=70",
+    "webSiteUrl": "https://www.lem.ma/",
+    "technologies": [
+      "Javascript",
+      "HTML",
+      "Node.js",
+      "C/C++",
+      "HTML5",
+      "CSS3",
+      "Angular.JS"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "Philadelphia, PA",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.07231,
+          "longitude": -75.203371
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "UX Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "https://www.lem.ma/home/?page_id=79",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Toggle navigation",
+        "url": "https://www.lem.ma/home/"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "MaassMedia, LLC",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://www.maassmedia.com/about-our-careers.php",
+    "webSiteUrl": "http://www.maassmedia.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.954096,
+          "longitude": -75.171007
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Analytics Solutions Engineer",
+        "alternateName": "Data Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=3",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Consultant - Data Science/Reporting",
+        "alternateName": "Data Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=4",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Digital Analyst Intern",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=10"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Digital Analyst",
+        "url": "http://www.maassmedia.com/about-our-careers.php?id=11"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Masterminds",
+    "type": [
+      "agency"
+    ],
+    "url": "http://mastermindsagency.com/#gigs",
+    "webSiteUrl": "http://mastermindsagency.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.9493152971,
+          "longitude": -75.1626386191
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Director of Business Development",
+        "alternateName": "Business Development",
+        "url": "http://mastermindsagency.com/#gigs",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Account Management Assistant",
+        "url": "http://mastermindsagency.com/#gigs"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "Menu Econsolution",
+    "type": [
+      "startup"
+    ],
+    "url": "https://angel.co/menu-econsolution/jobs",
+    "webSiteUrl": "http://menueconsolution.com/",
+    "technologies": [
+      "C++",
+      "Java",
+      "SQL"
+    ],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "3220 Market Street, Suite 369, Philadelphia, PA, 19104",
+        "geo": {
+          "latitude": 39.955135,
+          "longitude": -75.187928
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Software Engineer - Philadelphia",
+        "url": "https://angel.co/biobots/jobs/116521-software-engineer-philadelphia"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Robotics Engineer - Philadelphia",
+        "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Bioengineer - Philadelphia",
+        "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
+      }
+    ],
+    "updated": "2016-04-30"
+  },
+  {
+    "company": "MOD Worldwide",
+    "type": [
+      "agency"
+    ],
+    "url": "http://www.modworldwide.com/creative.html",
+    "webSiteUrl": "http://www.modworldwide.com/",
+    "technologies": [],
+    "locations": {
+      "philadelphia": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "121 S Broad St, Philadelphia, PA 19107",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.950696,
+          "longitude": -75.1638900816
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "GRAPHIC DESIGNER",
+        "alternateName": "Designer, Visual",
+        "url": "http://www.modworldwide.com/creative.html",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "COPYWRITER",
+        "alternateName": "Content Strategy",
+        "url": "http://www.modworldwide.com/creative.html",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "PROOFREADER/RESEARCH",
+        "alternateName": "Content Strategy",
+        "url": "http://www.modworldwide.com/creative.html",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "philadelphia",
+        "remote": false,
+        "title": "Aplication",
+        "url": "http://www.modworldwide.com/creative.html"
       }
     ],
     "updated": "2016-04-30"

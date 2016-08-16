@@ -23,7 +23,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "JOB LISTING: DIGITAL MARKETER",
@@ -32,7 +33,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "JOB LISTING: SENIOR MANAGER, BRAND PARTNERSHIPS",
@@ -41,7 +43,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "JOB LISTING: D2C ACCOUNTS COORDINATOR",
@@ -50,7 +53,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "JOB LISTING: EMAIL MARKETING MANAGER",
@@ -59,7 +63,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "JOB LISTING: DIGITAL MARKETING ASSISTANT",
@@ -68,20 +73,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "JOB LISTING: PAID MEDIA ASSISTANT",
       "url": "http://famehouse.net/job-listing-paid-media-assistant/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-15",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "JOB LISTING: DIGITAL PROJECT MANAGER",
-      "url": "http://famehouse.net/job-listing-digital-project-manager/"
     }
   ],
   "updated": "2016-04-30"

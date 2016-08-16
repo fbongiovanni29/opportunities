@@ -1,21 +1,29 @@
 {
-  "company": "Kepler Group",
+  "company": "Lemma",
   "type": [
-    "agency"
+    "product"
   ],
-  "url": "http://www.keplergrp.com/careers/",
-  "webSiteUrl": "http://www.keplergrp.com/",
-  "technologies": [],
+  "url": "https://www.lem.ma/home/?page_id=70",
+  "webSiteUrl": "https://www.lem.ma/",
+  "technologies": [
+    "Javascript",
+    "HTML",
+    "Node.js",
+    "C/C++",
+    "HTML5",
+    "CSS3",
+    "Angular.JS"
+  ],
   "locations": {
     "philadelphia": {
       "@context": "http://schema.org",
       "@type": "Place",
-      "address": "230 South Broad Street, 17th Floor, Philadelphia, PA, 19102",
+      "address": "Philadelphia, PA",
       "geo": {
         "@context": "http://schema.org",
         "@type": "Place",
-        "latitude": 39.9483761,
-        "longitude": -75.1670123
+        "latitude": 40.07231,
+        "longitude": -75.203371
       }
     }
   },
@@ -24,12 +32,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Client Solutions Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.keplergrp.com/careers/?gh_jid=111131",
+      "title": "UX Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.lem.ma/home/?page_id=79",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "datePosted": "2016-04-05"
     },
     {
       "@context": "http://schema.org",
@@ -38,8 +46,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Optimization & Innovation Manager",
-      "url": "http://keplergrp.com/careers/?gh_jid=111136"
+      "title": "Toggle navigation",
+      "url": "https://www.lem.ma/home/"
     }
   ],
   "updated": "2016-04-30"

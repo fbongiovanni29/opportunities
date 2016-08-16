@@ -22,7 +22,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "fort washington",
       "remote": false,
       "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
@@ -31,7 +32,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
       "jobLocation": "fort washington",
       "remote": false,
       "title": "SOFTWARE DEVELOPMENT INTERN",
@@ -40,7 +42,8 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-15",
+      "datePosted": "2016-07-16",
+      "employmentType": "full-time",
       "jobLocation": "fort washington",
       "remote": false,
       "title": ".NET SOFTWARE DEVELOPER",

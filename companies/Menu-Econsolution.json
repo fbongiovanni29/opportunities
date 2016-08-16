@@ -1,21 +1,23 @@
 {
-  "company": "Club OS",
+  "company": "Menu Econsolution",
   "type": [
-    "Startup",
-    "Product"
+    "startup"
   ],
-  "url": "https://angel.co/club-os/jobs",
-  "webSiteUrl": "https://www.club-os.com/",
+  "url": "https://angel.co/menu-econsolution/jobs",
+  "webSiteUrl": "http://menueconsolution.com/",
   "technologies": [
-    "Java"
+    "C++",
+    "Java",
+    "SQL"
   ],
   "locations": {
     "philadelphia": {
+      "@context": "http://schema.org",
       "@type": "Place",
-      "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+      "address": "3220 Market Street, Suite 369, Philadelphia, PA, 19104",
       "geo": {
-        "latitude": 39.9549139592,
-        "longitude": -75.1671930612
+        "latitude": 39.955135,
+        "longitude": -75.187928
       }
     }
   },
@@ -27,8 +29,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Junior Software Engineer",
-      "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
+      "title": "Software Engineer - Philadelphia",
+      "url": "https://angel.co/biobots/jobs/116521-software-engineer-philadelphia"
     },
     {
       "@context": "http://schema.org",
@@ -37,8 +39,8 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Lead Software Engineer",
-      "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
+      "title": "Robotics Engineer - Philadelphia",
+      "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
     },
     {
       "@context": "http://schema.org",
@@ -47,8 +49,9 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Front-end Application Engineer",
-      "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
+      "title": "Bioengineer - Philadelphia",
+      "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }
