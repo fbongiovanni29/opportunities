@@ -1,10 +1,30 @@
 [
   {
-    "filename": "1-Trick-Pony",
-    "url": "http://1trickpony.com/jobs/",
-    "jobLocation": "hammonton",
-    "query": "div.job-listings>dt a",
-    "link": "div.job-listings>dt a"
+    "filename": "Boomi",
+    "url": "http://www.boomi.com/company/careers",
+    "jobLocation": "berwyn",
+    "parseLocation": ["Berwyn"],
+    "locations": ".location+ .location",
+    "parseRemote": "Remote",
+    "remote": "#available-jobs a",
+    "query": "#available-jobs a",
+    "link": "#available-jobs a"
+  },
+  {
+    "filename": "Syapse",
+    "url": "https://boards.greenhouse.io/embed/job_board?for=syapse&b=http://www.syapse.com/about/careers/openings/",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".location",
+    "query": ".opening",
+    "link": "a"
+  },
+  {
+      "filename": "1-Trick-Pony",
+      "url": "http://1trickpony.com/jobs/",
+      "jobLocation": "hammonton",
+      "query": "div.job-listings>dt a",
+      "link": "div.job-listings>dt a"
   },
   {
     "filename": "160over90",
@@ -695,6 +715,75 @@
     "link": null
   },
   {
+    "filename": "PCS-Trac",
+      "url": "http://www.pcstrac.com/#!careers/cuev",
+    "jobLocation": "philadelphia",
+    "query": ".font_5 .color_18 span",
+    "link": null
+  },
+  {
+    "filename": "PeopleJoy",
+    "url": "https://angel.co/peoplejoy/jobs",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
+  },
+  {
+    "filename": "PeopleLinx",
+    "url": "http://peoplelinx.com/jobs",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".job-excerpt",
+    "query": ".job-title",
+    "link": ".job-title"
+  },
+  {
+    "filename": "PerPay-Inc",
+    "url": "https://perpay.com/careers/",
+    "jobLocation": "philadelphia",
+    "parseLocation": "Philadelphia",
+    "locations": ".text-right .mb5",
+    "query": ".text-left .mb5",
+    "link": null
+  },
+  {
+    "filename": "Philadelphia-Media-Network",
+    "url": "http://apsweb.philly.com/jobs/#full_1",
+    "jobLocation": "philadelphia",
+    "query": "h3 a",
+    "link": null
+  },
+  {
+    "filename": "Philly-Marketing-Labs",
+    "url": "http://www.phillymarketinglabs.com/about/join-our-team/",
+    "jobLocation": "wayne",
+    "query": "p:nth-child(4) a",
+    "link": "p:nth-child(4) a"
+  },
+  {
+    "filename": "Picwell-inc",
+    "url": "http://nerds.picwell.com/jobs/",
+    "jobLocation": "philadelphia",
+    "query": ".end li a",
+    "link": ".end li a"
+  },
+  {
+    "filename": "PipelineDeals",
+    "url": "https://www.pipelinedeals.com/careers",
+    "jobLocation": "exton",
+    "query": ".available_positions a",
+    "link": ".available_positions a"
+  },
+  {
+    "filename": "Plum-Analytics",
+    "url": "http://plumanalytics.com/about/careers/",
+    "jobLocation": "dresher",
+    "query": ".jobtitle a",
+    "link": ".jobtitle a"
+  },
+  {
     "filename": "Practice",
     "url": "http://learn.practice.xyz/careers",
     "jobLocation": "wyndmoor",
@@ -702,5 +791,91 @@
     "locations": ".rbox-job-shortdesc",
     "query": ".rbox-opening-li-title",
     "link": ".rbox-opening-li-title"
+  },
+  {
+    "filename": "Razorfish-Health",
+    "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
+    "parseLocation": "Pennsylvania",
+    "locations": "th+ td span",
+    "jobLocation": "philadelphia",
+    "query": ".absolute a",
+    "link": ".absolute a"
+  },
+  {
+    "filename": "Red-Tettemer-OConnell-Partners",
+    "url": "http://www.rtop.com/contact/",
+    "jobLocation": "Philadelphia",
+    "query": ".job-short span",
+    "link": ".job-short a"
+  },
+  {
+    "filename": "RealScout",
+    "url": "https://jobs.lever.co/realscout",
+    "parseLocation": "Philadelphia",
+    "locations": ".posting-categories",
+    "jobLocation": "philadelphia",
+    "query": ".postings-group:nth-child(1) h5",
+    "link": ".postings-group:nth-child(1) h5"
+  },
+  {
+    "filename": "Relay",
+    "url": "http://www.relaynetwork.com/careers/",
+    "jobLocation": "radnor",
+    "query": "#theapplicantmanager h1",
+    "link": "#theapplicantmanager h1 a"
+  },
+  {
+    "filename": "Revzilla",
+    "url": "http://www.revzilla.com/careers",
+    "parseLocation": "Philadelphia",
+    "locations": "#jobs_feed li",
+    "jobLocation": "philadelphia",
+    "query": "#jobs_feed a",
+    "link": "#jobs_feed a"
+  },
+  {
+    "filename": "RightAction",
+    "url": "http://rightaction.theresumator.com/",
+    "jobLocation": "philadelphia",
+    "query": ".resumator-job-title-link",
+    "link": ".resumator-job-title-link"
+  },
+  {
+    "filename": "Rock-River-Star",
+    "url": "http://rockriverstar.com/careers",
+    "jobLocation": "downingtown",
+    "query": "#block-menu_block-7 a",
+    "link": "#block-menu_block-7 a"
+  },
+  {
+    "filename": "Saturn-Infotech-Inc",
+    "url": "http://www.saturninfotech.com/jobs.php",
+    "jobLocation": "north wales",
+    "parseLocation": "Wales",
+    "locations": ".even td:nth-child(4) , .odd td:nth-child(4)",
+    "query": ".hyper_link span",
+    "link": ".hyper_link span"
+  },
+  {
+    "filename": "Susquehanna-International-Group",
+    "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology",
+    "jobLocation": "bala cynwyd",
+    "query": ".jobId+ td",
+    "link": ".im-job-track-click span"
+  },
+  {
+    "filename": "Sustrana",
+    "url": "http://www.sustrana.com/careers",
+    "jobLocation": "devon",
+    "query": "p+ h3 strong",
+    "link": null
+  },
+  {
+      "filename": "Swift-Capital",
+      "url": "https://www.swiftcapital.com/careers",
+      "parseLocation": ["Conshohocken", "Wilmington"],
+      "locations": ".rbox-job-shortdesc",
+      "query": ".rbox-opening-li-title",
+      "link": ".rbox-opening-li-title"
   }
 ]

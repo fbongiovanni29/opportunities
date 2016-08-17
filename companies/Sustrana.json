@@ -31,13 +31,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-16",
       "employmentType": "full-time",
-      "title": "Web Application Developer",
-      "alternateName": "",
-      "url": "https://angel.co/sustrana-2/jobs",
       "jobLocation": "devon",
       "remote": false,
-      "datePosted": "2016-04-05"
+      "title": "WEB DEVELOPERS",
+      "url": "http://www.sustrana.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-16",
+      "employmentType": "intern",
+      "jobLocation": "devon",
+      "remote": false,
+      "title": "INTERNSHIP OPPORTUNITIES",
+      "url": "http://www.sustrana.com/careers"
     }
   ]
 }

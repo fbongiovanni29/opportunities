@@ -711,5 +711,263 @@
       }
     ],
     "updated": "2016-04-30"
+  },
+  {
+    "company": "NRG Edge, LLC",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://nrg-edge.com/careers.html",
+    "webSiteUrl": "http://nrg-edge.com/",
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.064788,
+          "longitude": -75.533473
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Lead Web Development Architect",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://nrg-edge.com/careers.html",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-29"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "UI Developer",
+        "alternateName": "Developer, Frontend",
+        "url": "http://nrg-edge.com/careers.html",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-29"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Analyst / Tester",
+        "alternateName": "Developer, QA",
+        "url": "http://nrg-edge.com/careers.html",
+        "jobLocation": "malvern",
+        "remote": false,
+        "datePosted": "2016-04-29"
+      }
+    ],
+    "updated": "2016-04-29"
+  },
+  {
+    "company": "PipelineDeals",
+    "type": [
+      "product"
+    ],
+    "url": "https://www.pipelinedeals.com/careers",
+    "webSiteUrl": "https://www.pipelinedeals.com/",
+    "technologies": [],
+    "locations": {
+      "exton": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.04229,
+          "longitude": -75.581178
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Product Marketing Manager",
+        "alternateName": "Marketing",
+        "url": "https://www.pipelinedeals.com/careers/product_marketing_manager",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/account_executive",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Senior Software Engineer",
+        "alternateName": "Developer, Backend",
+        "url": "https://www.pipelinedeals.com/careers/senior_rails_developer",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Ambassador",
+        "alternateName": "Business Development",
+        "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "QA Analyst",
+        "alternateName": "Developer, QA",
+        "url": "https://www.pipelinedeals.com/careers/qa_analyst",
+        "jobLocation": "exton",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "exton",
+        "remote": false,
+        "title": "Sales Development Rep",
+        "url": "https://www.pipelinedeals.com/careers/sales_development_rep"
+      }
+    ],
+    "updated": "2016-04-28"
+  },
+  {
+    "company": "Rock River Star",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://rockriverstar.com/careers",
+    "webSiteUrl": "http://rockriverstar.com/",
+    "technologies": [],
+    "locations": {
+      "downingtown": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "202 Corner Ketch Road, Downingtown, PA 19335",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.031643,
+          "longitude": -75.750801
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Creative Director",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/creative-director",
+        "jobLocation": "downingtown",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Lead Project Architect",
+        "alternateName": "Developer, Frontend",
+        "url": "http://rockriverstar.com/careers/lead-project-architect",
+        "jobLocation": "downingtown",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Programmer / Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://rockriverstar.com/careers/programmer-developer",
+        "jobLocation": "downingtown",
+        "remote": false,
+        "datePosted": "2016-04-28"
+      }
+    ],
+    "updated": "2016-04-28"
+  },
+  {
+    "company": "Sustrana",
+    "type": [
+      "startup"
+    ],
+    "url": "http://www.sustrana.com/careers",
+    "webSiteUrl": "http://www.sustrana.com/",
+    "technologies": [
+      "ASP.NET 4.5",
+      "C#",
+      "Microsoft Azure DocumentDB",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "Bootstrap",
+      "Knockout"
+    ],
+    "locations": {
+      "devon": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "15 North Devon Boulevard, Devon PA 19333",
+        "geo": {
+          "latitude": 40.0465,
+          "longitude": -75.422861
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "full-time",
+        "jobLocation": "devon",
+        "remote": false,
+        "title": "WEB DEVELOPERS",
+        "url": "http://www.sustrana.com/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-16",
+        "employmentType": "intern",
+        "jobLocation": "devon",
+        "remote": false,
+        "title": "INTERNSHIP OPPORTUNITIES",
+        "url": "http://www.sustrana.com/careers"
+      }
+    ]
   }
 ]

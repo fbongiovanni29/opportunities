@@ -714,3 +714,39 @@ Cannot read property 'href' of undefined
 NRG-Edge-LLC
 Cannot read property 'href' of undefined
 08/16/2016 16:13:45
+-----------------------------------------------
+Razorfish-Health
+Cannot read property 'href' of undefined
+08/16/2016 17:18:54
+-----------------------------------------------
+Red-Tettemer-OConnell-Partners
+Error: .wait() timed out after 30000msec
+08/16/2016 17:33:27
+-----------------------------------------------
+SEER-Interactive
+Error: .wait() timed out after 30000msec
+08/16/2016 18:11:05
+-----------------------------------------------
+Swift-Capital
+Cannot read property 'innerText' of undefined
+08/16/2016 21:35:22
+-----------------------------------------------
+Syapse
+Error: Cannot find module './data/companies/undefined.json'
+08/16/2016 21:46:00
+-----------------------------------------------
+Syapse
+Error: Cannot find module './data/companies/undefined.json'
+08/16/2016 21:46:27
+-----------------------------------------------
+Syapse
+[object Object]
+08/16/2016 21:47:17
+-----------------------------------------------
+Syapse
+Cannot read property 'innerText' of undefined
+08/16/2016 21:57:31
+-----------------------------------------------
+Syapse
+Cannot read property 'innerText' of undefined
+08/16/2016 22:01:11
