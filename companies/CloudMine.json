@@ -21,7 +21,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-16",
+      "datePosted": "2016-07-17",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -31,17 +31,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-16",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Platform Engineer (Full-time position in Boston, MA)",
-      "url": "https://jobs.lever.co/cloudmineinc/491c3350-1d9c-4ce4-ba3b-a664c7aea488"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-16",
+      "datePosted": "2016-07-17",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,

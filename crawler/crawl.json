@@ -1,25 +1,5 @@
 [
   {
-    "filename": "Boomi",
-    "url": "http://www.boomi.com/company/careers",
-    "jobLocation": "berwyn",
-    "parseLocation": ["Berwyn"],
-    "locations": ".location+ .location",
-    "parseRemote": "Remote",
-    "remote": "#available-jobs a",
-    "query": "#available-jobs a",
-    "link": "#available-jobs a"
-  },
-  {
-    "filename": "Syapse",
-    "url": "https://boards.greenhouse.io/embed/job_board?for=syapse&b=http://www.syapse.com/about/careers/openings/",
-    "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
-    "locations": ".location",
-    "query": ".opening",
-    "link": "a"
-  },
-  {
       "filename": "1-Trick-Pony",
       "url": "http://1trickpony.com/jobs/",
       "jobLocation": "hammonton",
@@ -50,7 +30,7 @@
   {
     "filename": "AgileTrailblazers",
     "url": "https://agiletrailblazers.workable.com/",
-    "parseLocation": "Pennsylvania",
+    "parseLocation": ["Pennsylvania"],
     "locations": "li p",
     "jobLocation": "king of prussia",
     "query": "#jobs a",
@@ -110,7 +90,7 @@
     "filename": "BioBots",
     "url": "https://angel.co/biobots/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -147,7 +127,7 @@
     "filename": "Boomi",
     "url": "http://www.boomi.com/company/careers",
     "jobLocation": "berwyn",
-    "parseLocation": "Berwyn",
+    "parseLocation": ["Berwyn"],
     "locations": ".location+ .location",
     "parseRemote": "Remote",
     "remote": "#available-jobs a",
@@ -172,7 +152,7 @@
   {
     "filename": "Brian-Communications",
     "url": "https://www.briancom.com/careers",
-    "parseLocation": "Conshohocken",
+    "parseLocation": ["Conshohocken"],
     "locations": "td.srJobListLocation",
     "query": "td.srJobListJobTitle",
     "link": null
@@ -209,7 +189,7 @@
     "filename": "BTB-Security",
     "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".pi-link-dark",
     "query": ".pi-link-dark",
     "link": ".pi-link-dark"
@@ -261,7 +241,7 @@
     "filename": "CloudMine",
     "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": "#panels a",
     "query": "#panels a",
     "link": "#panels a"
@@ -270,7 +250,7 @@
     "filename": "Club-OS",
     "url": "https://angel.co/club-os/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -300,7 +280,7 @@
     "filename": "CoreDial",
     "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
     "jobLocation": "blue bell",
-    "parseLocation": "Blue Bell",
+    "parseLocation": ["Blue Bell"],
     "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
     "query": "a.iCIMS_Anchor",
     "link": "a.iCIMS_Anchor",
@@ -310,7 +290,7 @@
     "filename": "Curadora",
     "url": "https://curadora.workable.com/",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "parseRemote": "TELECOMMUTE",
     "remote": ".meta",
     "query": "#jobs a",
@@ -320,7 +300,7 @@
     "filename": "Curalate",
     "url": "https://boards.greenhouse.io/curalate#.V7DCDZODGkq",
     "jobLocation": "philadelphia",
-    "parseLocation": "PA",
+    "parseLocation": ["PA"],
     "locations": ".location",
     "query": ".opening a",
     "link": ".opening a"
@@ -357,7 +337,7 @@
     "filename": "DramaFever",
     "url": "https://widgets.jobscore.com/jobs/dramafever/widget_iframe?text_color=%232D2424&font_family=Verdana%2C%20Geneva%2C%20sans-serif&link_text_color=%235DA4F5&header_bg_color=%23FFFFFF&group_by=department&show_searchbar_count=50&show_talent_network=false&parent_url=https%3A%2F%2Fwww.dramafever.com%2Fcompany%2Fcareers.html&widget_id=js_widget_iframe_1",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".location",
     "query": ".job-detail-link",
     "link": ".job-detail-link"
@@ -403,7 +383,7 @@
     "filename": "Evoke-Health",
     "url": "http://www.evokehealth.com/Careers",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".list_location",
     "query": ".list_title",
     "link": null
@@ -426,7 +406,7 @@
     "filename": "FastFig",
     "url": "https://angel.co/fastfig/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -478,7 +458,7 @@
     "filename": "HealthVerity",
     "url": "http://jobs.jobvite.com/healthverity/?nl=1",
     "jobLocation": "philadelphia",
-    "parseLocation": "Pennsylvania",
+    "parseLocation": ["Pennsylvania"],
     "locations": ".jv-job-list-location",
     "query": ".jv-job-list-name a",
     "link": ".jv-job-list-name a"
@@ -493,7 +473,7 @@
   {
     "filename": "Inspire-Energy",
     "url": "https://www.inspireenergy.com/join-our-team#powers",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".resumator-job-info",
     "jobLocation": "philadelphia",
     "query": ".resumator-job-title",
@@ -502,7 +482,7 @@
   {
     "filename": "InstaMed",
     "url": "http://www.instamed.com/about/careers/",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": "#value li a",
     "jobLocation": "philadelphia",
     "query": "#value li a",
@@ -512,8 +492,6 @@
     "filename": "IntegriChain",
     "url": "https://integrichain-orspartners.icims.com/jobs/search?ss=1",
     "jobLocation": "philadephia",
-    "parseLocation": "Pennsylvania",
-    "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
     "query": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
     "link": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
     "iFrame": "#icims_content_iframe"
@@ -543,7 +521,7 @@
     "filename": "Kepler-Group",
     "url": "https://boards.greenhouse.io/embed/job_board?for=keplergroup&b=http://www.keplergrp.com/careers/",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".opening",
     "query": ".opening a",
     "link": ".opening a"
@@ -552,7 +530,7 @@
     "filename": "KickUp",
     "url": "https://angel.co/kickup-1/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -560,7 +538,7 @@
   {
     "filename": "Lampscom-Inc",
     "url": "http://jobs.interactivecommercegroup.com/",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".list-group-item",
     "jobLocation": "philadelphia",
     "query": ".list-group-item-heading a",
@@ -569,7 +547,7 @@
   {
     "filename": "Leadnomics",
     "url": "http://www.leadnomics.com/careers/",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".resumator-job-info",
     "jobLocation": "philadelphia",
     "query": ".resumator-job-title",
@@ -614,7 +592,7 @@
     "filename": "Medecision",
     "url": "https://careers-medecision.icims.com/jobs/search?ss=1&searchKeyword=&searchCategory=64385&searchZip=&searchRadius=20",
     "jobLocation": "philadephia",
-    "parseLocation": "Wayne",
+    "parseLocation": ["Wayne"],
     "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
     "parseRemote": "Remote",
     "remote": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
@@ -625,7 +603,7 @@
   {
     "filename": "MeetMe",
     "url": "http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qU19VfwJ&jvresize=jobvite.html",
-    "parseLocation": "PA,",
+    "parseLocation": ["PA,"],
     "locations": ".joblocation",
     "query": ".joblist a",
     "link": ".joblist a"
@@ -634,7 +612,7 @@
     "filename": "Menu-Econsolution",
     "url": "https://angel.co/biobots/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -652,7 +630,7 @@
     "filename": "Moven",
     "url": "https://www.moven.com/about/index.html",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": "#careers span",
     "query": "#careers span",
     "link": null
@@ -661,7 +639,7 @@
     "filename": "My-Mobile-ED",
     "url": "https://angel.co/my-mobile-ed/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -683,16 +661,16 @@
   {
     "filename": "New-York-Code-Design-Academy",
     "url": "https://nycda.com/careers#openings",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadephia"],
     "locations": ".job-titles+ td",
     "jobLocation": "philadelphia",
-    "query": ".job-titles a",
+    "query": ".job-titles+ td",
     "link": ".job-titles a"
   },
   {
     "filename": "Nimblelight",
     "url": "http://nimblelight.com/jobs/",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".positions-location",
     "jobLocation": "philadelphia",
     "query": ".positions-title",
@@ -708,7 +686,7 @@
   {
     "filename": "Oncora-Medical",
     "url": "https://oncoramedical.com/careers/",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".subheader",
     "jobLocation": "philadelphia",
     "query": "h5",
@@ -725,7 +703,7 @@
     "filename": "PeopleJoy",
     "url": "https://angel.co/peoplejoy/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -734,7 +712,7 @@
     "filename": "PeopleLinx",
     "url": "http://peoplelinx.com/jobs",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".job-excerpt",
     "query": ".job-title",
     "link": ".job-title"
@@ -743,7 +721,7 @@
     "filename": "PerPay-Inc",
     "url": "https://perpay.com/careers/",
     "jobLocation": "philadelphia",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".text-right .mb5",
     "query": ".text-left .mb5",
     "link": null
@@ -787,7 +765,7 @@
     "filename": "Practice",
     "url": "http://learn.practice.xyz/careers",
     "jobLocation": "wyndmoor",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": ".rbox-job-shortdesc",
     "query": ".rbox-opening-li-title",
     "link": ".rbox-opening-li-title"
@@ -795,11 +773,20 @@
   {
     "filename": "Razorfish-Health",
     "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
-    "parseLocation": "Pennsylvania",
+    "parseLocation": ["Pennsylvania"],
     "locations": "th+ td span",
     "jobLocation": "philadelphia",
     "query": ".absolute a",
     "link": ".absolute a"
+  },
+  {
+    "filename": "RealScout",
+    "url": "https://jobs.lever.co/realscout",
+    "parseLocation": ["PHILADELPHIA"],
+    "locations": ".posting-categories",
+    "jobLocation": "philadelphia",
+    "query": "h5",
+    "link": "h5"
   },
   {
     "filename": "Red-Tettemer-OConnell-Partners",
@@ -807,15 +794,6 @@
     "jobLocation": "Philadelphia",
     "query": ".job-short span",
     "link": ".job-short a"
-  },
-  {
-    "filename": "RealScout",
-    "url": "https://jobs.lever.co/realscout",
-    "parseLocation": "Philadelphia",
-    "locations": ".posting-categories",
-    "jobLocation": "philadelphia",
-    "query": ".postings-group:nth-child(1) h5",
-    "link": ".postings-group:nth-child(1) h5"
   },
   {
     "filename": "Relay",
@@ -827,7 +805,7 @@
   {
     "filename": "Revzilla",
     "url": "http://www.revzilla.com/careers",
-    "parseLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
     "locations": "#jobs_feed li",
     "jobLocation": "philadelphia",
     "query": "#jobs_feed a",
@@ -851,7 +829,7 @@
     "filename": "Saturn-Infotech-Inc",
     "url": "http://www.saturninfotech.com/jobs.php",
     "jobLocation": "north wales",
-    "parseLocation": "Wales",
+    "parseLocation": ["Wales"],
     "locations": ".even td:nth-child(4) , .odd td:nth-child(4)",
     "query": ".hyper_link span",
     "link": ".hyper_link span"
@@ -877,5 +855,14 @@
       "locations": ".rbox-job-shortdesc",
       "query": ".rbox-opening-li-title",
       "link": ".rbox-opening-li-title"
+  },
+  {
+    "filename": "Syapse",
+    "url": "https://boards.greenhouse.io/embed/job_board?for=syapse&b=http://www.syapse.com/about/careers/openings/",
+    "jobLocation": "philadelphia",
+    "parseLocation": ["Philadelphia"],
+    "locations": ".location",
+    "query": ".opening",
+    "link": "a"
   }
 ]

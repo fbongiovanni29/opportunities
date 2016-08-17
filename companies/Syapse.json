@@ -27,52 +27,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-16",
+      "datePosted": "2016-07-17",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Customer Solutions Project Manager \nPalo Alto, Philadelphia",
       "url": "http://www.syapse.com/about/careers/openings/?gh_jid=32492"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-16",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Cloud Systems Engineer \nPalo Alto",
-      "url": "http://www.syapse.com/about/careers/openings/?gh_jid=54814"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-16",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Sr. Semantic Data Platform Engineer \nPalo Alto",
-      "url": "http://www.syapse.com/about/careers/openings/?gh_jid=32547"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-16",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Product Manager, Genomics Integrations \nPalo Alto",
-      "url": "http://www.syapse.com/about/careers/openings/?gh_jid=168694"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-16",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Create your own job \nPalo Alto",
-      "url": "http://www.syapse.com/about/careers/openings/?gh_jid=94079"
     }
   ],
   "updated": "2016-04-26"

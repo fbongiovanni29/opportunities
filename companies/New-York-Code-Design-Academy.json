@@ -23,11 +23,11 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-16",
+      "datePosted": "2016-07-17",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Business Development Associate",
+      "title": "Philadephia, PA",
       "url": "https://s3-us-west-2.amazonaws.com/nycda-assets/jobs/documents/000/000/072/original/BD_Job_Description-re-edit.pdf?1469639251"
     }
   ],

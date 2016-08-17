@@ -20,12 +20,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-16",
+      "datePosted": "2016-07-17",
       "employmentType": "full-time",
       "jobLocation": "horsham",
       "remote": false,
       "title": "Clinical Data Monitor",
       "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Clinical Design Manager",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886f8568c87e101569894e87d48f4&source="
     }
   ],
   "updated": "2016-05-01"
