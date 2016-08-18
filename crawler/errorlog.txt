@@ -750,3 +750,31 @@ Cannot read property 'innerText' of undefined
 Syapse
 Cannot read property 'innerText' of undefined
 08/16/2016 22:01:11
+-----------------------------------------------
+Thoughtbot
+Cannot read property 'innerText' of undefined
+08/17/2016 18:02:03
+-----------------------------------------------
+Thoughtbot
+Cannot read property 'innerText' of undefined
+08/17/2016 18:02:14
+-----------------------------------------------
+Revzilla
+[object Object]
+08/17/2016 19:03:09
+-----------------------------------------------
+Veris-Associates-Inc-dba-VerisVisalign
+[object Object]
+08/17/2016 19:03:09
+-----------------------------------------------
+VertMarkets
+[object Object]
+08/17/2016 19:03:09
+-----------------------------------------------
+Vistar-Media
+[object Object]
+08/17/2016 19:03:09
+-----------------------------------------------
+Stuzo
+Error: .wait() timed out after 30000msec
+08/17/2016 21:08:18

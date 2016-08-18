@@ -67,7 +67,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": true,
@@ -77,27 +77,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
-        "employmentType": "full-time",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "title": "Boomi Business and Sales Ops Consultant",
-        "url": "http://jobs.dell.com/united-kingdom/united-kingdom/consulting/jobid10355426-boomi-business-and-sales-ops-consultant-jobs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-16",
-        "employmentType": "full-time",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "title": "Boomi Integration Consultant\\Architect",
-        "url": "http://jobs.dell.com/au/sydney/consulting/jobid10273392-boomi-integration-consultant_architect-sydney-or-melbourne-jobs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -107,7 +87,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -117,7 +97,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -127,7 +107,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -137,7 +117,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -147,7 +127,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -157,7 +137,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -167,17 +147,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
-        "employmentType": "full-time",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "title": "Dell Boomi Partner Technical Enablement Solution Engineer",
-        "url": "http://jobs.dell.com/in/india/engineering/jobid9935863-dell-boomi-partner-technical-enablement-solution-engineer-bangalore-jobs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -187,7 +157,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -197,27 +167,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
-        "employmentType": "full-time",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "title": "Dell Boomi Systems Integration Professional",
-        "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9935854-dell-boomi-systems-integration-professional-jobs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-16",
-        "employmentType": "full-time",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "title": "Dell Boomi Technical Trainer GSI Partner Enablement",
-        "url": "http://jobs.dell.com/in/india/services-it-systems-integration/jobid9924502-dell-boomi-technical-trainer-gsi-partner-enablement-jobs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -227,7 +177,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -237,7 +187,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -247,7 +197,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -257,7 +207,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -267,7 +217,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -277,7 +227,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -287,7 +237,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -297,7 +247,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -307,7 +257,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
@@ -317,22 +267,12 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "berwyn",
         "remote": false,
         "title": "Systems Engineering Sr. Advisor",
         "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-16",
-        "employmentType": "full-time",
-        "jobLocation": "berwyn",
-        "remote": false,
-        "title": "Systems Integration Architect Dell Boomi",
-        "url": "http://jobs.dell.com/in/india/information-technology/jobid10103074-systems-integration-architect-dell-boomi-jobs"
       }
     ],
     "updated": "2016-05-01"
@@ -359,7 +299,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -369,7 +309,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -379,7 +319,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -389,7 +329,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -399,7 +339,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -409,7 +349,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -419,7 +359,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "chesterbrook",
         "remote": false,
@@ -452,7 +392,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "malvern",
         "remote": false,
@@ -462,7 +402,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "malvern",
         "remote": false,
@@ -472,7 +412,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "malvern",
         "remote": true,
@@ -537,7 +477,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -547,7 +487,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -557,7 +497,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -567,7 +507,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -577,7 +517,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -587,7 +527,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -597,7 +537,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -607,7 +547,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -617,7 +557,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -627,7 +567,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -637,7 +577,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -647,7 +587,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "wayne",
         "remote": false,
@@ -682,7 +622,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "philadephia",
         "remote": false,
@@ -692,7 +632,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "philadephia",
         "remote": true,
@@ -702,7 +642,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "philadephia",
         "remote": true,
@@ -850,7 +790,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "exton",
         "remote": false,
@@ -919,6 +859,51 @@
     "updated": "2016-04-28"
   },
   {
+    "company": "Scala",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://join.scala.com/careers/",
+    "webSiteUrl": "http://scala.com/",
+    "technologies": [],
+    "locations": {
+      "malvern": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0632385406,
+          "longitude": -75.5384306945
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Malvern",
+        "remote": false,
+        "title": "Project Manager",
+        "url": "http://join.scala.com/projectmgr/"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Malvern",
+        "remote": false,
+        "title": "Account Coordinator",
+        "url": "http://join.scala.com/account-coordinator/"
+      }
+    ],
+    "updated": "2016-04-26"
+  },
+  {
     "company": "Sustrana",
     "type": [
       "startup"
@@ -951,7 +936,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "full-time",
         "jobLocation": "devon",
         "remote": false,
@@ -961,7 +946,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-16",
+        "datePosted": "2016-07-17",
         "employmentType": "intern",
         "jobLocation": "devon",
         "remote": false,

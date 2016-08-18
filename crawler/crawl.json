@@ -1,10 +1,10 @@
 [
   {
-      "filename": "1-Trick-Pony",
-      "url": "http://1trickpony.com/jobs/",
-      "jobLocation": "hammonton",
-      "query": "div.job-listings>dt a",
-      "link": "div.job-listings>dt a"
+    "filename": "1-Trick-Pony",
+    "url": "http://1trickpony.com/jobs/",
+    "jobLocation": "hammonton",
+    "query": "div.job-listings>dt a",
+    "link": "div.job-listings>dt a"
   },
   {
     "filename": "160over90",
@@ -835,6 +835,39 @@
     "link": ".hyper_link span"
   },
   {
+    "filename": "Scala",
+    "url": "http://join.scala.com/careers/",
+    "jobLocation": "Malvern",
+    "query": ".title a",
+    "link": ".title a"
+  },
+  {
+    "filename": "Sidecar",
+    "url": "https://sidecar-orspartners.icims.com/jobs/search?ss=1&hashed=-435738742&mobile=false&width=1100&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+    "jobLocation": "Philadelphia",
+    "parseLocation": ["Philadelphia"],
+    "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
+    "query": "td a.iCIMS_Anchor",
+    "link": "td a.iCIMS_Anchor",
+    "iFrame": "#icims_content_iframe"
+  },
+  {
+    "filename": "SnipSnap",
+    "url": "http://www.snipsnap.it/snipsnap-jobs/",
+    "jobLocation": "philadelphia",
+    "query": "a h2",
+    "link": null
+  },
+  {
+    "filename": "Stuzo",
+    "url": "http://www.stuzo.com/careers/",
+    "jobLocation": "philadelphia",
+    "parseLocation": "PHILADELPHIA",
+    "locations": ".career-city",
+    "query": ".career-card a",
+    "link": ".career-card a"
+  },
+  {
     "filename": "Susquehanna-International-Group",
     "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology",
     "jobLocation": "bala cynwyd",
@@ -864,5 +897,135 @@
     "locations": ".location",
     "query": ".opening",
     "link": "a"
+  },
+  {
+      "filename": "Tamman-Technologies",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+      "parseLocation": ["Wilmington", "Philadelphia"],
+      "locations": "span span span:nth-child(1)",
+      "query": ".fBold",
+      "link": ".fBold"
+  },
+  {
+      "filename": "Technically-Media",
+      "url": "http://technicallymedia.com/careers",
+      "jobLocation": "Philadelphia",
+      "parseLocation": ["Philadelphia"],
+      "locations": "#page-content a",
+      "query": "#page-content a",
+      "link": "#page-content a"
+  },
+  {
+      "filename": "TherapyNotes",
+      "url": "https://www.pliner.com/careers/",
+      "jobLocation": "willow grove",
+      "query": "#whr_embed_hook a",
+      "link": "#whr_embed_hook a"
+  },
+  {
+    "filename": "Thoughtbot",
+    "url": "https://thoughtbot.com/jobs",
+    "jobLocation": "philadelphia",
+    "parseLocation": ["All Locations", "Philadelphia"],
+    "locations": ".job-location a",
+    "query": ".job-title",
+    "link": ".job-application-link a"
+  },
+  {
+    "filename": "TicketLeap",
+    "url": "http://ticketleap.theresumator.com/",
+    "jobLocation": "philadelphia",
+    "query": ".list-group-item-heading a",
+    "link": ".list-group-item-heading a"
+  },
+  {
+    "filename": "Tonic-Design-Co",
+    "url": "http://www.tonicdesign.com/jobs/",
+    "jobLocation": "philadelphia",
+    "query": ".oneThird h1",
+    "link": ".oneThird h1"
+  },
+  {
+    "filename": "Transmogrify",
+    "url": "http://xmog.com/jobs",
+    "jobLocation": "http://xmog.com/jobs",
+    "query": "h3 span",
+    "link": null
+  },
+  {
+    "filename": "Tuva-Labs-Inc",
+    "url": "https://tuvalabs.com/jobs/",
+    "jobLocation": "philadelphia",
+    "query": "h3",
+    "link": ".jobCard"
+  },
+  {
+    "filename": "Veris-Associates-Inc-dba-VerisVisalign",
+    "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+    "jobLocation": "lansdale",
+    "query": ".careers .item-title",
+    "link": null
+  },
+  {
+    "filename": "VertMarkets",
+    "url": "http://vertmarketsinc.appone.com/Menu.asp?sst=newfull-white&CountryID=3&ERP=&fb=&LanguageID=2&ServerVar=&SearchText=&KeyType=all&CatID=3445&LocationID=0&x=31&y=22&FtrPlaceholder=",
+    "jobLocation": "horsham",
+    "query": "a font",
+    "link": "a font"
+  },
+  {
+    "filename": "Vistar-Media",
+    "url": "http://www.vistarmedia.com/careers",
+    "parseLocation": "Philadelphia",
+    "locations": ".trigger p",
+    "jobLocation": "philadelphia",
+    "query": "h2",
+    "link": null
+  },
+  {
+    "filename": "WebLinc-Corp",
+    "url": "https://weblinc.workable.com/",
+    "jobLocation": "philadelphia",
+    "query": "#jobs a",
+    "link": "#jobs a"
+  },
+  {
+    "filename": "Wilson-Legal-Solutions-Inc",
+    "url": "http://www.wilsonlegalsol.com/about/careers",
+    "parseLocation": ["Newtown"],
+    "locations": "h4+ p",
+    "jobLocation": "newtown square",
+    "query": ".col-sm-9 a",
+    "link": ".col-sm-9 a"
+  },
+  {
+    "filename": "Wingspan-Technology",
+    "url": "http://www.wingspan.com/careers/",
+    "jobLocation": "blue bell",
+    "query": ".et_pb_blurb_container a",
+    "link": ".et_pb_blurb_container a"
+  },
+  {
+    "filename": "WizeHive",
+    "url": "https://review.wizehive.com/voting/posting",
+    "jobLocation": "conshohocken",
+    "query": "#listing a",
+    "link": "#listing a"
+  },
+  {
+    "filename": "YIKES-Inc",
+    "url": "https://www.yikesinc.com/about-yikes-inc/join-team/",
+    "jobLocation": "philadelphia",
+    "query": "h2+ h3",
+    "link": null
+  },
+  {
+    "filename": "Yellowdig",
+    "url": "https://angel.co/yellowdig/jobs",
+    "jobLocation": "philadelphia",
+    "parseLocation": ["Philadelphia"],
+    "locations": ".listing-data",
+    "query": ".u-fontSize18",
+    "link": ".u-fontSize18"
   }
 ]

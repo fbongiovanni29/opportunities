@@ -29,13 +29,11 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-17",
       "employmentType": "full-time",
-      "title": "Mid or Senior Full Stack Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://stackoverflow.com/jobs/107551/mid-or-senior-full-stack-developer-vertmarkets-inc",
       "jobLocation": "horsham",
       "remote": false,
-      "datePosted": "2016-02-26"
+      "title": "Senior Software Engineer"
     }
   ],
   "updated": "2016-04-21"

@@ -1,0 +1,32 @@
+Find employment type
+
+Blocked by robots.txt - AppNexus, Aramark, Nasdaq-OMX, Penn
+Page not loading properly - Cerner (most likely Angular issue)
+No positions currently - AboutOne, Azavea, Compliance-Implementation-Services, CopyCat, Drakontas, Globo, GlobeTopper, GoEmerchant, IntroNet, KPIinterface, Municibid, Nightkitchen, PHLCVB, Plan Management Corp, PromptWorks, Pulsar Informatics, punk ave, rad corp, regdesk, specticast, stock4good, the wilson concept, wildcat 
+No tech positions - Billy Penn, Constitution Center
+Requires navigation - CHOP,Thomson Reuters
+Located in India - Offshorent
+
+Velora - nightmare loads but doesn’t pick up element, may be due to old HTML version
+Think Brownstone - Needs nav for locations & employment types
+epam - add newtown
+chatter blast - parse for internships
+morgan lewis - mix of tech/non-tech jobs
+braxton - extra position
+CloudMine parse fix location
+Tuva - parse employmentType
+URBN - URL doesn’t loads different in Chrome
+I-SITE - contains different strings before job title, positions from 2011
+seer interactive - odd html wrapping job title
+
+Add code to edit out unnecessary text from positions
+Improve employmentType/location parsing
+Compare remote to original
+
+
+
+check for new angel.co sites
+
+errorlog broken
+
+morgan lewis - 100

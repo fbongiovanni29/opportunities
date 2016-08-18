@@ -1,0 +1,47 @@
+{
+  "company": "WebLinc Corp.",
+  "type": [
+    "agency",
+    "product"
+  ],
+  "url": "https://weblinc.workable.com/",
+  "webSiteUrl": "http://www.weblinc.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "22 South 3rd Street, Second Floor, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9497525,
+        "longitude": -75.1457715
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Ruby On Rails Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://weblinc.workable.com/jobs/17597",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior User Experience Designer",
+      "url": "https://weblinc.workable.com/jobs/293308"
+    }
+  ],
+  "updated": "2016-04-21"
+}

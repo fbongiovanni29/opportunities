@@ -1,0 +1,85 @@
+{
+  "company": "SnipSnap",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.snipsnap.it/snipsnap-jobs/",
+  "webSiteUrl": "http://www.snipsnap.it/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "109 South 13th Street, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.950196,
+        "longitude": -75.161868
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Backend Engineer Philadelphia, PA",
+      "url": "http://www.snipsnap.it/snipsnap-jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account Executive Philadelphia, PA",
+      "url": "http://www.snipsnap.it/snipsnap-jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Product Designer (Android) Philadelphia, PA or Anywhere",
+      "url": "http://www.snipsnap.it/snipsnap-jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "SVP Sales Philadelphia, PA",
+      "url": "http://www.snipsnap.it/snipsnap-jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of Sales Philadelphia, PA",
+      "url": "http://www.snipsnap.it/snipsnap-jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "UI/UX Design – Intern/Co-Op Philadelphia, PA",
+      "url": "http://www.snipsnap.it/snipsnap-jobs/"
+    }
+  ],
+  "updated": "2016-04-26"
+}

@@ -1,0 +1,36 @@
+{
+  "company": "Vistar Media",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.vistarmedia.com/careers",
+  "webSiteUrl": "http://www.vistarmedia.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "332 S Smedley St, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9471276977,
+        "longitude": -75.1686654651
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.vistarmedia.com/careers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    }
+  ],
+  "updated": "2016-04-21"
+}

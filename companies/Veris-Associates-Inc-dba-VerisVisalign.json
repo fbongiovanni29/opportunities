@@ -1,0 +1,58 @@
+{
+  "company": "Veris Associates, Inc., dba VerisVisalign",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+  "webSiteUrl": "http://www.verisvisalign.com/",
+  "technologies": [],
+  "locations": {
+    "lansdale": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "920 S. Broad Street, Lansdale, PA 19446",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.229151,
+        "longitude": -75.296258
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PROJECT MANAGER",
+      "alternateName": "Project Manager",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "HELP DESK/SERVICE DESK ANALYST",
+      "alternateName": "IT, Networking",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "APPLICATION PACKAGER",
+      "alternateName": "IT, Networking",
+      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+      "jobLocation": "lansdale",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    }
+  ],
+  "updated": "2016-04-25"
+}

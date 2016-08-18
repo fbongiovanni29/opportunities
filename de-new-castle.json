@@ -89,5 +89,155 @@
       }
     ],
     "updated": "2016-06-17"
+  },
+  {
+    "company": "Swift Capital",
+    "type": [
+      "internal"
+    ],
+    "url": "https://www.swiftcapital.com/Careers",
+    "webSiteUrl": "http://www.swiftcapital.com/",
+    "technologies": [],
+    "locations": {
+      "wilmington": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "501 Carr Rd #301, Wilmington, DE 19809",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 39.776617,
+          "longitude": -75.513209
+        }
+      },
+      "conshohocken": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "625 Ridge Pike, Conshohocken, PA 19428",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0965061,
+          "longitude": -75.2986249
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Marketing Operations Analyst",
+        "alternateName": "Marketing",
+        "url": "https://www.swiftcapital.com/Careers#op-116908-marketing-operations-analyst",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "B2B Sales Representative",
+        "alternateName": "Business Development",
+        "url": "https://www.swiftcapital.com/Careers#op-116900--b2b-sales-representative",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "B2B Account Executive",
+        "alternateName": "Business Development",
+        "url": "https://www.swiftcapital.com/Careers#op-116895-b2b-account-executive",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Data Scientist – Credit Risk Strategies",
+        "alternateName": "Data Scientist",
+        "url": "https://www.swiftcapital.com/Careers#op-116902-data-scientist--credit-risk-strategies",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "datePosted": "2016-04-26"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "remote": false,
+        "title": "Software QA Engineer",
+        "url": "https://www.swiftcapital.com/careers#op-131539-software-qa-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "remote": false,
+        "title": "Graphic Designer",
+        "url": "https://www.swiftcapital.com/careers#op-131104-graphic-designer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "remote": false,
+        "title": "Data Engineer",
+        "url": "https://www.swiftcapital.com/careers#op-131099-data-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "remote": false,
+        "title": "AngularJS/Web Development Engineer",
+        "url": "https://www.swiftcapital.com/careers#op-131088-angularjsweb-development-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "remote": false,
+        "title": "PR Communications Director",
+        "url": "https://www.swiftcapital.com/careers#op-127442-pr-communications-director"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
+        "remote": false,
+        "title": "Risk Associate/Customer Service Advocate",
+        "url": "https://www.swiftcapital.com/careers#op-131106-risk-associatecustomer-service-advocate"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-17",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
+        "remote": false,
+        "title": "Credit Underwriting Specialist",
+        "url": "https://www.swiftcapital.com/careers#op-131095-credit-underwriting-specialist"
+      }
+    ],
+    "updated": "2016-04-26"
   }
 ]

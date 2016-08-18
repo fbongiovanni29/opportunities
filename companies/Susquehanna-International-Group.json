@@ -71,6 +71,60 @@
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
+      "title": "Web Developer- Corporate Systems"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "BI/QlikView Developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "FPGA Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Software Developer - Instruments"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Junior Technical Support Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Technical Support Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-17",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
       "title": "Software Developer - Energy & Commodities"
     },
     {
@@ -126,60 +180,6 @@
       "jobLocation": "bala cynwyd",
       "remote": false,
       "title": "Technical Support Intern - Philadelphia"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Web Developer- Corporate Systems"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "BI/QlikView Developer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "FPGA Engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Software Developer - Instruments"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Junior Technical Support Engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Technical Support Engineer"
     },
     {
       "@context": "http://schema.org",
@@ -260,7 +260,7 @@
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
-      "title": "Technical Project Manager"
+      "title": "Software Developer - Order Management"
     },
     {
       "@context": "http://schema.org",
@@ -269,7 +269,7 @@
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
-      "title": "Software Developer - Order Management"
+      "title": "Technical Project Manager"
     },
     {
       "@context": "http://schema.org",
