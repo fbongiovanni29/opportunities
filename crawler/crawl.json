@@ -1,5 +1,13 @@
 [
   {
+    "filename": "Brian-Communications",
+    "url": "https://www.briancom.com/careers",
+    "parseLocation": ["Conshohocken"],
+    "locations": "td.srJobListLocation",
+    "query": "td.srJobListJobTitle",
+    "link": null
+  },
+  {
     "filename": "1-Trick-Pony",
     "url": "http://1trickpony.com/jobs/",
     "jobLocation": "hammonton",
@@ -132,14 +140,6 @@
     "url": "http://www.bresslergroup.com/about/#jobs",
     "jobLocation": "philadelphia",
     "query": ".job-title",
-    "link": null
-  },
-  {
-    "filename": "Brian-Communications",
-    "url": "https://www.briancom.com/careers",
-    "parseLocation": ["Conshohocken"],
-    "locations": "td.srJobListLocation",
-    "query": "td.srJobListJobTitle",
     "link": null
   },
   {

@@ -54,12 +54,13 @@ function crawl(data, cb) {
 	// if location is static or locations attribute contains correct location (e.g string locations contains "Philadelphia" not "San Francisco")
 	  if ("locations" in data === false || locations[i].innerText.trim() !== undefined && locations[i].innerText.trim().includes(data.parseLocation[y])){
 	    obj.title =  query[i].innerText.trim()
-	  // If jobLocation is static (created in input JSON) else add location based on HTML element that contains location
+	  // Add link for each title unless data.link is null in which case make same as data.url
 	  if (data.link !== null) {
 	    obj.url = links[i].href
 	  } else {
 	    obj.url = data.url
 	  }
+	  // If jobLocation is static (created in input JSON) else add location based on HTML element that contains location
 	  if ("jobLocation" in data === true) {
 	    obj.jobLocation = data.jobLocation
 	  } else {
@@ -79,7 +80,7 @@ function crawl(data, cb) {
 	  } else {
 	      obj.remote = false
 	  }
-	  // if url is picked up by HTML element or is declared in JSON
+	  // If sliceTitle is array each item oterwise slice integer
 	  if ("sliceTitle" in data === true) {
 	    if (data.sliceTitle instanceof Array === true) {
 	      obj.title = obj.title.slice(data.sliceTitle[0], data.sliceTitle[1])
