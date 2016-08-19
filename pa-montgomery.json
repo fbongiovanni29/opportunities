@@ -1,26 +1,5 @@
 [
   {
-    "company": "AgileTrailblazers",
-    "type": [
-      "consultancy"
-    ],
-    "url": "https://agiletrailblazers.workable.com/",
-    "webSiteUrl": "http://www.agiletrailblazers.com/",
-    "technologies": [],
-    "locations": {
-      "philadelphia": {
-        "@type": "Place",
-        "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
-        "geo": {
-          "latitude": 40.092432,
-          "longitude": -75.41177
-        }
-      }
-    },
-    "positions": [],
-    "updated": "2016-06-17"
-  },
-  {
     "company": "Alura Business Solutions",
     "type": [
       "consultancy"
@@ -53,7 +32,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "plymouth",
         "remote": false,
@@ -187,7 +166,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
@@ -197,7 +176,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
@@ -207,7 +186,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
@@ -217,7 +196,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
@@ -250,7 +229,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
@@ -260,7 +239,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "fort washington",
         "remote": false,
@@ -270,7 +249,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
@@ -302,7 +281,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -359,7 +338,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -368,7 +347,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -377,7 +356,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -411,7 +390,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
@@ -421,7 +400,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
@@ -431,7 +410,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
@@ -441,7 +420,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "fort washington",
         "remote": false,
@@ -473,7 +452,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "horsham",
         "remote": false,
@@ -483,7 +462,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "horsham",
         "remote": false,
@@ -548,7 +527,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -558,7 +537,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -568,7 +547,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -578,7 +557,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -612,7 +591,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -622,7 +601,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -632,7 +611,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
@@ -716,19 +695,19 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
-        "jobLocation": "philadelphia",
+        "jobLocation": "Newtown, PA, USA",
         "remote": false,
-        "title": "Director of Analytics",
-        "url": "https://www.epam.com/careers/job-listings/job.15876#apply"
+        "title": "Director of North American Strategic Partners",
+        "url": "https://www.epam.com/careers/job-listings/job.16227#apply"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
-        "jobLocation": "philadelphia",
+        "jobLocation": "Philadelphia, PA, USA",
         "remote": false,
         "title": "Hybris Solution Architect",
         "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
@@ -736,9 +715,29 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
-        "jobLocation": "philadelphia",
+        "jobLocation": "Newtown, PA, USA",
+        "remote": false,
+        "title": "Payroll, Benefits and HR Operations Manager",
+        "url": "https://www.epam.com/careers/job-listings/job.16228#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "Philadelphia, PA, USA",
+        "remote": false,
+        "title": "Senior Account Manager",
+        "url": "https://www.epam.com/careers/job-listings/job.16087#apply"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "Philadelphia, PA, USA",
         "remote": false,
         "title": "Senior Content Strategist",
         "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
@@ -746,22 +745,12 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
-        "jobLocation": "philadelphia",
+        "jobLocation": "Newtown, PA, USA",
         "remote": false,
-        "title": "Senior Director of User Experience Design",
-        "url": "https://www.epam.com/careers/job-listings/job.16051#apply"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "philadelphia",
-        "remote": false,
-        "title": "Senior Web Analyst",
-        "url": "https://www.epam.com/careers/job-listings/job.15882#apply"
+        "title": "Senior Software Engineer",
+        "url": "https://www.epam.com/careers/job-listings/job.15937#apply"
       }
     ],
     "updated": "2016-04-30"
@@ -799,7 +788,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "kingofprussia",
         "remote": false,
@@ -809,7 +798,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "kingofprussia",
         "remote": false,
@@ -855,7 +844,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -865,7 +854,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -875,7 +864,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -885,7 +874,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -895,7 +884,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "blue bell",
         "remote": false,
@@ -1120,7 +1109,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "New Hope, PA, United States",
         "remote": false,
@@ -1130,7 +1119,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Philadelphia or New Hope, PA, United States",
         "remote": false,
@@ -1140,7 +1129,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "New Hope, PA, United States",
         "remote": false,
@@ -1186,7 +1175,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1196,7 +1185,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1206,7 +1195,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1216,7 +1205,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1226,7 +1215,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1236,7 +1225,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1246,7 +1235,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -1303,7 +1292,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "dresher",
         "remote": false,
@@ -1313,7 +1302,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "dresher",
         "remote": false,
@@ -1345,7 +1334,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "wyndmoor",
         "remote": false,
@@ -1355,7 +1344,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "wyndmoor",
         "remote": false,
@@ -1365,7 +1354,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "wyndmoor",
         "remote": false,
@@ -1375,7 +1364,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "wyndmoor",
         "remote": false,
@@ -1385,7 +1374,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "wyndmoor",
         "remote": false,
@@ -1395,7 +1384,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "wyndmoor",
         "remote": false,
@@ -1430,7 +1419,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1440,7 +1429,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1450,7 +1439,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1460,7 +1449,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1470,7 +1459,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1480,7 +1469,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1490,7 +1479,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
@@ -1500,12 +1489,57 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "radnor",
         "remote": false,
         "title": "TECHNICAL PROJECT MANAGER",
         "url": "https://theapplicantmanager.com/jobs?pos=RN120"
+      }
+    ],
+    "updated": "2016-04-28"
+  },
+  {
+    "company": "roundCorner",
+    "type": [
+      "product"
+    ],
+    "url": "http://www.roundcorner.com/job-postings/",
+    "webSiteUrl": "http://www.roundcorner.com/",
+    "technologies": [],
+    "locations": {
+      "ardmore": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0074736667,
+          "longitude": -75.2902143333
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "ardmore",
+        "remote": false,
+        "title": "Customer Success Manager/CRM Strategy Consultant (PA, NY or CA)",
+        "url": "http://roundcorner.com/careers/#collapseTwo"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "ardmore",
+        "remote": false,
+        "title": "Data Architect (PA, NY or CA)",
+        "url": "http://roundcorner.com/careers/#collapseFour"
       }
     ],
     "updated": "2016-04-28"
@@ -1546,7 +1580,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "north wales",
         "remote": false,
@@ -1555,7 +1589,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "north wales",
         "remote": false,
@@ -1564,7 +1598,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "north wales",
         "remote": false,
@@ -1642,142 +1676,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Web Developer- Corporate Systems"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "BI/QlikView Developer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "FPGA Engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Software Developer - Instruments"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Junior Technical Support Engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Technical Support Engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Software Developer - Energy & Commodities"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Sr. Business Systems Analyst"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "ETL Data Analyst"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Senior Network Engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "intern",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Security Intern"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Technical Business Analyst - COORS"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "intern",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Technical Support Intern - Philadelphia"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Application Support Specialist"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Software Developer - APEX/ELF"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1786,7 +1685,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1795,7 +1694,88 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Sr. Business Systems Analyst"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "ETL Data Analyst"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "BI/QlikView Developer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "FPGA Engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Senior Network Engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "intern",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Technical Support Intern - Philadelphia"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Technical Business Analyst - COORS"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Application Support Specialist"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Software Developer - APEX/ELF"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1804,7 +1784,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1813,16 +1793,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Junior Technical Operations Analyst"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1831,7 +1802,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1840,16 +1811,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "title": "Technical Project Manager"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1858,7 +1820,70 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
+        "employmentType": "intern",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Security Intern"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Junior Software Developer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Software Developer - Energy & Commodities"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Web Developer- Corporate Systems"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Technical Project Manager"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Software Developer - Instruments"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Junior Technical Support Engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
@@ -1867,11 +1892,11 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
         "remote": false,
-        "title": "Junior Software Developer"
+        "title": "Technical Support Engineer"
       }
     ],
     "updated": "2016-04-26"
@@ -1956,7 +1981,17 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "remote": false,
+        "title": "AngularJS/Web Development Engineer",
+        "url": "https://www.swiftcapital.com/careers#op-133954-angularjsweb-development-engineer"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
         "remote": false,
@@ -1966,7 +2001,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
         "remote": false,
@@ -1976,7 +2011,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
         "remote": false,
@@ -1986,17 +2021,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "AngularJS/Web Development Engineer",
-        "url": "https://www.swiftcapital.com/careers#op-131088-angularjsweb-development-engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
         "remote": false,
@@ -2006,22 +2031,22 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
+        "remote": false,
+        "title": "Credit Underwriting Specialist",
+        "url": "https://www.swiftcapital.com/careers#op-133958-credit-underwriting-specialist"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
         "remote": false,
         "title": "Risk Associate/Customer Service Advocate",
         "url": "https://www.swiftcapital.com/careers#op-131106-risk-associatecustomer-service-advocate"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
-        "remote": false,
-        "title": "Credit Underwriting Specialist",
-        "url": "https://www.swiftcapital.com/careers#op-131095-credit-underwriting-specialist"
       }
     ],
     "updated": "2016-04-26"
@@ -2071,7 +2096,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "willow grove",
         "remote": false,
@@ -2081,7 +2106,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "willow grove",
         "remote": false,
@@ -2091,7 +2116,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "willow grove",
         "remote": false,
@@ -2265,7 +2290,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "horsham",
         "remote": false,
@@ -2310,7 +2335,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -2320,7 +2345,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -2330,7 +2355,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "blue bell",
         "remote": false,
@@ -2365,7 +2390,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -2375,7 +2400,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -2385,7 +2410,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
@@ -2395,12 +2420,92 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "conshohocken",
         "remote": false,
         "title": "Job Title: Marketing Technologist",
         "url": "https://review.wizehive.com/voting/view/posting/13854/1177957/0"
+      }
+    ],
+    "updated": "2016-04-21"
+  },
+  {
+    "company": "Zuppler",
+    "type": [
+      "product",
+      "internal"
+    ],
+    "url": "http://www.zupplerworks.com/careers.html",
+    "webSiteUrl": "http://www.zupplerworks.com/",
+    "technologies": [],
+    "locations": {
+      "conshohocken": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "730 East Elm St, Suite 200, Conshohocken, PA 19428",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.0738422857,
+          "longitude": -75.2935051429
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "intern",
+        "title": "Business Operations Intern",
+        "alternateName": "intern",
+        "url": "http://www.zupplerworks.com/careers.html#business_operations",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Operations Project Manager",
+        "alternateName": "Project Manager",
+        "url": "http://www.zupplerworks.com/careers.html#business_operations",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Customer Service Representative",
+        "alternateName": "Business Development",
+        "url": "http://www.zupplerworks.com/careers.html#customer_service_representative",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Inside Sales Manager",
+        "alternateName": "Business Development",
+        "url": "http://www.zupplerworks.com/careers.html#inside_sales_manager",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "datePosted": "2016-04-05"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "conshohocken",
+        "remote": false,
+        "title": "Project Coordinator",
+        "url": "http://www.zupplerworks.com/careers.html#project_coordinator"
       }
     ],
     "updated": "2016-04-21"

@@ -34,7 +34,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Talent and Training Coordinator",
+      "url": "http://keplergrp.com/careers/?gh_jid=266451"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,

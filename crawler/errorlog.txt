@@ -778,3 +778,87 @@ Vistar-Media
 Stuzo
 Error: .wait() timed out after 30000msec
 08/17/2016 21:08:18
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:17:55
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:18:01
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:19:41
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:20:41
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:21:00
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:21:25
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:21:37
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:21:53
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:22:39
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:22:52
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:26:05
+-----------------------------------------------
+iPipeline
+[object Object]
+08/18/2016 18:27:53
+-----------------------------------------------
+iPipeline
+[object Object]
+08/18/2016 18:28:41
+-----------------------------------------------
+iPipeline
+[object Object]
+08/18/2016 18:29:01
+-----------------------------------------------
+iPipeline
+[object Object]
+08/18/2016 18:29:14
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:33:14
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:34:33
+-----------------------------------------------
+iPipeline
+Cannot read property 'innerText' of undefined
+08/18/2016 18:35:02
+-----------------------------------------------
+roundCorner
+Cannot read property 'innerText' of undefined
+08/18/2016 18:56:25
+-----------------------------------------------
+roundCorner
+Cannot read property '0' of undefined
+08/18/2016 18:56:44
+-----------------------------------------------
+AgileTrailblazers
+Error: .wait() timed out after 30000msec
+08/18/2016 19:01:54

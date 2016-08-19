@@ -1,0 +1,35 @@
+{
+  "company": "M",
+  "type": [
+    "agency"
+  ],
+  "url": "http://agency-m.com/careers",
+  "webSiteUrl": "http://agency-m.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "217 Church Street, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9507636529,
+        "longitude": -75.1444120428
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Junior Interactive Developer",
+      "url": "http://agency-m.com/careers#pos-186"
+    }
+  ],
+  "updated": "2016-04-30"
+}

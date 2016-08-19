@@ -35,7 +35,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "QA Engineer",
+      "url": "https://weblinc.workable.com/jobs/187749"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,

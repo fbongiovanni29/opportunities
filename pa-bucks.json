@@ -60,7 +60,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
@@ -70,17 +70,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
-        "employmentType": "full-time",
-        "jobLocation": "chalfont",
-        "remote": false,
-        "title": "Operations Engineer",
-        "url": "https://boards.greenhouse.io/aweber/jobs/257155"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
@@ -90,7 +80,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
@@ -100,7 +90,17 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
+        "employmentType": "full-time",
+        "jobLocation": "chalfont",
+        "remote": false,
+        "title": "Senior Operations Engineer",
+        "url": "https://boards.greenhouse.io/aweber/jobs/257155"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
@@ -110,7 +110,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "chalfont",
         "remote": false,
@@ -166,7 +166,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "southampton",
         "remote": false,
@@ -289,7 +289,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
@@ -299,7 +299,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
@@ -309,7 +309,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
@@ -319,7 +319,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
@@ -329,7 +329,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "newtown",
         "remote": false,
@@ -339,7 +339,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
@@ -349,7 +349,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "intern",
         "jobLocation": "newtown",
         "remote": false,
@@ -359,7 +359,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "newtown",
         "remote": false,
@@ -529,7 +529,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "New Hope, PA, United States",
         "remote": false,
@@ -539,7 +539,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "Philadelphia or New Hope, PA, United States",
         "remote": false,
@@ -549,7 +549,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "New Hope, PA, United States",
         "remote": false,
@@ -558,6 +558,42 @@
       }
     ],
     "updated": "2016-04-30"
+  },
+  {
+    "company": "Pedrera Philadelphia Web Development",
+    "type": [
+      "consultancy"
+    ],
+    "url": "http://pedrera.com/about-us/careers",
+    "webSiteUrl": "http://pedrera.com/",
+    "technologies": [],
+    "locations": {
+      "doylestown": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "address": "100 Mechanics Street, Doylestown, PA 18901",
+        "geo": {
+          "@context": "http://schema.org",
+          "@type": "Place",
+          "latitude": 40.3136617818,
+          "longitude": -75.1289168909
+        }
+      }
+    },
+    "positions": [
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "employmentType": "full-time",
+        "title": "Web Developer",
+        "alternateName": "Developer, Full Stack",
+        "url": "http://pedrera.com/about-us/careers",
+        "jobLocation": "doylestown",
+        "remote": false,
+        "datePosted": "2016-04-29"
+      }
+    ],
+    "updated": "2016-04-29"
   },
   {
     "company": "Tonic Design Co",
@@ -595,7 +631,7 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-17",
+        "datePosted": "2016-07-18",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,

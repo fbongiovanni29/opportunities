@@ -78,7 +78,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+      "remote": false,
+      "title": "AngularJS/Web Development Engineer",
+      "url": "https://www.swiftcapital.com/careers#op-133954-angularjsweb-development-engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
       "remote": false,
@@ -88,7 +98,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
       "remote": false,
@@ -98,7 +108,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
       "remote": false,
@@ -108,17 +118,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-      "remote": false,
-      "title": "AngularJS/Web Development Engineer",
-      "url": "https://www.swiftcapital.com/careers#op-131088-angularjsweb-development-engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
       "remote": false,
@@ -128,22 +128,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
+      "remote": false,
+      "title": "Credit Underwriting Specialist",
+      "url": "https://www.swiftcapital.com/careers#op-133958-credit-underwriting-specialist"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
       "remote": false,
       "title": "Risk Associate/Customer Service Advocate",
       "url": "https://www.swiftcapital.com/careers#op-131106-risk-associatecustomer-service-advocate"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
-      "remote": false,
-      "title": "Credit Underwriting Specialist",
-      "url": "https://www.swiftcapital.com/careers#op-131095-credit-underwriting-specialist"
     }
   ],
   "updated": "2016-04-26"

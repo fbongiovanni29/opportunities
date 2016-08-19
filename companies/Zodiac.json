@@ -1,0 +1,36 @@
+{
+  "company": "Zodiac",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://jobs.lever.co/zodiacmetrics",
+  "webSiteUrl": "http://www.zodiacmetrics.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2001 Locust St, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": "39.954163",
+        "longitude": "-75.173731"
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Full Stack Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://jobs.lever.co/zodiacmetrics",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    }
+  ],
+  "updated": "2016-04-21"
+}

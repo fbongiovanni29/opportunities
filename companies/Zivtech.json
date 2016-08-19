@@ -1,0 +1,64 @@
+{
+  "company": "Zivtech",
+  "type": [
+    "agency"
+  ],
+  "url": "https://www.zivtech.com/about/employment",
+  "webSiteUrl": "https://www.zivtech.com/",
+  "technologies": [
+    "Drupal",
+    "JavaScript",
+    "Jquery",
+    "Node.js",
+    "PHP",
+    "Python",
+    "Ruby"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "The Philadelphia Building 1315 Walnut St, Suite 1500, Philadelphia, PA, 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9491672,
+        "longitude": -75.1628294
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Drupal Developers and Themers",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.zivtech.com/about/employment/drupal-developers-and-themers",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-02"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Job Inquiry",
+      "url": "https://www.zivtech.com/job-inquiry"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Business Development Specialist",
+      "url": "https://www.zivtech.com/about/employment/business-development-specialist"
+    }
+  ],
+  "updated": "2016-05-02"
+}

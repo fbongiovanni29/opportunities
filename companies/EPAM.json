@@ -72,19 +72,19 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Newtown, PA, USA",
       "remote": false,
-      "title": "Director of Analytics",
-      "url": "https://www.epam.com/careers/job-listings/job.15876#apply"
+      "title": "Director of North American Strategic Partners",
+      "url": "https://www.epam.com/careers/job-listings/job.16227#apply"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Philadelphia, PA, USA",
       "remote": false,
       "title": "Hybris Solution Architect",
       "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
@@ -92,9 +92,29 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Newtown, PA, USA",
+      "remote": false,
+      "title": "Payroll, Benefits and HR Operations Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.16228#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "Philadelphia, PA, USA",
+      "remote": false,
+      "title": "Senior Account Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.16087#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "Philadelphia, PA, USA",
       "remote": false,
       "title": "Senior Content Strategist",
       "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
@@ -102,22 +122,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Newtown, PA, USA",
       "remote": false,
-      "title": "Senior Director of User Experience Design",
-      "url": "https://www.epam.com/careers/job-listings/job.16051#apply"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Web Analyst",
-      "url": "https://www.epam.com/careers/job-listings/job.15882#apply"
+      "title": "Senior Software Engineer",
+      "url": "https://www.epam.com/careers/job-listings/job.15937#apply"
     }
   ],
   "updated": "2016-04-30"

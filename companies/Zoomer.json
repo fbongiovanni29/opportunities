@@ -1,0 +1,70 @@
+{
+  "company": "Zoomer",
+  "type": [
+    "product, internal"
+  ],
+  "url": "https://jobs.lever.co/zoomer",
+  "webSiteUrl": "http://www.zoomerdelivery.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Application Support Coordinator"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "DevOps Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Ruby on Rails Developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer - Logistics Technology Team"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer - Product"
+    }
+  ],
+  "updated": "2016-04-21"
+}

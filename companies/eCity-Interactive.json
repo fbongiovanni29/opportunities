@@ -1,0 +1,53 @@
+{
+  "company": "eCity Interactive",
+  "type": [
+    "agency"
+  ],
+  "url": "http://ecityinteractive.com/us/careers/",
+  "webSiteUrl": "http://ecityinteractive.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "136 S 15th St, Philadelphia, PA 19102",
+      "geo": {
+        "latitude": 39.949955,
+        "longitude": -75.165874
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PHP/.NET Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://ecityinteractive.com/us/careers/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-30"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director, Web Development",
+      "url": "http://ecityinteractive.com/us/careers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-18",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account/Project Manager",
+      "url": "http://ecityinteractive.com/us/careers/"
+    }
+  ],
+  "updated": "2016-04-30"
+}

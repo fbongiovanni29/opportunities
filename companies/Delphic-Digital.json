@@ -23,7 +23,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -33,7 +33,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -43,22 +43,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-17",
+      "datePosted": "2016-07-18",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Marketing Communications Manager",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/257117"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-17",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Technical Lead - Web Development",
-      "url": "https://boards.greenhouse.io/delphicdigital/jobs/174453"
     }
   ],
   "updated": "2016-04-30"
