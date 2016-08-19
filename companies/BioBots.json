@@ -21,31 +21,32 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
       "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/biobots/jobs/116521-software-engineer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Software Engineer - Philadelphia",
-      "url": "https://angel.co/biobots/jobs/116521-software-engineer-philadelphia"
+      "datePosted": "2016-03-13"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Robotics Engineer - Philadelphia",
+      "title": "Robotics Engineer",
       "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Bioengineer - Philadelphia",
+      "title": "Bioengineer",
       "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
     }
   ],

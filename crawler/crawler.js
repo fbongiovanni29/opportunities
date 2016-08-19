@@ -80,6 +80,13 @@ function crawl(data, cb) {
 	      obj.remote = false
 	  }
 	  // if url is picked up by HTML element or is declared in JSON
+	  if ("sliceTitle" in data === true) {
+	    if (data.sliceTitle instanceof Array === true) {
+	      obj.title = obj.title.slice(data.sliceTitle[0], data.sliceTitle[1])
+	    } else {
+	      obj.title = obj.title.slice(data.sliceTitle)
+	    }
+	  }
 	  arr.push(obj)
 	}
 	var dt = new Date()

@@ -23,51 +23,51 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "JOB LISTING: DIGITAL MARKETER",
+      "title": "DIGITAL MARKETER",
       "url": "http://famehouse.net/job-listing-digital-marketer/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "JOB LISTING: SENIOR MANAGER, BRAND PARTNERSHIPS",
+      "title": "SENIOR MANAGER, BRAND PARTNERSHIPS",
       "url": "http://famehouse.net/job-listing-senior-manager-brand-partnerships/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "JOB LISTING: D2C ACCOUNTS COORDINATOR",
+      "title": "D2C ACCOUNTS COORDINATOR",
       "url": "http://famehouse.net/job-listing-d2c-accounts-coordinator/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "JOB LISTING: EMAIL MARKETING MANAGER",
+      "title": "EMAIL MARKETING MANAGER",
       "url": "http://famehouse.net/job-listing-email-marketing-manager-2/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "JOB LISTING: DIGITAL MARKETING ASSISTANT",
+      "title": "DIGITAL MARKETING ASSISTANT",
       "url": "http://famehouse.net/job-listing-digital-marketing-assistant/"
     }
   ],

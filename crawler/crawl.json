@@ -4,7 +4,7 @@
     "url": "http://1trickpony.com/jobs/",
     "jobLocation": "hammonton",
     "query": "div.job-listings>dt a",
-    "link": "div.job-listings>dt a"
+    "link": null
   },
   {
     "filename": "160over90",
@@ -73,6 +73,7 @@
   {
     "filename": "BioBots",
     "url": "https://angel.co/biobots/jobs",
+    "sliceTitle": [0, -15],
     "jobLocation": "philadelphia",
     "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
@@ -172,6 +173,7 @@
   {
     "filename": "BTB-Security",
     "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+    "sliceTitle": [0, -19],
     "jobLocation": "philadelphia",
     "parseLocation": ["Philadelphia"],
     "locations": ".pi-link-dark",
@@ -224,6 +226,16 @@
   {
     "filename": "CloudMine",
     "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
+    "jobLocation": "philadelphia",
+    "parseLocation": ["Philadelphia"],
+    "locations": "#panels a",
+    "query": "#panels a",
+    "link": "#panels a"
+  },
+  {
+    "filename": "CloudMine",
+    "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
+      "sliceTitle": [0, -41],
     "jobLocation": "philadelphia",
     "parseLocation": ["Philadelphia"],
     "locations": "#panels a",
@@ -383,6 +395,7 @@
   {
     "filename": "Famehouse",
     "url": "http://famehouse.net/category/job-listings/",
+    "sliceTitle": 13,
     "jobLocation": "philadelphia",
     "query": "h2 a",
     "link": "h2 a"
@@ -467,6 +480,7 @@
   {
     "filename": "InstaMed",
     "url": "http://www.instamed.com/about/careers/",
+    "sliceTitle": [0, -19],
     "parseLocation": ["Philadelphia"],
     "locations": "#value li a",
     "jobLocation": "philadelphia",
@@ -602,9 +616,10 @@
   },
   {
     "filename": "Menu-Econsolution",
-    "url": "https://angel.co/biobots/jobs",
+    "url": "https://angel.co/menu-econsolution/jobs",
     "jobLocation": "philadelphia",
     "parseLocation": ["Philadelphia"],
+    "remote": true,
     "locations": ".listing-data",
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
@@ -621,10 +636,11 @@
   {
     "filename": "Moven",
     "url": "https://www.moven.com/about/index.html",
+    "sliceTitle": [0, -18],
     "jobLocation": "philadelphia",
     "parseLocation": ["Philadelphia"],
-    "locations": "#careers span",
-    "query": "#careers span",
+    "locations": ".career-listing-post",
+    "query": ".career-listing-post",
     "link": null
   },
   {
@@ -656,7 +672,7 @@
     "parseLocation": ["Philadephia"],
     "locations": ".job-titles+ td",
     "jobLocation": "philadelphia",
-    "query": ".job-titles+ td",
+    "query": ".job-titles a",
     "link": ".job-titles a"
   },
   {
@@ -704,6 +720,7 @@
     "jobLocation": "philadelphia",
     "parseLocation": ["Philadelphia"],
     "locations": ".listing-data",
+    "remote": true,
     "query": ".u-fontSize18",
     "link": ".u-fontSize18"
   },
@@ -772,6 +789,7 @@
   {
     "filename": "Razorfish-Health",
     "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
+    "sliceTitle": [0, -14],
     "parseLocation": ["Pennsylvania"],
     "locations": "th+ td span",
     "jobLocation": "philadelphia",
@@ -790,6 +808,7 @@
   {
     "filename": "Red-Tettemer-OConnell-Partners",
     "url": "http://www.rtop.com/contact/",
+    "sliceTitle": [0, -1],
     "jobLocation": "Philadelphia",
     "query": ".job-short span",
     "link": ".job-short a"
@@ -1007,6 +1026,7 @@
   {
     "filename": "WizeHive",
     "url": "https://review.wizehive.com/voting/posting",
+    "sliceTitle": 11,
     "jobLocation": "conshohocken",
     "query": "#listing a",
     "link": "#listing a"

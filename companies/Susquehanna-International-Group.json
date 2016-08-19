@@ -67,88 +67,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Software Developer - Market Data Client Apps"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Technology Co-op"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Sr. Business Systems Analyst"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "ETL Data Analyst"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "BI/QlikView Developer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "FPGA Engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Senior Network Engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "intern",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Technical Support Intern - Philadelphia"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Technical Business Analyst - COORS"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -157,7 +76,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -166,7 +85,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -175,7 +94,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -184,7 +103,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -193,7 +112,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -202,7 +121,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "intern",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -211,70 +130,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "intern",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Security Intern"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Junior Software Developer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Software Developer - Energy & Commodities"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Web Developer- Corporate Systems"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Technical Project Manager"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Software Developer - Instruments"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "Junior Technical Support Engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -283,7 +139,151 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-18",
+      "datePosted": "2016-07-19",
+      "employmentType": "intern",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Security Intern"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Junior Software Developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Software Developer - Market Data Client Apps"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Technology Co-op"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "ETL Data Analyst"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "FPGA Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Senior Network Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Technical Business Analyst - COORS"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "intern",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Technical Support Intern - Philadelphia"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Software Developer - Energy & Commodities"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Sr. Business Systems Analyst"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Web Developer- Corporate Systems"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "BI/QlikView Developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Technical Project Manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Software Developer - Instruments"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Junior Technical Support Engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
       "remote": false,

@@ -32,6 +32,16 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": ""
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-19",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Chargebacks and New Account Specialist",
+      "url": "http://ticketleap.theresumator.com/apply/tK3Npo/Chargebacks-And-New-Account-Specialist"
     }
   ],
   "updated": "2016-06-01"

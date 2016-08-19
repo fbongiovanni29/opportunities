@@ -3,7 +3,7 @@
 To crawl website fill out JSON accordingly:
  ```javascript
  {
-    "filename": "company", // Name of company  w/o extension  
+    "filename": "company", // Name of company  w/o extension
     "url": "http://www.example.com/careers", // url to visit
     "parseLocation": ["Philadelphia", "Malvern"], // optional - array string(s) to parse "locations" that will be added
     "locations": ".location", // optional css selector for for parsing locations
@@ -19,8 +19,7 @@ $ npm start
 ```
 
 ## TODO:
-+ Add attribute to splice excess information from titles
-+ Check remote positions against original dataset
++ Improve slice for titles
 + Check [angel.co](http://angel.co) for new positions
 
 ### Empty Position listed on App
