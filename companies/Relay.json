@@ -23,7 +23,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
@@ -33,7 +33,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
@@ -43,7 +43,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
@@ -53,7 +53,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
@@ -63,7 +63,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
@@ -73,7 +73,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
@@ -83,22 +83,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "radnor",
       "remote": false,
       "title": "SENIOR SALES EXECUTIVE",
       "url": "https://theapplicantmanager.com/jobs?pos=RN113"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-19",
-      "employmentType": "full-time",
-      "jobLocation": "radnor",
-      "remote": false,
-      "title": "TECHNICAL PROJECT MANAGER",
-      "url": "https://theapplicantmanager.com/jobs?pos=RN120"
     }
   ],
   "updated": "2016-04-28"

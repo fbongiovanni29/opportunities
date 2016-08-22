@@ -45,11 +45,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "intern",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Internships at Netplus"
+      "title": "Internships at Netplus",
+      "url": "http://thinknetplus.com/contact/#netplus-jobs"
     }
   ],
   "updated": "2016-04-30"

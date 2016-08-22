@@ -34,7 +34,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -44,7 +44,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Media Analytics Senior Analyst",
+      "url": "http://keplergrp.com/careers/?gh_jid=267478"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,

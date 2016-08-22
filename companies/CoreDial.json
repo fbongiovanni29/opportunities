@@ -20,7 +20,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
@@ -30,17 +30,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
-      "employmentType": "full-time",
-      "jobLocation": "blue bell",
-      "remote": false,
-      "title": "Business Development Representative",
-      "url": "https://careers-coredial.icims.com/jobs/1066/business-development-representative/job?in_iframe=1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
@@ -50,7 +40,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,

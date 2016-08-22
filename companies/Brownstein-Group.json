@@ -20,7 +20,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -30,17 +30,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director of Client Services »",
-      "url": "http://www.brownsteingroup.com/careers/#director-client-services"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "intern",
       "jobLocation": "philadelphia",
       "remote": false,

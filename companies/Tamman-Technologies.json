@@ -34,11 +34,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "Wilmington",
       "remote": false,
-      "title": "Digital Art Director"
+      "title": "Digital Art Director",
+      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17"
     }
   ],
   "updated": "2016-04-26"

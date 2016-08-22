@@ -23,29 +23,32 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "IOS MOBILE DEVELOPER"
+      "title": "IOS MOBILE DEVELOPER",
+      "url": "http://peoplelinx.com/jobs"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "FULL STACK SOFTWARE DEVELOPER"
+      "title": "FULL STACK SOFTWARE DEVELOPER",
+      "url": "http://peoplelinx.com/jobs"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "BUSINESS DEVELOPMENT REPRESENTATIVE"
+      "title": "BUSINESS DEVELOPMENT REPRESENTATIVE",
+      "url": "http://peoplelinx.com/jobs"
     }
   ],
   "updated": "2016-04-29"

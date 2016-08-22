@@ -45,29 +45,32 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Linux Systems Administrator"
+      "title": "Linux Systems Administrator",
+      "url": "https://www.cardconnect.com/company/careers/Technology"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Jr. Software Integration and Support Engineer"
+      "title": "Jr. Software Integration and Support Engineer",
+      "url": "https://www.cardconnect.com/company/careers/Technology"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "ISV Sales Specialist"
+      "title": "ISV Sales Specialist",
+      "url": "https://www.cardconnect.com/company/careers/Technology"
     }
   ],
   "updated": "2016-05-01"

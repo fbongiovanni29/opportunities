@@ -35,7 +35,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": true,
@@ -45,22 +45,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": true,
-      "title": "Web Developer - React, Rails, APIs",
-      "url": "https://curadora.workable.com/jobs/248814"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Inside Sales Associate",
       "url": "https://curadora.workable.com/jobs/251784"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-22",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": true,
+      "title": "Web Developer - React, Rails, APIs",
+      "url": "https://curadora.workable.com/jobs/248814"
     }
   ]
 }

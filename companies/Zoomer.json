@@ -23,47 +23,52 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Application Support Coordinator"
+      "title": "Application Support Coordinator",
+      "url": "https://jobs.lever.co/zoomer"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "DevOps Engineer"
+      "title": "DevOps Engineer",
+      "url": "https://jobs.lever.co/zoomer"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Ruby on Rails Developer"
+      "title": "Senior Ruby on Rails Developer",
+      "url": "https://jobs.lever.co/zoomer"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Software Engineer - Logistics Technology Team"
+      "title": "Senior Software Engineer - Logistics Technology Team",
+      "url": "https://jobs.lever.co/zoomer"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Software Engineer - Product"
+      "title": "Senior Software Engineer - Product",
+      "url": "https://jobs.lever.co/zoomer"
     }
   ],
   "updated": "2016-04-21"

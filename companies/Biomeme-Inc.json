@@ -27,18 +27,17 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
-      "title": "SENIOR ELECTRICAL ENGINEER",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.biomeme.com/careers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "SENIOR MECHANICAL ENGINEER",
+      "url": "http://www.biomeme.com/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,

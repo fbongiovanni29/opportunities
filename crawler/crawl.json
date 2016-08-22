@@ -1,13 +1,5 @@
 [
   {
-    "filename": "Brian-Communications",
-    "url": "https://www.briancom.com/careers",
-    "parseLocation": ["Conshohocken"],
-    "locations": "td.srJobListLocation",
-    "query": "td.srJobListJobTitle",
-    "link": null
-  },
-  {
     "filename": "1-Trick-Pony",
     "url": "http://1trickpony.com/jobs/",
     "jobLocation": "hammonton",
@@ -100,7 +92,7 @@
     "url": "http://www.blackfynn.com/careers/",
     "jobLocation": "philadelphia",
     "query": "h2 strong",
-    "link": "h2 a strong"
+    "link": null
   },
   {
     "filename": "Bluecadet",
@@ -140,6 +132,14 @@
     "url": "http://www.bresslergroup.com/about/#jobs",
     "jobLocation": "philadelphia",
     "query": ".job-title",
+    "link": null
+  },
+  {
+    "filename": "Brian-Communications",
+    "url": "https://www.briancom.com/careers",
+    "parseLocation": ["Conshohocken"],
+    "locations": "td.srJobListLocation",
+    "query": "td.srJobListJobTitle",
     "link": null
   },
   {
@@ -193,7 +193,7 @@
     "url": "https://www.cardconnect.com/company/careers/Technology",
     "jobLocation": "philadelphia",
     "query": "a h4",
-    "link": "a h4"
+    "link": null
   },
   {
     "filename": "Chariot-Solutions",
@@ -306,7 +306,7 @@
     "url": "http://www.d4creative.com/careers",
     "jobLocation": "philadelphia",
     "query": "#current-openings li",
-    "link": "#current-openings li"
+    "link": null
   },
   {
     "filename": "Deacom-Inc",
@@ -664,7 +664,7 @@
     "url": "http://thinknetplus.com/contact/#netplus-jobs",
     "jobLocation": "philadelphia",
     "query": "#careers h3",
-    "link": "#careers h3"
+    "link": null
   },
   {
     "filename": "New-York-Code-Design-Academy",
@@ -731,7 +731,7 @@
     "parseLocation": ["Philadelphia"],
     "locations": ".job-excerpt",
     "query": ".job-title",
-    "link": ".job-title"
+    "link": null
   },
   {
     "filename": "PerPay-Inc",
@@ -803,7 +803,7 @@
     "locations": ".posting-categories",
     "jobLocation": "philadelphia",
     "query": "h5",
-    "link": "h5"
+    "link": null
   },
   {
     "filename": "Red-Tettemer-OConnell-Partners",
@@ -850,7 +850,7 @@
     "parseLocation": ["Wales"],
     "locations": ".even td:nth-child(4) , .odd td:nth-child(4)",
     "query": ".hyper_link span",
-    "link": ".hyper_link span"
+    "link": null
   },
   {
     "filename": "Scala",
@@ -890,7 +890,7 @@
     "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology",
     "jobLocation": "bala cynwyd",
     "query": ".jobId+ td",
-    "link": ".im-job-track-click span"
+    "link": null
   },
   {
     "filename": "Sustrana",
@@ -922,7 +922,7 @@
       "parseLocation": ["Wilmington", "Philadelphia"],
       "locations": "span span span:nth-child(1)",
       "query": ".fBold",
-      "link": ".fBold"
+      "link": null
   },
   {
       "filename": "Technically-Media",
@@ -961,7 +961,7 @@
     "url": "http://www.tonicdesign.com/jobs/",
     "jobLocation": "philadelphia",
     "query": ".oneThird h1",
-    "link": ".oneThird h1"
+    "link": null
   },
   {
     "filename": "Transmogrify",
@@ -975,7 +975,7 @@
     "url": "https://tuvalabs.com/jobs/",
     "jobLocation": "philadelphia",
     "query": "h3",
-    "link": ".jobCard"
+    "link": null
   },
   {
     "filename": "Veris-Associates-Inc-dba-VerisVisalign",
@@ -989,7 +989,7 @@
     "url": "http://vertmarketsinc.appone.com/Menu.asp?sst=newfull-white&CountryID=3&ERP=&fb=&LanguageID=2&ServerVar=&SearchText=&KeyType=all&CatID=3445&LocationID=0&x=31&y=22&FtrPlaceholder=",
     "jobLocation": "horsham",
     "query": "a font",
-    "link": "a font"
+    "link": null
   },
   {
     "filename": "Vistar-Media",
@@ -1079,7 +1079,7 @@
     "locations": ".sort-by-location",
     "jobLocation": "philadelphia",
     "query": ".postings-group:nth-child(3) h5",
-    "link": ".postings-group:nth-child(3) h5"
+    "link": null
   },
   {
     "filename": "Zoomi",
@@ -1088,7 +1088,7 @@
     "parseRemote": "Remote",
     "remote": ".location",
     "query": "h3",
-    "link": "h3"
+    "link": null
   },
   {
     "filename": "Zuppler",

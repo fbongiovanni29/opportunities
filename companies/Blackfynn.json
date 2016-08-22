@@ -20,20 +20,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "FRONT END ENGINEER"
+      "title": "FRONT END ENGINEER",
+      "url": "http://www.blackfynn.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "FULL STACK ENGINEER"
+      "title": "FULL STACK ENGINEER",
+      "url": "http://www.blackfynn.com/careers/"
     }
   ],
   "updated": "2016-05-01"

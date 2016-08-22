@@ -26,7 +26,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -36,17 +36,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Web Developer",
-      "url": "http://160over90.com/careers?job_id=1138"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -56,7 +46,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -66,22 +56,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-19",
+      "datePosted": "2016-07-22",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Project Manager",
       "url": "http://160over90.com/careers?job_id=1147"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-19",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Producer",
-      "url": "http://160over90.com/careers?job_id=1135"
     }
   ],
   "updated": "2016-06-17"

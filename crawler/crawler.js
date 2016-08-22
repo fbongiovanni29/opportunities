@@ -99,6 +99,8 @@ function crawl(data, cb) {
     }, data)
   .end()
   .then(function (arr) {
+    // quick fix for null items (coming from parsing locations with 2 matching values from parseLocation array)
+    arr = arr.filter(function(e){return e})
     // If position already in data leave, update new positions and remove old
     console.log(arr)
     x = _.unionBy(currentData.positions, arr, 'title')
