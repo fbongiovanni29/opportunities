@@ -19,11 +19,7 @@ $ npm start
 ```
 
 ## TODO:
-+ Improve slice for titles
 + Check [angel.co](http://angel.co) for new positions
-
-### Empty Position listed on App
-+ [Braxton Science & Technology Group](http://jobs.bstgllc.com/)
 
 ### Parse employment type better
 + [Tuva](https://tuvalabs.com/jobs/)
