@@ -1,0 +1,35 @@
+{
+  "company": "YIKES Inc",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.yikesinc.com/company/join-team/",
+  "webSiteUrl": "http://www.yikesinc.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "204 East Girard Avenue, Philadelphia, PA, 19125",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.968964,
+        "longitude": -75.133331
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "WordPress Plugin Developer",
+      "url": "https://www.yikesinc.com/about-yikes-inc/join-team/"
+    }
+  ],
+  "updated": "2016-04-21"
+}

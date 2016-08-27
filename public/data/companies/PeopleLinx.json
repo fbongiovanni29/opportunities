@@ -1,0 +1,55 @@
+{
+  "company": "PeopleLinx",
+  "type": [
+    "product"
+  ],
+  "url": "http://peoplelinx.com/jobs",
+  "webSiteUrl": "http://peoplelinx.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1835 Market Street, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9532393469,
+        "longitude": -75.1705572449
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "IOS MOBILE DEVELOPER",
+      "url": "http://peoplelinx.com/jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "FULL STACK SOFTWARE DEVELOPER",
+      "url": "http://peoplelinx.com/jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "BUSINESS DEVELOPMENT REPRESENTATIVE",
+      "url": "http://peoplelinx.com/jobs"
+    }
+  ],
+  "updated": "2016-04-29"
+}

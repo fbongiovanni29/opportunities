@@ -1,0 +1,35 @@
+{
+  "company": "Leadnomics",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.leadnomics.com/careers/",
+  "webSiteUrl": "http://www.leadnomics.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2929 Arch St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9568481379,
+        "longitude": -75.1809156207
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Chief Revenue Officer",
+      "url": "http://www.leadnomics.com/careers/#"
+    }
+  ],
+  "updated": "2016-04-30"
+}

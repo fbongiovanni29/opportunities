@@ -1,0 +1,21 @@
+{
+  "company": "Arcisphere Technologies",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://arcisphere.com/careers/",
+  "webSiteUrl": "http://arcisphere.com/",
+  "technologies": [],
+  "locations": {
+    "newtown": {
+      "@type": "Place",
+      "address": "Silver Lake Executive Campus, 41 University Drive, Suite 400, Newtown, PA 18940",
+      "geo": {
+        "latitude": 40.222927,
+        "longitude": -74.905772
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-06-17"
+}

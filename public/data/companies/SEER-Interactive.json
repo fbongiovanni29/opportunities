@@ -1,0 +1,124 @@
+{
+  "company": "SEER Interactive",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.seerinteractive.com/careers/",
+  "webSiteUrl": "http://www.seerinteractive.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1033 N 2nd Street, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9672323333,
+        "longitude": -75.1400423333
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PPC TEAM LEAD",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://jobs.seerinteractive.com/apply/eZA2cQ/PPC-Team-Lead",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PPC ACCOUNT MANAGER",
+      "alternateName": "Business Development",
+      "url": "http://jobs.seerinteractive.com/apply/0oOAaU/PPC-Account-Manager",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SEO ACCOUNT MANAGER",
+      "alternateName": "Business Development",
+      "url": "http://jobs.seerinteractive.com/apply/9WjdfE/SEO-Account-Manager",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DIGITAL SALES LEAD",
+      "alternateName": "Business Development",
+      "url": "http://jobs.seerinteractive.com/apply/efj45t/Digital-Sales-Lead",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SEO ASSOCIATE",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://jobs.seerinteractive.com/apply/oacVoi/SEO-Associate",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DIRECTOR OF BUSINESS STRATEGY",
+      "alternateName": "Business Development",
+      "url": "http://jobs.seerinteractive.com/apply/KUSitp/Director-of-Business-Strategy",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ANALYTICS ASSOCIATE",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://jobs.seerinteractive.com/apply/DsHTB8/Analytics-Associate",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "TECHNICAL SEO ASSOCIATE",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://jobs.seerinteractive.com/apply/wHBFU0/Technical-SEO-Associate",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PPC ASSOCIATE",
+      "alternateName": "Content Strategy, SEO",
+      "url": "http://jobs.seerinteractive.com/apply/DOI6DW/PPC-Associate",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-26"
+    }
+  ],
+  "updated": "2016-04-26"
+}

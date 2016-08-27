@@ -1,0 +1,95 @@
+{
+  "company": "InstaMed",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.instamed.com/about/careers/",
+  "webSiteUrl": "http://www.instamed.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1880 JFK Boulevard  12th floor, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952896,
+        "longitude": -75.174298
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account Manager",
+      "url": "http://www.instamed.com/about/careers/account-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of Marketing",
+      "url": "http://www.instamed.com/about/careers/director-of-marketing"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Marketing – Associate",
+      "url": "http://www.instamed.com/about/careers/marketing-associate"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Product Management – Senior Manager",
+      "url": "http://www.instamed.com/about/careers/product-management-senior-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Professional Services – Data Manager (Philadelphia, PA or",
+      "url": "http://www.instamed.com/about/careers/professional-services-data-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Provider Implementations Manager",
+      "url": "http://www.instamed.com/about/careers/provider-implementations-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Salesforce Administrator/Business Analyst",
+      "url": "http://www.instamed.com/about/careers/salesforce-administrator-business-analyst"
+    }
+  ],
+  "updated": "2016-04-30"
+}

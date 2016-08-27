@@ -1,0 +1,75 @@
+{
+  "company": "BuLogics",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://bulogics.com/about-us/jobs/",
+  "webSiteUrl": "http://bulogics.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "3721 Midvale Ave, Philadelphia, PA 19129",
+      "geo": {
+        "latitude": 40.00971845,
+        "longitude": -75.19331115
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lead Firmware Engineer",
+      "alternateName": "Developer, Firmware",
+      "url": "http://bulogics.com/about-us/jobs/lead-firmware-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Firmware Developer",
+      "alternateName": "Developer, Firmware",
+      "url": "http://bulogics.com/about-us/jobs/firmware-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cross-Platform Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "http://bulogics.com/about-us/jobs/cross-platform-developer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "",
+      "url": "http://bulogics.com/wp-content/uploads/2013/05/IMG_0241.jpg"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Integration Engineer",
+      "url": "http://bulogics.com/about-us/jobs/integration-engineer/"
+    }
+  ],
+  "updated": "2016-05-01"
+}

@@ -1,0 +1,53 @@
+{
+  "company": "Entech Consulting",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://entech.com/Careers",
+  "webSiteUrl": "http://entech.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1200 Atwater Dr., Suite 140, Malvern, PA 19355",
+      "geo": {
+        "latitude": 40.072126,
+        "longitude": -75.52588
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "malvern",
+      "remote": false,
+      "title": ".NET DEVELOPER",
+      "url": "http://entech.com/Careers/Req/10000"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "malvern",
+      "remote": false,
+      "title": "JAVA DEVELOPER",
+      "url": "http://entech.com/Careers/Req/10001"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "malvern",
+      "remote": true,
+      "title": "DEVOPS ENGINEER (REMOTE)",
+      "url": "http://entech.com/Careers/Req/10002"
+    }
+  ],
+  "updated": "2016-04-30"
+}

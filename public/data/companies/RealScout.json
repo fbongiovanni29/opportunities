@@ -1,0 +1,54 @@
+{
+  "company": "RealScout",
+  "type": [
+    "internal"
+  ],
+  "url": "https://jobs.lever.co/realscout",
+  "webSiteUrl": "http://realscout.com/",
+  "technologies": [
+    "PostgreSQL",
+    "Elasticsearch",
+    "React",
+    "Ruby",
+    "Rails",
+    "Python",
+    "TensorFlow",
+    "Test Driven Development",
+    "Pair Programming"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Benjamin's Desk, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "GeoCoordinates",
+        "latitude": 39.9502067,
+        "longitude": -75.1713761
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Software Engineer, Data Infrastructure",
+      "url": "https://jobs.lever.co/realscout"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Software Engineer, Full-Stack",
+      "url": "https://jobs.lever.co/realscout"
+    }
+  ]
+}

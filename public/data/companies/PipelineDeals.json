@@ -1,0 +1,90 @@
+{
+  "company": "PipelineDeals",
+  "type": [
+    "product"
+  ],
+  "url": "https://www.pipelinedeals.com/careers",
+  "webSiteUrl": "https://www.pipelinedeals.com/",
+  "technologies": [],
+  "locations": {
+    "exton": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "967 Swedesford Road, Suite 501, Exton, PA 19341",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.04229,
+        "longitude": -75.581178
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Marketing Manager",
+      "alternateName": "Marketing",
+      "url": "https://www.pipelinedeals.com/careers/product_marketing_manager",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive",
+      "alternateName": "Business Development",
+      "url": "https://www.pipelinedeals.com/careers/account_executive",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.pipelinedeals.com/careers/senior_rails_developer",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Ambassador",
+      "alternateName": "Business Development",
+      "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Analyst",
+      "alternateName": "Developer, QA",
+      "url": "https://www.pipelinedeals.com/careers/qa_analyst",
+      "jobLocation": "exton",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "exton",
+      "remote": false,
+      "title": "Sales Development Rep",
+      "url": "https://www.pipelinedeals.com/careers/sales_development_rep"
+    }
+  ],
+  "updated": "2016-04-28"
+}

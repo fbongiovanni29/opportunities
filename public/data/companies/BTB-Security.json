@@ -1,0 +1,32 @@
+{
+  "company": "BTB Security",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+  "webSiteUrl": "http://www.btbsecurity.com/",
+  "technologies": [],
+  "locations": {
+    "balacynwyd": {
+      "@type": "Place",
+      "address": "3 Bala Plaza, Suite 701, Bala Cynwyd, PA 19004",
+      "geo": {
+        "latitude": 40.009488,
+        "longitude": -75.218509
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Sales Consultant",
+      "url": "http://www.btbsecurity.com/component/k2/item/36-sales-consultant-phl"
+    }
+  ],
+  "updated": "2016-05-01"
+}

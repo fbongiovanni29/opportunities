@@ -1,0 +1,47 @@
+{
+  "company": "Willis Towers Watson",
+  "type": [
+    "internal"
+  ],
+  "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
+  "webSiteUrl": "https://www.willistowerswatson.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1500 Market St #22E, Philadelphia, PA 19102",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9377613,
+        "longitude": -75.1771446
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SCRUM MASTER",
+      "alternateName": "Project Manager",
+      "url": "https://willis-towers-watson.jobs.net/job/scrum-master/J3H2R06D9QPMM5798YQ",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "PROGRAMMER ANALYST",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://willis-towers-watson.jobs.net/job/programmer-analyst/J3J60W78N8TXSSXJXPC",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-25"
+    }
+  ],
+  "updated": "2016-04-21"
+}

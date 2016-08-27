@@ -1,0 +1,79 @@
+{
+  "company": "160over90",
+  "type": [
+    "agency"
+  ],
+  "url": "http://160over90.com/careers/",
+  "webSiteUrl": "http://www.160over90.com/",
+  "technologies": [
+    "php",
+    "MySQL",
+    "Drupal",
+    "JQuery"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "510 Walnut St, 19th Floor, Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.947276,
+        "longitude": -75.149745
+      },
+      "telephone": "215-732-3200"
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Public Relations",
+      "alternateName": "Marketing",
+      "url": "http://160over90.com/careers/?job_id=1077",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Interactive Project Manager",
+      "url": "http://160over90.com/careers?job_id=1146"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Associate Media Director",
+      "url": "http://160over90.com/careers?job_id=1151"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Business Intelligence Manager",
+      "url": "http://160over90.com/careers?job_id=1145"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Receptionist",
+      "url": "http://160over90.com/careers?job_id=1150"
+    }
+  ],
+  "updated": "2016-06-17"
+}

@@ -1,0 +1,54 @@
+{
+  "company": "Brio Solutions",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.briosolutions.com/About/Careers.aspx",
+  "webSiteUrl": "http://www.briosolutions.com/",
+  "technologies": [
+    ".NET"
+  ],
+  "locations": {
+    "fort washington": {
+      "@type": "Place",
+      "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+      "geo": {
+        "latitude": 40.135976,
+        "longitude": -75.20793
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
+      "url": "https://www.linkedin.com/jobs2/cap/view/176368496?pathWildcard=176368496&trk=job_capjs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "title": "SOFTWARE DEVELOPMENT INTERN",
+      "url": "http://philadelphia.craigslist.org/sof/5704689439.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "title": ".NET SOFTWARE DEVELOPER",
+      "url": "https://www.ziprecruiter.com/job/ddb0e371"
+    }
+  ],
+  "updated": "2016-05-01"
+}

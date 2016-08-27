@@ -1,0 +1,79 @@
+{
+  "company": "RJMetrics",
+  "type": [
+    "product"
+  ],
+  "url": "https://rjmetrics.com/jobs/",
+  "webSiteUrl": "https://rjmetrics.com/",
+  "technologies": [
+    "angularjs",
+    "apache",
+    "chef",
+    "clojure",
+    "coffeescript",
+    "git",
+    "hadoop",
+    "java",
+    "javascript",
+    "jenkins",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "php",
+    "python",
+    "r",
+    "redis",
+    "ruby",
+    "sql",
+    "virtualbox"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1339 Chestnut Street, Suite 1500, Philadelphia, PA, 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9507376667,
+        "longitude": -75.1629786667
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Warehouse Analyst",
+      "alternateName": "Data Analyst",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Front End Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://rjmetrics.com/jobs/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    }
+  ],
+  "updated": "2016-04-28"
+}

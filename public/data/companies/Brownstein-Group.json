@@ -1,0 +1,42 @@
+{
+  "company": "Brownstein Group",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.brownsteingroup.com/careers/",
+  "webSiteUrl": "http://www.brownsteingroup.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "215 South Broad Street, Philadelphia, PA 19107",
+      "geo": {
+        "latitude": 39.9485219589,
+        "longitude": -75.1646539375
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Copywriter »",
+      "url": "http://www.brownsteingroup.com/careers/#senior-copywriter"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Internships »",
+      "url": "http://www.brownsteingroup.com/careers/#internships"
+    }
+  ],
+  "updated": "2016-05-01"
+}

@@ -1,0 +1,66 @@
+{
+  "company": "AboutOne",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.aboutone.com/jobs/",
+  "webSiteUrl": "http://www.aboutone.com/",
+  "technologies": [
+    "Objective-C",
+    "Cocoa Touch Experience",
+    "Core Data",
+    "Core Animation",
+    "Core Graphics",
+    "Core Text",
+    "Selenium",
+    "C#",
+    ".NET",
+    "SQL Server"
+  ],
+  "locations": {
+    "malvern": {
+      "@type": "Place",
+      "address": "26 Raffaela Drive, Malvern, PA 19355",
+      "geo": {
+        "latitude": 40.039942,
+        "longitude": -75.5103515
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior iOS Developer",
+      "alternateName": "Developer, Mobile",
+      "url": "http://www.aboutone.com/job-senior-ios-developer/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Quality Assurance Engineer",
+      "alternateName": "Developer, QA",
+      "url": "http://www.aboutone.com/job-quality-assurance-engineer/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://www.aboutone.com/job-senior-software-engineer/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    }
+  ],
+  "updated": "2016-06-17"
+}

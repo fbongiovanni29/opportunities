@@ -1,0 +1,36 @@
+{
+  "company": "Zoomi",
+  "type": [
+    "product",
+    "startup"
+  ],
+  "url": "http://www.zoomiinc.com/jobs/",
+  "webSiteUrl": "http://www.zoomiinc.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "101 Lindenwood Drive, Suite 400, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.050203,
+        "longitude": -75.527085
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "malvern",
+      "remote": true,
+      "title": "LEAD SOFTWARE DEVELOPER",
+      "url": "http://www.zoomiinc.com/jobs/"
+    }
+  ],
+  "updated": "2016-04-21"
+}

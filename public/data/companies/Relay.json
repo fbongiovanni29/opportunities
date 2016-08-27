@@ -1,0 +1,95 @@
+{
+  "company": "Relay",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.relaynetwork.com/careers/",
+  "webSiteUrl": "http://www.relaynetwork.com/",
+  "technologies": [],
+  "locations": {
+    "radnor": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "201 king of prussia rd, radnor, pa 19087",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.081206,
+        "longitude": -75.388683
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "CLIENT PROJECT MANAGER",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN104"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "FRONT-END DEVELOPER",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN106"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "PRODUCT MANAGER",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN117"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "PRODUCTION SUPPORT ENGINEER",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN119"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "QUALITY ASSURANCE ANALYST",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN118"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "SENIOR CLOJURE ENGINEER",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN115"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "SENIOR SALES EXECUTIVE",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN113"
+    }
+  ],
+  "updated": "2016-04-28"
+}

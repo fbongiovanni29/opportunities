@@ -1,0 +1,46 @@
+{
+  "company": "Masterminds",
+  "type": [
+    "agency"
+  ],
+  "url": "http://mastermindsagency.com/#gigs",
+  "webSiteUrl": "http://mastermindsagency.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9493152971,
+        "longitude": -75.1626386191
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director of Business Development",
+      "alternateName": "Business Development",
+      "url": "http://mastermindsagency.com/#gigs",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account Management Assistant",
+      "url": "http://mastermindsagency.com/#gigs"
+    }
+  ],
+  "updated": "2016-04-30"
+}

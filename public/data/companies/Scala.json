@@ -1,0 +1,45 @@
+{
+  "company": "Scala",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://join.scala.com/careers/",
+  "webSiteUrl": "http://scala.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0632385406,
+        "longitude": -75.5384306945
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "http://join.scala.com/projectmgr/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Sales Order Assistant",
+      "url": "http://join.scala.com/sales-order-assistant/"
+    }
+  ],
+  "updated": "2016-04-26"
+}

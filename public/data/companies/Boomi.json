@@ -1,0 +1,268 @@
+{
+  "company": "Boomi",
+  "type": [
+    "Product"
+  ],
+  "url": "http://www.boomi.com/company/careers",
+  "webSiteUrl": "http://www.boomi.com/",
+  "technologies": [
+    "Java"
+  ],
+  "locations": {
+    "berwyn": {
+      "@type": "Place",
+      "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
+      "geo": {
+        "latitude": 40.062366,
+        "longitude": -75.456169
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ISV Business Developer Partner Accounts US Remote",
+      "alternateName": "Business Development",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038169-dell-boomi-isv-business-developer-partner-accounts-us-remote-jobs",
+      "jobLocation": "berwyn",
+      "remote": true,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Development Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5830518-software-development-engineer-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer Java",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/pennsylvania/engineering/jobid5241663-software-engineer-java-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Engineering Senior Advisor",
+      "alternateName": "Developer, Backend",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-senior-advisor-jobs",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": true,
+      "title": "ISV Business Developer SAP US Remote",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid10038153-dell-boomi-isv-business-developer-sap-us-remote-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Business Developer Systems Integrators\\NetSuite",
+      "url": "http://jobs.dell.com/us/san-francisco/engineering/jobid10124090-dell-boomi-business-developer-systems-integrators_netsuite-us-remote-west-coast-referred-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Business Developer Systems Integrators\\Salesforce",
+      "url": "http://jobs.dell.com/us/san-francisco/engineering/jobid10124079-dell-boomi-business-developer-systems-integrators_salesforce-us-remote-west-coast-referred-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Campaign Manager Dell Boomi",
+      "url": "http://jobs.dell.com/us/san-francisco/campaign-management/jobid10346978-campaign-manager-dell-boomi-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Dell Boomi Business Intelligence Analyst",
+      "url": "http://jobs.dell.com/us/pennsylvania/business-intelligence-support-services/jobid10348808-dell-boomi-business-intelligence-analyst-berwyn-pa-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Dell Boomi Content Marketing Manager",
+      "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10348807-dell-boomi-content-marketing-manager-san-francisco-ca-or-berwyn-pa-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Dell Boomi Enterprise Software Sales Account Manager",
+      "url": "http://jobs.dell.com/us/pennsylvania/account-management/jobid10188585-dell-boomi-enterprise-software-sales-account-manager-northeastern-us-remote-based-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Dell Boomi Front End Developer",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid10354221-dell-boomi-front-end-developer-berwyn-pa-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Dell Boomi Pre Sales Engineer Global System Integrators",
+      "url": "http://jobs.dell.com/us/san-jose/engineering/jobid10145995-dell-boomi-pre-sales-engineer-global-system-integrators-remote-us-based-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Project Program Management Consultant",
+      "url": "http://jobs.dell.com/us/pennsylvania/information-technology/jobid9772752-project-program-management-consultant-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Senior Analyst Relations Manager",
+      "url": "http://jobs.dell.com/us/san-francisco/marketing-corporate-communications/jobid10148829-senior-analyst-relations-manager-dell-boomi-(san-francisco-ca)-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Senior Product Marketing Manager Solutions & Industry",
+      "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10345885-senior-product-marketing-manager-solutions-%EF%B9%A0-industry-san-francisco-ca-or-berwyn-pa-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Senior Product Marketing Manager – API Management – Dell Boomi",
+      "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10182828-dell-boomi-senior-product-marketing-manager-%E2%80%93-api-management-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "SFDC Business Applications and Data Analyst",
+      "url": "http://jobs.dell.com/us/philadelphia/services-it-business-systems-analysis/jobid9712946-sfdc-business-applications-and-data-analyst-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Software QA Sr. Engineer",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid9838584-software-qa-sr.-engineer-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Software Solutions Architect",
+      "url": "http://jobs.dell.com/us/north-america/engineering/jobid9772762-sw-solutions-architect-iii-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Sr. Accountant for Dell Boomi",
+      "url": "http://jobs.dell.com/us/pennsylvania/accounting/jobid10194933-sr.-accountant-for-dell-boomi-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Sr. Software Engineer Java",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid6186484-sr.-software-engineer-java-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Sr. Technical Writer",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering-operations-technical-writer/jobid8546860-sr.-technical-writer-jobs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "berwyn",
+      "remote": false,
+      "title": "Systems Engineering Sr. Advisor",
+      "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs"
+    }
+  ],
+  "updated": "2016-05-01"
+}

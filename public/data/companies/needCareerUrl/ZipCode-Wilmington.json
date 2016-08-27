@@ -1,0 +1,11 @@
+{
+  "company": "ZipCode Wilmington",
+  "url": "",
+  "webSiteUrl": "http://www.zipcodewilmington.com/",
+  "address": "1105 N. Market Street, Wilmington, Third Floor, DE 19801",
+  "geo": {
+    "latitude": 39.747343,
+    "longitude": -75.547137
+  },
+  "positions": []
+}

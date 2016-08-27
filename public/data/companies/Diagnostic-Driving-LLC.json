@@ -1,0 +1,32 @@
+{
+  "company": "Diagnostic Driving, LLC",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.diagnosticdriving.com/careers/",
+  "webSiteUrl": "http://www.diagnosticdriving.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "3401 Market Street, 2nd Floor, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.956175,
+        "longitude": -75.191729
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Software Engineer",
+      "url": "https://docs.google.com/document/d/16H4E08Trub5uc1MlZ_rZptFb0llwGHVKmFuhR-hqa80/edit?usp=sharing"
+    }
+  ],
+  "updated": "2016-04-30"
+}

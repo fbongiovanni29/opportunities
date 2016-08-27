@@ -1,0 +1,11 @@
+{
+  "company": "SuperFriendly",
+  "url": "",
+  "webSiteUrl": "http://superfriend.ly/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": []
+}

@@ -1,0 +1,106 @@
+{
+  "company": "Monetate, Inc.",
+  "type": [
+    "product"
+  ],
+  "url": "http://www.monetate.com/about/careers/#open-positions",
+  "webSiteUrl": "http://www.monetate.com/",
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "951 E. Hector Street, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0750470612,
+        "longitude": -75.2904890204
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Product Manager",
+      "alternateName": "Project Manager",
+      "url": "http://www.monetate.com/about/careers/#open-positions",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "General Application",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Client Success Account Manager - West",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Digital Marketing Consultant - West",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Product Owner",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Director of Market Development",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Sales Director - West",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Senior Product Marketing Manager",
+      "url": "http://www.monetate.com/about/careers/#"
+    }
+  ],
+  "updated": "2016-04-30"
+}

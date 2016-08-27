@@ -102,13 +102,6 @@
     "link": "a.btn"
   },
   {
-    "filename": "BOLT-ON-TECHNOLOGY",
-    "url": "http://boltontechnology.com/category/careers/",
-    "jobLocation": "southampton",
-    "query": ".dslc-blog-post-title a",
-    "link": ".dslc-blog-post-title a"
-  },
-  {
     "filename": "Boomi",
     "url": "http://www.boomi.com/company/careers",
     "jobLocation": "berwyn",
@@ -169,6 +162,13 @@
     "jobLocation": "philadelphia",
     "query": ".careers-list a",
     "link": ".careers-list a"
+  },
+  {
+    "filename": "BOLT-ON-TECHNOLOGY",
+    "url": "http://boltontechnology.com/careers/",
+    "jobLocation": "southampton",
+    "query": ".dslc-cpt-post-title a",
+    "link": ".dslc-cpt-post-title a"
   },
   {
     "filename": "BTB-Security",
@@ -556,7 +556,7 @@
     "filename": "Lemma",
     "url": "https://www.lem.ma/home/",
     "jobLocation": "philadelphia",
-    "query": ".collapsed",
+    "query": "accordion a",
     "link": null
   },
   {

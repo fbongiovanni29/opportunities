@@ -1,0 +1,35 @@
+{
+  "company": "New York Code + Design Academy",
+  "type": [
+    "internal"
+  ],
+  "url": "https://nycda.com/careers#openings",
+  "webSiteUrl": "https://nycda.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "30 South 17th Street, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952215,
+        "longitude": -75.169528
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "part-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Part-Time Business Development Associate",
+      "url": "https://s3-us-west-2.amazonaws.com/nycda-assets/jobs/documents/000/000/072/original/bd_job_description.pdf?1472153642"
+    }
+  ],
+  "updated": "2016-04-30"
+}

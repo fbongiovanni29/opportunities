@@ -1,0 +1,52 @@
+{
+  "company": "Sustrana",
+  "type": [
+    "startup"
+  ],
+  "url": "http://www.sustrana.com/careers",
+  "webSiteUrl": "http://www.sustrana.com/",
+  "technologies": [
+    "ASP.NET 4.5",
+    "C#",
+    "Microsoft Azure DocumentDB",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap",
+    "Knockout"
+  ],
+  "locations": {
+    "devon": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "15 North Devon Boulevard, Devon PA 19333",
+      "geo": {
+        "latitude": 40.0465,
+        "longitude": -75.422861
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "devon",
+      "remote": false,
+      "title": "WEB DEVELOPERS",
+      "url": "http://www.sustrana.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "devon",
+      "remote": false,
+      "title": "INTERNSHIP OPPORTUNITIES",
+      "url": "http://www.sustrana.com/careers"
+    }
+  ]
+}

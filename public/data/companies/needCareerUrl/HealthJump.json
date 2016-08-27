@@ -1,0 +1,11 @@
+{
+  "company": "HealthJump",
+  "url": "",
+  "webSiteUrl": "http://www.healthjump.com/",
+  "address": "400 Franklin Avenue, Suite 124, Phoenixville, PA, 19460",
+  "geo": {
+    "latitude": 40.141547,
+    "longitude": -75.521425
+  },
+  "positions": []
+}

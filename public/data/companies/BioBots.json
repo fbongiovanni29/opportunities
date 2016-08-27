@@ -1,0 +1,65 @@
+{
+  "company": "BioBots",
+  "type": [
+    "Product",
+    "Startup"
+  ],
+  "url": "https://angel.co/biobots/jobs",
+  "webSiteUrl": "https://www.biobots.io/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "3711 Market St #891, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.9567794,
+        "longitude": -75.1969127
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "https://angel.co/biobots/jobs/116521-software-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Technical Sales",
+      "alternateName": "Business Development",
+      "url": "https://angel.co/biobots/jobs/129353-technical-sales",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Robotics Engineer",
+      "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Bioengineer",
+      "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
+    }
+  ],
+  "updated": "2016-05-01"
+}

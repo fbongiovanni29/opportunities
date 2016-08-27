@@ -1,0 +1,24 @@
+{
+  "company": "Ripen eCommerce",
+  "url": "https://jobs.smartrecruiters.com/?company=RipenECommerce",
+  "webSiteUrl": "http://www.ripenecommerce.com/",
+  "address": "117 Rockingham Row, Princeton, NJ 08540",
+  "geo": {
+    "latitude": 40.355381,
+    "longitude": -74.613311
+  },
+  "positions": [
+    {
+      "title": "Senior Full Stack Web Developer",
+      "datePosted": "2016-03-07"
+    },
+    {
+      "title": "Creative/UX Director",
+      "datePosted": "2016-03-07"
+    },
+    {
+      "title": "User Interface/UI Designer",
+      "datePosted": "2016-03-07"
+    }
+  ]
+}

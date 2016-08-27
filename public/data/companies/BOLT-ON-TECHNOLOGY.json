@@ -1,0 +1,66 @@
+{
+  "company": "BOLT ON TECHNOLOGY",
+  "type": [
+    "product"
+  ],
+  "url": "http://boltontechnology.com/category/careers/",
+  "webSiteUrl": "http://www.boltontechnology.com/",
+  "technologies": [
+    ".NET"
+  ],
+  "locations": {
+    "southampton": {
+      "@type": "Place",
+      "address": "1105 Industrial Blvd., Southampton, PA 18966-4160",
+      "geo": {
+        "latitude": 40.16228,
+        "longitude": -75.040384
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Customer Support Technician",
+      "alternateName": "Helpdesk",
+      "url": "http://boltontechnology.com/customer-support-technician/",
+      "jobLocation": "southampton",
+      "remote": false,
+      "datePosted": "2016-01-15"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Microsoft Software Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://boltontechnology.com/microsoft-software-developer/",
+      "jobLocation": "southampton",
+      "remote": false,
+      "datePosted": "2016-01-15"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "part-time",
+      "jobLocation": "southampton",
+      "remote": false,
+      "title": "Part-Time Customer Experience / Retention Specialist",
+      "url": "http://boltontechnology.com/part-time-customer-experience-retention-specialist/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "southampton",
+      "remote": false,
+      "title": "Customer Experience / Retention Specialist",
+      "url": "http://boltontechnology.com/customer-experience-retention-specialist/"
+    }
+  ],
+  "updated": "2016-05-01"
+}

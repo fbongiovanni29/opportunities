@@ -1,0 +1,124 @@
+{
+  "company": "RDA Corp",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+  "webSiteUrl": "http://rdacorp.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "101 Lindenwood Drive, Suite 225, Malvern, PA 19355",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.049973,
+        "longitude": -75.528712
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": ".NET Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/dotNET%20Senior%20Software%20Engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Account Executive - Digital Sales and Marketing",
+      "alternateName": "Business Development",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/AE%20DSM%20-%20Philly",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "SharePoint Contractor",
+      "alternateName": "Developer, Backend",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20SharePoint%20Contractor%20-%203",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sitecore Developer",
+      "alternateName": "Developer, Backend",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/Sitecore%20Developer%20-%203",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Digital Marketing Strategist",
+      "alternateName": "Marketing",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Digital%20Marketing%20Strategist%20-%203",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "BI and Data Warehouse Specialist",
+      "alternateName": "Developer, DBA",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_BI%20and%20Data%20Warehouse%20Specialist",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Developer Architect",
+      "alternateName": "DevOps",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Cloud%20Developer%20Architect",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior SharePoint Engineer",
+      "alternateName": "Developer, Backend",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired_Senior%20SharePoint%20Engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract",
+      "title": "Cloud Developer Architect Contractor",
+      "alternateName": "DevOps",
+      "url": "http://rdacorp.com/en/Careers/Current%20Openings/xpired%20-%20Cloud%20Developer%20Architect%20Contractor%20-%203",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    }
+  ],
+  "updated": "2016-04-28"
+}

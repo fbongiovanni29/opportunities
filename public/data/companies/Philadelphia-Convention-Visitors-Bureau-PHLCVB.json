@@ -1,0 +1,24 @@
+{
+  "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
+  "type": [
+    "internal"
+  ],
+  "url": "http://www.discoverphl.com/about-PHLCVB/employment/",
+  "webSiteUrl": "http://www.discoverphl.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1700 Market St., Suite 3000, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952974,
+        "longitude": -75.168444
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-04-28"
+}

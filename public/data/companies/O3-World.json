@@ -1,0 +1,91 @@
+{
+  "company": "O3 World",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://o3world.com/careers/",
+  "webSiteUrl": "http://o3world.com/",
+  "technologies": [
+    "Linux",
+    "Mac OS X",
+    "AWS",
+    "DigitalOcean",
+    "Heroku",
+    "Selenium",
+    "Jenkins",
+    "HTML / CSS / JS",
+    "DNS",
+    "VoIP",
+    "SonicWall FireWall",
+    "NodeJS",
+    "PHP",
+    "Git",
+    "New Relic",
+    "Pingdom",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Wordpress",
+    "Drupal",
+    "ExpressionEngine",
+    "Magento",
+    "Shopify",
+    "Adobe Photoshop",
+    "Express",
+    "Sails.js",
+    "AngularJS",
+    "MongoDB",
+    "PostreSQL",
+    "Redis",
+    "Gulp",
+    "Grunt"
+  ],
+  "locations": {
+    "philadelphia": {
+      "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
+      "geo": {
+        "latitude": 39.9712247406,
+        "longitude": -75.1342654346
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "UI / UX DESIGNER"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "FULL STACK DEVELOPER"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "FRONT-END DEVELOPER"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "UX STRATEGIST"
+    }
+  ],
+  "updated": "2016-04-29"
+}

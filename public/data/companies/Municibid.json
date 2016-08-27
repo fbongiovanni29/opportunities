@@ -1,0 +1,24 @@
+{
+  "company": "Municibid",
+  "type": [
+    "internal"
+  ],
+  "url": "https://municibid.com/jobs/",
+  "webSiteUrl": "https://municibid.com/",
+  "technologies": [],
+  "locations": {
+    "conshohocken": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "200 Barr Harbor Drive Suite 4, Conshohocken, PA 19428",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.085953,
+        "longitude": -75.115217
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-04-30"
+}

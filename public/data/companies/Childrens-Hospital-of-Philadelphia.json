@@ -1,0 +1,109 @@
+{
+  "company": "Children's Hospital of Philadelphia",
+  "type": [],
+  "url": "https://www.chop.edu.apply2jobs.com/",
+  "webSiteUrl": "http://www.chop.edu/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "34th St and Civic Center Blvd, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.948829,
+        "longitude": -75.192948
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Biomedical Engineering Technologist",
+      "alternateName": "Developer, Backend",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=39170&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-09"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Controlled Substance Auditor",
+      "alternateName": "Developer, DBA",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=38913&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-01-19"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Information Analyst I",
+      "alternateName": "IT, Networking",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=37991&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-11-12"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IS Infrastructure Manager",
+      "alternateName": "IT, Networking",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=39107&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-02-11"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "IS Support Analyst I",
+      "alternateName": "IT, Networking",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=38755&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-25"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Lawson Systems Analyst III",
+      "alternateName": "IT, Networking",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=38181&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-11-20"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Director, Web Technology and Application Development",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=39560&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Systems Analyst I",
+      "alternateName": "",
+      "url": "https://www.chop.edu.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=40049&CurrentPage=1",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-25"
+    }
+  ],
+  "updated": "2016-05-01"
+}

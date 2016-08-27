@@ -886,3 +886,23 @@ Dronecast
 PeopleLinx
 [object Object]
 08/22/2016 10:31:46
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+08/26/2016 17:54:52
+-----------------------------------------------
+FastFig
+Cannot read property 'innerText' of undefined
+08/26/2016 17:54:52
+-----------------------------------------------
+Lemma
+Error: .wait() timed out after 30000msec
+08/26/2016 17:54:52
+-----------------------------------------------
+Moven
+Error: .wait() timed out after 30000msec
+08/26/2016 17:54:52
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+08/26/2016 17:54:52

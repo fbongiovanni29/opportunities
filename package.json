@@ -5,8 +5,9 @@
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "merge": "node ./bin/mergeCompanies.js counties.geojson ./companies",
-    "format": "node ./bin/formatJSON.js ./companies"
+    "merge": "node ./bin/mergeCompanies.js ./public/data/counties.geojson ./public/data/companies",
+    "format": "node ./public/bin/formatJSON.js ./public/data/companies",
+    "crawl": "node ./crawler/crawler.js"
   },
   "repository": {
     "type": "git",

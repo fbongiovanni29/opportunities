@@ -1,0 +1,65 @@
+{
+  "company": "Razorfish Health",
+  "type": [
+    "consultancy"
+  ],
+  "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
+  "webSiteUrl": "http://www.razorfishhealth.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "100 Penn Square East, Philadelphia, PA 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.94491,
+        "longitude": -75.159786
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Financial Analyst - Razorfish Health",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000234"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Manager, Business Intelligence - Publicis Health Media",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHM000334"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Vice President, Project Management - Razorfish Health",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000207"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Analyst, Business Intelligence - Publicis Health Media",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHM000335"
+    }
+  ],
+  "updated": "2016-04-28"
+}

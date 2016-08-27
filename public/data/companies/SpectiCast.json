@@ -1,0 +1,24 @@
+{
+  "company": "SpectiCast",
+  "type": [
+    "internal"
+  ],
+  "url": "http://www.specticast.com/en/contents/careers",
+  "webSiteUrl": "http://www.specticast.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "210 West Rittenhouse Square, Suite 400, Philadelphia, PA 19103",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9500479286,
+        "longitude": -75.1728245
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-04-26"
+}

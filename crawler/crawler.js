@@ -1,5 +1,5 @@
 var fs = require('fs')
-var logStream = fs.createWriteStream('errorlog.txt', {'flags': 'a'})
+var logStream = fs.createWriteStream('./crawler/errorlog.txt', {'flags': 'a'})
 var dateTime = require('node-datetime')
 var dt = dateTime.create().format('m/d/Y H:M:S')
 var jsonfile = require('jsonfile')
@@ -14,7 +14,7 @@ var nightmare = Nightmare({ show: true }) // true displays popup electron window
 function crawl(data, cb) {
   // Visual output
   console.log(chalk.blue("Starting: " + data.filename))
-  var currentData = require('./data/companies/' + data.filename + '.json')
+  var currentData = require('../public/data/companies/' + data.filename + '.json')
   var nightmare = new Nightmare()
   if ("iFrame" in data === true) {
     nightmare.enterIFrame(data.iFrame)
@@ -106,7 +106,7 @@ function crawl(data, cb) {
     x = _.unionBy(currentData.positions, arr, 'title')
     currentData.positions = _.intersectionBy(x, arr, 'title')
     // Write to each company to json file
-    var file = '../companies/' + data.filename + '.json'
+    var file = './public/data/companies/' + data.filename + '.json'
     jsonfile.writeFile(file, currentData, {spaces: 2}, function(err) {
       if (err) {
 	console.error(err)

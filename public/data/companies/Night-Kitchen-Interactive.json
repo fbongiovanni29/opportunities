@@ -1,0 +1,24 @@
+{
+  "company": "Night Kitchen Interactive",
+  "type": [
+    "internal"
+  ],
+  "url": "http://www.whatscookin.com/about/careers",
+  "webSiteUrl": "http://www.whatscookin.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "411 South 2nd Street, Suite 200, Philadelphia, PA 19147",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.942945848,
+        "longitude": -75.1449762344
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-04-29"
+}

@@ -1,0 +1,113 @@
+{
+  "company": "Zonoff",
+  "type": [
+    "product"
+  ],
+  "url": "http://zonoff.com/our-story/careers/current-openings/",
+  "webSiteUrl": "https://zonoff.com/",
+  "technologies": [],
+  "locations": {
+    "malvern": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.051395125,
+        "longitude": -75.5336614375
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Cloud Services Developer",
+      "alternateName": "Developer, Backend",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "DevOps Engineer",
+      "alternateName": "DevOps",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Javascript UI Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Linux Application Developer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Solutions Support Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "QA Test Engineer",
+      "alternateName": "Developer, QA",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Data Analytics Lead Contributor",
+      "alternateName": "Data Analyst",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Director, Content and Brand Marketing",
+      "alternateName": "Content Strategy",
+      "url": "https://zonoff.com/our-story/careers/",
+      "jobLocation": "malvern",
+      "remote": false,
+      "datePosted": "2016-04-21"
+    }
+  ],
+  "updated": "2016-04-21"
+}

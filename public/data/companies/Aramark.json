@@ -1,0 +1,59 @@
+{
+  "company": "Aramark",
+  "type": [
+    "consultancy"
+  ],
+  "url": "https://allcareers-aramark.icims.com/jobs/search?ss=1&searchLocation=12781-12822-",
+  "webSiteUrl": "http://www.aramark.com/",
+  "technologies": [
+    ".NET",
+    "Java",
+    "PowerShell"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "990 Spring Garden Street",
+      "geo": {
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior IT Director, Network and Communications",
+      "alternateName": "DevOps",
+      "url": "https://uscareers-aramark.icims.com/jobs/74388/senior-it-director%2c-network-and-communications/job?mobile=false&width=1325&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-06-17"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Microsoft .NET Developer - Associate Technical Analyst - Corporate",
+      "alternateName": "Developer, Backend",
+      "url": "https://uscareers-aramark.icims.com/jobs/73362/microsoft-.net-developer---associate-technical-analyst---corporate/job",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-06-17"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Sr. Technical Analyst - Corporate Database Administration- Data Warehouse",
+      "alternateName": "Developer, DBA",
+      "url": "https://uscareers-aramark.icims.com/jobs/71494/sr.-technical-analyst---corporate-database-administration--data-warehouse/job",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-06-17"
+    }
+  ],
+  "updated": "2016-06-17"
+}

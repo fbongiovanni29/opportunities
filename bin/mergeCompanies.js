@@ -119,7 +119,7 @@ if (fileName && dirName) {
   }
 
   function writeCompanyMerge(fileName, companies) {
-    var out = fs.createWriteStream(fileName, {
+    var out = fs.createWriteStream('public/data/' + fileName, {
       encoding: "utf8"
     });
     out.write(JSON.stringify(companies, null, 2));

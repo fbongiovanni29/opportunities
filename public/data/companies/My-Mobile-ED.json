@@ -1,0 +1,46 @@
+{
+  "company": "My Mobile ED",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/my-mobile-ed/jobs",
+  "webSiteUrl": "http://mymobileed.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Software Engineer",
+      "alternateName": "Developer, Mobile",
+      "url": "https://angel.co/my-mobile-ed/jobs/116098-software-engineer",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Business Development",
+      "url": "https://angel.co/my-mobile-ed/jobs/159525-business-development"
+    }
+  ],
+  "updated": "2016-04-30"
+}

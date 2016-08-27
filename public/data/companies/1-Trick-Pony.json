@@ -1,0 +1,61 @@
+{
+  "company": "1 Trick Pony",
+  "type": [
+    "agency"
+  ],
+  "url": "http://1trickpony.com/jobs/",
+  "webSiteUrl": "http://1trickpony.com/",
+  "technologies": [
+    "Wordpress",
+    "Drupal",
+    "Expression Engine",
+    "JQuery",
+    "TweenMax",
+    "velocity.js"
+  ],
+  "locations": {
+    "hammonton": {
+      "@type": "Place",
+      "address": "251 Bellevue Ave, Hammonton, NJ 08037",
+      "geo": {
+        "latitude": 39.6371142269,
+        "longitude": -74.8023355257
+      },
+      "telephone": "609-704-2660"
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "SR. COPYWRITER / CONCEPT LEAD",
+      "alternateName": "Content Strategy",
+      "url": "http://1trickpony.com/jobs/",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "datePosted": "2016-03-12"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "title": "BILINGUAL SOCIAL MEDIA STRATEGIST",
+      "url": "http://1trickpony.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "title": "GRAPHIC DESIGNER",
+      "url": "http://1trickpony.com/jobs/"
+    }
+  ],
+  "updated": "2016-06-17"
+}

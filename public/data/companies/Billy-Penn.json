@@ -1,0 +1,21 @@
+{
+  "company": "Billy Penn",
+  "type": [
+    "internal"
+  ],
+  "url": "https://billypenn.com/jobs/",
+  "webSiteUrl": "https://billypenn.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "15th, 30 S 15th St, Philadelphia, PA 19102",
+      "geo": {
+        "latitude": 39.949553,
+        "longitude": -75.165939
+      }
+    }
+  },
+  "positions": [],
+  "updated": "2016-05-01"
+}

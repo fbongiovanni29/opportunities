@@ -1,0 +1,47 @@
+{
+  "company": "PromptWorks",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.promptworks.com/jobs/",
+  "webSiteUrl": "http://www.promptworks.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "1211 Chestnut St, Suite 400, Philadelphia, PA, 19107",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9504152041,
+        "longitude": -75.1603696122
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Software Engineer",
+      "alternateName": "Developer, Full Stack",
+      "url": "http://www.promptworks.com/jobs/senior-software-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Senior Front-end Engineer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://www.promptworks.com/jobs/senior-front-end-engineer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-04-28"
+    }
+  ],
+  "updated": "2016-04-28"
+}

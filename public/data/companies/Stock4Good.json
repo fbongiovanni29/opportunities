@@ -1,0 +1,33 @@
+{
+  "company": "Stock4Good",
+  "type": [
+    "startup"
+  ],
+  "url": "https://angel.co/stock4good/jobs",
+  "webSiteUrl": "http://www.stock4good.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "contract to perm",
+      "title": "Tech PM / Full Stack Developer",
+      "alternateName": "",
+      "url": "https://angel.co/stock4good/jobs",
+      "jobLocation": "philadelphia",
+      "remote": true,
+      "datePosted": "2016-04-05"
+    }
+  ]
+}

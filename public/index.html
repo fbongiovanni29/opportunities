@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html ng-app="jobapp">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+	<meta name="robots" content="index, follow" />
+
+	<title>Job Jawn - Development Opportunities in the Philadelphia Area</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/main.css">
+	<base href="./" />
+</head>
+
+<body>
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#/">Job Jawn</a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="">County
+	          <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="#/">All</a></li>
+							<li role="separator" class="divider"></li>
+							<li class="disabled"><a>Pennsylvania</a></li>
+							<li><a href="#/county/philly">Philadelphia</a></li>
+							<li><a href="#/county/bucks">Bucks</a></li>
+							<li><a href="#/county/chester">Chester</a></li>
+							<li><a href="#/county/delaware">Delaware</a></li>
+							<li><a href="#/county/montco">Montgomery</a></li>
+							<li role="separator" class="divider"></li>
+							<li class="disabled"><a>New Jersey</a></li>
+							<li><a href="#/county/burlington">Burlington</a></li>
+							<li><a href="#/county/camden">Camden</a></li>
+							<li><a href="#/county/mercer">Mercer</a></li>
+							<li role="separator" class="divider"></li>
+							<li class="disabled"><a>Delaware</a></li>
+							<li><a href="#/county/new-castle">New Castle</a></li>
+						</ul>
+					</li>
+				</ul>
+				<form class="navbar-form navbar-right" role="search">
+					<div class="form-group">
+						<input type="text" ng-model="search" class="form-control" placeholder="Search">
+					</div>
+				</form>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container-fluid -->
+	</nav>
+	<div class="container">
+		<ng-view></ng-view>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-route.min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+</body>
+
+</html>

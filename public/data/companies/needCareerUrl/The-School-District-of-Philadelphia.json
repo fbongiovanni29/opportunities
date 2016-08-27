@@ -1,0 +1,11 @@
+{
+  "company": "The School District of Philadelphia",
+  "url": "",
+  "webSiteUrl": "http://www.phila.k12.pa.us/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 39.952584,
+    "longitude": -75.165222
+  },
+  "positions": []
+}

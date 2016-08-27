@@ -1,0 +1,11 @@
+{
+  "company": "CorpU",
+  "url": "http://www.corpu.com/corpu/about/careers/",
+  "webSiteUrl": "http://www.corpu.com/",
+  "address": "2401 Walnut Street, 7th Floor, Suite 700, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.951521,
+    "longitude": -75.179873
+  },
+  "positions": []
+}

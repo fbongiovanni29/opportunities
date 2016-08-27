@@ -1,0 +1,39 @@
+{
+  "company": "Syapse",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://www.syapse.com/about/careers/",
+  "webSiteUrl": "http://www.syapse.com/",
+  "technologies": [
+    "Python",
+    "Javascript",
+    "Django"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Customer Solutions Project Manager \nPalo Alto, Philadelphia",
+      "url": "http://www.syapse.com/about/careers/openings/?gh_jid=32492"
+    }
+  ],
+  "updated": "2016-04-26"
+}
