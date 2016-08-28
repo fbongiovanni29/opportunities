@@ -116,6 +116,13 @@ function crawl(data, cb) {
     cb()
   })
   .catch(function (error) {
+    currentData.positions = []
+    var file = './public/data/companies/' + data.filename + '.json'
+    jsonfile.writeFile(file, currentData, {spaces: 2}, function(err) {
+      if (err) {
+	console.error(err)
+      }
+    })
     // Write error to log and print to console
     logStream.write('-----------------------------------------------' + '\n' + data.filename + '\n' + error + '\n' + dt + '\n')
     console.log(chalk.red('Error: ' + data.filename + '\n' + error))

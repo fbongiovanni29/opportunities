@@ -252,18 +252,18 @@
     "link": ".u-fontSize18"
   },
   {
-    "filename": "Cloudamize",
-    "url": "http://www.cloudamize.com/careers",
-    "jobLocation": "philadelphia",
-    "query": "h3 a",
-    "link": "h3 a"
-  },
-  {
     "filename": "Clutch",
     "url": "https://www.clutch.com/careers/",
     "jobLocation": "ambler",
     "query": "h3 b",
     "link": null
+  },
+  {
+    "filename": "Cloudamize",
+    "url": "http://www.cloudamize.com/careers",
+    "jobLocation": "philadelphia",
+    "query": "h3 a",
+    "link": "h3 a"
   },
   {
     "filename": "Conigent",
@@ -399,15 +399,6 @@
     "jobLocation": "philadelphia",
     "query": "h2 a",
     "link": "h2 a"
-  },
-  {
-    "filename": "FastFig",
-    "url": "https://angel.co/fastfig/jobs",
-    "jobLocation": "philadelphia",
-    "parseLocation": ["Philadelphia"],
-    "locations": ".listing-data",
-    "query": ".u-fontSize18",
-    "link": ".u-fontSize18"
   },
   {
     "filename": "Fynydd",
@@ -556,7 +547,7 @@
     "filename": "Lemma",
     "url": "https://www.lem.ma/home/",
     "jobLocation": "philadelphia",
-    "query": "accordion a",
+    "query": "h4 a",
     "link": null
   },
   {
@@ -632,16 +623,6 @@
     "jobLocation": "conshohocken",
     "query": ".resumator-job-title",
     "link": ".resumator-job-link"
-  },
-  {
-    "filename": "Moven",
-    "url": "https://www.moven.com/about/index.html",
-    "sliceTitle": [0, -18],
-    "jobLocation": "philadelphia",
-    "parseLocation": ["Philadelphia"],
-    "locations": ".career-listing-post",
-    "query": ".career-listing-post",
-    "link": null
   },
   {
     "filename": "My-Mobile-ED",

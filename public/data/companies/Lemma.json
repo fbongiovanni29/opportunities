@@ -32,9 +32,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Full stack Angular.js, Node.js developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://www.lem.ma/home/?page_id=74",
+      "title": "UX Developer",
+      "alternateName": "Developer, Frontend",
+      "url": "https://www.lem.ma/home/?page_id=79",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-05"
@@ -42,13 +42,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-28",
       "employmentType": "full-time",
-      "title": "UX Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://www.lem.ma/home/?page_id=79",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-05"
+      "title": "Full stack React/Node.js developer",
+      "url": "https://www.lem.ma/home/"
     }
   ],
   "updated": "2016-04-30"

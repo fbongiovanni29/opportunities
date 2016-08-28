@@ -906,3 +906,15 @@ Error: .wait() timed out after 30000msec
 Zonoff
 Error: .wait() timed out after 30000msec
 08/26/2016 17:54:52
+-----------------------------------------------
+FastFig
+Cannot read property 'innerText' of undefined
+08/28/2016 11:26:52
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+08/28/2016 11:28:44
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+08/28/2016 11:30:49
