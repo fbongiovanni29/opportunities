@@ -24,16 +24,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Associate Media Planner",
-      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160824010549_VN387VNYCTUK2E5O"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "Office Coordinator",
       "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160817011624_Q2JFX6JPQC6ZRXRJ"
     },

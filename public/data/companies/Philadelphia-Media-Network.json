@@ -21,43 +21,11 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Digital Sales Specialist",
-      "alternateName": "Business Development",
-      "url": "http://apsweb.philly.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Web Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://apsweb.philly.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Outside Local Sales Representatives",
-      "url": "http://apsweb.philly.com/jobs/#full_1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Digital Engineer",
       "url": "http://apsweb.philly.com/jobs/#full_1"
     },
     {

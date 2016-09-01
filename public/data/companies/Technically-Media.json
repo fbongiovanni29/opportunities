@@ -19,17 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Philadelphia",
-      "remote": false,
-      "title": "Technical.ly Business Coordinator (Philadelphia/Delaware)",
-      "url": "http://technical.ly/job/business-coordinator-philadelphiadelaware/"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-26"
 }

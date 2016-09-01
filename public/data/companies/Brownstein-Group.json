@@ -30,12 +30,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "intern",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Internships »",
-      "url": "http://www.brownsteingroup.com/careers/#internships"
+      "title": "Art Director »",
+      "url": "http://www.brownsteingroup.com/careers/#art-director"
     }
   ],
   "updated": "2016-05-01"

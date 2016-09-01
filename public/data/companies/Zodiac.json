@@ -19,18 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Full Stack Engineer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://jobs.lever.co/zodiacmetrics",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-21"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-21"
 }

@@ -56,17 +56,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Developer - Middleware",
-      "alternateName": "Developer, Backend",
-      "url": "https://careers.sig.com/job/SUSQA004Y103/Software-Developer-Middleware",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "bala cynwyd",
@@ -302,6 +291,16 @@
       "jobLocation": "bala cynwyd",
       "remote": false,
       "title": "Technical Support Intern - Philadelphia",
+      "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Senior Security Engineer",
       "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
     }
   ],

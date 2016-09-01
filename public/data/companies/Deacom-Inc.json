@@ -64,16 +64,6 @@
       "employmentType": "full-time",
       "jobLocation": "chesterbrook",
       "remote": false,
-      "title": "Project Manager (Multiple Openings)",
-      "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "chesterbrook",
-      "remote": false,
       "title": "C# / .NET Software Engineer (Multiple Openings)",
       "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer"
     },

@@ -59,6 +59,16 @@
       "remote": false,
       "title": "Senior Analyst, Business Intelligence - Publicis Health Media",
       "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=PHM000335"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Finance Coordinator - Razorfish Health",
+      "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobdetail.ftl?job=RHW000237"
     }
   ],
   "updated": "2016-04-28"

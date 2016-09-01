@@ -31,17 +31,17 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "SENIOR MECHANICAL ENGINEER",
+      "title": "SENIOR MOLECULAR BIOLOGIST",
       "url": "http://www.biomeme.com/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "SENIOR MOLECULAR BIOLOGIST",
+      "title": "SENIOR PRODUCT DEVELOPMENT ENGINEER",
       "url": "http://www.biomeme.com/careers"
     }
   ],

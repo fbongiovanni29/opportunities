@@ -53,17 +53,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Community Coordinator - Reading Terminal Market",
-      "alternateName": "Marketing",
-      "url": "http://chatterblast.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
@@ -89,6 +78,16 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Research & Reporting Specialist",
+      "url": "http://chatterblast.com/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Operations Manager",
       "url": "http://chatterblast.com/careers/#"
     }
   ],

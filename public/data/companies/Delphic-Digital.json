@@ -29,6 +29,16 @@
       "remote": false,
       "title": "Associate Digital Media Buyer",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/249584"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Join the Delphic Talent Pool",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/170319"
     }
   ],
   "updated": "2016-04-30"

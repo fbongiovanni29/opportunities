@@ -111,16 +111,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Marketing Operations Analyst",
-      "url": "https://boards.greenhouse.io/curalate/jobs/257490"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "Product Marketing Manager",
       "url": "https://boards.greenhouse.io/curalate/jobs/99221"
     },
@@ -137,12 +127,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-07-31",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Project Manager",
-      "url": "https://boards.greenhouse.io/curalate/jobs/167258"
+      "title": "HR Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/272201"
     }
   ],
   "updated": "2016-05-01"

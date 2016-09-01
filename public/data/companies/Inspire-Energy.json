@@ -83,6 +83,16 @@
       "remote": false,
       "title": "Member Experience Manager",
       "url": "https://www.inspireenergy.com/join-our-team#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Business Development Manager",
+      "url": "https://www.helloinspire.com/join-our-team#"
     }
   ],
   "updated": "2016-04-30"

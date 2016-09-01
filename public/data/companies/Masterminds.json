@@ -40,6 +40,26 @@
       "remote": false,
       "title": "Account Management Assistant",
       "url": "http://mastermindsagency.com/#gigs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account Management Executive",
+      "url": "http://mastermindsagency.com/#gigs"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account Coordinator",
+      "url": "http://mastermindsagency.com/#gigs"
     }
   ],
   "updated": "2016-04-30"

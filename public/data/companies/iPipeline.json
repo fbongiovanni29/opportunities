@@ -111,16 +111,6 @@
       "employmentType": "full-time",
       "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "title": "Developer - Life Insurance",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2969/developer---life-insurance/job?in_iframe=1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Job Locations:  US-PA-Exton",
-      "remote": false,
       "title": "Application Developer",
       "url": "https://ipipeline-orspartners.icims.com/jobs/2914/application-developer/job?in_iframe=1"
     }

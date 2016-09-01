@@ -35,17 +35,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Data Scientist",
-      "alternateName": "Data Scientist",
-      "url": "https://boards.greenhouse.io/jornaya/jobs/113843",
-      "jobLocation": "ambler",
-      "remote": false,
-      "datePosted": "2016-03-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Engineer",
       "alternateName": "Developer, QA",
       "url": "https://boards.greenhouse.io/jornaya/jobs/132522",

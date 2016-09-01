@@ -164,6 +164,16 @@
       "remote": false,
       "title": "Risk Associate/Customer Service Advocate",
       "url": "https://www.swiftcapital.com/careers#op-131106-risk-associatecustomer-service-advocate"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
+      "remote": false,
+      "title": "Talent Acquisition Coordinator",
+      "url": "https://www.swiftcapital.com/careers#op-133137-talent-acquisition-coordinator"
     }
   ],
   "updated": "2016-04-26"

@@ -21,7 +21,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -31,7 +31,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -41,12 +41,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Senior Platform Engineer",
       "url": "https://jobs.lever.co/cloudmineinc/b10d6138-c470-4577-914e-b00b0671c285"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-08-01",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://jobs.lever.co/cloudmineinc/58355da6-7164-474c-88b8-f4f08ac971da"
     }
   ],
   "updated": "2016-05-01"

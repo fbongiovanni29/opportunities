@@ -28,18 +28,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SR. COPYWRITER / CONCEPT LEAD",
-      "alternateName": "Content Strategy",
-      "url": "http://1trickpony.com/jobs/",
-      "jobLocation": "hammonton",
-      "remote": false,
-      "datePosted": "2016-03-12"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "hammonton",
       "remote": false,
@@ -49,11 +38,21 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "hammonton",
       "remote": false,
       "title": "GRAPHIC DESIGNER",
+      "url": "http://1trickpony.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-08-01",
+      "employmentType": "full-time",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "title": "SR. COPYWRITER / CONCEPT LEAD",
       "url": "http://1trickpony.com/jobs/"
     }
   ],

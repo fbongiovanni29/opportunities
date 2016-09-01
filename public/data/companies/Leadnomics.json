@@ -29,6 +29,16 @@
       "remote": false,
       "title": "Chief Revenue Officer",
       "url": "http://www.leadnomics.com/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Media Buyer",
+      "url": "http://www.leadnomics.com/careers/#"
     }
   ],
   "updated": "2016-04-30"

@@ -45,17 +45,27 @@
       "employmentType": "intern",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
-      "title": "Fall 2016 Intern- Project Management",
+      "title": "Fall 2016 Public Relations Intern",
       "url": "https://www.briancom.com/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "datePosted": "2016-07-31",
       "employmentType": "intern",
       "jobLocation": "Conshohocken, PA",
       "remote": false,
-      "title": "Fall 2016 Public Relations Intern",
+      "title": "Business Analyst Intern",
+      "url": "https://www.briancom.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-08-01",
+      "employmentType": "full-time",
+      "jobLocation": "Conshohocken, PA",
+      "remote": false,
+      "title": "Junior Designer",
       "url": "https://www.briancom.com/careers"
     }
   ]
