@@ -237,17 +237,27 @@
         "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
-        "title": "Fall 2016 Intern- Project Management",
+        "title": "Fall 2016 Public Relations Intern",
         "url": "https://www.briancom.com/careers"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-26",
+        "datePosted": "2016-07-31",
         "employmentType": "intern",
         "jobLocation": "Conshohocken, PA",
         "remote": false,
-        "title": "Fall 2016 Public Relations Intern",
+        "title": "Business Analyst Intern",
+        "url": "https://www.briancom.com/careers"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-08-01",
+        "employmentType": "full-time",
+        "jobLocation": "Conshohocken, PA",
+        "remote": false,
+        "title": "Junior Designer",
         "url": "https://www.briancom.com/careers"
       }
     ]
@@ -273,26 +283,6 @@
       }
     },
     "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "fort washington",
-        "remote": false,
-        "title": "OPERATIONS AND COMMUNICATIONS ASSISTANT",
-        "url": "https://www.linkedin.com/jobs2/cap/view/176368496?pathWildcard=176368496&trk=job_capjs"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "intern",
-        "jobLocation": "fort washington",
-        "remote": false,
-        "title": "SOFTWARE DEVELOPMENT INTERN",
-        "url": "http://philadelphia.craigslist.org/sof/5704689439.html"
-      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
@@ -550,19 +540,7 @@
         }
       }
     },
-    "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SENIOR DATA SCIENTIST",
-        "alternateName": "Data Scientist",
-        "url": "https://www.clutch.com/careers/",
-        "jobLocation": "ambler",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      }
-    ],
+    "positions": [],
     "updated": "2016-05-01"
   },
   {
@@ -623,26 +601,6 @@
         "remote": false,
         "title": "Scrum Master",
         "url": "https://careers-coredial.icims.com/jobs/1067/scrum-master/job?in_iframe=1"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "blue bell",
-        "remote": false,
-        "title": "Network Engineer",
-        "url": "https://careers-coredial.icims.com/jobs/1064/network-engineer/job?in_iframe=1"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "blue bell",
-        "remote": false,
-        "title": "Sr Mobile Application Developer",
-        "url": "https://careers-coredial.icims.com/jobs/1063/sr-mobile-application-developer/job?in_iframe=1"
       }
     ],
     "updated": "2016-05-01"
@@ -1094,17 +1052,6 @@
       }
     },
     "positions": [
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Data Scientist",
-        "alternateName": "Data Scientist",
-        "url": "https://boards.greenhouse.io/jornaya/jobs/113843",
-        "jobLocation": "ambler",
-        "remote": false,
-        "datePosted": "2016-03-25"
-      },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
@@ -2132,17 +2079,6 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "Software Developer - Middleware",
-        "alternateName": "Developer, Backend",
-        "url": "https://careers.sig.com/job/SUSQA004Y103/Software-Developer-Middleware",
-        "jobLocation": "bala cynwyd",
-        "remote": false,
-        "datePosted": "2016-04-26"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
         "datePosted": "2016-07-26",
         "employmentType": "full-time",
         "jobLocation": "bala cynwyd",
@@ -2379,6 +2315,16 @@
         "remote": false,
         "title": "Technical Support Intern - Philadelphia",
         "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-31",
+        "employmentType": "full-time",
+        "jobLocation": "bala cynwyd",
+        "remote": false,
+        "title": "Senior Security Engineer",
+        "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
       }
     ],
     "updated": "2016-04-26"
@@ -2549,6 +2495,16 @@
         "remote": false,
         "title": "Risk Associate/Customer Service Advocate",
         "url": "https://www.swiftcapital.com/careers#op-131106-risk-associatecustomer-service-advocate"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-31",
+        "employmentType": "full-time",
+        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
+        "remote": false,
+        "title": "Talent Acquisition Coordinator",
+        "url": "https://www.swiftcapital.com/careers#op-133137-talent-acquisition-coordinator"
       }
     ],
     "updated": "2016-04-26"

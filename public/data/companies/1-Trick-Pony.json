@@ -28,6 +28,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
       "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "hammonton",
@@ -38,6 +39,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
       "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "hammonton",
@@ -48,6 +50,7 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
       "datePosted": "2016-08-01",
       "employmentType": "full-time",
       "jobLocation": "hammonton",

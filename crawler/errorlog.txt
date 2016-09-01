@@ -942,3 +942,15 @@ Error: .wait() timed out after 30000msec
 Zonoff
 Error: .wait() timed out after 30000msec
 09/01/2016 12:22:35
+-----------------------------------------------
+1-Trick-Pony
+position is not defined
+09/01/2016 16:38:09
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/01/2016 16:38:37
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/01/2016 16:38:37

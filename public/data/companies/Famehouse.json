@@ -47,16 +47,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "D2C ACCOUNTS COORDINATOR",
-      "url": "http://famehouse.net/job-listing-d2c-accounts-coordinator/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "EMAIL MARKETING MANAGER",
       "url": "http://famehouse.net/job-listing-email-marketing-manager-2/"
     },

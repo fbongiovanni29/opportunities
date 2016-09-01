@@ -56,26 +56,6 @@
       "remote": false,
       "title": "Scrum Master",
       "url": "https://careers-coredial.icims.com/jobs/1067/scrum-master/job?in_iframe=1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "blue bell",
-      "remote": false,
-      "title": "Network Engineer",
-      "url": "https://careers-coredial.icims.com/jobs/1064/network-engineer/job?in_iframe=1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "blue bell",
-      "remote": false,
-      "title": "Sr Mobile Application Developer",
-      "url": "https://careers-coredial.icims.com/jobs/1063/sr-mobile-application-developer/job?in_iframe=1"
     }
   ],
   "updated": "2016-05-01"
