@@ -1,27 +1,19 @@
 {
-  "company": "1 Trick Pony",
+  "company": "Practice",
   "type": [
-    "agency"
+    "product"
   ],
-  "url": "http://1trickpony.com/jobs/",
-  "webSiteUrl": "http://1trickpony.com/",
-  "technologies": [
-    "Wordpress",
-    "Drupal",
-    "Expression Engine",
-    "JQuery",
-    "TweenMax",
-    "velocity.js"
-  ],
+  "url": "http://www.practice.xyz/careers/",
+  "webSiteUrl": "https://www.practice.xyz/",
+  "technologies": [],
   "locations": {
-    "hammonton": {
+    "wyndmoor": {
       "@type": "Place",
-      "address": "251 Bellevue Ave, Hammonton, NJ 08037",
+      "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
       "geo": {
-        "latitude": 39.6371142269,
-        "longitude": -74.8023355257
-      },
-      "telephone": "609-704-2660"
+        "latitude": 40.0839338571,
+        "longitude": -75.191686898
+      }
     }
   },
   "positions": [
