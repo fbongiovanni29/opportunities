@@ -1,0 +1,11 @@
+{
+  "filename": "Kepler-Group",
+  "url": "https://boards.greenhouse.io/embed/job_board?for=keplergroup&b=http://www.keplergrp.com/careers/",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".opening",
+  "query": ".opening a",
+  "link": ".opening a"
+}

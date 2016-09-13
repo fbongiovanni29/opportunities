@@ -1,0 +1,11 @@
+{
+  "filename": "Club-OS",
+  "url": "https://angel.co/club-os/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".listing-data",
+  "query": ".u-fontSize18",
+  "link": ".u-fontSize18"
+}

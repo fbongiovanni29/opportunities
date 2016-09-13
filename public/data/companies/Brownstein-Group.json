@@ -36,6 +36,28 @@
       "remote": false,
       "title": "Art Director »",
       "url": "http://www.brownsteingroup.com/careers/#art-director"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Public Relations & Social Media Account Executive »",
+      "url": "http://www.brownsteingroup.com/careers/#pr-sm-account-executive"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Account Executive »",
+      "url": "http://www.brownsteingroup.com/careers/#senior-account-executive"
     }
   ],
   "updated": "2016-05-01"

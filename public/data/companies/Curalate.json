@@ -133,6 +133,28 @@
       "remote": false,
       "title": "HR Manager",
       "url": "https://boards.greenhouse.io/curalate/jobs/272201"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Head of Product Marketing",
+      "url": "https://boards.greenhouse.io/curalate/jobs/273607"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/167258"
     }
   ],
   "updated": "2016-05-01"

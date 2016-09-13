@@ -26,16 +26,6 @@
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadephia",
-      "remote": false,
-      "title": "Senior Manager, Technical Services",
-      "url": "https://careers-medecision.icims.com/jobs/1301/senior-manager%2c-technical-services/job?in_iframe=1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadephia",
       "remote": true,
       "title": "VP, Security",
       "url": "https://careers-medecision.icims.com/jobs/1250/vp%2c-security/job?in_iframe=1"

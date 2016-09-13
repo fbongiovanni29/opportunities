@@ -1,0 +1,11 @@
+{
+  "filename": "Oncora-Medical",
+  "url": "https://oncoramedical.com/careers/",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".subheader",
+  "jobLocation": "philadelphia",
+  "query": "h5",
+  "link": null
+}

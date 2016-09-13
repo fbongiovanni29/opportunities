@@ -1,0 +1,11 @@
+{
+  "filename": "New-York-Code-Design-Academy",
+  "url": "https://nycda.com/careers#openings",
+  "parseLocation": [
+    "Philadephia"
+  ],
+  "locations": ".job-titles+ td",
+  "jobLocation": "philadelphia",
+  "query": ".job-titles a",
+  "link": ".job-titles a"
+}

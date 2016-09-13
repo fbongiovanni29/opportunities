@@ -19,17 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "part-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Part-Time Business Development Associate",
-      "url": "https://s3-us-west-2.amazonaws.com/nycda-assets/jobs/documents/000/000/072/original/bd_job_description.pdf?1472153642"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-30"
 }

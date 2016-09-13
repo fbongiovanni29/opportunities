@@ -35,17 +35,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Client Partner Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.stuzo.com/careers/client-partner-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Director of Client Services",
       "alternateName": "Business Development",
       "url": "http://www.stuzo.com/careers/director-of-client-service/",
@@ -71,17 +60,6 @@
       "title": "Technical Project Manager",
       "alternateName": "Project Manager",
       "url": "http://www.stuzo.com/careers/technical-project-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Marketing Specialist",
-      "alternateName": "Marketing",
-      "url": "http://www.stuzo.com/careers/marketing-specialist/",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-26"

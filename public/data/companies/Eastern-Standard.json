@@ -26,16 +26,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "DIGITAL PROJECT MANAGER",
-      "url": "http://easternstandard.com/pages/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "DRUPAL FRONT END WEB DEVELOPER",
       "url": "http://easternstandard.com/pages/careers"
     },

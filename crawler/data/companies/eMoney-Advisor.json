@@ -1,0 +1,11 @@
+{
+  "filename": "eMoney-Advisor",
+  "url": "http://emoneyadvisor.theresumator.com/apply",
+  "jobLocation": "radnor",
+  "parseLocation": [
+    "Radnor"
+  ],
+  "locations": "li",
+  "query": ".list-group-item-heading a",
+  "link": ".list-group-item-heading a"
+}

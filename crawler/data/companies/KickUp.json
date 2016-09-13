@@ -1,0 +1,11 @@
+{
+  "filename": "KickUp",
+  "url": "https://angel.co/kickup-1/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".listing-data",
+  "query": ".u-fontSize18",
+  "link": ".u-fontSize18"
+}

@@ -1,0 +1,15 @@
+{
+  "filename": "InstaMed",
+  "url": "http://www.instamed.com/about/careers/",
+  "sliceTitle": [
+    0,
+    -19
+  ],
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": "#value li a",
+  "jobLocation": "philadelphia",
+  "query": "#value li a",
+  "link": "#value li a"
+}

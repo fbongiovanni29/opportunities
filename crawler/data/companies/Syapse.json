@@ -1,0 +1,11 @@
+{
+  "filename": "Syapse",
+  "url": "https://boards.greenhouse.io/embed/job_board?for=syapse&b=http://www.syapse.com/about/careers/openings/",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".location",
+  "query": ".opening",
+  "link": "a"
+}

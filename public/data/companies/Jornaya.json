@@ -95,6 +95,17 @@
       "remote": false,
       "title": "Senior Software Engineer",
       "url": "https://boards.greenhouse.io/jornaya/jobs/106360"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "ambler",
+      "remote": false,
+      "title": "Financial Analyst",
+      "url": "https://boards.greenhouse.io/jornaya/jobs/273867"
     }
   ],
   "updated": "2016-08-10"

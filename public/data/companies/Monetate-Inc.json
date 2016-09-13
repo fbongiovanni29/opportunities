@@ -48,16 +48,6 @@
       "employmentType": "full-time",
       "jobLocation": "conshohocken",
       "remote": false,
-      "title": "Client Success Account Manager - West",
-      "url": "http://www.monetate.com/about/careers/#"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "conshohocken",
-      "remote": false,
       "title": "Digital Marketing Consultant - West",
       "url": "http://www.monetate.com/about/careers/#"
     },
@@ -99,6 +89,28 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "title": "Senior Product Marketing Manager",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Senior Program Manager - West",
+      "url": "http://www.monetate.com/about/careers/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Technical Support Engineer",
       "url": "http://www.monetate.com/about/careers/#"
     }
   ],

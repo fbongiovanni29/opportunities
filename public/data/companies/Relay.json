@@ -89,6 +89,17 @@
       "remote": false,
       "title": "SENIOR SALES EXECUTIVE",
       "url": "https://theapplicantmanager.com/jobs?pos=RN113"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "TECHNICAL PROJECT MANAGER/SCRUM MASTER",
+      "url": "https://theapplicantmanager.com/jobs?pos=RN121"
     }
   ],
   "updated": "2016-04-28"

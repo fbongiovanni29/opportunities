@@ -183,12 +183,24 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
       "jobLocation": "wayne",
       "remote": false,
-      "title": "Quality Assurance Specialist",
-      "url": "http://www.evolveip.net/about/careers/quality-assurance-specialist"
+      "title": "Software Developer",
+      "url": "http://www.evolveip.net/about/careers/software-developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "wayne",
+      "remote": false,
+      "title": "Quality Control Associate",
+      "url": "http://www.evolveip.net/about/careers/quality-control-associate"
     }
   ],
   "updated": "2016-04-30"

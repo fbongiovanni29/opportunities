@@ -137,6 +137,17 @@
       "remote": false,
       "title": "Mobile Software Architect",
       "url": "http://app.jobvite.com/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "New Hope, PA, United States",
+      "remote": false,
+      "title": "Advertising Designer",
+      "url": "http://app.jobvite.com/#"
     }
   ],
   "updated": "2016-04-30"

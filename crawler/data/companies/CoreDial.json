@@ -1,0 +1,12 @@
+{
+  "filename": "CoreDial",
+  "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+  "jobLocation": "blue bell",
+  "parseLocation": [
+    "Blue Bell"
+  ],
+  "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
+  "query": "a.iCIMS_Anchor",
+  "link": "a.iCIMS_Anchor",
+  "iFrame": "#icims_content_iframe"
+}

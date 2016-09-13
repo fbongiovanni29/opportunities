@@ -1,0 +1,11 @@
+{
+  "filename": "PerPay-Inc",
+  "url": "https://perpay.com/careers/",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".text-right .mb5",
+  "query": ".text-left .mb5",
+  "link": null
+}

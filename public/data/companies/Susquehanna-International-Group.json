@@ -247,16 +247,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "bala cynwyd",
-      "remote": false,
-      "title": "ETL Data Analyst",
-      "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
       "employmentType": "intern",
       "jobLocation": "bala cynwyd",
       "remote": false,
@@ -301,6 +291,39 @@
       "jobLocation": "bala cynwyd",
       "remote": false,
       "title": "Senior Security Engineer",
+      "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Security Risk Analyst",
+      "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Application Support Specialist",
+      "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "bala cynwyd",
+      "remote": false,
+      "title": "Server Provisioning Analyst",
       "url": "https://careers.sig.com/search-result?offset=0&languageType=en&keywords=&searchLevelOne=Philadelphia+Area&searchLevelThree=&searchLevelFour=&searchLevelFive=&searchLevelTwo=Technology"
     }
   ],

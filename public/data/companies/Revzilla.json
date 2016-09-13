@@ -225,6 +225,17 @@
       "remote": false,
       "title": "Full Stack Developer",
       "url": "http://revzilla.theresumator.com/apply/X7Falq/job_20160810193604_BQTJBCQGQEJU5PJQ"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "eCommerce Manager",
+      "url": "http://revzilla.theresumator.com/apply/vQ3Wgr/job_20160906211130_POBK9MDFPTI5TRBW"
     }
   ],
   "updated": "2016-04-28"

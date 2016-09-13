@@ -1,0 +1,12 @@
+{
+  "filename": "iPipeline",
+  "url": "https://ipipeline-orspartners.icims.com/jobs/search?ss=1&searchLocation=12781-12822-Exton",
+  "parseLocation": [
+    "Exton",
+    "Philadelphia"
+  ],
+  "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3",
+  "query": "td a.iCIMS_Anchor",
+  "link": "td a.iCIMS_Anchor",
+  "iFrame": "#icims_content_iframe"
+}

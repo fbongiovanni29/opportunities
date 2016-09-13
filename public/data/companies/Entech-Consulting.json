@@ -17,37 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "malvern",
-      "remote": false,
-      "title": ".NET DEVELOPER",
-      "url": "http://entech.com/Careers/Req/10000"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "malvern",
-      "remote": false,
-      "title": "JAVA DEVELOPER",
-      "url": "http://entech.com/Careers/Req/10001"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "malvern",
-      "remote": true,
-      "title": "DEVOPS ENGINEER (REMOTE)",
-      "url": "http://entech.com/Careers/Req/10002"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-30"
 }

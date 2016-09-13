@@ -1,0 +1,12 @@
+{
+  "filename": "Menu-Econsolution",
+  "url": "https://angel.co/menu-econsolution/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "remote": true,
+  "locations": ".listing-data",
+  "query": ".u-fontSize18",
+  "link": ".u-fontSize18"
+}

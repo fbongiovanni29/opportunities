@@ -1,0 +1,7 @@
+{
+  "filename": "Zivtech",
+  "url": "https://www.zivtech.com/about/employment",
+  "jobLocation": "philadelphia",
+  "query": ".node-title a",
+  "link": ".node-title a"
+}

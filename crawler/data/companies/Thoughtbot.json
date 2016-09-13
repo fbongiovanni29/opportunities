@@ -1,0 +1,12 @@
+{
+  "filename": "Thoughtbot",
+  "url": "https://thoughtbot.com/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "All Locations",
+    "Philadelphia"
+  ],
+  "locations": ".job-location a",
+  "query": ".job-title",
+  "link": ".job-application-link a"
+}

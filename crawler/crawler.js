@@ -11,6 +11,11 @@ var Nightmare = require('nightmare');
 require('nightmare-iframe-manager')(Nightmare)
 var nightmare = Nightmare({ show: true }) // true displays popup electron window showing results must remove line #17
 
+if (process.argv[2] !== undefined) {
+  crawlData = require('./data/companies/' + process.argv[2] + '.json')
+  crawlData = [crawlData]
+}
+
 function crawl(crawlData, cb) {
   // Visual output
   console.log(chalk.blue("Starting: " + crawlData.filename))

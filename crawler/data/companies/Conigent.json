@@ -1,0 +1,7 @@
+{
+  "filename": "Conigent",
+  "url": "http://www.conigent.com/contact/#openings-list",
+  "jobLocation": "cherryhill",
+  "query": ".rbox-opening-li-title",
+  "link": ".rbox-opening-li-title"
+}

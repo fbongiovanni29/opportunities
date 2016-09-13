@@ -1,0 +1,11 @@
+{
+  "filename": "Swift-Capital",
+  "url": "https://www.swiftcapital.com/careers",
+  "parseLocation": [
+    "Conshohocken",
+    "Wilmington"
+  ],
+  "locations": ".rbox-job-shortdesc",
+  "query": ".rbox-opening-li-title",
+  "link": ".rbox-opening-li-title"
+}

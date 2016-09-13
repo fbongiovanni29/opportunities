@@ -69,6 +69,17 @@
       "remote": false,
       "title": "CUSTOMER SERVICE ASSISTANT",
       "url": "http://famehouse.net/job-listing-customer-service-assistant/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "BUSINESS DEVELOPMENT MANAGER",
+      "url": "http://famehouse.net/job-listing-business-development-manager-2/"
     }
   ],
   "updated": "2016-04-30"

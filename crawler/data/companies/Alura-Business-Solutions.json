@@ -1,0 +1,7 @@
+{
+  "filename": "Alura-Business-Solutions",
+  "url": "https://www.alura.com/about.php",
+  "jobLocation": "plymouth",
+  "query": "#careers .thin-header",
+  "link": "#careers .btn"
+}

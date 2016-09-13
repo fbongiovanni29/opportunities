@@ -49,6 +49,17 @@
       "remote": false,
       "title": "Front-end Application Engineer",
       "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Product Manager",
+      "url": "https://angel.co/club-os/jobs/82891-product-manager"
     }
   ]
 }

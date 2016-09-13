@@ -1,0 +1,15 @@
+{
+  "filename": "BTB-Security",
+  "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+  "sliceTitle": [
+    0,
+    -19
+  ],
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".pi-link-dark",
+  "query": ".pi-link-dark",
+  "link": ".pi-link-dark"
+}

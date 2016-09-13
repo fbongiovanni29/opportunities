@@ -1,0 +1,15 @@
+{
+  "filename": "BioBots",
+  "url": "https://angel.co/biobots/jobs",
+  "sliceTitle": [
+    0,
+    -15
+  ],
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".listing-data",
+  "query": ".u-fontSize18",
+  "link": ".u-fontSize18"
+}

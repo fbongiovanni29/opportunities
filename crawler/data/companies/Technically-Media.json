@@ -1,0 +1,11 @@
+{
+  "filename": "Technically-Media",
+  "url": "http://technicallymedia.com/careers",
+  "jobLocation": "Philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": "#page-content a",
+  "query": "#page-content a",
+  "link": "#page-content a"
+}

@@ -60,16 +60,6 @@
         "employmentType": "full-time",
         "jobLocation": "philadephia",
         "remote": false,
-        "title": "Senior Business Analyst, Customer Operations",
-        "url": "https://integrichain-orspartners.icims.com/jobs/3092/senior-business-analyst%2c-customer-operations/job?in_iframe=1"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "philadephia",
-        "remote": false,
         "title": "Software Engineer in Test",
         "url": "https://integrichain-orspartners.icims.com/jobs/2980/software-engineer-in-test/job?in_iframe=1"
       },

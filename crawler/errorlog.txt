@@ -954,3 +954,107 @@ Error: .wait() timed out after 30000msec
 Zonoff
 Error: .wait() timed out after 30000msec
 09/01/2016 16:38:37
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/12/2016 17:23:21
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/12/2016 17:23:21
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/12/2016 17:23:21
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/12/2016 17:23:21
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/13/2016 11:32:54
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/13/2016 11:32:54
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/13/2016 11:32:54
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/13/2016 11:32:54
+-----------------------------------------------
+50onRed
+Error: .wait() timed out after 30000msec
+09/13/2016 11:32:54
+-----------------------------------------------
+eCity-Interactive
+[object Object]
+09/13/2016 11:32:54
+-----------------------------------------------
+eMoney-Advisor
+[object Object]
+09/13/2016 11:32:54
+-----------------------------------------------
+iPipeline
+[object Object]
+09/13/2016 11:32:54
+-----------------------------------------------
+roundCorner
+[object Object]
+09/13/2016 11:32:54
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/13/2016 14:33:42
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/13/2016 14:33:42
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/13/2016 14:33:42
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/13/2016 14:33:42
+-----------------------------------------------
+50onRed
+Error: .wait() timed out after 30000msec
+09/13/2016 14:33:42
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/13/2016 16:06:50
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/13/2016 16:06:50
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/13/2016 16:06:50
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/13/2016 16:06:50
+-----------------------------------------------
+50onRed
+Error: .wait() timed out after 30000msec
+09/13/2016 16:06:50
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/13/2016 16:18:33
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/13/2016 16:18:33
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/13/2016 16:18:33

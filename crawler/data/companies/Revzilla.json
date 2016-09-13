@@ -1,0 +1,11 @@
+{
+  "filename": "Revzilla",
+  "url": "http://www.revzilla.com/careers",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": "#jobs_feed li",
+  "jobLocation": "philadelphia",
+  "query": "#jobs_feed a",
+  "link": "#jobs_feed a"
+}

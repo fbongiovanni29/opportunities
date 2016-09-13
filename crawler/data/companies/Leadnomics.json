@@ -1,0 +1,11 @@
+{
+  "filename": "Leadnomics",
+  "url": "http://www.leadnomics.com/careers/",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".resumator-job-info",
+  "jobLocation": "philadelphia",
+  "query": ".resumator-job-title",
+  "link": ".resumator-job-link"
+}

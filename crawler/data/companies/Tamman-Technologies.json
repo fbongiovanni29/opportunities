@@ -1,0 +1,11 @@
+{
+  "filename": "Tamman-Technologies",
+  "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17",
+  "parseLocation": [
+    "Wilmington",
+    "Philadelphia"
+  ],
+  "locations": "span span span:nth-child(1)",
+  "query": ".fBold",
+  "link": null
+}

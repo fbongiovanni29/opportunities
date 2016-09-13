@@ -54,16 +54,6 @@
       "employmentType": "full-time",
       "jobLocation": "wyndmoor",
       "remote": false,
-      "title": "Full Stack Software Engineer",
-      "url": "http://learn.practice.xyz/careers#op-131140-full-stack-software-engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "wyndmoor",
-      "remote": false,
       "title": "Customer Success Representative",
       "url": "http://learn.practice.xyz/careers#op-131138-customer-success-representative"
     },

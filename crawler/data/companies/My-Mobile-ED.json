@@ -1,0 +1,11 @@
+{
+  "filename": "My-Mobile-ED",
+  "url": "https://angel.co/my-mobile-ed/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".listing-data",
+  "query": ".u-fontSize18",
+  "link": ".u-fontSize18"
+}

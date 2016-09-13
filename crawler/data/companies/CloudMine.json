@@ -1,0 +1,15 @@
+{
+  "filename": "CloudMine",
+  "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
+  "sliceTitle": [
+    0,
+    -41
+  ],
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": "#panels a",
+  "query": "#panels a",
+  "link": "#panels a"
+}

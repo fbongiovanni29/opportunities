@@ -1,0 +1,11 @@
+{
+  "filename": "Zoomer",
+  "url": "https://jobs.lever.co/zoomer",
+  "parseLocation": [
+    "PHILADELPHIA"
+  ],
+  "locations": ".sort-by-location",
+  "jobLocation": "philadelphia",
+  "query": ".postings-group:nth-child(3) h5",
+  "link": null
+}

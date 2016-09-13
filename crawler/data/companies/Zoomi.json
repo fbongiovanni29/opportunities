@@ -1,0 +1,9 @@
+{
+  "filename": "Zoomi",
+  "url": "http://www.zoomiinc.com/jobs/",
+  "jobLocation": "malvern",
+  "parseRemote": "Remote",
+  "remote": ".location",
+  "query": "h3",
+  "link": null
+}

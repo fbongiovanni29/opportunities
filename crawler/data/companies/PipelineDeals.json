@@ -1,0 +1,7 @@
+{
+  "filename": "PipelineDeals",
+  "url": "https://www.pipelinedeals.com/careers",
+  "jobLocation": "exton",
+  "query": ".available_positions a",
+  "link": ".available_positions a"
+}

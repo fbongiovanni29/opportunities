@@ -59,6 +59,17 @@
       "remote": false,
       "title": "Bioengineer",
       "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Embedded and Electrical Sy",
+      "url": "https://angel.co/biobots/jobs/170048-embedded-and-electrical-systems-architect"
     }
   ],
   "updated": "2016-05-01"

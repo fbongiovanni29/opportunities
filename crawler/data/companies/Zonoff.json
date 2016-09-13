@@ -1,0 +1,11 @@
+{
+  "filename": "Zonoff",
+  "url": "http://hire.simplicant.com/?company_id=3666&referer=jobboard_widget",
+  "jobLocation": "malvern",
+  "parseLocation": [
+    "Malvern"
+  ],
+  "locations": ".job-subtitle",
+  "query": ".job-title",
+  "link": ".job-title"
+}

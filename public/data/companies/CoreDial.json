@@ -34,16 +34,6 @@
       "employmentType": "full-time",
       "jobLocation": "blue bell",
       "remote": false,
-      "title": "Lead Generation Assistant",
-      "url": "https://careers-coredial.icims.com/jobs/1069/lead-generation-assistant/job?in_iframe=1"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "blue bell",
-      "remote": false,
       "title": "Software Developer",
       "url": "https://careers-coredial.icims.com/jobs/1068/software-developer/job?in_iframe=1"
     },

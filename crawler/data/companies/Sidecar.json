@@ -1,0 +1,12 @@
+{
+  "filename": "Sidecar",
+  "url": "https://sidecar-orspartners.icims.com/jobs/search?ss=1&hashed=-435738742&mobile=false&width=1100&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+  "jobLocation": "Philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
+  "query": "td a.iCIMS_Anchor",
+  "link": "td a.iCIMS_Anchor",
+  "iFrame": "#icims_content_iframe"
+}

@@ -1,0 +1,11 @@
+{
+  "filename": "PeopleLinx",
+  "url": "http://peoplelinx.com/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".job-excerpt",
+  "query": ".job-title",
+  "link": null
+}

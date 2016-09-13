@@ -1,0 +1,11 @@
+{
+  "filename": "Red-Tettemer-OConnell-Partners",
+  "url": "http://www.rtop.com/contact/",
+  "sliceTitle": [
+    0,
+    -1
+  ],
+  "jobLocation": "Philadelphia",
+  "query": ".job-short span",
+  "link": ".job-short a"
+}

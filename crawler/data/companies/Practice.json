@@ -1,0 +1,11 @@
+{
+  "filename": "Practice",
+  "url": "http://learn.practice.xyz/careers",
+  "jobLocation": "wyndmoor",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".rbox-job-shortdesc",
+  "query": ".rbox-opening-li-title",
+  "link": ".rbox-opening-li-title"
+}

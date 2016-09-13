@@ -1,0 +1,11 @@
+{
+  "filename": "GatherDocs",
+  "url": "http://jobs.gatherdocs.com/",
+  "parseLocation": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "locations": ".job-listing",
+  "query": ".job-title a",
+  "link": ".job-title a"
+}

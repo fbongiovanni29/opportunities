@@ -54,12 +54,13 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
       "jobLocation": "southampton",
       "remote": false,
-      "title": "Customer Experience / Retention Specialist",
-      "url": "http://boltontechnology.com/customer-experience-retention-specialist/"
+      "title": "Sell More with Jump Start",
+      "url": "http://boltontechnology.com/sell-more-with-jump-start/"
     }
   ],
   "updated": "2016-05-01"

@@ -117,6 +117,28 @@
       "remote": false,
       "title": "Senior Software Engineer",
       "url": "https://www.epam.com/careers/job-listings/job.15937#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "Newtown, PA, USA",
+      "remote": false,
+      "title": "IT Technical Support Specialist",
+      "url": "https://www.epam.com/careers/job-listings/job.16507#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "Philadelphia, PA, USA",
+      "remote": false,
+      "title": "Technical Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.16480#apply"
     }
   ],
   "updated": "2016-04-30"

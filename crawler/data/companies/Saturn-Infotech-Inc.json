@@ -1,0 +1,11 @@
+{
+  "filename": "Saturn-Infotech-Inc",
+  "url": "http://www.saturninfotech.com/jobs.php",
+  "jobLocation": "north wales",
+  "parseLocation": [
+    "Wales"
+  ],
+  "locations": ".even td:nth-child(4) , .odd td:nth-child(4)",
+  "query": ".hyper_link span",
+  "link": null
+}

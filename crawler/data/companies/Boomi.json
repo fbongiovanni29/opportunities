@@ -1,0 +1,13 @@
+{
+  "filename": "Boomi",
+  "url": "http://www.boomi.com/company/careers",
+  "jobLocation": "berwyn",
+  "parseLocation": [
+    "Berwyn"
+  ],
+  "locations": ".location+ .location",
+  "parseRemote": "Remote",
+  "remote": "#available-jobs a",
+  "query": "#available-jobs a",
+  "link": "#available-jobs a"
+}

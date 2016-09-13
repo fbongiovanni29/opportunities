@@ -1,0 +1,10 @@
+{
+  "filename": "Brian-Communications",
+  "url": "https://www.briancom.com/careers",
+  "parseLocation": [
+    "Conshohocken"
+  ],
+  "locations": "td.srJobListLocation",
+  "query": "td.srJobListJobTitle",
+  "link": null
+}

@@ -1,0 +1,11 @@
+{
+  "filename": "roundCorner",
+  "url": "http://roundcorner.com/careers/",
+  "jobLocation": "ardmore",
+  "parseLocation": [
+    "PA"
+  ],
+  "locations": ".accordion-toggle",
+  "query": ".accordion-toggle",
+  "link": ".accordion-toggle"
+}

@@ -1,0 +1,7 @@
+{
+  "filename": "Brownstein-Group",
+  "url": "http://www.brownsteingroup.com/careers/",
+  "jobLocation": "philadelphia",
+  "query": ".careers-list a",
+  "link": ".careers-list a"
+}

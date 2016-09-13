@@ -1,0 +1,11 @@
+{
+  "filename": "Inspire-Energy",
+  "url": "https://www.inspireenergy.com/join-our-team#powers",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".resumator-job-info",
+  "jobLocation": "philadelphia",
+  "query": ".resumator-job-title",
+  "link": ".resumator-job-link"
+}

@@ -1,0 +1,12 @@
+{
+  "filename": "Curadora",
+  "url": "https://curadora.workable.com/",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "parseRemote": "TELECOMMUTE",
+  "remote": ".meta",
+  "query": "#jobs a",
+  "link": "#jobs a"
+}

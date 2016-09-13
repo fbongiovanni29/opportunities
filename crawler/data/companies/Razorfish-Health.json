@@ -1,0 +1,15 @@
+{
+  "filename": "Razorfish-Health",
+  "url": "https://publicis.taleo.net/careersection/phcg_external_career_section/jobsearch.ftl?keyword=razorfish+health&searchExpanded=FALSE#",
+  "sliceTitle": [
+    0,
+    -14
+  ],
+  "parseLocation": [
+    "Pennsylvania"
+  ],
+  "locations": "th+ td span",
+  "jobLocation": "philadelphia",
+  "query": ".absolute a",
+  "link": ".absolute a"
+}

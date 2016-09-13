@@ -19,6 +19,17 @@
       }
     }
   },
-  "positions": [],
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Frontend Engineer"
+    }
+  ],
   "updated": "2016-04-21"
 }

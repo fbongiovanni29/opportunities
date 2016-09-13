@@ -1,0 +1,11 @@
+{
+  "filename": "HealthVerity",
+  "url": "http://jobs.jobvite.com/healthverity/?nl=1",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Pennsylvania"
+  ],
+  "locations": ".jv-job-list-location",
+  "query": ".jv-job-list-name a",
+  "link": ".jv-job-list-name a"
+}

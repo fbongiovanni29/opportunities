@@ -1,0 +1,7 @@
+{
+  "filename": "1-Trick-Pony",
+  "url": "http://1trickpony.com/jobs/",
+  "jobLocation": "hammonton",
+  "query": "div.job-listings>dt a",
+  "link": null
+}

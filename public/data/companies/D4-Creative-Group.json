@@ -32,11 +32,23 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Digital Marketing Manager",
+      "title": "Art Director/Senior Designer",
+      "url": "http://www.d4creative.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of SEO",
       "url": "http://www.d4creative.com/careers"
     }
   ],

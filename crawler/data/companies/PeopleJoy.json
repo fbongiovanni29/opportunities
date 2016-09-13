@@ -1,0 +1,12 @@
+{
+  "filename": "PeopleJoy",
+  "url": "https://angel.co/peoplejoy/jobs",
+  "jobLocation": "philadelphia",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".listing-data",
+  "remote": true,
+  "query": ".u-fontSize18",
+  "link": ".u-fontSize18"
+}

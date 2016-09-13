@@ -1,0 +1,11 @@
+{
+  "filename": "Lampscom-Inc",
+  "url": "http://jobs.interactivecommercegroup.com/",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".list-group-item",
+  "jobLocation": "philadelphia",
+  "query": ".list-group-item-heading a",
+  "link": ".list-group-item-heading a"
+}

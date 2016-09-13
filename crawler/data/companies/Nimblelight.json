@@ -1,0 +1,11 @@
+{
+  "filename": "Nimblelight",
+  "url": "http://nimblelight.com/jobs/",
+  "parseLocation": [
+    "Philadelphia"
+  ],
+  "locations": ".positions-location",
+  "jobLocation": "philadelphia",
+  "query": ".positions-title",
+  "link": ".positions-application"
+}

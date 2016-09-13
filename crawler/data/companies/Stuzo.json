@@ -1,0 +1,9 @@
+{
+  "filename": "Stuzo",
+  "url": "http://www.stuzo.com/careers/",
+  "jobLocation": "philadelphia",
+  "parseLocation": "PHILADELPHIA",
+  "locations": ".career-city",
+  "query": ".career-card a",
+  "link": ".career-card a"
+}

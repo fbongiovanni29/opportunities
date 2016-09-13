@@ -35,17 +35,29 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Accountant",
+      "title": "Product Manager",
       "url": "http://apsweb.philly.com/jobs/#full_1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Product Manager",
+      "title": "Digital Sales Specialist",
+      "url": "http://apsweb.philly.com/jobs/#full_1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "part time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Digital Customer Service Representative - Part Time",
       "url": "http://apsweb.philly.com/jobs/#full_1"
     }
   ],

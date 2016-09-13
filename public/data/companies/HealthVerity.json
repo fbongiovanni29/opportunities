@@ -77,6 +77,17 @@
       "remote": false,
       "title": "VP Sales - Life Sciences (Healthcare Data)",
       "url": "http://jobs.jobvite.com/healthverity/job/o62u3fwp"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Healthcare Data Engineer",
+      "url": "http://jobs.jobvite.com/healthverity/job/oCMQ3fw1"
     }
   ],
   "updated": "2016-04-30"
