@@ -39,17 +39,6 @@
       "remote": false,
       "title": "Join the Delphic Talent Pool",
       "url": "https://boards.greenhouse.io/delphicdigital/jobs/170319"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-13",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director, Content Strategy",
-      "url": "https://boards.greenhouse.io/delphicdigital/jobs/454645"
     }
   ],
   "updated": "2016-04-30"

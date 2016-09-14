@@ -1058,3 +1058,19 @@ Error: .wait() timed out after 30000msec
 New-York-Code-Design-Academy
 Error: .wait() timed out after 30000msec
 09/13/2016 16:18:33
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/14/2016 12:27:54
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/14/2016 12:27:54
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/14/2016 12:27:54
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/14/2016 12:27:54

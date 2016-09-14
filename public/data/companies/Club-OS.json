@@ -54,12 +54,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2016-08-14",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Product Manager",
-      "url": "https://angel.co/club-os/jobs/82891-product-manager"
+      "title": "SaaS Product Manager",
+      "url": "https://angel.co/club-os/jobs/82891-saas-product-manager"
     }
   ]
 }
