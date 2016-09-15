@@ -55,12 +55,11 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-14",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Sales Associate - Event Producer Partnerships",
+      "title": "Inside Sales Associate",
       "url": "https://curadora.workable.com/jobs/251784"
     }
   ]

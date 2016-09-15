@@ -80,6 +80,28 @@
       "remote": false,
       "title": "Clinical Coding Specialist",
       "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc770157214fea84290d&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Study Programmer",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886f85721ddb201572f54e53727b1&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Sr. Infrastructure and Security Architect",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc770157102fd285443c&source="
     }
   ],
   "updated": "2016-05-01"

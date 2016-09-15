@@ -103,6 +103,16 @@
       "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
+      "jobLocation": "Philadelphia, PA, USA",
+      "remote": false,
+      "title": "Senior Content Strategist",
+      "url": "https://www.epam.com/careers/job-listings/job.16155#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
       "jobLocation": "Newtown, PA, USA",
       "remote": false,
       "title": "Senior Software Engineer",

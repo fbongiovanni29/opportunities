@@ -28,6 +28,8 @@ function crawl(crawlData, cb) {
     .goto(crawlData.url) // go to JSON specified url
     .wait(crawlData.query) // wait until CSS selector loads
     .evaluate(function (crawlData, dt) {
+      var dt = new Date()
+      var dt = dt.getFullYear() + '-' + ("0" + dt.getMonth() ).slice(-2) + '-' + ("0" + dt.getDate()).slice(-2)
       employmentType = ["INTERN", "PART-TIME", "PART TIME", "CONTRACT"]
       newPositions = []
       // returns text in queried CSS selector
@@ -55,7 +57,7 @@ function crawl(crawlData, cb) {
           "url": null,
           "jobLocation": null,
           "remote": null,
-          "datePosted": null
+          "datePosted": dt
         }
         // if multiple locations need parsing parseLocation may be array
         if (crawlData.parseLocation instanceof Array) {
@@ -102,9 +104,6 @@ function crawl(crawlData, cb) {
             }
             newPositions.push(position)
           }
-          var dt = new Date()
-          var dt = dt.getFullYear() + '-' + ("0" + dt.getMonth() ).slice(-2) + '-' + ("0" + dt.getDate()).slice(-2)
-          position.datePosted = dt
         }
       }
       return newPositions

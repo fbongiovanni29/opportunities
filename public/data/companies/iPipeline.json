@@ -28,6 +28,17 @@
       "employmentType": "full-time",
       "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
+      "title": "Salesforce Relationship Manager",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/3246/salesforce-relationship-manager/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "Job Locations:  US-PA-Exton",
+      "remote": false,
       "title": "Client Support Specialist",
       "url": "https://ipipeline-orspartners.icims.com/jobs/3236/client-support-specialist/job?in_iframe=1"
     },
