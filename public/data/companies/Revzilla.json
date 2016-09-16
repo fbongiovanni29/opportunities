@@ -38,17 +38,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Senior Visual Designer",
-      "alternateName": "Design, Visual",
-      "url": "http://revzilla.theresumator.com/apply/A4CeX5/job_20160425115719_6YEMWWDF2EXRAZM3",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Content Writer - Motorcycles",
       "alternateName": "Content Strategy",
       "url": "http://revzilla.theresumator.com/apply/udSus9/job_20160317191505_BNJHE0HGKTW4JZOU",
@@ -123,16 +112,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Art Director/ Design Lead",
-      "url": "http://revzilla.theresumator.com/apply/xcWP5I/job_20160822151123_E1AXSSMUZRW4YAGT"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "Associate Visual Designer",
       "url": "http://revzilla.theresumator.com/apply/Dvj6Wh/job_20160726172649_QN91XLRXT5YB1E9U"
     },
@@ -193,16 +172,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "RevZilla Video Production Manager",
-      "url": "http://revzilla.theresumator.com/apply/wWfDsi/job_20160603193651_2YEKEJ82ZAIWATN9"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "Back End Developer",
       "url": "http://revzilla.theresumator.com/apply/W0KNfe/job_20160810200444_DB1WBM1K4EIASI1V"
     },
@@ -236,7 +205,18 @@
       "remote": false,
       "title": "eCommerce Manager",
       "url": "http://revzilla.theresumator.com/apply/vQ3Wgr/job_20160906211130_POBK9MDFPTI5TRBW"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Art Director",
+      "url": "http://revzilla.theresumator.com/apply/xcWP5I/job_20160822151123_E1AXSSMUZRW4YAGT"
     }
   ],
-  "updated": "2016-04-28"
+  "updated": "2016-08-15"
 }

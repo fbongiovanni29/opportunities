@@ -55,16 +55,6 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Software Engineer (Healthcare Data)",
-      "url": "http://jobs.jobvite.com/healthverity/job/ot5x3fwS"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "Healthcare Data Privacy Research Scientist",
       "url": "http://jobs.jobvite.com/healthverity/job/odhM3fw3"
     },
@@ -90,5 +80,5 @@
       "url": "http://jobs.jobvite.com/healthverity/job/oCMQ3fw1"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2016-08-15"
 }

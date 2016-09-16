@@ -23,13 +23,13 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
-      "title": "Web Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://pedrera.com/about-us/careers",
       "jobLocation": "doylestown",
       "remote": false,
-      "datePosted": "2016-04-29"
+      "title": "Web Developer",
+      "url": "http://pedrera.com/about-us/careers/web-developer"
     }
   ],
   "updated": "2016-04-29"

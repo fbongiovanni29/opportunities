@@ -168,13 +168,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-31",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
       "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
       "remote": false,
-      "title": "Talent Acquisition Coordinator",
-      "url": "https://www.swiftcapital.com/careers#op-133137-talent-acquisition-coordinator"
+      "title": "Collections Admin Specialist",
+      "url": "https://www.swiftcapital.com/careers#op-139217-collections-admin-specialist"
     }
   ],
-  "updated": "2016-04-26"
+  "updated": "2016-08-15"
 }

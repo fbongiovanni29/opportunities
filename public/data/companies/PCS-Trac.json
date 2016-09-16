@@ -23,24 +23,24 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
-      "title": "Sales Consultant",
-      "alternateName": "Business Development",
-      "url": "http://www.pcstrac.com/#!careers/cuev",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-29"
+      "title": "Sales Consultant",
+      "url": "http://www.pcstrac.com/#!careers/cuev"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
-      "title": "Product Support Manager",
-      "alternateName": "IT, Networking",
-      "url": "http://www.pcstrac.com/#!careers/cuev",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-29"
+      "title": "Product Support Manager",
+      "url": "http://www.pcstrac.com/#!careers/cuev"
     }
   ],
   "updated": "2016-04-29"

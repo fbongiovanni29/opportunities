@@ -117,16 +117,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director of Sales",
-      "url": "https://boards.greenhouse.io/curalate/jobs/217713"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-31",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
@@ -157,5 +147,5 @@
       "url": "https://boards.greenhouse.io/curalate/jobs/167258"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-08-15"
 }

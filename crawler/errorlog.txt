@@ -1090,3 +1090,75 @@ Error: .wait() timed out after 30000msec
 Zonoff
 Error: .wait() timed out after 30000msec
 09/14/2016 13:10:37
+-----------------------------------------------
+Tonic-Design-Co
+ReferenceError: newpositions is not defined
+2016-08-15
+-----------------------------------------------
+Tonic-Design-Co
+ReferenceError: newpositions is not defined
+09/15/2016 19:14:53
+-----------------------------------------------
+Tonic-Design-Co
+ReferenceError: newpositions is not defined
+09/15/2016 19:17:52
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/15/2016 19:22:49
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/15/2016 19:22:49
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/15/2016 19:22:49
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/15/2016 19:22:49
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/15/2016 22:04:03
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/15/2016 22:04:03
+-----------------------------------------------
+New-York-Code-Design-Academy
+[object Object]
+09/15/2016 22:04:03
+-----------------------------------------------
+Oncora-Medical
+[object Object]
+09/15/2016 22:04:03
+-----------------------------------------------
+PCS-Trac
+[object Object]
+09/15/2016 22:04:03
+-----------------------------------------------
+Pedrera-Philadelphia-Web-Development
+[object Object]
+09/15/2016 22:04:03
+-----------------------------------------------
+PeopleJoy
+[object Object]
+09/15/2016 22:04:03
+-----------------------------------------------
+Clutch
+Error: .wait() timed out after 30000msec
+09/15/2016 22:38:32
+-----------------------------------------------
+Entech-Consulting
+Error: .wait() timed out after 30000msec
+09/15/2016 22:38:32
+-----------------------------------------------
+New-York-Code-Design-Academy
+Error: .wait() timed out after 30000msec
+09/15/2016 22:38:32
+-----------------------------------------------
+Zonoff
+Error: .wait() timed out after 30000msec
+09/15/2016 22:38:32

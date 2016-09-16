@@ -170,16 +170,6 @@
       "employmentType": "full-time",
       "jobLocation": "berwyn",
       "remote": false,
-      "title": "Senior Analyst Relations Manager",
-      "url": "http://jobs.dell.com/us/san-francisco/marketing-corporate-communications/jobid10148829-senior-analyst-relations-manager-dell-boomi-(san-francisco-ca)-jobs"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "berwyn",
-      "remote": false,
       "title": "Senior Product Marketing Manager Solutions & Industry",
       "url": "http://jobs.dell.com/us/san-francisco/marketing/jobid10345885-senior-product-marketing-manager-solutions-%EF%B9%A0-industry-san-francisco-ca-or-berwyn-pa-jobs"
     },
@@ -264,5 +254,5 @@
       "url": "http://jobs.dell.com/us/pennsylvania/engineering/jobid8984900-systems-engineering-sr-advisor-jobs"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-08-15"
 }

@@ -19,7 +19,7 @@ if (process.argv[2] !== undefined) {
 function crawl(crawlData, cb) {
   // Visual output
   console.log(chalk.blue("Starting: " + crawlData.filename))
-  var currentData = require('../public/data/companies/' + crawlData.filename + '.json')
+  var currentData = jsonfile.readFileSync('./public/data/companies/' + crawlData.filename + '.json')
   var nightmare = new Nightmare()
   if ("iFrame" in crawlData === true) {
     nightmare.enterIFrame(crawlData.iFrame)
@@ -112,10 +112,16 @@ function crawl(crawlData, cb) {
     .then(function (newPositions) {
       // quick fix for null items (coming from parsing locations with 2 matching values from parseLocation array)
       newPositions = newPositions.filter(function(e){return e})
+      oldPositions = currentData.positions
       // If position already in crawlData leave, update new positions and remove old
-      console.log(newPositions)
       x = _.unionBy(currentData.positions, newPositions, 'title')
       currentData.positions = _.intersectionBy(x, newPositions, 'title')
+      console.log(currentData.positions)
+      if (_.difference(oldPositions, currentData.positions)[0] !== undefined) {
+        var dt = new Date()
+        var dt = dt.getFullYear() + '-' + ("0" + dt.getMonth() ).slice(-2) + '-' + ("0" + dt.getDate()).slice(-2)
+        currentData.updated = dt
+      }
       // Write to each company to json file
       var file = './public/data/companies/' + crawlData.filename + '.json'
       jsonfile.writeFile(file, currentData, {spaces: 2}, function(err) {

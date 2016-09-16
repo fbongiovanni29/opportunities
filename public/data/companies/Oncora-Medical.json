@@ -24,40 +24,41 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Data Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "http://oncoramedical.com/careers#op-96042-data-engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-29"
+      "url": "https://oncoramedical.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Cloud Ops Engineer",
-      "alternateName": "DevOps",
-      "url": "http://oncoramedical.com/careers#op-96045-cloud-ops-engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-29"
+      "url": "https://oncoramedical.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
-      "title": "Data Scientist",
-      "alternateName": "Data Scientist",
-      "url": "http://oncoramedical.com/careers#op-96043-data-scientist",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-29"
+      "title": "Data Scientist",
+      "url": "https://oncoramedical.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
