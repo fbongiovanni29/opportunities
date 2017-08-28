@@ -7,7 +7,7 @@
   ],
   "locations": ".location+ .location",
   "parseRemote": "Remote",
-  "remote": "#available-jobs a",
-  "query": "#available-jobs a",
-  "link": "#available-jobs a"
+  "remote": ".job a",
+  "query": ".job a",
+  "link": ".job a"
 }

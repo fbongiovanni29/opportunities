@@ -1,11 +1,7 @@
 {
   "filename": "Saturn-Infotech-Inc",
-  "url": "http://www.saturninfotech.com/jobs.php",
-  "jobLocation": "north wales",
-  "parseLocation": [
-    "Wales"
-  ],
-  "locations": ".even td:nth-child(4) , .odd td:nth-child(4)",
-  "query": ".hyper_link span",
-  "link": null
+  "url": "https://chk.tbe.taleo.net/chk05/ats/careers/searchResults.jsp?org=JADE&cws=1",
+  "jobLocation": "Philadelphia",
+  "query": ".top a",
+  "link": ".top a"
 }

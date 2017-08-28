@@ -19,37 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "IOS MOBILE DEVELOPER",
-      "url": "http://peoplelinx.com/jobs"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "FULL STACK SOFTWARE DEVELOPER",
-      "url": "http://peoplelinx.com/jobs"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "BUSINESS DEVELOPMENT REPRESENTATIVE",
-      "url": "http://peoplelinx.com/jobs"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-29"
 }

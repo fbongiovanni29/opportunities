@@ -1,11 +1,12 @@
 {
   "filename": "eMoney-Advisor",
-  "url": "http://emoneyadvisor.theresumator.com/apply",
+  "url": "http://jobs.jobvite.com/emoneyadvisor",
   "jobLocation": "radnor",
   "parseLocation": [
-    "Radnor"
+    "Radnor",
+    "2 Locations"
   ],
-  "locations": "li",
-  "query": ".list-group-item-heading a",
-  "link": ".list-group-item-heading a"
+  "locations": ".jv-job-list:nth-child(16) .jv-job-list-location",
+  "link": ".jv-job-list:nth-child(16) a",
+  "query": ".jv-job-list:nth-child(16) a"
 }

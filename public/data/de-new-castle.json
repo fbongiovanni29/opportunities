@@ -24,72 +24,6 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "ACCOUNT EXECUTIVE",
-        "alternateName": "Business Development",
-        "url": "http://www.archer-group.com/careers.html",
-        "jobLocation": "wilmington",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "FRONT END DEVELOPER",
-        "alternateName": "Developer, Frontend",
-        "url": "http://www.archer-group.com/careers.html",
-        "jobLocation": "wilmington",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "APPLICATION DEVELOPER",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://www.archer-group.com/careers.html",
-        "jobLocation": "wilmington",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SENIOR APPLICATION DEVELOPER",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://www.archer-group.com/careers.html",
-        "jobLocation": "wilmington",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "SENIOR SITECORE DEVELOPER",
-        "alternateName": "Developer, Full Stack",
-        "url": "http://www.archer-group.com/careers.html",
-        "jobLocation": "wilmington",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "employmentType": "full-time",
-        "title": "MID-LEVEL UX DESIGNER",
-        "alternateName": "Designer, User Experience",
-        "url": "http://www.archer-group.com/careers.html",
-        "jobLocation": "wilmington",
-        "remote": false,
-        "datePosted": "2016-03-13"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
         "alternateName": null,
         "datePosted": "2016-08-12",
         "employmentType": "full-time",
@@ -108,9 +42,42 @@
         "remote": false,
         "title": "INTERACTIVE ART DIRECTOR",
         "url": "https://archergroup.bamboohr.com/jobs/view.php?id=40"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-06-03",
+        "employmentType": "full-time",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "title": "ASSOCIATE BUSINESS ANALYST",
+        "url": "https://archergroup.bamboohr.com/jobs/view.php?id=47"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-07-15",
+        "employmentType": "full-time",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "title": "MARKETING ANALYST",
+        "url": "https://archergroup.bamboohr.com/jobs/view.php?id=54"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-07-15",
+        "employmentType": "full-time",
+        "jobLocation": "wilmington",
+        "remote": false,
+        "title": "MEDIA SUPERVISOR",
+        "url": "https://archergroup.bamboohr.com/jobs/view.php?id=55"
       }
     ],
-    "updated": "2016-06-17"
+    "updated": "2017-07-15"
   },
   {
     "company": "Swift Capital",
@@ -148,148 +115,59 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-06-03",
         "employmentType": "full-time",
-        "title": "Marketing Operations Analyst",
-        "alternateName": "Marketing",
-        "url": "https://www.swiftcapital.com/Careers#op-116908-marketing-operations-analyst",
-        "jobLocation": "conshohocken",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States\nFull-time",
         "remote": false,
-        "datePosted": "2016-04-26"
+        "title": "Database Engineer",
+        "url": "https://www.swiftcapital.com/careers/#op-195592-database-engineer"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-06-03",
         "employmentType": "full-time",
-        "title": "B2B Sales Representative",
-        "alternateName": "Business Development",
-        "url": "https://www.swiftcapital.com/Careers#op-116900--b2b-sales-representative",
-        "jobLocation": "conshohocken",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States\nFull-time",
         "remote": false,
-        "datePosted": "2016-04-26"
+        "title": "B2B Sales Representative - Inside Sales",
+        "url": "https://www.swiftcapital.com/careers/#op-195590-b2b-sales-representative-inside-sales"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-06-03",
         "employmentType": "full-time",
-        "title": "B2B Account Executive",
-        "alternateName": "Business Development",
-        "url": "https://www.swiftcapital.com/Careers#op-116895-b2b-account-executive",
-        "jobLocation": "conshohocken",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States\nFull-time",
         "remote": false,
-        "datePosted": "2016-04-26"
+        "title": "B2B Account Executive - Inside Sales",
+        "url": "https://www.swiftcapital.com/careers/#op-195585-b2b-account-executive-inside-sales"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "alternateName": null,
+        "datePosted": "2017-06-03",
         "employmentType": "full-time",
-        "title": "Data Scientist – Credit Risk Strategies",
-        "alternateName": "Data Scientist",
-        "url": "https://www.swiftcapital.com/Careers#op-116902-data-scientist--credit-risk-strategies",
-        "jobLocation": "wilmington",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States\nFull-time",
         "remote": false,
-        "datePosted": "2016-04-26"
+        "title": "SQL Developer",
+        "url": "https://www.swiftcapital.com/careers/#op-194991-sql-developer"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-26",
+        "alternateName": null,
+        "datePosted": "2017-07-15",
         "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
+        "jobLocation": "Location: Conshohocken, Pennsylvania, United States\nFull-time",
         "remote": false,
-        "title": "Business Analyst Associate",
-        "url": "https://www.swiftcapital.com/careers#op-135260-business-analyst-associate"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "Senior Business Analyst Associate",
-        "url": "https://www.swiftcapital.com/careers#op-135525-senior-business-analyst-associate"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "Software QA Engineer",
-        "url": "https://www.swiftcapital.com/careers#op-135233-software-qa-engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "AngularJS/Web Development Engineer",
-        "url": "https://www.swiftcapital.com/careers#op-133954-angularjsweb-development-engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "Graphic Designer",
-        "url": "https://www.swiftcapital.com/careers#op-131104-graphic-designer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "Data Engineer",
-        "url": "https://www.swiftcapital.com/careers#op-131099-data-engineer"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Conshohocken, Pennsylvania, United States Full-time",
-        "remote": false,
-        "title": "PR Communications Director",
-        "url": "https://www.swiftcapital.com/careers#op-127442-pr-communications-director"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
-        "remote": false,
-        "title": "Credit Underwriting Specialist",
-        "url": "https://www.swiftcapital.com/careers#op-133958-credit-underwriting-specialist"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-26",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
-        "remote": false,
-        "title": "Risk Associate/Customer Service Advocate",
-        "url": "https://www.swiftcapital.com/careers#op-131106-risk-associatecustomer-service-advocate"
-      },
-      {
-        "@context": "http://schema.org",
-        "@type": "JobPosting",
-        "datePosted": "2016-07-31",
-        "employmentType": "full-time",
-        "jobLocation": "Location: Wilmington, Delaware, United States Full-time",
-        "remote": false,
-        "title": "Talent Acquisition Coordinator",
-        "url": "https://www.swiftcapital.com/careers#op-133137-talent-acquisition-coordinator"
+        "title": "B2B Relationship Manager - Inside Sales",
+        "url": "https://www.swiftcapital.com/careers/#op-202659-b2b-relationship-manager-inside-sales"
       }
     ],
-    "updated": "2016-04-26"
+    "updated": "2017-07-26"
   }
 ]

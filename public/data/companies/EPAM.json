@@ -28,49 +28,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Adobe Solution Architect",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://www.epam.com/careers/job-listings/job.8753#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Data & MDM Architect",
-      "alternateName": "Developer, DevOps",
-      "url": "https://www.epam.com/careers/job-listings/job.11489#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "DevOps Solution Architect",
-      "alternateName": "Developer, DevOps",
-      "url": "https://www.epam.com/careers/job-listings/job.11304#apply",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Newtown, PA, USA",
-      "remote": false,
-      "title": "Director of North American Strategic Partners",
-      "url": "https://www.epam.com/careers/job-listings/job.16227#apply"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "Philadelphia, PA, USA",
@@ -81,55 +38,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Newtown, PA, USA",
-      "remote": false,
-      "title": "Payroll, Benefits and HR Operations Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.16228#apply"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "Philadelphia, PA, USA",
       "remote": false,
-      "title": "Senior Account Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.16087#apply"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Newtown, PA, USA",
-      "remote": false,
-      "title": "Senior Software Engineer",
-      "url": "https://www.epam.com/careers/job-listings/job.15937#apply"
+      "title": "Account Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.19048#apply"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
-      "jobLocation": "Newtown, PA, USA",
+      "jobLocation": "Philadelphia, PA, USA",
       "remote": false,
-      "title": "IT Technical Support Specialist",
-      "url": "https://www.epam.com/careers/job-listings/job.16507#apply"
+      "title": "Big Data Solution Architect",
+      "url": "https://www.epam.com/careers/job-listings/job.22348#apply"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "Philadelphia, PA, USA",
+      "datePosted": "2017-07-15",
+      "employmentType": "contract",
+      "jobLocation": "Newtown, PA, USA",
       "remote": false,
-      "title": "Technical Project Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.16480#apply"
+      "title": "Contracts Negotiator",
+      "url": "https://www.epam.com/careers/job-listings/job.18338#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "Newtown, PA, USA",
+      "remote": false,
+      "title": "Senior Director, Procurement",
+      "url": "https://www.epam.com/careers/job-listings/job.24334#apply"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-26"
 }

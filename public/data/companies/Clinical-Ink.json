@@ -20,48 +20,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "horsham",
-      "remote": false,
-      "title": "Clinical Data Monitor",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "horsham",
-      "remote": false,
-      "title": "Clinical Design Manager",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886f8568c87e101569894e87d48f4&source="
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "horsham",
-      "remote": false,
-      "title": "Project Data Manager",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc7701571eff68ce4ccd&source="
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "horsham",
-      "remote": false,
-      "title": "Project Management Assistant",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc77015710265c8b3f04&source="
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "alternateName": null,
       "datePosted": "2016-08-12",
       "employmentType": "full-time",
@@ -74,35 +32,57 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-13",
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "horsham",
       "remote": false,
-      "title": "Clinical Coding Specialist",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc770157214fea84290d&source="
+      "title": "UX/UI Designer",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886a35cc92cbc015ccbca29000b58&source="
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-15",
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Senior Engineer",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886a35d5e4fad015d65b298fd1321&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Study Quality Analyst",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886a35dd1d821015de68f00691b5b&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Clinical Design Associate",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7882e85e0cf114015e1a6552ab0294&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "horsham",
       "remote": false,
       "title": "Study Programmer",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886f85721ddb201572f54e53727b1&source="
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-15",
-      "employmentType": "full-time",
-      "jobLocation": "horsham",
-      "remote": false,
-      "title": "Sr. Infrastructure and Security Architect",
-      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc770157102fd285443c&source="
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78842b5dedca7a015e0abe68d7222e&source="
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2017-06-03"
 }

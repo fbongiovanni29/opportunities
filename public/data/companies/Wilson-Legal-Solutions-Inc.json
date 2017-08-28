@@ -25,57 +25,25 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
-      "title": ".Net Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.wilsonlegalsol.com/careers_ND.html",
       "jobLocation": "newtown square",
       "remote": false,
-      "datePosted": "2016-04-21"
+      "title": "Account Executive",
+      "url": "http://www.wilsonlegalsol.com/about/careers/account-executive"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SSRS Report Developer",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.wilsonlegalsol.com/careers_RD.html",
-      "jobLocation": "newtown square",
-      "remote": false,
-      "datePosted": "2016-04-21"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SSAS Consultant",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.wilsonlegalsol.com/careers_SSC.html",
-      "jobLocation": "newtown square",
-      "remote": false,
-      "datePosted": "2016-04-21"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Data Warehouse/ETL Developer",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.wilsonlegalsol.com/careers_DW.html",
-      "jobLocation": "newtown square",
-      "remote": false,
-      "datePosted": "2016-04-21"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "newtown square",
       "remote": false,
-      "title": "Application Developer",
+      "title": "Senior Application Developer",
       "url": "http://www.wilsonlegalsol.com/about/careers/application-developer"
     }
   ],
-  "updated": "2016-04-21"
+  "updated": "2017-06-03"
 }

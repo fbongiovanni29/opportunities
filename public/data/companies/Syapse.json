@@ -23,17 +23,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Customer Solutions Project Manager \nPalo Alto, Philadelphia",
-      "url": "http://www.syapse.com/about/careers/openings/?gh_jid=32492"
-    }
-  ],
-  "updated": "2016-04-26"
+  "positions": [],
+  "updated": "2017-07-15"
 }

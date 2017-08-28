@@ -1,7 +1,7 @@
 {
   "filename": "Arcweb-Technologies",
-  "url": "https://arcweb.co/careers/",
+  "url": "http://arcweb.jazz.co/apply/",
   "jobLocation": "philadelphia",
-  "query": "#primary li a",
-  "link": "#primary li a"
+  "query": ".resumator-job-title-link",
+  "link": ".resumator-job-title-link"
 }

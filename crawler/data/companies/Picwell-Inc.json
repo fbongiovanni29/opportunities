@@ -1,7 +1,7 @@
 {
   "filename": "Picwell-Inc",
-  "url": "http://nerds.picwell.com/jobs/",
+  "url": "https://jobs.lever.co/picwell",
   "jobLocation": "philadelphia",
-  "query": ".end li a",
-  "link": ".end li a"
+  "query": "h5",
+  "link": null
 }

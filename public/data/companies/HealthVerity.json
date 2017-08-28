@@ -30,55 +30,69 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Operations Engineer / DevOps",
-      "alternateName": "DevOps",
-      "url": "http://jobs.jobvite.com/healthverity/job/oqrX0fwy",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "contract",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "VP, Strategic Partnerships in Healthcare Data",
-      "url": "http://jobs.jobvite.com/healthverity/job/oB5x3fw0"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Healthcare Data Privacy Research Scientist",
-      "url": "http://jobs.jobvite.com/healthverity/job/odhM3fw3"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "VP Sales - Life Sciences (Healthcare Data)",
-      "url": "http://jobs.jobvite.com/healthverity/job/o62u3fwp"
+      "title": "Commercial Contract Manager",
+      "url": "http://jobs.jobvite.com/healthverity/job/oQ1q5fw6"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Healthcare Data Engineer",
-      "url": "http://jobs.jobvite.com/healthverity/job/oCMQ3fw1"
+      "title": "Full Stack Software Engineer",
+      "url": "http://jobs.jobvite.com/healthverity/job/odUm5fwi"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "QA Automation Engineer",
+      "url": "http://jobs.jobvite.com/healthverity/job/ow3q5fwO"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Principal - Life Sciences",
+      "url": "http://jobs.jobvite.com/healthverity/job/ocZ24fw1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Healthcare SQL Developer",
+      "url": "http://jobs.jobvite.com/healthverity/job/oO4O5fwv"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Backend Developer",
+      "url": "http://jobs.jobvite.com/healthverity/job/oj3G5fwR"
     }
   ],
-  "updated": "2016-08-15"
+  "updated": "2017-07-15"
 }

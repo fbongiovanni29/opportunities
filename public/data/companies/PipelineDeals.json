@@ -24,28 +24,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Product Marketing Manager",
-      "alternateName": "Marketing",
-      "url": "https://www.pipelinedeals.com/careers/product_marketing_manager",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Account Executive",
-      "alternateName": "Business Development",
-      "url": "https://www.pipelinedeals.com/careers/account_executive",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Senior Software Engineer",
       "alternateName": "Developer, Backend",
       "url": "https://www.pipelinedeals.com/careers/senior_rails_developer",
@@ -56,35 +34,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Customer Ambassador",
-      "alternateName": "Business Development",
-      "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "QA Analyst",
-      "alternateName": "Developer, QA",
-      "url": "https://www.pipelinedeals.com/careers/qa_analyst",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "exton",
       "remote": false,
-      "title": "Sales Development Rep",
-      "url": "https://www.pipelinedeals.com/careers/sales_development_rep"
+      "title": "Strategic Account Executive​",
+      "url": "https://www.pipelinedeals.com/careers/strategic-account-executive"
     }
   ],
-  "updated": "2016-04-28"
+  "updated": "2017-07-15"
 }

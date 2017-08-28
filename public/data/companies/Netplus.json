@@ -19,39 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Interactive Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://thinknetplus.com/contact/interactive-designer-2/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2015-12-18"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Art Director",
-      "alternateName": "Developer, Frontend",
-      "url": "http://thinknetplus.com/contact/art-director/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-22"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "intern",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Internships at Netplus",
-      "url": "http://thinknetplus.com/contact/#netplus-jobs"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-30"
 }

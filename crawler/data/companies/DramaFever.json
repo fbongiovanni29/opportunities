@@ -1,11 +1,11 @@
 {
   "filename": "DramaFever",
-  "url": "https://widgets.jobscore.com/jobs/dramafever/widget_iframe?text_color=%232D2424&font_family=Verdana%2C%20Geneva%2C%20sans-serif&link_text_color=%235DA4F5&header_bg_color=%23FFFFFF&group_by=department&show_searchbar_count=50&show_talent_network=false&parent_url=https%3A%2F%2Fwww.dramafever.com%2Fcompany%2Fcareers.html&widget_id=js_widget_iframe_1",
+  "url": "https://hire.withgoogle.com/public/jobs/dramafever?no_padding=1",
   "jobLocation": "philadelphia",
   "parseLocation": [
     "Philadelphia"
   ],
-  "locations": ".location",
-  "query": ".job-detail-link",
-  "link": ".job-detail-link"
+  "locations": ".ptor-jobs-list__item-location",
+  "query": ".ptor-jobs-list__item-job-title",
+  "link": null
 }

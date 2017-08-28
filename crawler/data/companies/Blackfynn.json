@@ -2,6 +2,6 @@
   "filename": "Blackfynn",
   "url": "http://www.blackfynn.com/careers/",
   "jobLocation": "philadelphia",
-  "query": "h2 strong",
-  "link": null
+  "query": ".BambooHR-ATS-Department-Item:nth-child(1) a",
+  "link": ".BambooHR-ATS-Department-Item:nth-child(1) a"
 }

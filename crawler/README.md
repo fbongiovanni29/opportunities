@@ -28,6 +28,12 @@ $ npm start
 ### Extra item after each department type
 + [Seer Interactive](http://www.seerinteractive.com/careers/)
 
+### Needs weird parsing
+[Evolve IP](http://www.evolveip.net/about/careers#wayne-pennsylvania)
+
+### Requires Pagination
++ [Al-Dia](http://jobs.aldianews.com/Jobs/technology-jobs-in-philadelphia-pa?source=11) Appears to be Listing of Other compaines anyways
+
 ### Requires Navigation
 + [CHOP](https://www.chop.edu.apply2jobs.com/)
 + [Thomson Reuters](https://toc.taleo.net/careersection/2/moresearch.ftl?iniurl.src=CWS-10140)
@@ -46,10 +52,12 @@ $ npm start
 + [Willis Towers Watson](https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa)
 
 ### No tech positions currently
++ [Brian Comm](https://www.briancom.com/careers/)
 + [Billy Penn](https://billypenn.com/jobs/)
 + [National Constitution Center](https://billypenn.com/jobs/)
 
 ### No positions listed currently
++ [50onRed](http://www.50onred.com/blog/tag/careers/)
 + [AboutOne](http://www.aboutone.com/jobs/)
 + [Agile Trailblazers](https://agiletrailblazers.workable.com/)
 + [Arcisphere](http://arcisphere.com/careers/)

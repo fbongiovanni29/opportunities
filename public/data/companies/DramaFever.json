@@ -16,27 +16,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Android Developer",
-      "url": "https://www.jobscore.com/careers/dramafever/jobs/android-developer-b0E4IKcUSr5OxVdG1ZS6tF?ref=rss&sid=68"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Platform Operations Engineer",
-      "url": "https://www.jobscore.com/careers/dramafever/jobs/platform-operations-engineer-ciqtOurtGr5PCVdG1ZS6tF?ref=rss&sid=68"
-    }
-  ],
-  "updated": "2016-08-15"
+  "positions": [],
+  "updated": "2017-07-26"
 }

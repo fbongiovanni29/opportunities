@@ -17,16 +17,5 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director of Mobile Development",
-      "url": "https://thoughtbot.com/jobs/mobile-director"
-    }
-  ]
+  "positions": []
 }

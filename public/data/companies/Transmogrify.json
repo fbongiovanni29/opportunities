@@ -25,51 +25,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Full-Stack Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://xmog.com/jobs",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Project Manager",
-      "alternateName": "Project Manager",
-      "url": "http://xmog.com/jobs",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front-End / UI Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://xmog.com/jobs",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "iOS Developer",
-      "alternateName": "Developer, Mobile",
-      "url": "http://xmog.com/jobs",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-25"
 }

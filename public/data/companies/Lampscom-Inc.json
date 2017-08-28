@@ -19,38 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Full Stack Magento Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://jobs.interactivecommercegroup.com/apply/26wj0Q/Full-Stack-Magento-Developer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Financial Analyst",
-      "url": "http://jobs.interactivecommercegroup.com/apply/VldbgC/Financial-Analyst"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Operations Specialist",
-      "url": "http://jobs.interactivecommercegroup.com/apply/ZaoMKh/Operations-Specialist"
-    }
-  ],
-  "updated": "2016-04-30"
+  "positions": [],
+  "updated": "2017-06-03"
 }

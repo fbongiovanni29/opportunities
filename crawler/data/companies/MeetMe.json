@@ -1,10 +1,7 @@
 {
   "filename": "MeetMe",
-  "url": "http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qU19VfwJ&jvresize=jobvite.html",
-  "parseLocation": [
-    "PA,"
-  ],
-  "locations": ".joblocation",
-  "query": ".joblist a",
-  "link": ".joblist a"
+    "url": "https://jobs.lever.co/meetgroup/?location=Greater%20Philadelphia%20Area",
+  "jobLocation": "philadelphia",
+  "query": "h5",
+  "link": null
 }

@@ -21,72 +21,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Information Security Analyst",
-      "alternateName": "Developer, Security",
-      "url": "https://boards.greenhouse.io/curalate/jobs/184097#.VvdC-xIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Product Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://boards.greenhouse.io/curalate/jobs/186892#.VyYNRRMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Product Design Intern",
-      "alternateName": "Intern",
-      "url": "https://boards.greenhouse.io/curalate/jobs/194187#.VyYNhBMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Product Manager",
-      "alternateName": "Project Manager",
-      "url": "https://boards.greenhouse.io/curalate/jobs/186887#.VvdDAhIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Client Support Engineer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://boards.greenhouse.io/curalate/jobs/138260#.VyYN7BMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front End Engineer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://boards.greenhouse.io/curalate/jobs/144573#.VvdDDhIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Engineer",
       "alternateName": "Developer, Full Stack",
       "url": "https://boards.greenhouse.io/curalate/jobs/62381#.VyYOVBMrJE4",
@@ -97,55 +31,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Senior Client Success Manager",
+      "title": "Sales Development Representative",
+      "url": "https://boards.greenhouse.io/curalate/jobs/602254"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Client Solutions Manager",
       "url": "https://boards.greenhouse.io/curalate/jobs/181530"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Product Marketing Manager",
-      "url": "https://boards.greenhouse.io/curalate/jobs/99221"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-31",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "HR Manager",
-      "url": "https://boards.greenhouse.io/curalate/jobs/272201"
+      "title": "Product Manager - Philadelphia",
+      "url": "https://boards.greenhouse.io/curalate/jobs/755180"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Head of Product Marketing",
-      "url": "https://boards.greenhouse.io/curalate/jobs/273607"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-13",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Project Manager",
-      "url": "https://boards.greenhouse.io/curalate/jobs/167258"
+      "title": "Associate Client Partner",
+      "url": "https://boards.greenhouse.io/curalate/jobs/755898"
     }
   ],
-  "updated": "2016-08-15"
+  "updated": "2017-06-03"
 }

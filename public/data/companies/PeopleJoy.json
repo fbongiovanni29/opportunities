@@ -17,17 +17,5 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-15",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": true,
-      "title": "Software Engineer",
-      "url": "https://angel.co/peoplejoy/jobs/128920-software-engineer"
-    }
-  ]
+  "positions": []
 }

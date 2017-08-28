@@ -22,34 +22,68 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Communications Manager & Writer",
-      "alternateName": "Content Strategy",
-      "url": "http://www.bluecadet.com/careers/communications-manager-writer/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Drupal Developer – PHL",
-      "url": "http://www.bluecadet.com/careers/drupal-developer/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Creative Director – PHL",
       "url": "http://www.bluecadet.com/careers/creative-director/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Designer – NYC",
+      "url": "http://www.bluecadet.com/careers/senior-designer-nyc/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Junior Strategist – PHL or NYC",
+      "url": "http://www.bluecadet.com/careers/junior-strategist-phl-or-nyc/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Producer – PHL (Apprenticeship)",
+      "url": "http://www.bluecadet.com/careers/producer-phl-apprenticeship/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Creative Developer – NYC/PHL",
+      "url": "http://www.bluecadet.com/careers/senior-creative-developer-nycphl/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Office Assistant – PHL",
+      "url": "http://www.bluecadet.com/careers/office-assistant/"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2017-07-15"
 }

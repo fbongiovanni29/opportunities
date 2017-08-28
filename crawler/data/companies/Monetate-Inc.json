@@ -1,12 +1,11 @@
 {
   "filename": "Monetate-Inc",
-  "url": "http://www.monetate.com/about/careers/#open-positions",
+  "url": "https://hire.withgoogle.com/public/jobs/monetate?no_padding=1",
   "parseLocation": [
     "Conshohocken",
     "Multiple"
   ],
-  "locations": ".resumator-job-info",
-  "jobLocation": "conshohocken",
-  "query": ".resumator-job-title",
-  "link": ".resumator-job-link"
+  "locations": ".ptor-jobs-list__item-location",
+  "query": ".ptor-jobs-list__item-job-title",
+  "link": null
 }

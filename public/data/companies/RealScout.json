@@ -33,22 +33,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Software Engineer, Data Infrastructure",
+      "title": "Senior Data Scientist",
       "url": "https://jobs.lever.co/realscout"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Software Engineer, Full-Stack",
+      "title": "Senior Software Engineer, Data Integration",
+      "url": "https://jobs.lever.co/realscout"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer, Full-stack",
+      "url": "https://jobs.lever.co/realscout"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer, Javascript",
       "url": "https://jobs.lever.co/realscout"
     }
-  ]
+  ],
+  "updated": "2017-06-03"
 }

@@ -1,7 +1,7 @@
 {
   "filename": "Deacom-Inc",
-  "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+  "url": "https://deacom.com/ViewPage/21/deacom-inc-company-careers",
   "jobLocation": "chesterbrook",
-  "query": "h2 a",
-  "link": "h2 a"
+  "query": ".jobtitle strong",
+  "link": null
 }

@@ -19,27 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Full-Stack JavaScript Engineer",
-      "url": "https://angel.co/kickup-1/jobs/163263-full-stack-javascript-engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Marketing and Design Specialist",
-      "url": "https://angel.co/kickup-1/jobs/156175-marketing-and-design-specialist"
-    }
-  ],
-  "updated": "2016-04-30"
+  "positions": [],
+  "updated": "2017-06-03"
 }

@@ -31,22 +31,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "devon",
-      "remote": false,
-      "title": "WEB DEVELOPERS",
-      "url": "http://www.sustrana.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "intern",
       "jobLocation": "devon",
       "remote": false,
-      "title": "INTERNSHIP OPPORTUNITIES",
+      "title": "INTERNSHIP OPPORTUNITIES -",
       "url": "http://www.sustrana.com/careers"
     }
-  ]
+  ],
+  "updated": "2017-06-03"
 }

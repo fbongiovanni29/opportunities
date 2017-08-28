@@ -98,33 +98,58 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Datacenter Operations Specialist",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Senior Hardware Engineer",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Director of Sales",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Director of Information Security",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "haddonfield",
       "remote": false,
       "title": "UI/UX Designer",
       "url": "https://www.linode.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "haddonfield",
-      "remote": false,
-      "title": "Manager, System Engineering",
-      "url": "https://www.linode.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "haddonfield",
-      "remote": false,
-      "title": "Account Executive",
-      "url": "https://www.linode.com/careers"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-26"
 }

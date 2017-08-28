@@ -21,34 +21,34 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-13",
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Director, Web Development",
-      "url": "http://ecityinteractive.com/us/careers/"
+      "title": "Digital Account Manager",
+      "url": "http://www.ecityinteractive.com/us/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-13",
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "PHP/.NET Developer",
-      "url": "http://ecityinteractive.com/us/careers/"
+      "title": "UX Strategist Consultant",
+      "url": "http://www.ecityinteractive.com/us/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-13",
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Account/Project Manager",
-      "url": "http://ecityinteractive.com/us/careers/"
+      "title": "Junior Project Manager",
+      "url": "http://www.ecityinteractive.com/us/careers/"
     }
   ],
   "updated": "2016-04-30"

@@ -23,27 +23,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Business Analyst",
-      "alternateName": "Project Manager",
-      "url": "http://www.wingspan.com/project/business-analyst/",
-      "jobLocation": "blue bell",
-      "remote": false,
-      "datePosted": "2016-04-21"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "blue bell",
-      "remote": false,
-      "title": "Software Engineer (All Levels)",
-      "url": "http://www.wingspan.com/project/software-engineer/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "blue bell",
@@ -60,7 +39,84 @@
       "remote": false,
       "title": "Dev Ops Engineer",
       "url": "http://www.wingspan.com/project/devops-engineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "Senior Software Engineer",
+      "url": "http://www.wingspan.com/project/senior-engineer-2/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "Senior Search Engineer",
+      "url": "http://www.wingspan.com/project/senior-search-engineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "Document Specialist",
+      "url": "http://www.wingspan.com/project/document-specialist/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "Product Manager",
+      "url": "http://www.wingspan.com/project/product-manager/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "DevOps Data Engineer",
+      "url": "http://www.wingspan.com/project/devops-data-engineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "DevOps Security Engineer",
+      "url": "http://www.wingspan.com/project/devops-security-engineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "DevOps Automation Engineer",
+      "url": "http://www.wingspan.com/project/devops-automation-engineer/"
     }
   ],
-  "updated": "2016-04-21"
+  "updated": "2017-07-26"
 }

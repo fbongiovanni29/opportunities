@@ -20,34 +20,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://fynydd.com/careers/jp1937/",
-      "jobLocation": "kingofprussia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "kingofprussia",
       "remote": false,
-      "title": "Freelance Umbraco CMS Developer",
-      "url": "https://fynydd.com/careers/jp2002/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "kingofprussia",
-      "remote": false,
-      "title": "Freelance WordPress Multisite Developer",
-      "url": "https://fynydd.com/careers/jp2001/"
+      "title": "Senior Full-Stack Developer",
+      "url": "https://fynydd.com/careers/jp2003/"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-15"
 }

@@ -1,7 +1,7 @@
 {
   "filename": "Relay",
-  "url": "http://www.relaynetwork.com/careers/",
+    "url": "https://boards.greenhouse.io/embed/job_board?for=relaynetwork&b=http://www.relaynetwork.com/careers/",
   "jobLocation": "radnor",
-  "query": "#theapplicantmanager h1",
-  "link": "#theapplicantmanager h1 a"
+  "query": "a",
+  "link": "a"
 }

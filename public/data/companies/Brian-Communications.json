@@ -16,57 +16,5 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Creative Director",
-      "alternateName": "Designer, Visual",
-      "url": "https://www.smartrecruiters.com/BrianCommunications/88497763-creative-director",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "intern",
-      "jobLocation": "Conshohocken, PA",
-      "remote": false,
-      "title": "Fall 2016 Intern- Strategy and Business Development",
-      "url": "https://www.briancom.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "intern",
-      "jobLocation": "Conshohocken, PA",
-      "remote": false,
-      "title": "Fall 2016 Public Relations Intern",
-      "url": "https://www.briancom.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-31",
-      "employmentType": "intern",
-      "jobLocation": "Conshohocken, PA",
-      "remote": false,
-      "title": "Business Analyst Intern",
-      "url": "https://www.briancom.com/careers"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-08-01",
-      "employmentType": "full-time",
-      "jobLocation": "Conshohocken, PA",
-      "remote": false,
-      "title": "Junior Designer",
-      "url": "https://www.briancom.com/careers"
-    }
-  ]
+  "positions": []
 }

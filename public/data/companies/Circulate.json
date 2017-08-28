@@ -16,18 +16,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Business Development",
-      "alternateName": "Business Development",
-      "url": "http://www.circulate.com/jobs-business-development/index.html",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    }
-  ],
+  "positions": [],
   "updated": "2016-05-01"
 }

@@ -19,48 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Junior Software Engineer",
-      "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Lead Software Engineer",
-      "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Front-end Application Engineer",
-      "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-15",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director of Product",
-      "url": "https://angel.co/club-os/jobs/82891-director-of-product"
-    }
-  ],
-  "updated": "2016-08-15"
+  "positions": [],
+  "updated": "2017-06-03"
 }

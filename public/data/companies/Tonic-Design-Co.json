@@ -19,29 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "User Experience Design Lead (UXDL)",
-      "alternateName": "Designer, User Experience",
-      "url": "http://www.tonicdesign.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Mid-Sr. UI Designer",
-      "url": "http://www.tonicdesign.com/jobs/"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-25"
 }

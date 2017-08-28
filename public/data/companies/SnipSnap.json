@@ -19,67 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Backend Engineer Philadelphia, PA",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Account Executive Philadelphia, PA",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Product Designer (Android) Philadelphia, PA or Anywhere",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "SVP Sales Philadelphia, PA",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director of Sales Philadelphia, PA",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "intern",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "UI/UX Design – Intern/Co-Op Philadelphia, PA",
-      "url": "http://www.snipsnap.it/snipsnap-jobs/"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-26"
 }

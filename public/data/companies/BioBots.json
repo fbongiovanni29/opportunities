@@ -17,60 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "https://angel.co/biobots/jobs/116521-software-engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Technical Sales",
-      "alternateName": "Business Development",
-      "url": "https://angel.co/biobots/jobs/129353-technical-sales",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Robotics Engineer",
-      "url": "https://angel.co/biobots/jobs/150030-robotics-engineer-philadelphia"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Bioengineer",
-      "url": "https://angel.co/biobots/jobs/160673-bioengineer-philadelphia"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Embedded and Electrical Sy",
-      "url": "https://angel.co/biobots/jobs/170048-embedded-and-electrical-systems-architect"
-    }
-  ],
-  "updated": "2016-05-01"
+  "positions": [],
+  "updated": "2017-06-03"
 }

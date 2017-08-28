@@ -1,9 +1,11 @@
 {
   "filename": "Entech-Consulting",
-  "url": "http://entech.com/Careers",
+  "url": "http://entech.com/JoinUs",
+  "parseLocation": [
+      "Malvern"
+  ],
+  "locations": ".job-titles p",
   "jobLocation": "malvern",
-  "remote": "h3",
-  "parseRemote": "REMOTE",
-  "query": "h3",
-  "link": ".btn-black"
+  "query": ".job-titles p",
+  "link": null
 }

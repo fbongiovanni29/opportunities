@@ -7,6 +7,6 @@
   ],
   "remote": true,
   "locations": ".listing-data",
-  "query": ".u-fontSize18",
-  "link": ".u-fontSize18"
+  "query": ".s-grid-colSm18 .u-fontSize18",
+  "link": ".s-grid-colSm18 .u-fontSize18"
 }

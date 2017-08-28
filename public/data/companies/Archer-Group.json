@@ -23,28 +23,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "ACCOUNT EXECUTIVE",
-      "alternateName": "Business Development",
-      "url": "http://www.archer-group.com/careers.html",
-      "jobLocation": "wilmington",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "MID-LEVEL UX DESIGNER",
-      "alternateName": "Designer, User Experience",
-      "url": "http://www.archer-group.com/careers.html",
-      "jobLocation": "wilmington",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "alternateName": null,
       "datePosted": "2016-08-12",
       "employmentType": "full-time",
@@ -63,7 +41,40 @@
       "remote": false,
       "title": "INTERACTIVE ART DIRECTOR",
       "url": "https://archergroup.bamboohr.com/jobs/view.php?id=40"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "ASSOCIATE BUSINESS ANALYST",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=47"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "MARKETING ANALYST",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=54"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "MEDIA SUPERVISOR",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=55"
     }
   ],
-  "updated": "2016-08-15"
+  "updated": "2017-07-15"
 }

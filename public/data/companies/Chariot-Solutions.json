@@ -53,13 +53,25 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "fort washington",
       "remote": false,
-      "title": "AngularJS Developers",
+      "title": "Angular and React Developers",
       "url": "http://chariotsolutions.com/who-we-are/careers/chariot-careers-angular-js-developers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "fort washington",
+      "remote": false,
+      "title": "UI/UX Designer",
+      "url": "http://chariotsolutions.com/who-we-are/careers/uiux-designer/"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2017-06-03"
 }

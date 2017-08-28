@@ -21,18 +21,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://ticketleap.theresumator.com/apply/IJ9KNH/Software-Engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    }
-  ],
+  "positions": [],
   "updated": "2016-06-01"
 }

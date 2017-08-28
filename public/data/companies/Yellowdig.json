@@ -32,39 +32,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "part-time",
-      "title": "Web Designer",
-      "alternateName": "Design, Visual",
-      "url": "https://angel.co/yellowdig/jobs/87630-web-designer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-06-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Lead Software Engineer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://angel.co/yellowdig/jobs/136746-lead-software-engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-06-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "intern",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Engagement Manager - Intern",
-      "url": "https://angel.co/yellowdig/jobs/129713-engagement-manager-intern"
-    }
-  ],
+  "positions": [],
   "updated": "2016-06-01"
 }

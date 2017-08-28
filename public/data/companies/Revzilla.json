@@ -27,17 +27,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Product Design + Usability Lead",
-      "alternateName": "Designer, User Experience",
-      "url": "http://revzilla.theresumator.com/apply/Tzckmb/job_20160425122222_NBSA9EQQPVAXO7W0",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Content Writer - Motorcycles",
       "alternateName": "Content Strategy",
       "url": "http://revzilla.theresumator.com/apply/udSus9/job_20160317191505_BNJHE0HGKTW4JZOU",
@@ -54,26 +43,6 @@
       "remote": false,
       "title": "Administrative Assistant",
       "url": "http://revzilla.theresumator.com/apply/58O715/job_20160407213106_7TM1MLC8HRPRCKBR"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Boutique Geek",
-      "url": "http://revzilla.theresumator.com/apply/eu3bRW/job_20160210212434_IUKGPRCF5P0UMZBS"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Boutique Geek Pro",
-      "url": "http://revzilla.theresumator.com/apply/RPSqas/job_20151106164548_GBYKG6U0E7SIIYJH"
     },
     {
       "@context": "http://schema.org",
@@ -108,115 +77,179 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Associate Visual Designer",
-      "url": "http://revzilla.theresumator.com/apply/Dvj6Wh/job_20160726172649_QN91XLRXT5YB1E9U"
+      "title": "Creative Director",
+      "url": "https://jobs.lever.co/revzilla/3b552f90-2629-4d29-b923-65b8a4ed302d"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Email Marketing Specialist",
-      "url": "http://revzilla.theresumator.com/apply/1qLpjP/job_20160523205719_VFVMZ8AJAYILPVFO"
+      "title": "Digital Merchandising Manager",
+      "url": "https://jobs.lever.co/revzilla/ed886267-09a5-45c4-85f7-eccdbdace74f"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Marketing Analyst",
-      "url": "http://revzilla.theresumator.com/apply/ybcLrJ/job_20160523210853_PMUPX6U0BAZ408HY"
+      "title": "Director of Analytics",
+      "url": "https://jobs.lever.co/revzilla/e0b52c43-8c1b-4567-9ffc-2954b7e314fd"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Manager, Digital Marketing",
+      "url": "https://jobs.lever.co/revzilla/e3d358ab-621d-478b-95e0-b4a33a443635"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Visual Designer",
+      "url": "https://jobs.lever.co/revzilla/8d778b03-f948-4582-a0c6-c2b3a30493f7"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Web Analyst",
+      "url": "https://jobs.lever.co/revzilla/4b867ed5-e160-4dbd-aea8-fa4c9215bfde"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Lead Camera Operator",
+      "url": "https://jobs.lever.co/revzilla/d47d09a2-d680-4138-8918-b1f332bee5b2"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "V-Twin Buyer",
+      "url": "https://jobs.lever.co/revzilla/cbe1b659-f349-4d38-a24b-6d367bcecc20"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Lead Test Engineer",
+      "url": "https://jobs.lever.co/revzilla/dab7757c-6c06-440a-9acd-f9836f47269b"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Accounts Payable Specialist",
+      "url": "https://jobs.lever.co/revzilla/9b84979b-54d7-41c7-a928-b88ef25b412e"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Fulfillment Center Team Member - Evening Shift",
+      "url": "https://jobs.lever.co/revzilla/eca61ad3-8b6d-4ba4-838d-82718a1f0d28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Copywriter",
+      "url": "https://jobs.lever.co/revzilla/41599666-2ae9-40ad-b597-737986b81d8d"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
       "title": "Search Engine Marketing (SEM) Specialist",
-      "url": "http://revzilla.theresumator.com/apply/xiBLbG/job_20160513161531_URANEBV1LQSQATQK"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Editorial Content Manager — Motorcycles",
-      "url": "http://revzilla.theresumator.com/apply/ejIznz/job_20160222195342_HSZFI9U23WIW36UK"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "RevZilla Senior Creative Video Editor",
-      "url": "http://revzilla.theresumator.com/apply/Py7NRb/job_20160616212318_GS25WPQZCUEUCVES"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Back End Developer",
-      "url": "http://revzilla.theresumator.com/apply/W0KNfe/job_20160810200444_DB1WBM1K4EIASI1V"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Front End Developer",
-      "url": "http://revzilla.theresumator.com/apply/8sWwdu/job_20160810193052_IHYOFHI9L1SZVSPN"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Full Stack Developer",
-      "url": "http://revzilla.theresumator.com/apply/X7Falq/job_20160810193604_BQTJBCQGQEJU5PJQ"
+      "url": "https://jobs.lever.co/revzilla/83fd9bc6-e4c9-4771-aac2-8489c913aa0d"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "eCommerce Manager",
-      "url": "http://revzilla.theresumator.com/apply/vQ3Wgr/job_20160906211130_POBK9MDFPTI5TRBW"
+      "title": "Cloud Operations Engineer",
+      "url": "https://jobs.lever.co/revzilla/30152014-c6f5-4d64-8936-62f30b3e571e"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-15",
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Art Director",
-      "url": "http://revzilla.theresumator.com/apply/xcWP5I/job_20160822151123_E1AXSSMUZRW4YAGT"
+      "title": "Search Engine Marketing(SEM) Coordinator",
+      "url": "https://jobs.lever.co/revzilla/2b24d9d6-44c5-417f-b056-16a36d564de5"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Search Engine Optimization (SEO) Coordinator",
+      "url": "https://jobs.lever.co/revzilla/8127d342-a6c3-4427-a22e-557916df1bf9"
     }
   ],
-  "updated": "2016-08-15"
+  "updated": "2017-07-26"
 }

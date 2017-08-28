@@ -24,31 +24,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Junior Technical Support Specialist",
-      "alternateName": "Helpdesk",
-      "url": "http://www.cloudamize.com/careers/junior-technical-support-specialist/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "DevOps Engineer",
       "alternateName": "Devops",
       "url": "http://www.cloudamize.com/careers/devops-engineer/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Solutions Engineer",
-      "alternateName": "Business Development",
-      "url": "http://www.cloudamize.com/careers/solutions-engineer/",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
@@ -78,13 +56,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Sales Development Rep",
+      "title": "Sales Development Representative",
       "url": "http://www.cloudamize.com/careers/sales-development-rep"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Partner Success Manager",
+      "url": "http://www.cloudamize.com/careers/partner-success-manager"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Support Technician",
+      "url": "http://www.cloudamize.com/careers/support-technician"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Versatile Software Engineer",
+      "url": "http://www.cloudamize.com/careers/Versatile-Software-Engineer"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2017-06-03"
 }

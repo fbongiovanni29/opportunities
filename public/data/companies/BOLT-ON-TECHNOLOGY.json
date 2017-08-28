@@ -18,50 +18,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Customer Support Technician",
-      "alternateName": "Helpdesk",
-      "url": "http://boltontechnology.com/customer-support-technician/",
-      "jobLocation": "southampton",
-      "remote": false,
-      "datePosted": "2016-01-15"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Microsoft Software Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://boltontechnology.com/microsoft-software-developer/",
-      "jobLocation": "southampton",
-      "remote": false,
-      "datePosted": "2016-01-15"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "part-time",
-      "jobLocation": "southampton",
-      "remote": false,
-      "title": "Part-Time Customer Experience / Retention Specialist",
-      "url": "http://boltontechnology.com/part-time-customer-experience-retention-specialist/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "southampton",
-      "remote": false,
-      "title": "Sell More with Jump Start",
-      "url": "http://boltontechnology.com/sell-more-with-jump-start/"
-    }
-  ],
+  "positions": [],
   "updated": "2016-05-01"
 }

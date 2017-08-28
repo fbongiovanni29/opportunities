@@ -24,39 +24,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Clean Power Sales Specialist",
-      "alternateName": "Business Development",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Outside Sales Representative",
-      "alternateName": "Business Development",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Small Business Account Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "datePosted": "2016-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
@@ -67,33 +34,69 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Field Sales Quality Analyst",
-      "url": "https://www.inspireenergy.com/join-our-team#"
+      "title": "Manager, Channel and Market Development",
+      "url": "https://www.helloinspire.com/about-us#"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Member Experience Manager",
-      "url": "https://www.inspireenergy.com/join-our-team#"
+      "title": "Software Engineer",
+      "url": "https://www.helloinspire.com/about-us#"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-31",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Business Development Manager",
-      "url": "https://www.helloinspire.com/join-our-team#"
+      "title": "Member Support Specialist",
+      "url": "https://www.helloinspire.com/about-us#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Retention Specialist",
+      "url": "https://www.helloinspire.com/about-us#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Analyst, Sales Operations",
+      "url": "https://www.helloinspire.com/about-us#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Clean Power Partner Manager",
+      "url": "https://www.helloinspire.com/about-us#"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-26"
 }

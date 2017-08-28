@@ -26,51 +26,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Cloud Operations Engineer",
-      "alternateName": "DevOps",
-      "url": "http://arcweb.applytojob.com/apply/iagHgR/Cloud-Operations-Engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Architect",
-      "alternateName": "Developer, Backend",
-      "url": "http://arcweb.applytojob.com/apply/nnnmLg/Software-Architect",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "updated": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior Software Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "http://arcweb.applytojob.com/apply/rfDTKU/Senior-Software-Engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "updated": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "http://arcweb.applytojob.com/apply/o7zhXx/Software-Engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    }
-  ],
+  "positions": [],
   "updated": "2016-06-17"
 }

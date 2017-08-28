@@ -18,17 +18,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "fort washington",
-      "remote": false,
-      "title": ".NET SOFTWARE DEVELOPER",
-      "url": "https://www.ziprecruiter.com/job/ddb0e371"
-    }
-  ],
+  "positions": [],
   "updated": "2016-05-01"
 }

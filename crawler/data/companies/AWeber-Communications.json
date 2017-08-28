@@ -1,7 +1,7 @@
 {
   "filename": "AWeber-Communications",
-  "url": "http://www.aweber.jobs/",
+  "url": "https://www.aweber.com/careers-engineering.htm",
   "jobLocation": "chalfont",
-  "query": "td a",
-  "link": "td a"
+  "query": "#eng a",
+  "link": "#eng a"
 }

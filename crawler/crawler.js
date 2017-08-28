@@ -37,6 +37,7 @@ function crawl(crawlData, cb) {
       links = document.querySelectorAll(crawlData.link)  // Link query
       locations = document.querySelectorAll(crawlData.locations) // Location query
       remote = document.querySelectorAll(crawlData.remote) // Location query
+      console.log(query)
       /* Set query and link equal to all elements with selector
          itearte through appending text (innerText) from each element
          with job url to obj*/

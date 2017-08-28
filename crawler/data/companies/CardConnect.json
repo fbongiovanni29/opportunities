@@ -1,7 +1,7 @@
 {
   "filename": "CardConnect",
-  "url": "https://www.cardconnect.com/company/careers/Technology",
+  "url": "https://cardconnect.com/company/careers/technology#technology",
   "jobLocation": "philadelphia",
-  "query": "a h4",
+  "query": ".careers__title",
   "link": null
 }

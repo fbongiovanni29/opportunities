@@ -23,64 +23,69 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "DIGITAL MARKETER",
-      "url": "http://famehouse.net/job-listing-digital-marketer/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "SENIOR MANAGER, BRAND PARTNERSHIPS",
-      "url": "http://famehouse.net/job-listing-senior-manager-brand-partnerships/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "EMAIL MARKETING MANAGER",
-      "url": "http://famehouse.net/job-listing-email-marketing-manager-2/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "DIGITAL MARKETING ASSISTANT",
-      "url": "http://famehouse.net/job-listing-digital-marketing-assistant/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "CUSTOMER SERVICE ASSISTANT",
-      "url": "http://famehouse.net/job-listing-customer-service-assistant/"
+      "title": "DIGITAL MARKETER, BRAND PARTNERSHIPS",
+      "url": "http://famehouse.net/job-listing-digital-marketer-brand-partnerships/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "BUSINESS DEVELOPMENT MANAGER",
-      "url": "http://famehouse.net/job-listing-business-development-manager-2/"
+      "title": "CREATIVE PROJECT MANAGER",
+      "url": "http://famehouse.net/creative-project-manager/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "JR. FINANCIAL ANALYST",
+      "url": "http://famehouse.net/job-listing-jr-financial-analyst/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "E-COMMERCE STORE MANAGER",
+      "url": "http://famehouse.net/job-listing-e-commerce-store-manager/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "part time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "PAID MEDIA ASSISTANT (PART TIME)",
+      "url": "http://famehouse.net/job-listing-paid-media-assistant/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "part time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "DIGITAL MARKETING ASSISTANT (PART TIME)",
+      "url": "http://famehouse.net/job-listing-digital-marketing-assistant/"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-26"
 }

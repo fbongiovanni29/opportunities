@@ -23,23 +23,102 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "Malvern",
       "remote": false,
-      "title": "Project Manager",
-      "url": "http://join.scala.com/projectmgr/"
+      "title": "24/7 Tier 2 Technical Support Analyst",
+      "url": "http://join.scala.com/247-tier-2-technical-support-analyst/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "Malvern",
       "remote": false,
-      "title": "Sales Order Assistant",
-      "url": "http://join.scala.com/sales-order-assistant/"
+      "title": "Quality Assurance Engineer",
+      "url": "http://join.scala.com/quality-assurance-engineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Quality Assurance Automation Engineer",
+      "url": "http://join.scala.com/qaengineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Technical Writer",
+      "url": "http://join.scala.com/technical-writer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Sr. Sales Engineer",
+      "url": "http://join.scala.com/senior-sales-engineer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Marketing Associate",
+      "url": "http://join.scala.com/marketing-associate/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Full Stack Developer",
+      "url": "http://join.scala.com/full-stack-developer/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "part-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Operations Assistant (part-time)",
+      "url": "http://join.scala.com/operations-assistant-part-time/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "part-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Accounting Assistant Part-Time",
+      "url": "http://join.scala.com/accounting-assistant-part-time/"
     }
   ],
-  "updated": "2016-04-26"
+  "updated": "2017-07-15"
 }

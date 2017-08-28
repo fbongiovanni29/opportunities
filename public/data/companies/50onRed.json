@@ -20,18 +20,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-13",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Software Engineer",
-      "url": "http://50onred.theresumator.com/apply/job_20160310221700_EOG5NK2XREPLY24A"
-    }
-  ],
+  "positions": [],
   "updated": "2016-06-17"
 }

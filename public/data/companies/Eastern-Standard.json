@@ -22,23 +22,69 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "DRUPAL FRONT END WEB DEVELOPER",
+      "title": "DRUPAL FULL STACK DEVELOPER",
       "url": "http://easternstandard.com/pages/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "DRUPAL FULL STACK DEVELOPER",
+      "title": "SUPPORT DEVELOPER /SERVER SPECIALIST",
+      "url": "http://easternstandard.com/pages/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "FULL STACK WEB DEVELOPER",
+      "url": "http://easternstandard.com/pages/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "FRONT END WEB DEVELOPER",
+      "url": "http://easternstandard.com/pages/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "",
+      "url": "http://easternstandard.com/pages/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "PRODUCER  (PROJECT MANAGER/STRATEGIST)",
       "url": "http://easternstandard.com/pages/careers"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-26"
 }

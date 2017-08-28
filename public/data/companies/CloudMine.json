@@ -17,51 +17,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Director, Business Development - Direct",
-      "url": "https://jobs.lever.co/cloudmineinc/276d4785-d072-4c12-80f6-1743176bb3ce"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Platform Engineer",
-      "url": "https://jobs.lever.co/cloudmineinc/b1224e09-f827-499f-aeb2-009b4c5c5ded"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Platform Engineer",
-      "url": "https://jobs.lever.co/cloudmineinc/b10d6138-c470-4577-914e-b00b0671c285"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-12",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Senior Site Reliability Engineer",
-      "url": "https://jobs.lever.co/cloudmineinc/58355da6-7164-474c-88b8-f4f08ac971da"
-    }
-  ],
-  "updated": "2016-05-01"
+  "positions": [],
+  "updated": "2017-07-26"
 }

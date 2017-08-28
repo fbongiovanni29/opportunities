@@ -1,15 +1,7 @@
 {
   "filename": "CloudMine",
-  "url": "https://cloudmineinc.com/about-us/careers/#accordionhttps://cloudmineinc.com/about-us/careers/#accordion",
-  "sliceTitle": [
-    0,
-    -41
-  ],
+    "url": "https://jobs.lever.co/cloudmineinc?location=Philadelphia%2C%20PA",
   "jobLocation": "philadelphia",
-  "parseLocation": [
-    "Philadelphia"
-  ],
-  "locations": "#panels a",
-  "query": "#panels a",
-  "link": "#panels a"
+  "query": "h5",
+  "link": null
 }

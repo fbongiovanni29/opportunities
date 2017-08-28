@@ -20,17 +20,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "malvern",
-      "remote": true,
-      "title": "LEAD SOFTWARE DEVELOPER",
-      "url": "http://www.zoomiinc.com/jobs/"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-21"
 }

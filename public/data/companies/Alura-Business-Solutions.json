@@ -20,24 +20,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Network Administrator",
-      "alternateName": "IT, Networking",
-      "url": "http://www.alura.com/job/network-administrator.php",
-      "jobLocation": "plymouth",
-      "remote": false,
-      "datePosted": "2015-03-06"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "plymouth",
       "remote": false,
-      "title": "Business Development Manager",
-      "url": "https://www.alura.com/job/business-development-manager.php"
+      "title": "Network Administrator - Lvl 1",
+      "url": "https://www.alura.com/job/network-administrator-lvl-1.php"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2017-06-03"
 }

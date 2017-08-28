@@ -1,15 +1,8 @@
 {
   "filename": "InstaMed",
-  "url": "http://www.instamed.com/about/careers/",
-  "sliceTitle": [
-    0,
-    -19
-  ],
-  "parseLocation": [
-    "Philadelphia"
-  ],
-  "locations": "#value li a",
-  "jobLocation": "philadelphia",
-  "query": "#value li a",
-  "link": "#value li a"
+  "url": "https://careers-instamed.icims.com/jobs/search?hashed=-435738742&mobile=false&width=1062&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+  "jobLocation": "Philadelphia",
+  "query": "a.iCIMS_Anchor",
+  "link": "a.iCIMS_Anchor",
+  "iFrame": "#icims_content_iframe"
 }

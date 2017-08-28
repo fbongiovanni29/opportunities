@@ -19,51 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Digital Marketing Account Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.greenlaneseo.com/jobs/digital-marketing-account-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SEO Associate",
-      "alternateName": "Content Strategy, SEO",
-      "url": "http://www.greenlaneseo.com/jobs/seo-associate/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Internship",
-      "alternateName": "Intern",
-      "url": "http://www.greenlaneseo.com/jobs/internship/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "PPC Specialist",
-      "alternateName": "Content Strategy, SEO",
-      "url": "http://www.greenlaneseo.com/jobs/ppc-specialist/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-30"
 }

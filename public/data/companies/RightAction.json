@@ -19,29 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer, Java",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://rightaction.theresumator.com/apply/mHmQDw/Software-Engineer-Java",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Software Engineer, Java + Ruby",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://rightaction.theresumator.com/apply/dnS8F6/Software-Engineer-Java-Ruby",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-28"
 }

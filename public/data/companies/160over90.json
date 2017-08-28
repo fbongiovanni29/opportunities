@@ -26,57 +26,25 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Interactive Project Manager",
-      "url": "http://160over90.com/careers?job_id=1146"
+      "title": "Lead Photographer/Art Buyer",
+      "url": "http://160over90.com/careers?job_id=c436d12b-b418-4d0b-8197-e58118982f59"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-12",
+      "datePosted": "2017-07-26",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Web Developer",
-      "url": "http://160over90.com/careers?job_id=1138"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-13",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Interactive Designer",
-      "url": "http://160over90.com/careers?job_id=1162"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-13",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "New Business Production Artist",
-      "url": "http://160over90.com/careers?job_id=1159"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-13",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Project Manager",
-      "url": "http://160over90.com/careers?job_id=1147"
+      "title": "Production Artist",
+      "url": "http://160over90.com/careers?job_id=691d202c-093e-4962-a5ea-8875bb9f313e"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2017-07-26"
 }

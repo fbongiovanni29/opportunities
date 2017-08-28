@@ -23,57 +23,57 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Full Stack Engineer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://perpay.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
+      "url": "https://perpay.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Software Architect",
-      "alternateName": "Developer, Backend",
-      "url": "https://perpay.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
+      "url": "https://perpay.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "DevOps Engineer",
-      "alternateName": "DevOps",
-      "url": "https://perpay.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
+      "url": "https://perpay.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Data Scientist",
-      "alternateName": "Data Scientist",
-      "url": "https://perpay.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
+      "url": "https://perpay.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
       "employmentType": "full-time",
-      "title": "Happiness Lead",
-      "alternateName": "Business Development",
-      "url": "https://perpay.com/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-28"
+      "title": "Happiness Lead",
+      "url": "https://perpay.com/careers/"
     }
   ],
   "updated": "2016-04-28"

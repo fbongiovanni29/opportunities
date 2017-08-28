@@ -20,23 +20,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Office Coordinator",
-      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160817011624_Q2JFX6JPQC6ZRXRJ"
+      "title": "Vice President, Strategy",
+      "url": "https://www.a-g.com/careers/position-details?id=job_20170609022623_LWEP9BF93TDSWUWW"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Supervisor, Public Relations",
-      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160815204054_WCLVAOFFE7P6BQ99"
+      "title": "Creative Developer",
+      "url": "https://www.a-g.com/careers/position-details?id=job_20170605210730_5BTYRCLEDKTV5NKA"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Freelance Developers",
+      "url": "https://www.a-g.com/careers/position-details?id=job_20170405211828_ITNXCFV7MI3QTBPB"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director, Talent & Development",
+      "url": "https://www.a-g.com/careers/position-details?id=job_20170727155402_MFZ5O2PIA7S8GTCO"
     }
   ],
-  "updated": "2016-08-15"
+  "updated": "2017-07-15"
 }

@@ -24,28 +24,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Director of Delivery",
-      "alternateName": "Project Manager",
-      "url": "http://www.stuzo.com/careers/director-of-delivery/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Director of Client Services",
-      "alternateName": "Business Development",
-      "url": "http://www.stuzo.com/careers/director-of-client-service/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Director of Business Development",
       "alternateName": "Business Development",
       "url": "http://www.stuzo.com/careers/director-of-business-development/",
@@ -65,5 +43,5 @@
       "datePosted": "2016-04-26"
     }
   ],
-  "updated": "2016-04-26"
+  "updated": "2017-06-03"
 }

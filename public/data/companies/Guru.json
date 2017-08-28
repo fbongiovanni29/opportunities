@@ -23,13 +23,47 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Sales Representative",
+      "title": "First full time enterprise sales role with responsibilities for finding, engaging & closing our largest prospects.",
+      "url": "https://www.getguru.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "A full time sales position with responsibilities for researching, finding & engaging our ideal prospects.",
+      "url": "https://www.getguru.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "First full time account manager role with responsibilities for uncovering opportunities & maximizing our value in our existing customer base.",
+      "url": "https://www.getguru.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "A full time position with responsibilities to manage and maintain all of Guru's accounting and financial reporting needs",
       "url": "https://www.getguru.com/jobs/"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-06-03"
 }

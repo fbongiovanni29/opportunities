@@ -21,17 +21,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Account Manager",
-      "alternateName": "Business Development",
-      "url": "http://chatterblast.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Copywriter",
       "alternateName": "Content Strategy",
       "url": "http://chatterblast.com/careers/",
@@ -57,39 +46,31 @@
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Business Development Manager",
-      "url": "http://chatterblast.com/careers/#"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
       "title": "Account Management",
       "url": "http://chatterblast.com/careers/#"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Research & Reporting Specialist",
+      "title": "Research & Reporting",
       "url": "http://chatterblast.com/careers/#"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-31",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Operations Manager",
+      "title": "Digital Graphics and Video",
       "url": "http://chatterblast.com/careers/#"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2017-07-26"
 }

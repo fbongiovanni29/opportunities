@@ -45,23 +45,14 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "intern",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Digital Analyst Intern",
-      "url": "http://www.maassmedia.com/about-our-careers.php?id=10"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Digital Analyst",
-      "url": "http://www.maassmedia.com/about-our-careers.php?id=11"
+      "title": "Marketing and Sales Intern",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=13"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-06-03"
 }

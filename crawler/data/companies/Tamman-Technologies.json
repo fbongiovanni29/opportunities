@@ -5,7 +5,7 @@
     "Wilmington",
     "Philadelphia"
   ],
-  "locations": "span span span:nth-child(1)",
-  "query": ".fBold",
-  "link": null
+  "locations": ".company_info",
+  "query": ".job_title",
+  "link": ".job_title"
 }

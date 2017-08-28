@@ -20,13 +20,69 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Sales Consultant",
-      "url": "http://www.btbsecurity.com/component/k2/item/36-sales-consultant-phl"
+      "title": "Director of Sales",
+      "url": "http://www.btbsecurity.com/component/k2/item/61-director-of-sales-philly"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of Security Operations",
+      "url": "http://www.btbsecurity.com/component/k2/item/62-director-of-secops-philly"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Information Security Subject Matter Expert",
+      "url": "http://www.btbsecurity.com/component/k2/item/59-sme-philly"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Regional Sales Executive",
+      "url": "http://www.btbsecurity.com/component/k2/item/58-sale-exec-philly"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Security Consultant",
+      "url": "http://www.btbsecurity.com/component/k2/item/57-security-consultant"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "RADAR Analyst",
+      "url": "http://www.btbsecurity.com/component/k2/item/26-radar-analyst"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2017-06-03"
 }

@@ -31,37 +31,5 @@
       "telephone": "1-888-544-9992"
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": true,
-      "title": "Senior Software Developer - Elixir, React, Rails",
-      "url": "https://curadora.workable.com/jobs/308843"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": true,
-      "title": "Web Developer - React, Rails, APIs",
-      "url": "https://curadora.workable.com/jobs/248814"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-14",
-      "employmentType": "full-time",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "title": "Sales Associate - Event Producer Partnerships",
-      "url": "https://curadora.workable.com/jobs/251784"
-    }
-  ]
+  "positions": []
 }

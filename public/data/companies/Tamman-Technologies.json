@@ -19,28 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front-End & Full Stack Developers",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17/front-end-full-stack-developers-9a3497f4?source=ziprecruiter-jobs-site",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Wilmington",
-      "remote": false,
-      "title": "Digital Art Director",
-      "url": "https://www.ziprecruiter.com/jobs/tamman-technologies-inc-88a62c17"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-26"
 }

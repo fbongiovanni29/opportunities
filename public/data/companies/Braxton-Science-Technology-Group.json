@@ -16,47 +16,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Moorestown, NJ",
-      "remote": false,
-      "title": "Cyber Software Engineer II",
-      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2lwdrk"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Moorestown, NJ",
-      "remote": false,
-      "title": "Cyber Software Engineer III",
-      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2o1y8z"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Warminster, PA",
-      "remote": false,
-      "title": "Mid-Level UI/UX Developer",
-      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz22oci9"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "datePosted": "2016-07-26",
-      "employmentType": "full-time",
-      "jobLocation": "Marlton, NJ",
-      "remote": false,
-      "title": "Systems Engineer",
-      "url": "http://jobs.bstgllc.com/x/detail/a2vmfz2l9u4s"
-    }
-  ],
-  "updated": "2016-05-01"
+  "positions": [],
+  "updated": "2017-06-03"
 }

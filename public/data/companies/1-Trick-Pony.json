@@ -21,18 +21,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-01",
-      "employmentType": "full-time",
-      "jobLocation": "hammonton",
-      "remote": false,
-      "title": "BILINGUAL SOCIAL MEDIA STRATEGIST",
-      "url": "http://1trickpony.com/jobs/"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "alternateName": null,
-      "datePosted": "2016-08-01",
+      "datePosted": "2017-07-27",
       "employmentType": "full-time",
       "jobLocation": "hammonton",
       "remote": false,
@@ -43,13 +32,35 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2016-08-01",
+      "datePosted": "2017-07-27",
       "employmentType": "full-time",
       "jobLocation": "hammonton",
       "remote": false,
       "title": "SR. COPYWRITER / CONCEPT LEAD",
       "url": "http://1trickpony.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-27",
+      "employmentType": "full-time",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "title": "COPYWRITER",
+      "url": "http://1trickpony.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-27",
+      "employmentType": "full-time",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "title": "ACCOUNT COORDINATOR",
+      "url": "http://1trickpony.com/jobs/"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2017-06-03"
 }

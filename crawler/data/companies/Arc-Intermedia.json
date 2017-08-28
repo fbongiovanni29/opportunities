@@ -1,8 +1,8 @@
 {
   "filename": "Arc-Intermedia",
-  "url": "http://www.arcintermedia.com/company/careers/",
+  "url": "http://www.arcintermedia.com/careers/",
   "jobLocation": "king of prussia",
   "remote": true,
-  "query": ".push_one a",
-  "link": ".push_one a"
+  "query": "#st a",
+  "link": "#st a"
 }

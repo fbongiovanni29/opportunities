@@ -23,25 +23,25 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
-      "title": "PHP Developer – Magento",
-      "alternateName": "Developer, Backend",
-      "url": "https://www.inverseparadox.com/jobs/php-developer-magento/",
       "jobLocation": "penndel",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "PHP Developer – Magento®",
+      "url": "https://www.inverseparadox.com/jobs/php-developer-magento/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
-      "title": "WordPress Developer",
-      "alternateName": "Developer, Backend",
-      "url": "https://www.inverseparadox.com/jobs/wordpress-developer/",
       "jobLocation": "penndel",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "WordPress Front-End Developer",
+      "url": "https://www.inverseparadox.com/jobs/wordpress-front-end-developer/"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-06-03"
 }

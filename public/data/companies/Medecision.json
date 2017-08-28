@@ -23,13 +23,157 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "datePosted": "2016-07-26",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Training & Instructional Design Specialist",
+      "url": "https://careers-medecision.icims.com/jobs/1459/training-%26-instructional-design-specialist/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Executive Assistant",
+      "url": "https://careers-medecision.icims.com/jobs/1448/executive-assistant/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "VP Enterprise Architect",
+      "url": "https://careers-medecision.icims.com/jobs/1436/vp-enterprise-architect/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
       "employmentType": "full-time",
       "jobLocation": "philadephia",
       "remote": true,
-      "title": "VP, Security",
-      "url": "https://careers-medecision.icims.com/jobs/1250/vp%2c-security/job?in_iframe=1"
+      "title": "Senior Product Business Analyst",
+      "url": "https://careers-medecision.icims.com/jobs/1422/senior-product-business-analyst/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": true,
+      "title": "Director, Government Plan Care Management",
+      "url": "https://careers-medecision.icims.com/jobs/1416/director%2c-government-plan-care-management/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Program Director, Pharmacy and Ancillary Systems Products",
+      "url": "https://careers-medecision.icims.com/jobs/1410/program-director%2c-pharmacy-and-ancillary-systems-products/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": true,
+      "title": "Vice President, Care Management Workflow Applications",
+      "url": "https://careers-medecision.icims.com/jobs/1409/vice-president%2c-care-management-workflow-applications/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-06-03",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": true,
+      "title": "Vice President, Risk & Revenue Management Applications",
+      "url": "https://careers-medecision.icims.com/jobs/1408/vice-president%2c-risk-%26-revenue-management-applications/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Linux Systems Engineer",
+      "url": "https://careers-medecision.icims.com/jobs/1476/linux-systems-engineer/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Senior Linux Systems Engineer",
+      "url": "https://careers-medecision.icims.com/jobs/1475/senior-linux-systems-engineer/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Senior Network Engineer",
+      "url": "https://careers-medecision.icims.com/jobs/1474/senior-network-engineer/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": true,
+      "title": "Clinical Informatics and Analytics Product Manager",
+      "url": "https://careers-medecision.icims.com/jobs/1470/clinical-informatics-and-analytics-product-manager/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": true,
+      "title": "Senior Product Business Analyst, Data Visualization",
+      "url": "https://careers-medecision.icims.com/jobs/1467/senior-product-business-analyst%2c-data-visualization/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2017-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadephia",
+      "remote": false,
+      "title": "Director, Data Architecture",
+      "url": "https://careers-medecision.icims.com/jobs/1326/director%2c-data-architecture/job?in_iframe=1"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2017-07-26"
 }
