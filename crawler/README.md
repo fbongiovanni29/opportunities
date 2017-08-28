@@ -6,10 +6,10 @@ To crawl website fill out JSON accordingly:
     "filename": "company", // Name of company  w/o extension
     "url": "http://www.example.com/careers", // url to visit
     "parseLocation": ["Philadelphia", "Malvern"], // optional - array string(s) to parse "locations" that will be added
-    "locations": ".location", // optional css selector for for parsing locations
-    "parseRemote": "Remote", // optional - what "remote" will be parsed for
+    "locations": ".location", // optional css selector for parsing locations
     "remote": ".remote a", // optional - css selector for querying remote options
-    "query": "#available-jobs", // css selector to query for title
+    "parseRemote": "Remote", // optional - what "remote" will be parsed for
+    "title": "#available-jobs", // css selector for Job title
     "link": "#available-jobs a" // css selector to query for link to each title - null will make "url" default to each
  }
 ```

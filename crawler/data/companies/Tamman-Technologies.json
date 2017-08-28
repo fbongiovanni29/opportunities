@@ -6,6 +6,6 @@
     "Philadelphia"
   ],
   "locations": ".company_info",
-  "query": ".job_title",
+  "title": ".job_title",
   "link": ".job_title"
 }

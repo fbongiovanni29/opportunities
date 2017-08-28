@@ -6,6 +6,6 @@
     "Pennsylvania"
   ],
   "locations": ".jv-job-list-location",
-  "query": ".jv-job-list-name a",
+  "title": ".jv-job-list-name a",
   "link": ".jv-job-list-name a"
 }

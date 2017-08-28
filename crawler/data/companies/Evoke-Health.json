@@ -2,6 +2,6 @@
   "filename": "Evoke-Health",
   "url": "http://www.evokehealth.com/Careers",
   "jobLocation": "philadelphia",
-  "query": "#position_phl li",
+  "title": "#position_phl li",
   "link": "#position_phl li a"
 }

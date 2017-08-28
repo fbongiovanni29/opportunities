@@ -6,6 +6,6 @@
     "Pennsylvania"
   ],
   "locations": ".job-listing",
-  "query": ".job-title a",
+  "title": ".job-title a",
   "link": ".job-title a"
 }

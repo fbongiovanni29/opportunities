@@ -7,6 +7,6 @@
     "Philadelphia"
   ],
   "locations": ".job-location a",
-  "query": ".job-title",
+  "title": ".job-title",
   "link": ".job-application-link a"
 }

@@ -2,6 +2,6 @@
   "filename": "KickUp",
     "url": "http://kickup.co/careers/",
   "jobLocation": "philadelphia",
-  "query": ".span12 .contour-btn",
+  "title": ".span12 .contour-btn",
   "link": ".span12 .contour-btn"
 }

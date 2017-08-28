@@ -6,6 +6,6 @@
   ],
   "locations": ".list-group-item",
   "jobLocation": "philadelphia",
-  "query": ".list-group-item-heading a",
+  "title": ".list-group-item-heading a",
   "link": ".list-group-item-heading a"
 }

@@ -6,6 +6,6 @@
   ],
   "locations": ".resumator-job-info",
   "jobLocation": "philadelphia",
-  "query": ".resumator-job-title",
+  "title": ".resumator-job-title",
   "link": ".resumator-job-link"
 }

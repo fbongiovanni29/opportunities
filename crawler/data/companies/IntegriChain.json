@@ -2,7 +2,7 @@
   "filename": "IntegriChain",
   "url": "https://integrichain-orspartners.icims.com/jobs/search?ss=1",
   "jobLocation": "philadephia",
-  "query": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
+  "title": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
   "link": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_2.iCIMS_TableCell a",
   "iFrame": "#icims_content_iframe"
 }

@@ -2,6 +2,6 @@
   "filename": "eCity-Interactive",
   "url": "http://www.ecityinteractive.com/us/careers/",
   "jobLocation": "philadelphia",
-  "query": ".textSection+ .textSection h2",
+  "title": ".textSection+ .textSection h2",
   "link": null
 }

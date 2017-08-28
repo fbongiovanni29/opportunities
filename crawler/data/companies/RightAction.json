@@ -2,6 +2,6 @@
   "filename": "RightAction",
   "url": "http://rightaction.theresumator.com/",
   "jobLocation": "philadelphia",
-  "query": ".resumator-job-title-link",
+  "title": ".resumator-job-title-link",
   "link": ".resumator-job-title-link"
 }

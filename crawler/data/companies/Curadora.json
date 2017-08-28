@@ -7,6 +7,6 @@
   ],
   "parseRemote": "TELECOMMUTE",
   "remote": ".meta",
-  "query": "#jobs a",
+  "title": "#jobs a",
   "link": "#jobs a"
 }

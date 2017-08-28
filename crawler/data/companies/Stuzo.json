@@ -4,6 +4,6 @@
   "jobLocation": "philadelphia",
   "parseLocation": "PHILADELPHIA",
   "locations": ".career-city",
-  "query": ".career-card a",
+  "title": ".career-card a",
   "link": ".career-card a"
 }

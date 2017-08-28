@@ -6,6 +6,6 @@
   ],
   "locations": ".sort-by-location",
   "jobLocation": "philadelphia",
-  "query": ".postings-group:nth-child(3) h5",
+  "title": ".postings-group:nth-child(3) h5",
   "link": null
 }

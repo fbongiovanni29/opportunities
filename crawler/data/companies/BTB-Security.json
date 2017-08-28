@@ -10,6 +10,6 @@
     "Philadelphia"
   ],
   "locations": ".pi-link-dark",
-  "query": ".pi-link-dark",
+  "title": ".pi-link-dark",
   "link": ".pi-link-dark"
 }

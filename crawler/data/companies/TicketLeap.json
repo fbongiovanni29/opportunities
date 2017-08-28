@@ -2,6 +2,6 @@
   "filename": "TicketLeap",
   "url": "http://ticketleap.theresumator.com/",
   "jobLocation": "philadelphia",
-  "query": ".list-group-item-heading a",
+  "title": ".list-group-item-heading a",
   "link": ".list-group-item-heading a"
 }

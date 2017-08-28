@@ -2,6 +2,6 @@
   "filename": "Allen-Gerritsen",
   "url": "http://www.a-g.com/careers/",
   "jobLocation": "philadelphia",
-  "query": ".columns+ .columns h4",
+  "title": ".columns+ .columns h4",
   "link": ".columns+ .columns .dark"
 }

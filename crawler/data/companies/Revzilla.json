@@ -6,6 +6,6 @@
   ],
   "locations": "#jobs_feed li",
   "jobLocation": "philadelphia",
-  "query": "#jobs_feed a",
+  "title": "#jobs_feed a",
   "link": "#jobs_feed a"
 }

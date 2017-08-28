@@ -2,6 +2,6 @@
   "filename": "Tonic-Design-Co",
   "url": "http://www.tonicdesign.com/jobs/",
   "jobLocation": "philadelphia",
-  "query": ".job-title",
+  "title": ".job-title",
   "link": ".animated-underline"
 }

@@ -2,6 +2,6 @@
   "filename": "Plum-Analytics",
   "url": "http://plumanalytics.com/about/careers/",
   "jobLocation": "dresher",
-  "query": ".jobtitle a",
+  "title": ".jobtitle a",
   "link": ".jobtitle a"
 }

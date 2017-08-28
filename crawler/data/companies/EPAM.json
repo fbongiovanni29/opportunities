@@ -1,11 +1,11 @@
 {
   "filename": "EPAM",
-  "url": "https://www.epam.com/careers/job-listings?sort=best_match&query=PA&department%5B%5D=all&city=all&country=USA",
+  "url": "https://www.epam.com/careers/job-listings?sort=best_match&title=PA&department%5B%5D=all&city=all&country=USA",
   "parseLocation": [
     "Philadelphia",
     "Newtown"
   ],
   "locations": ".location",
-  "query": ".position-name",
+  "title": ".position-name",
   "link": ".button-apply a"
 }

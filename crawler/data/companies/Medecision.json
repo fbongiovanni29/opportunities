@@ -8,7 +8,7 @@
   "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
   "parseRemote": "Remote",
   "remote": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
-  "query": "a.iCIMS_Anchor",
+  "title": "a.iCIMS_Anchor",
   "link": "a.iCIMS_Anchor",
   "iFrame": "#icims_content_iframe"
 }

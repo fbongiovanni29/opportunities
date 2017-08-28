@@ -2,6 +2,6 @@
   "filename": "Garfield-Group",
   "url": "http://garfieldgroup.com/careers",
   "jobLocation": "newtown",
-  "query": ".posting-type-development .Filled",
+  "title": ".posting-type-development .Filled",
   "link": ".posting-type-development .Filled"
 }

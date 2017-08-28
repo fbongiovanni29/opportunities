@@ -6,6 +6,6 @@
     "Multiple"
   ],
   "locations": ".ptor-jobs-list__item-location",
-  "query": ".ptor-jobs-list__item-job-title",
+  "title": ".ptor-jobs-list__item-job-title",
   "link": null
 }

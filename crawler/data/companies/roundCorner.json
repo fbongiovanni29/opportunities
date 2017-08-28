@@ -6,6 +6,6 @@
     "PA"
   ],
   "locations": ".accordion-toggle",
-  "query": ".accordion-toggle",
+  "title": ".accordion-toggle",
   "link": ".accordion-toggle"
 }

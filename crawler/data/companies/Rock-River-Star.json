@@ -2,6 +2,6 @@
   "filename": "Rock-River-Star",
   "url": "http://rockriverstar.com/careers",
   "jobLocation": "downingtown",
-  "query": "#block-menu_block-7 a",
+  "title": "#block-menu_block-7 a",
   "link": "#block-menu_block-7 a"
 }

@@ -6,6 +6,6 @@
     "Philadelphia"
   ],
   "locations": ".text-right .mb5",
-  "query": ".text-left .mb5",
+  "title": ".text-left .mb5",
   "link": null
 }

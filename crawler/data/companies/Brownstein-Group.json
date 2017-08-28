@@ -2,6 +2,6 @@
   "filename": "Brownstein-Group",
   "url": "http://www.brownsteingroup.com/careers/",
   "jobLocation": "philadelphia",
-  "query": ".job-links a",
+  "title": ".job-links a",
   "link": ".job-links a"
 }

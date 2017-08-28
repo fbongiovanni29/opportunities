@@ -4,7 +4,7 @@
   "parseLocation": [
     "Philadelphia"
   ],
-  "query": ".rbox-opening-li-title",
+  "title": ".rbox-opening-li-title",
   "locations": ".rbox-job-shortdesc",
   "jobLocation": "philadelphia",
   "link": ".rbox-opening-li-title"
