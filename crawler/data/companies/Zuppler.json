@@ -2,6 +2,6 @@
   "filename": "Zuppler",
   "url": "http://www.zupplerworks.com/careers.html",
   "jobLocation": "conshohocken",
-  "title": ".palm-one-whole .list__link",
+  "query": ".palm-one-whole .list__link",
   "link": ".palm-one-whole .list__link"
 }

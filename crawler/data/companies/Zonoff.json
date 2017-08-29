@@ -6,6 +6,6 @@
     "Malvern"
   ],
   "locations": ".job-subtitle",
-  "title": ".job-title",
+  "query": ".job-title",
   "link": ".job-title"
 }

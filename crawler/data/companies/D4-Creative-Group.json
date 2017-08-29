@@ -2,6 +2,6 @@
   "filename": "D4-Creative-Group",
   "url": "http://www.d4creative.com/careers",
   "jobLocation": "philadelphia",
-  "title": "#current-openings li",
+  "query": "#current-openings li",
   "link": null
 }

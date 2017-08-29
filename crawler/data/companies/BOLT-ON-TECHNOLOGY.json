@@ -2,6 +2,6 @@
   "filename": "BOLT-ON-TECHNOLOGY",
   "url": "http://boltontechnology.com/careers/",
   "jobLocation": "southampton",
-  "title": ".dslc-blog-post-title a",
+  "query": ".dslc-blog-post-title a",
   "link": ".dslc-blog-post-title a"
 }

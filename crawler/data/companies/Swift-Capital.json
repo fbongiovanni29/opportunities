@@ -6,6 +6,6 @@
     "Wilmington"
   ],
   "locations": ".rbox-job-shortdesc",
-  "title": ".rbox-opening-li-title",
+  "query": ".rbox-opening-li-title",
   "link": ".rbox-opening-li-title"
 }

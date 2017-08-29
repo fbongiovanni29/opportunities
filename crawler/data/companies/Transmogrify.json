@@ -2,6 +2,6 @@
   "filename": "Transmogrify",
   "url": "http://xmog.com/careers",
   "jobLocation": "Philadelphia",
-  "title": "h2 , .job-posting .large-12 a",
+  "query": "h2 , .job-posting .large-12 a",
   "link": "h2 , .job-posting .large-12 a"
 }

@@ -8,6 +8,6 @@
   "locations": ".location+ .location",
   "parseRemote": "Remote",
   "remote": ".job a",
-  "title": ".job a",
+  "query": ".job a",
   "link": ".job a"
 }

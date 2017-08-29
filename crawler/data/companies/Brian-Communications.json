@@ -5,6 +5,6 @@
     "Conshohocken"
   ],
   "locations": "td.srJobListLocation",
-  "title": "td.srJobListJobTitle",
+  "query": "td.srJobListJobTitle",
   "link": null
 }

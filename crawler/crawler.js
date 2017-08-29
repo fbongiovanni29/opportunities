@@ -33,10 +33,11 @@ function crawl(crawlData, cb) {
       employmentType = ["INTERN", "PART-TIME", "PART TIME", "CONTRACT"]
       newPositions = []
       // returns text in queried CSS selector
-      query = document.querySelectorAll(crawlData.title) // Job title query
+      query = document.querySelectorAll(crawlData.query) // Job title query
       links = document.querySelectorAll(crawlData.link)  // Link query
       locations = document.querySelectorAll(crawlData.locations) // Location query
       remote = document.querySelectorAll(crawlData.remote) // Location query
+      console.log(query)
       /* Set query and link equal to all elements with selector
          itearte through appending text (innerText) from each element
          with job url to obj*/

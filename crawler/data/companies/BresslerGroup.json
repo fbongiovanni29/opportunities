@@ -2,6 +2,6 @@
   "filename": "BresslerGroup",
   "url": "http://www.bresslergroup.com/about/#jobs",
   "jobLocation": "philadelphia",
-  "title": ".job-title",
+  "query": ".job-title",
   "link": null
 }

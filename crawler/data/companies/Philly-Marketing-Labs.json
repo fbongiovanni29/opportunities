@@ -2,6 +2,6 @@
   "filename": "Philly-Marketing-Labs",
   "url": "http://www.phillymarketinglabs.com/about/join-our-team/",
   "jobLocation": "wayne",
-  "title": "p:nth-child(4) a",
+  "query": "p:nth-child(4) a",
   "link": "p:nth-child(4) a"
 }

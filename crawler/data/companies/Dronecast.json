@@ -2,6 +2,6 @@
   "filename": "Dronecast",
   "url": "http://www.dronecast.com/careers/",
   "jobLocation": "philadelphia",
-  "title": ".mk-accordion-tab span",
+  "query": ".mk-accordion-tab span",
   "link": null
 }

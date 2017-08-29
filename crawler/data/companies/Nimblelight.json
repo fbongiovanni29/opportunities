@@ -6,6 +6,6 @@
   ],
   "locations": ".positions-location",
   "jobLocation": "philadelphia",
-  "title": ".positions-title",
+  "query": ".positions-title",
   "link": ".positions-application"
 }

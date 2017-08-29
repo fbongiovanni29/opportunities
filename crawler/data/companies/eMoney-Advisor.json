@@ -8,5 +8,5 @@
   ],
   "locations": ".jv-job-list:nth-child(16) .jv-job-list-location",
   "link": ".jv-job-list:nth-child(16) a",
-  "title": ".jv-job-list:nth-child(16) a"
+  "query": ".jv-job-list:nth-child(16) a"
 }

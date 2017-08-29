@@ -2,6 +2,6 @@
   "filename": "Red-Tettemer-OConnell-Partners",
   "url": "http://www.rtop.com/jobs",
   "jobLocation": "Philadelphia",
-  "title": ".row:nth-child(3) h4",
+  "query": ".row:nth-child(3) h4",
   "link": ".row:nth-child(3) h5"
 }

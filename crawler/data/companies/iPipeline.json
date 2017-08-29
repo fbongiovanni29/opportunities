@@ -6,7 +6,7 @@
     "Philadelphia"
   ],
   "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3",
-  "title": "td a.iCIMS_Anchor",
+  "query": "td a.iCIMS_Anchor",
   "link": "td a.iCIMS_Anchor",
   "iFrame": "#icims_content_iframe"
 }

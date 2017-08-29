@@ -6,6 +6,6 @@
     "Philadelphia"
   ],
   "locations": ".listing-data",
-  "title": ".s-grid-colSm18 .u-fontSize18",
+  "query": ".s-grid-colSm18 .u-fontSize18",
   "link": ".s-grid-colSm18 .u-fontSize18"
 }

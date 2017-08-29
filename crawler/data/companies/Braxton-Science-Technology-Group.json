@@ -6,6 +6,6 @@
     "PA"
   ],
   "locations": "td:nth-child(4)",
-  "title": "td a",
+  "query": "td a",
   "link": "td a"
 }

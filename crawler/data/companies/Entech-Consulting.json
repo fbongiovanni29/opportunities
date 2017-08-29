@@ -6,6 +6,6 @@
   ],
   "locations": ".job-titles p",
   "jobLocation": "malvern",
-  "title": ".job-titles p",
+  "query": ".job-titles p",
   "link": null
 }

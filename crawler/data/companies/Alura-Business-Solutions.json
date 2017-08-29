@@ -2,6 +2,6 @@
   "filename": "Alura-Business-Solutions",
   "url": "https://www.alura.com/about.php",
   "jobLocation": "plymouth",
-  "title": "#careers .thin-header",
+  "query": "#careers .thin-header",
   "link": "#careers .btn"
 }

@@ -6,6 +6,6 @@
   ],
   "locations": ".job-titles+ td",
   "jobLocation": "philadelphia",
-  "title": ".job-titles a",
+  "query": ".job-titles a",
   "link": ".job-titles a"
 }

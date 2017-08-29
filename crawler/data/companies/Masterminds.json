@@ -2,6 +2,6 @@
   "filename": "Masterminds",
   "url": "http://mastermindsagency.com/#gigs",
   "jobLocation": "philadelphia",
-  "title": "#positionJobs ul li a",
+  "query": "#positionJobs ul li a",
   "link": null
 }

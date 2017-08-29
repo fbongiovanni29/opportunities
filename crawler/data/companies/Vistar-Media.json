@@ -4,6 +4,6 @@
   "parseLocation": "Philadelphia",
   "locations": ".trigger p",
   "jobLocation": "philadelphia",
-  "title": "h2",
+  "query": "h2",
   "link": null
 }

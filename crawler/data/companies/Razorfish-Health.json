@@ -10,6 +10,6 @@
   ],
   "locations": "th+ td span",
   "jobLocation": "philadelphia",
-  "title": ".absolute a",
+  "query": ".absolute a",
   "link": ".absolute a"
 }

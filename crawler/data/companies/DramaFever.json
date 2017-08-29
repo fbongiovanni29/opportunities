@@ -6,6 +6,6 @@
     "Philadelphia"
   ],
   "locations": ".ptor-jobs-list__item-location",
-  "title": ".ptor-jobs-list__item-job-title",
+  "query": ".ptor-jobs-list__item-job-title",
   "link": null
 }

@@ -27,24 +27,24 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2017-07-26",
+      "datePosted": "2017-07-28",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Lead Photographer/Art Buyer",
-      "url": "http://160over90.com/careers?job_id=c436d12b-b418-4d0b-8197-e58118982f59"
+      "title": "Program Manager",
+      "url": "http://160over90.com/careers?job_id=d167f19b-702a-4385-87d3-83fac43c5201"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "alternateName": null,
-      "datePosted": "2017-07-26",
+      "datePosted": "2017-07-28",
       "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "title": "Production Artist",
-      "url": "http://160over90.com/careers?job_id=691d202c-093e-4962-a5ea-8875bb9f313e"
+      "title": "Project Manager",
+      "url": "http://160over90.com/careers?job_id=5f4bf528-df78-4312-9098-a657d5e17f09"
     }
   ],
-  "updated": "2017-07-26"
+  "updated": "2017-07-28"
 }

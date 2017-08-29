@@ -4,6 +4,6 @@
   "jobLocation": "malvern",
   "parseRemote": "Remote",
   "remote": ".location",
-  "title": "h3",
+  "query": "h3",
   "link": null
 }

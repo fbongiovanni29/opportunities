@@ -6,7 +6,7 @@
     "Blue Bell"
   ],
   "locations": "td.iCIMS_InfoData.iCIMS_JobsTableField.iCIMS_JobsTableField_3.iCIMS_TableCell",
-  "title": "a.iCIMS_Anchor",
+  "query": "a.iCIMS_Anchor",
   "link": "a.iCIMS_Anchor",
   "iFrame": "#icims_content_iframe"
 }

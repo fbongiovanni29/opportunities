@@ -2,6 +2,6 @@
   "filename": "Archer-Group",
   "url": "http://www.archer-group.com/careers.html",
   "jobLocation": "wilmington",
-  "title": "h4>a",
+  "query": "h4>a",
   "link": "div>small>div:nth-child(3)>a"
 }
